@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="pluto-tv-explore-gb">
+    <display-name lang="es">Pluto TV Explore</display-name>
+  </channel>
+  <channel id="voyager-documenteries-gb">
+    <display-name lang="es">Voyager Documentaries</display-name>
+  </channel>
+  <channel id="pluto-tv-movies-gb-1">
+    <display-name lang="es">Pluto TV Movies</display-name>
+  </channel>
+  <channel id="mst3k-gb">
+    <display-name lang="es">MST3K</display-name>
+  </channel>
+  <channel id="rifftrax-gb">
+    <display-name lang="es">RiffTrax</display-name>
+  </channel>
+  <channel id="pluto-tv-kids-gb">
+    <display-name lang="es">Pluto TV Kids</display-name>
+  </channel>
+  <channel id="pluto-tv-fight-gb">
+    <display-name lang="es">Pluto TV Fight</display-name>
+  </channel>
+  <channel id="glory-kickboxing-gb">
+    <display-name lang="es">Glory Kickboxing</display-name>
+  </channel>
+  <channel id="world-poker-tour-gb">
+    <display-name lang="es">World Poker Tour</display-name>
+  </channel>
+  <channel id="the-pet-collective-gb">
+    <display-name lang="es">The Pet Collective</display-name>
+  </channel>
+  <channel id="fail-army-gb">
+    <display-name lang="es">FailArmy</display-name>
+  </channel>
+  <channel id="minecraft-tv-gb">
+    <display-name lang="es">MinecrafTV</display-name>
+  </channel>
+  <channel id="ign-gb">
+    <display-name lang="es">IGN</display-name>
+  </channel>
+  <channel id="unsolved-mysteries-gb">
+    <display-name lang="es">Unsolved Mysteries</display-name>
+  </channel>
+  <channel id="pluto-tv-reality-gb">
+    <display-name lang="es">Pluto TV Reality</display-name>
+  </channel>
+  <channel id="strongman-gb">
+    <display-name lang="es">Strongman</display-name>
+  </channel>
+  <channel id="action-sports-gb">
+    <display-name lang="es">Action Sports</display-name>
+  </channel>
+  <channel id="mythbusters-gb">
+    <display-name lang="es">Mythbusters</display-name>
+  </channel>
+  <channel id="fear-factor-gb">
+    <display-name lang="es">Fear Factor</display-name>
+  </channel>
+  <channel id="ice-pilots-gb">
+    <display-name lang="es">Ice Pilots</display-name>
+  </channel>
+  <channel id="yu-gi-oh-5ds-gb">
+    <display-name lang="es">Yu-Gi-Oh! 5D's</display-name>
+  </channel>
+  <channel id="pluto-tv-comedy-gb">
+    <display-name lang="es">Pluto TV Comedy</display-name>
+  </channel>
+  <channel id="the-asylum-channel-gb">
+    <display-name lang="es">The Asylum Channel</display-name>
+  </channel>
+  <channel id="ghost-dimension-gb">
+    <display-name lang="es">Ghost Dimension</display-name>
+  </channel>
+  <channel id="pluto-tv-indies-gb">
+    <display-name lang="es">Pluto TV Indies</display-name>
+  </channel>
+  <channel id="pluto-tv-retro-toons-gb">
+    <display-name lang="es">Pluto TV Retro Toons</display-name>
+  </channel>
+  <channel id="pluto-tv-health-gb">
+    <display-name lang="es">Pluto TV Health</display-name>
+  </channel>
+  <channel id="pluto-tv-kids-learn-gb">
+    <display-name lang="es">Pluto TV Kids Learn</display-name>
+  </channel>
+  <channel id="homes-under-the-hammer-gb">
+    <display-name lang="es">Homes Under Hammer</display-name>
+  </channel>
+  <channel id="pluto-tv-cult-films-gb">
+    <display-name lang="es">Pluto TV Cult Films</display-name>
+  </channel>
+  <channel id="gusto-tv-gb">
+    <display-name lang="es">Gusto TV</display-name>
+  </channel>
+  <channel id="hunter-gb">
+    <display-name lang="es">Hunter</display-name>
+  </channel>
+  <channel id="worst-cooks-in-america-gb">
+    <display-name lang="es">Worst Cooks in America</display-name>
+  </channel>
+  <channel id="fifth-gear-gb">
+    <display-name lang="es">Fifth Gear</display-name>
+  </channel>
+  <channel id="deadly-women-gb">
+    <display-name lang="es">Deadly Women</display-name>
+  </channel>
+  <channel id="cheddar-gb">
+    <display-name lang="es">Cheddar</display-name>
+  </channel>
+  <channel id="esr-24-7-gb">
+    <display-name lang="es">ESR 24/7</display-name>
+  </channel>
+  <channel id="combat-go-gb">
+    <display-name lang="es">CombatGO</display-name>
+  </channel>
+  <channel id="the-fbi-files-gb">
+    <display-name lang="es">FBI Files</display-name>
+  </channel>
+  <channel id="pluto-tv-surf-gb">
+    <display-name lang="es">Pluto TV Surf</display-name>
+  </channel>
+  <channel id="pluto-tv-classic-gb">
+    <display-name lang="es">Pluto TV Classic TV</display-name>
+  </channel>
+  <channel id="pluto-tv-stand-up-gb">
+    <display-name lang="es">Pluto TV Stand Up</display-name>
+  </channel>
+  <channel id="my5-crime-gb-1">
+    <display-name lang="es">My5 Crime</display-name>
+  </channel>
+  <channel id="my5-gps-behind-closed-doors-gb">
+    <display-name lang="es">My5 GP's</display-name>
+  </channel>
+  <channel id="pluto-tv-weddings-gb">
+    <display-name lang="es">Pluto TV Weddings</display-name>
+  </channel>
+  <channel id="pluto-tv-conspiracy-gb">
+    <display-name lang="es">Pluto TV Conspiracy</display-name>
+  </channel>
+  <channel id="21-jump-street-gb">
+    <display-name lang="es">21 Jump Street</display-name>
+  </channel>
+  <channel id="pluto-tv-history-gb">
+    <display-name lang="es">Pluto TV History</display-name>
+  </channel>
+  <channel id="pluto-tv-biography-gb-1">
+    <display-name lang="es">Pluto TV Biography</display-name>
+  </channel>
+  <channel id="pluto-tv-paranormal-gb">
+    <display-name lang="es">Pluto TV Paranormal</display-name>
+  </channel>
+  <channel id="pluto-tv-fishing-gb">
+    <display-name lang="es">Pluto TV Fishing</display-name>
+  </channel>
+  <channel id="pluto-tv-westerns-gb">
+    <display-name lang="es">Pluto TV Westerns</display-name>
+  </channel>
+  <channel id="awesomeness-tv-gb">
+    <display-name lang="es">Awesomeness TV</display-name>
+  </channel>
+  <channel id="inspector-gadget-gb">
+    <display-name lang="es">Inspector Gadget</display-name>
+  </channel>
+  <channel id="degrassi-the-next-generation-gb">
+    <display-name lang="es">Degrassi Next Gen</display-name>
+  </channel>
+  <channel id="pluto-tv-crime-gb-1">
+    <display-name lang="es">Pluto TV Crime</display-name>
+  </channel>
+  <channel id="pluto-tv-romance-gb-1">
+    <display-name lang="es">Pluto TV Romance</display-name>
+  </channel>
+  <channel id="pluto-tv-sports-gb-1">
+    <display-name lang="es">Pluto TV Sports</display-name>
+  </channel>
+  <channel id="pluto-tv-inside-gb-1">
+    <display-name lang="es">Pluto TV Inside</display-name>
+  </channel>
+  <channel id="pluto-tv-dogs-gb">
+    <display-name lang="es">Pluto TV Dogs</display-name>
+  </channel>
+  <channel id="pluto-tv-science-gb">
+    <display-name lang="es">Pluto TV Science</display-name>
+  </channel>
+  <channel id="sabrina-the-teenage-witch-gb">
+    <display-name lang="es">Sabrina Teenage Witch</display-name>
+  </channel>
+  <channel id="pluto-tv-documentaries-gb">
+    <display-name lang="es">Pluto TV Documentaries</display-name>
+  </channel>
+  <channel id="pluto-tv-cats-24-7-gb">
+    <display-name lang="es">Pluto TV Cats 24/7</display-name>
+  </channel>
+  <channel id="pluto-tv-home-gb">
+    <display-name lang="es">Pluto TV Home</display-name>
+  </channel>
+  <channel id="pluto-tv-nature-gb">
+    <display-name lang="es">Pluto TV Nature</display-name>
+  </channel>
+  <channel id="pluto-tv-motor-gb">
+    <display-name lang="es">Pluto TV Motor</display-name>
+  </channel>
+  <channel id="beverly-hillbillies-gb">
+    <display-name lang="es">Beverly Hillbillies</display-name>
+  </channel>
+  <channel id="mario-vs-sonic-gb">
+    <display-name lang="es">Mario vs. Sonic</display-name>
+  </channel>
+  <channel id="pluto-tv-cookalong-gb">
+    <display-name lang="es">Pluto TV Cookalong</display-name>
+  </channel>
+  <channel id="pluto-tv-space-gb">
+    <display-name lang="es">Pluto TV Space</display-name>
+  </channel>
+  <channel id="pluto-tv-the-grapevine-gb">
+    <display-name lang="es">Pluto TV The Grapevine</display-name>
+  </channel>
+  <channel id="pluto-tv-action-gb">
+    <display-name lang="es">Pluto TV Action</display-name>
+  </channel>
+  <channel id="pluto-tv-thrillers-gb">
+    <display-name lang="es">Pluto TV Thrillers</display-name>
+  </channel>
+  <channel id="pluto-tv-sci-fi-gb">
+    <display-name lang="es">Pluto TV Sci-Fi</display-name>
+  </channel>
+  <channel id="get-factual-gb">
+    <display-name lang="es">Get.factual</display-name>
+  </channel>
+  <channel id="unbeaten-esports-gb">
+    <display-name lang="es">Unbeaten Esports</display-name>
+  </channel>
+  <channel id="nosey-gb">
+    <display-name lang="es">Nosey</display-name>
+  </channel>
+  <channel id="pluto-tv-sherlock-gb">
+    <display-name lang="es">Pluto TV Sherlock</display-name>
+  </channel>
+  <channel id="pluto-tv-travel-gb">
+    <display-name lang="es">Pluto TV Travel</display-name>
+  </channel>
+  <channel id="pluto-tv-family-gb">
+    <display-name lang="es">Pluto TV Family</display-name>
+  </channel>
+  <channel id="pluto-tv-animals-gb-1">
+    <display-name lang="es">Pluto TV Animals</display-name>
+  </channel>
+  <channel id="my5-documentaries-gb-1">
+    <display-name lang="es">My5 Documentaries</display-name>
+  </channel>
+  <channel id="pluto-tv-drama-gb-1">
+    <display-name lang="es">Pluto TV Drama</display-name>
+  </channel>
+  <channel id="pluto-tv-retro-drama-gb-1">
+    <display-name lang="es">Pluto TV Retro Drama</display-name>
+  </channel>
+  <channel id="pluto-tv-food-gb-1">
+    <display-name lang="es">Pluto TV Food</display-name>
+  </channel>
+  <channel id="made-in-britain-gb">
+    <display-name lang="es">Made In Britain</display-name>
+  </channel>
+  <channel id="wedding-sos-gb">
+    <display-name lang="es">Wedding SOS</display-name>
+  </channel>
+  <channel id="pluto-tv-world-gb">
+    <display-name lang="es">Pluto TV World</display-name>
+  </channel>
+  <channel id="pluto-tv-britpocalypse-gb">
+    <display-name lang="es">Pluto TV Britpocalypse</display-name>
+  </channel>
+  <channel id="the-new-detectives-gb">
+    <display-name lang="es">The New Detectives</display-name>
+  </channel>
+  <channel id="auction-kings-gb">
+    <display-name lang="es">Auction Kings</display-name>
+  </channel>
+  <channel id="pluto-tv-her-gb">
+    <display-name lang="es">Pluto TV HER</display-name>
+  </channel>
+  <channel id="hells-kitchen-gb">
+    <display-name lang="es">Hell's Kitchen</display-name>
+  </channel>
+  <channel id="slow-tv-gb">
+    <display-name lang="es">Slow TV</display-name>
+  </channel>
+  <channel id="full-custom-garage-gb">
+    <display-name lang="es">Full Custom Garage</display-name>
+  </channel>
+  <channel id="police-women-gb">
+    <display-name lang="es">Police Women</display-name>
+  </channel>
+  <channel id="andromeda-gb">
+    <display-name lang="es">Andromeda</display-name>
+  </channel>
+  <channel id="mutant-x-gb">
+    <display-name lang="es">Mutant X</display-name>
+  </channel>
+  <channel id="secret-dealers-gb">
+    <display-name lang="es">Secret Dealers</display-name>
+  </channel>
+  <channel id="sensing-murder-gb">
+    <display-name lang="es">Sensing Murder</display-name>
+  </channel>
+  <channel id="beauty-and-the-geek-gb">
+    <display-name lang="es">Beauty and the Geek</display-name>
+  </channel>
+  <channel id="crime-investigation-gb">
+    <display-name lang="es">Crime Investigation</display-name>
+  </channel>
+  <channel id="mcleods-daughters-gb">
+    <display-name lang="es">McLeod's Daughters</display-name>
+  </channel>
+  <channel id="the-simple-life-gb">
+    <display-name lang="es">The Simple Life</display-name>
+  </channel>
+  <channel id="wipeout-gb">
+    <display-name lang="es">Wipeout</display-name>
+  </channel>
+  <channel id="people-are-awesome-gb">
+    <display-name lang="es">People are Awesome</display-name>
+  </channel>
+  <channel id="truly-gb">
+    <display-name lang="es">Truly</display-name>
+  </channel>
+  <channel id="bringing-up-bates-gb">
+    <display-name lang="es">Bringing Up Bates</display-name>
+  </channel>
+  <channel id="insight-tv-gb">
+    <display-name lang="es">Insight TV</display-name>
+  </channel>
+  <channel id="naturescape-gb">
+    <display-name lang="es">Naturescape</display-name>
+  </channel>
+  <channel id="undercover-boss-global-gb">
+    <display-name lang="es">Undercover Boss Global</display-name>
+  </channel>
+  <channel id="johnny-carson-tv-gb">
+    <display-name lang="es">Johnny Carson TV</display-name>
+  </channel>
+  <channel id="insight-tv-inwonder-gb">
+    <display-name lang="es">InWonder</display-name>
+  </channel>
+  <channel id="insight-tv-introuble-gb">
+    <display-name lang="es">InTrouble</display-name>
+  </channel>
+  <channel id="ghost-hunters-gb">
+    <display-name lang="es">Ghost Hunters</display-name>
+  </channel>
+  <channel id="dog-the-bounty-hunter-gb">
+    <display-name lang="es">Dog The Bounty Hunter</display-name>
+  </channel>
+  <programme start="20201121002200 +0000" stop="20201121012200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121012200 +0000" stop="20201121022200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121022200 +0000" stop="20201121032200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121032200 +0000" stop="20201121042200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121042200 +0000" stop="20201121052200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121052200 +0000" stop="20201121062200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121062200 +0000" stop="20201121072200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121072200 +0000" stop="20201121082200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121082200 +0000" stop="20201121092200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121092200 +0000" stop="20201121102200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121102200 +0000" stop="20201121112200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Horizon Sports</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121112200 +0000" stop="20201121122200 +0000" channel="pluto-tv-explore-gb">
+    <title lang="es">Cardiff Triathlon 2018 / Poseidon Games Australia</title>
+    <desc lang="es">HorizonSports:  A weekly Nature, Sports &amp; Wellness series, motivating the world to be more active in nature.</desc>
+  </programme>
+  <programme start="20201121005500 +0000" stop="20201121015000 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Behind Bars The Worlds Toughest Prisons: Sofia Central Prison, Sofia, Bulgaria</title>
+    <desc lang="es">With a crumbling foundation fit for demolition, Sofia Central prison is inhospitable for anyone, including criminals. With multiple prisoner cells, bunks stacked 3 high and horrid isolation cells, prisoners live idly behind bars for 23 hours a day.</desc>
+  </programme>
+  <programme start="20201121015000 +0000" stop="20201121024500 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Behind Bars The Worlds Toughest Prisons: Miami, Dade County Jail Boot Camp, Miami, Florida, USA</title>
+    <desc lang="es">The toughest divisions of the Miami Dade: Boot Camp gives minor offenders a chance to escape the prison through unforgiving drills and rules. To many it is a better alternative to The M-D County Jail where murderers and rapists have their own rules.</desc>
+  </programme>
+  <programme start="20201121024500 +0000" stop="20201121033700 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Boogeymen</title>
+    <desc lang="es">On the coast of Queensland, Australia, rumors of something unique have haunted locals for centuries. Aboriginal cave paintings depict a large and furry bipedal monster. European colonists reported a similar creature stalking the woods. What is Yowie?</desc>
+  </programme>
+  <programme start="20201121033700 +0000" stop="20201121042900 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Boogeymen</title>
+    <desc lang="es">The beauty of Australia’s Byron Bay attracts over one million visitors per year. However, they probably don’t suspect the presence of a mysterious creature known locally as the Devil Dog. It could be an animal long thought extinct, the Tasmanian tiger.</desc>
+  </programme>
+  <programme start="20201121042900 +0000" stop="20201121051900 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Caught on Camera</title>
+    <desc lang="es">Host Nick Wallis reveals some of the street crime captured by London's 100,000 CCTV cameras: Fights, robberies, drug crimes and a massive gun rampage.</desc>
+  </programme>
+  <programme start="20201121051900 +0000" stop="20201121061900 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Countdown to Catastrophe: Volcanoes</title>
+    <desc lang="es">Mount Nyiragongo stands an altitude of 3500 meters with lava that boils at 1000.</desc>
+  </programme>
+  <programme start="20201121061900 +0000" stop="20201121071900 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Countdown to Catastrophe: Earthquakes</title>
+    <desc lang="es">In many countries of the world people are so used to earthquakes that a little jolt of the ground barely raises an eyebrow. But since the Fukushima nuclear reactor disaster the issue of seismic security has taken on new urgency.</desc>
+  </programme>
+  <programme start="20201121071900 +0000" stop="20201121081900 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Countdown to Catastrophe: Storms</title>
+    <desc lang="es">What impact do hurricanes make on the global climate? Geophysicist Shimon Wdowinski from the University of Miami has discovered a truly astonishing connection: major storms can trigger massive earthquakes.</desc>
+  </programme>
+  <programme start="20201121081900 +0000" stop="20201121091600 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Death on the Matterhorn</title>
+    <desc lang="es">Seven men stand on the summit of the Matterhorn, the last Alpine peak to be conquered. Their place in history is assured. Then, disaster strikes: a rope snaps. Four men die. But did the rope really just snap...or was it cut?</desc>
+  </programme>
+  <programme start="20201121091600 +0000" stop="20201121102500 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Mont Saint-Michel: Resistance Through the Ages</title>
+    <desc lang="es">Mont Saint-Michel has stood in the middle of a vast bay off the French coast of Normandy for centuries. It has become a symbol of resistance to the test of time. This film offers a journey through the history and mysteries of this indomitable fortress.</desc>
+  </programme>
+  <programme start="20201121102500 +0000" stop="20201121112000 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Human Prey: Deadly Waters</title>
+    <desc lang="es">While on the job at an Florida golf club, an experienced golf ball diver is attacked by a territorial, 400-pound alligator. Jeff Tanswell's snorkeling trip turns into a bloody battle for his life when he is dragged under by an 12-foot saltwater crocodile.</desc>
+  </programme>
+  <programme start="20201121112000 +0000" stop="20201121121500 +0000" channel="voyager-documenteries-gb">
+    <title lang="es">Human Prey: Killer Canines and Felines</title>
+    <desc lang="es">On a camping trip in the Canadian wilderness, a family is unwittingly stalked by a hungry and opportunistic wolf. A mountain bike excursion in California becomes a life-and-death struggle when a cyclist is pounced and attacked upon by a 110 pound cougar.</desc>
+  </programme>
+  <programme start="20201121001100 +0000" stop="20201121020500 +0000" channel="pluto-tv-movies-gb-1">
+    <title lang="es">Stir Of Echoes</title>
+    <desc lang="es">After being hypnotized by his sister-in-law, a man begins seeing haunting visions of a girl's ghost and a mystery begins to unfold around him. Starring: Kevin Bacon, Zachary David Cope, Kathryn Erbe, Illeana Douglas, Kevin Dunn.</desc>
+  </programme>
+  <programme start="20201121020500 +0000" stop="20201121043500 +0000" channel="pluto-tv-movies-gb-1">
+    <title lang="es">The Ninth Gate</title>
+    <desc lang="es">A rare book dealer, while seeking out the last two copies of a demon text, gets drawn into a conspiracy with supernatural overtones. Starring: Johnny Depp, Frank Langella, Lena Olin.</desc>
+  </programme>
+  <programme start="20201121043500 +0000" stop="20201121062000 +0000" channel="pluto-tv-movies-gb-1">
+    <title lang="es">The Little Ghost</title>
+    <desc lang="es">The Little Ghost lives in the castle over looking a small town and awakens for precisely one hour after the clock strikes midnight. Follow him on this adventure to see his first sunrise ever!</desc>
+  </programme>
+  <programme start="20201121062000 +0000" stop="20201121075800 +0000" channel="pluto-tv-movies-gb-1">
+    <title lang="es">The Christmas Consultant</title>
+    <desc lang="es">This Lifetime Original Movie stars David Hasselhoff as a sought after consultant hired by a workaholic mother (Caroline Rhea) in an effort to get her and her family through the holidays.</desc>
+  </programme>
+  <programme start="20201121075800 +0000" stop="20201121094000 +0000" channel="pluto-tv-movies-gb-1">
+    <title lang="es">Heaven Sent</title>
+    <desc lang="es">Maire prays that her husband find the strength to let go of their 9 year marriage. Billy is asking that his wife receive the strength and wisdom to hold on. A 8-year-old runaway from heaven takes it upon herself to rekindle the romance that slipped away.</desc>
+  </programme>
+  <programme start="20201121094000 +0000" stop="20201121111900 +0000" channel="pluto-tv-movies-gb-1">
+    <title lang="es">Wishin' and Hopin'</title>
+    <desc lang="es">Based on the New York Times best-selling Christmas novel by Wally Lamb comes the new Christmas classic, starring Molly Ringwald and featuring Chevy Chase as the narrator.</desc>
+  </programme>
+  <programme start="20201121001000 +0000" stop="20201121020000 +0000" channel="mst3k-gb">
+    <title lang="es">Mystery Science Theater 3000: Manhunt In Space</title>
+    <desc lang="es">Manhunt In Space: An early episode of the soap opera behemoth General Hospital plus a movie made of several TV episodes about space pirates.</desc>
+  </programme>
+  <programme start="20201121020000 +0000" stop="20201121035000 +0000" channel="mst3k-gb">
+    <title lang="es">Mystery Science Theater 3000: Danger Death Ray</title>
+    <desc lang="es">Danger Death Ray: A slick secret agent investigates an evil organization that stole a top secret death ray.</desc>
+  </programme>
+  <programme start="20201121035000 +0000" stop="20201121054000 +0000" channel="mst3k-gb">
+    <title lang="es">Mystery Science Theater 3000: Samson vs. The Vampire Women</title>
+    <desc lang="es">While Mike and the Bots wrestle with Samson vs. the Vampire Women, TV's Frank is assumed into Second Banana Heaven.</desc>
+  </programme>
+  <programme start="20201121054000 +0000" stop="20201121073000 +0000" channel="mst3k-gb">
+    <title lang="es">Mystery Science Theater 3000: The Violent Years</title>
+    <desc lang="es">Jam Handy shows the world the glory of sexism with electric kitchen appliances and Ed Wood analyzes the world of criminals spoiled by their parents.</desc>
+  </programme>
+  <programme start="20201121073000 +0000" stop="20201121092000 +0000" channel="mst3k-gb">
+    <title lang="es">Mystery Science Theater 3000: The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies</title>
+    <desc lang="es">A couple of slackers stumble across a cult of monsters at a carnival.</desc>
+  </programme>
+  <programme start="20201121092000 +0000" stop="20201121111000 +0000" channel="mst3k-gb">
+    <title lang="es">Mystery Science Theater 3000: Gorgo</title>
+    <desc lang="es">Greedy sailors capture a giant lizard off the coast of Ireland and sell it to a London circus. Then its mother shows up.</desc>
+  </programme>
+  <programme start="20201121111000 +0000" stop="20201121130000 +0000" channel="mst3k-gb">
+    <title lang="es">Mystery Science Theater 3000: Devil Fish</title>
+    <desc lang="es">When Dr. Stella Dickens concludes the recent string of grisly deaths and demolished boats can’t be the result of any known marine creature, she sets out to capture the beast, a genetically created bioweapon that must be kept secret . . . at any cost.</desc>
+  </programme>
+  <programme start="20201121004500 +0000" stop="20201121014500 +0000" channel="rifftrax-gb">
+    <title lang="es">Fun in Balloon Land</title>
+    <desc lang="es">We would say that Fun In Balloonland is our favourite RiffTrax movie, but there's just one problem: it's hard to really describe it as a movie. It is an event. To attempt to describe its plot to you, would be like attempting to divide by zero.</desc>
+  </programme>
+  <programme start="20201121014500 +0000" stop="20201121032500 +0000" channel="rifftrax-gb">
+    <title lang="es">RiffTrax: Planet of Dinosaurs</title>
+    <desc lang="es">Planet of Dinosaurs: When a spaceship full of hairy people crashes on an unknown planet, they must forge off on a non-stop mission of wandering around doing nothing in particular.</desc>
+  </programme>
+  <programme start="20201121032500 +0000" stop="20201121045500 +0000" channel="rifftrax-gb">
+    <title lang="es">RiffTrax: Bloody Pit of Horror</title>
+    <desc lang="es">Filmed in PSYCHOVISION, (which we hear Fellini used to shoot in), Bloody Pit of Horror is must see Italian horror at its cheesiest. Mike, Kevin and Bill brave the spider piñata and give it their bloody best.</desc>
+  </programme>
+  <programme start="20201121045500 +0000" stop="20201121063000 +0000" channel="rifftrax-gb">
+    <title lang="es">RiffTrax: Brainiac: Brainiac</title>
+    <desc lang="es">Back in 1661, a Spanish baron in the middle of burning at the stake escaped by hitching a ride on a passing comet. And now he returns, 300 years later, a shapeshifting monstrosity bent on killing the descendants of those who wronged him as The Brainiac.</desc>
+  </programme>
+  <programme start="20201121063000 +0000" stop="20201121081500 +0000" channel="rifftrax-gb">
+    <title lang="es">RiffTrax: Alien Outlaw</title>
+    <desc lang="es">Predator costumes, Lash LaRue AND his fat hillbilly sidekick buddy from The Dark Power, an alien killed with a fishing hook, what more could anyone ask for.  It's time for befuddlement and laughter, join Mike, Kevin and Bill for Alien Outlaw!</desc>
+  </programme>
+  <programme start="20201121081500 +0000" stop="20201121101000 +0000" channel="rifftrax-gb">
+    <title lang="es">RiffTrax: The Revenge of Dr X: The Revenge of Dr X</title>
+    <desc lang="es">It's a cautionary tale about the limits of science, the corrupting forces of power and of course, mainly about getting Ed Wood involved in your movie. Mike, Kevin and Bill team up to riff the botanical masterwork, The Revenge of Doctor X.</desc>
+  </programme>
+  <programme start="20201121101000 +0000" stop="20201121120000 +0000" channel="rifftrax-gb">
+    <title lang="es">RiffTrax: Buffalo Rider: Buffalo Rider</title>
+    <desc lang="es">Buffalo Rider: When you really stop and think about it, there are two kinds of movies: movies where rugged men punch mountain lions, and movies where this sadly does not happen.</desc>
+  </programme>
+  <programme start="20201121001600 +0000" stop="20201121004100 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Oggy and the Cockroaches: Oggy Is Getting Married</title>
+    <desc lang="es">Oggy is in Venice with Olivia, the perfect setting for a marriage proposal. Jack is there too... and the roaches, of course.</desc>
+  </programme>
+  <programme start="20201121004100 +0000" stop="20201121011200 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Sandra the Fairytale Detective: Pesky Rodents / Assaf the Magician</title>
+    <desc lang="es">Sandra and Fo go into the tale of the 'Pied Piper of Hamelin'. There, they discover that something very strange has happened in the story. / On this occasion, Sandra and Fo travel into the tale of 'Aladdin and the Magic Lamp'.</desc>
+  </programme>
+  <programme start="20201121011200 +0000" stop="20201121014300 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Sandra the Fairytale Detective: Royal Egg / Frogs</title>
+    <desc lang="es">Everybody knows the story of the 'Ugly Duckling' but nobody knows how the swan’s egg ended up in a duck’s nest. Sandra and Fo have to resolve this mystery. / Sandra and Fo travel into the story of the 'Frog Prince' to look for an antidote.</desc>
+  </programme>
+  <programme start="20201121014300 +0000" stop="20201121021400 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Sandra the Fairytale Detective: Toy Room / A Question of Smell</title>
+    <desc lang="es">Sandra and Fo travel into the story of the 'Steadfast Tin Soldier' where they hope to prevent the Soldier and the Ballerina from being thrown into the fire. / In 'Jack and the Beanstalk' Sandra and Fo climb up into the strange world of the giants ...</desc>
+  </programme>
+  <programme start="20201121021400 +0000" stop="20201121024400 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Sandra the Fairytale Detective: The 22:30 Express / King of Mortadella</title>
+    <desc lang="es">Sandra and Fo travel into the story of 'Red Riding Hood' only to discover that the Little Red Riding Hood and her grandmother are blamed for a series of mysterious crimes ... / Sandra and Fo visit 'Pinocchio' who has inexplicably grown donkey's ears.</desc>
+  </programme>
+  <programme start="20201121024400 +0000" stop="20201121031300 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Lola &amp; Virginia: Unhappy Birthday / Lola Fashion</title>
+    <desc lang="es">Lola discovers, much to her surprise, that Virginia’s birthday is on the same day as hers. / Virginia is wearing a new dress by the most prestigious fashion designer at the moment. But Lola gets all the attention with her new self-made t-shirt ...</desc>
+  </programme>
+  <programme start="20201121031300 +0000" stop="20201121034000 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Lola &amp; Virginia: Magic Garden / The Secret Club</title>
+    <desc lang="es">Lola, Poppy, and Haide are hard at work preparing a dance routine for the end-of-term show at school. / Lola, Poppy and Haide form the ‘Secrets Club’. Virginia, jealous of their friendship, manages to read the contents of their tin full of secrets.</desc>
+  </programme>
+  <programme start="20201121034000 +0000" stop="20201121040700 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Lola &amp; Virginia: A Moped for Two / Perfect Friendship</title>
+    <desc lang="es">Lola enters the Rice Speedies cereal contest. She needs to collect the most cards possible to win the moped of her dreams. / One day, Lola discovers that Oswaldo Porri, Virginia’s personal therapist, is about to allow her to return to her old school.</desc>
+  </programme>
+  <programme start="20201121040700 +0000" stop="20201121043400 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Lola &amp; Virginia: Headline News / Pair of Aces</title>
+    <desc lang="es">Lola and her editorial team of the school newspaper still haven’t decided what should go on the front page. / Lola is green with envy: The school’s male and female representatives Poppy and Charly are about to spend a whole week together in Barcelona ...</desc>
+  </programme>
+  <programme start="20201121043400 +0000" stop="20201121050100 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Lola &amp; Virginia: A Shoulder to Cry on / Kinky Kindred</title>
+    <desc lang="es">Lola falls in love with David, a boy who comes to her school on a music scholarship. But David fell head over heels in love with Virginia. / In class, during an ancestry lesson, Lola mocks Virginia, reminding her that she is related to the monkey.</desc>
+  </programme>
+  <programme start="20201121050100 +0000" stop="20201121052800 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Lola &amp; Virginia: Afraid of What? / Oh No, Not Her!</title>
+    <desc lang="es">Before watching a horror film, Lola and Virginia set a challenge to find out who is the bravest. / Lola introduces her exchange mate Chichita Gonzales to all her friends. Virginia is envious ...</desc>
+  </programme>
+  <programme start="20201121052800 +0000" stop="20201121055500 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Lola &amp; Virginia: Hugo in Love / Fan Club</title>
+    <desc lang="es">Virginia flatters Hugo, the roughest student in the school, and he falls head over heels in love with her. / Lola is the President of the San Lorenzo branch of the Fan Club of Marco Amore, a singer who is a big favourite among teenage girls.</desc>
+  </programme>
+  <programme start="20201121055500 +0000" stop="20201121062300 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Chuck's Choice: We've Got Spirit / Cedar Hills' Most Wanted</title>
+    <desc lang="es">Trying to avoid a lice check results in Chuck accidentally causing his school to become haunted. / Jealous of Misha’s popularity, Chuck chooses to be wanted – and ends up being the most wanted person on Earth!</desc>
+  </programme>
+  <programme start="20201121062300 +0000" stop="20201121065100 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Chuck's Choice: The Dark Dingo and Possum Pete / Flush Hour Two</title>
+    <desc lang="es">When someone keeps bedazzling his locker, Chuck chooses to get help from his comic book hero: the Dark Dingo. / When U.D. accidentally flushes Misha's pet goldfish down the toilet, the gang goes into the sewer after her.</desc>
+  </programme>
+  <programme start="20201121065100 +0000" stop="20201121071900 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Chuck's Choice: Bawk to the Future / Hairy Christmas</title>
+    <desc lang="es">Desperate to get his hands on some tasty chicken, Chuck travels to the future where chickens have evolved and run society! / When a choice goes awry it's up to Chuck to save Christmas.</desc>
+  </programme>
+  <programme start="20201121071900 +0000" stop="20201121074700 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Chuck's Choice: In Space, Norman Can Hear You Scream / Area Fifty-Tree</title>
+    <desc lang="es">A choice sends Chuck and his friends to a distant planet, where Norm assumes the role of Intergalactic Champion. / Chuck and his friends come across the mysterious agents of Area Fifty Tree.</desc>
+  </programme>
+  <programme start="20201121074700 +0000" stop="20201121081500 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Chuck's Choice: Joey in da House! / Art Attack</title>
+    <desc lang="es">When Joey and Alfie have a fight, Chuck tries to get them back together or risk living with Joey forever. / Chuck makes a choice that results in his artwork coming to life before the evil art curator Constance Bagelschmidt steals it.</desc>
+  </programme>
+  <programme start="20201121081500 +0000" stop="20201121084300 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Chuck's Choice: The Good, the Bad and the UD – Part 1 / The Good, the Bad and the UD – Part 2</title>
+    <desc lang="es">Chuck and his friends visit U.D.'s home planet where Chuck must prove he has what it takes to continue being the Decider. / Chuck must save the people of G’Nooki from an invasion of Snake People and the evil Borkle.</desc>
+  </programme>
+  <programme start="20201121084300 +0000" stop="20201121091100 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Chuck's Choice: Cool Hand Norm / Sunny Daze</title>
+    <desc lang="es">Norm turns into a ruthless Ice King with an army of polar bears!! / Chuck plays the greatest baseball team in the universe, robots from outer space!</desc>
+  </programme>
+  <programme start="20201121091100 +0000" stop="20201121093600 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Supa Strikas: Blasts From The Past</title>
+  </programme>
+  <programme start="20201121093600 +0000" stop="20201121100100 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Supa Strikas: Between Friends</title>
+    <desc lang="es">Supa Strikas travel to Mexico to confront the biggest goalkeeper in the Super League. Shakes uncovers De Los Santos’ past, and makes an amazing discovery in the big man’s hometown: mysterious Aztec ruins ... and the origins of the game itself!</desc>
+  </programme>
+  <programme start="20201121100100 +0000" stop="20201121102600 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Supa Strikas: Instinct Extinct</title>
+    <desc lang="es">Supa Strikas face Twisting Tiger’s old team, FC Nakama, but Nakama boss Ura Giri releases a DVD of all Tiger’s secret moves to punish him for leaving the team. Now the famous midfielder needs to find new moves ... and fast!</desc>
+  </programme>
+  <programme start="20201121102600 +0000" stop="20201121105100 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Supa Strikas: Big Bo Lockdown</title>
+    <desc lang="es">Pressure is on as Supa Strikas arrive in Spain to play Barka FC and star striker, Riano. But Shakes gets some training from Riano’s old Coach, Golare, which turns out to be less than helpful!</desc>
+  </programme>
+  <programme start="20201121105100 +0000" stop="20201121111600 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Supa Strikas: The End Of Dreams</title>
+    <desc lang="es">Big Bo helps local prison inmates by training their soccer team. But Knuckles, a nasty convict, looks just like the great goalkeeper and switches places with Big Bo! How will he escape in time for Supa Strikas’ epic game against the mighty FC Colossus?</desc>
+  </programme>
+  <programme start="20201121111600 +0000" stop="20201121114100 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Supa Strikas: No 'El' in Team</title>
+    <desc lang="es">After a mishap with the bumbling Professor, his coffee, and the state-of-the-art Match Measure Machine, things go horribly wrong with Shakes’ exercise plan!</desc>
+  </programme>
+  <programme start="20201121114100 +0000" stop="20201121120600 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Supa Strikas: Wolf In Coach's Clothing</title>
+    <desc lang="es">El Matador’s selfish play causes headaches for Strikas. Coach sends him to Solinesia to learn the ancient football game that is all about teamwork. But hopes are dashed when he is banished from the country!</desc>
+  </programme>
+  <programme start="20201121120600 +0000" stop="20201121123000 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Zig &amp; Sharko: Teen Rebels</title>
+    <desc lang="es">Zig finds an old skateboard in a crate. It awakens memories, taking him back to when he, Bernie, Sharko and Marina were teenagers, and all they only cared about were stunts on wheels….</desc>
+  </programme>
+  <programme start="20201121123000 +0000" stop="20201121125400 +0000" channel="pluto-tv-kids-gb">
+    <title lang="es">Zig &amp; Sharko: The Mummy</title>
+    <desc lang="es">A pyramid is discovered on the beach! Marina races inside. Zig and Sharko follow. Marina finds a chamber with a very friendly mummy, while Zig and Sharko get hammered by endless booby traps ...</desc>
+  </programme>
+</tv>
