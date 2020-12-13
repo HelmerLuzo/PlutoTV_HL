@@ -126,10 +126,7 @@ input, select, textarea {
 		font-size: 105%;
 		margin-inline-start: 10px;
 		font-weight: bold;
-	
-		position: absolute;
-		-webkit-transform: translateY(30%);
-		transform: translateY(30%);
+		vertical-align: middle;
 		
 	}
 
