@@ -8,7 +8,24 @@
         <title>PlutoTV by HL</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="main.css" />
+
+        <script src="jquery-3.1.1.slim.min.js"></script>
+        <script  language="JavaScript">
+        function myFunction() {
+            var copyText = document.getElementById("myAnchor").title;
+            document.addEventListener('copy', function(event) {
+              event.clipboardData.setData('text/plain', copyText);
+              event.preventDefault();
+              document.removeEventListener('copy', handler, true);
+            }, true);
+            document.execCommand('copy');
+            alert("Copied: " + copyText);
+          }
+          document.getElementById('myAnchor').addEventListener('click', myFunction);
+    </script>
+
     </head>
+
     <body style="background-color:#424242">
         <main>
 
@@ -19,15 +36,15 @@
 
             <div class="enlaces">
                 <div class="box ico"><img width="100%" src="es.png"/></div>
-                <div class="box url"><a href="https://w3ubin.com/GwkSE73-H.w3u"><span>https://w3ubin.com/GwkSE73-H.w3u</span></a></div>
+                <div class="box url"><a id="myAnchor" title="https://w3ubin.com/GwkSE73-H.w3u" href="#"><span>PlutoTV_TV_ES.w3u</span></a></div>
                 <div class="box ico"><img width="100%" src="de.png"/></div>
-                <div class="box url"><a href="https://w3ubin.com/_DKAG-hpl.w3u"><span>https://w3ubin.com/_DKAG-hpl.w3u</span></a></div>
+                <div class="box url"><a href="https://w3ubin.com/_DKAG-hpl.w3u"><span>PlutoTV_TV_DE.w3u</span></a></div>
                 <div class="box ico"><img width="100%" src="gb.png"/></div>
-                <div class="box url"><a href="https://w3ubin.com/N-OEu1XNN.w3u"><span>https://w3ubin.com/N-OEu1XNN.w3u</span></a></div>
+                <div class="box url"><a href="https://w3ubin.com/N-OEu1XNN.w3u"><span>PlutoTV_TV_GB.w3u</span></a></div>
                 <div class="box ico"><img width="100%" src="us.png"/></div>
-                <div class="box url"><a href="https://w3ubin.com/VVUrZnFlZ.w3u"><span>https://w3ubin.com/VVUrZnFlZ.w3u</span></a></div>
+                <div class="box url"><a href="https://w3ubin.com/VVUrZnFlZ.w3u"><span>PlutoTV_TV_US.w3u</span></a></div>
             </div>
-
+        </br>
            <div class="cabecera">
                 <div class="tit">Enlaces válidos para cualquier reproductor</div>
             </div>
