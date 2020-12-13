@@ -16,7 +16,7 @@ body {
 	color: #fff;
 	border-radius: 5px;
 	padding: 10px;
-	font-size: 100%;
+	font-size: 80%;
 	text-align: center;	  
   }
 
@@ -25,7 +25,7 @@ body {
 	display: grid;
 	padding: 10px;
 	grid-gap: 10px;
-	grid-template-columns: [col] 80px [col] 1fr;
+	grid-template-columns: [col] 50px [col] 1fr;
     background-color: #424242;
     color: #444;
   }
@@ -34,17 +34,19 @@ body {
 	background-color: #212121;
 	color: #fff;
 	border-radius: 5px;
-	padding: 10px;
-	font-size: 100%;
+	font-size: 80%;
   }
 
   .ico {
-    grid-column: col 1;
+	grid-column: col 1;
+	
 	
 
   }
   .url {
 	grid-column: col 2;
+	vertical-align: middle;
+	padding-left: 10px;
 	
 
   }
