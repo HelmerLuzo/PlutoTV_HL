@@ -16,7 +16,7 @@ body {
 	color: #fff;
 	border-radius: 5px;
 	padding: 10px;
-	font-size: 80%;
+	font-size: 90%;
 	text-align: center;	  
   }
 
@@ -35,7 +35,7 @@ body {
 	background-color: #212121;
 	color: #fff;
 	border-radius: 5px;
-	font-size: 80%;
+	font-size: 90%;
   }
 
   .ico {
@@ -47,7 +47,9 @@ body {
 	padding-left: 5px;
 	display: flex;
   	flex-wrap: wrap;
-  	align-content: center;
+	align-content: center;
+
+	
   }
 
 
