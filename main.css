@@ -90,7 +90,6 @@ input, select, textarea {
 		padding: 4px;
 		font-size: 120%;
 		font-weight: bold;
-		/*text-align: center;*/
 		vertical-align: middle;
 	}
 
@@ -103,7 +102,7 @@ input, select, textarea {
 	.wrapper-canal {
 		display: grid;
 		margin: 10px;
-		grid-template-columns: 1fr 1fr;
+		grid-template-columns: 1fr;
 		grid-gap: 10px;
 		background-color: #424242;
 	}
@@ -115,23 +114,25 @@ input, select, textarea {
 	
 	.box-canal img{
 		border-radius: 5px 0px 0px 5px;
-		width:48px;
-		height:48px;
+		width:10%;
+		height:100%;
+		margin-inline-start: 5px;
 		float : left;
 	}
 
-	.box-canal div{
+	.box-canal a{
 		color: #fff;
 		border-radius: 0px 5px 5px 0px;
 		font-size: 105%;
-		margin-inline-start: 58px;
+		margin-inline-start: 10px;
 		font-weight: bold;
-		position :relative;
-		top: 50%;
-		-webkit-transform: translateY(-50%);
-		-ms-transform: translateY(-50%);
-		transform: translateY(-50%);
+		position: absolute;
+		-webkit-transform: translateY(30%);
+		-ms-transform: translateY(30%);
+		transform: translateY(30%);
+		
 	}
+
 
 /* Tabs */
 
