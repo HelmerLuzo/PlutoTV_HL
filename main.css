@@ -25,7 +25,7 @@ body {
 	display: grid;
 	padding: 10px;
 	grid-gap: 10px;
-	grid-template-columns: [col] 100px [col] 1fr;
+	grid-template-columns: [col] 80px [col] 1fr;
     background-color: #424242;
     color: #444;
   }
