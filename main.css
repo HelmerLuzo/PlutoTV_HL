@@ -96,7 +96,7 @@ input, select, textarea {
 	.box-grupo img{
 		vertical-align: middle; 
 		height: 48px; 
-		width: 48;
+		width: 48px;
 	}
 
 	.wrapper-canal {
@@ -126,9 +126,9 @@ input, select, textarea {
 		font-size: 105%;
 		margin-inline-start: 10px;
 		font-weight: bold;
+	
 		position: absolute;
 		-webkit-transform: translateY(30%);
-		-ms-transform: translateY(30%);
 		transform: translateY(30%);
 		
 	}
