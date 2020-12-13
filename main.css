@@ -1,11 +1,11 @@
 body {
-  margin: 10px;
+  margin: 5px;
 }
 
 .cabecera {
 	display: grid;
-	padding: 10px;
-	grid-gap: 10px;
+	padding: 5px;
+	grid-gap: 5px;
 	grid-template-columns: 1fr;
     background-color: #424242;
     color: #444;
@@ -23,11 +23,12 @@ body {
 
 .enlaces {
 	display: grid;
-	padding: 10px;
-	grid-gap: 10px;
+	padding: 5px;
+	grid-gap: 5px;
 	grid-template-columns: [col] 50px [col] 1fr;
+	grid-template-rows: auto;
     background-color: #424242;
-    color: #444;
+	color: #444;
   }
 
   .box {
@@ -39,16 +40,15 @@ body {
 
   .ico {
 	grid-column: col 1;
-	
-	
-
   }
+
   .url {
 	grid-column: col 2;
-	vertical-align: middle;
-	padding-left: 10px;
-	
-
+	padding-left: 5px;
+	display: flex;
+  	flex-wrap: wrap;
+  	align-content: center;
   }
+
 
 
