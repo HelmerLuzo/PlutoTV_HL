@@ -2,6 +2,14 @@ body {
   margin: 5px;
 }
 
+details {
+	padding:5px;
+}
+
+span {
+	color: #d9cc00;
+}
+
 .cabecera {
 	display: grid;
 	padding: 5px;
@@ -17,7 +25,7 @@ body {
 	border-radius: 5px;
 	padding: 10px;
 	font-size: 100%;
-	text-align: center;	  
+	text-align: left;
   }
 
   .texto {
