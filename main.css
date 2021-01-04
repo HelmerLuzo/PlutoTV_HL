@@ -81,7 +81,7 @@ span {
     position: fixed;
     z-index: 1;
     left: 0;right:0;
-    bottom: 30px;
+    top: 30px;
     font-size: 17px;
     white-space: nowrap;
 }
@@ -98,7 +98,7 @@ span {
     background-color: #111;
 	color: #fff;
 	
-	content:url(/icons/semaforo.png)
+	content:url(icons/semaforo.png)
 }
 #toast #desc{
 
@@ -119,13 +119,13 @@ span {
 }
 
 @-webkit-keyframes fadein {
-    from {bottom: 0; opacity: 0;} 
-    to {bottom: 30px; opacity: 1;}
+    from {top: 30px; opacity: 0;} 
+    to {top:60px; opacity: 1;}
 }
 
 @keyframes fadein {
-    from {bottom: 0; opacity: 0;}
-    to {bottom: 30px; opacity: 1;}
+    from {top: 30px; opacity: 0;}
+    to {top:60px; opacity: 1;}
 }
 
 @-webkit-keyframes expand {
@@ -157,13 +157,13 @@ span {
 }
 
 @-webkit-keyframes fadeout {
-    from {bottom: 30px; opacity: 1;} 
-    to {bottom: 60px; opacity: 0;}
+    from {top:60px; opacity: 1;} 
+    to {top: 90px; opacity: 0;}
 }
 
 @keyframes fadeout {
-    from {bottom: 30px; opacity: 1;}
-    to {bottom: 60px; opacity: 0;}
+    from {top:60px; opacity: 1;}
+    to {top: 90px; opacity: 0;}
 }
 
 
