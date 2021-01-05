@@ -1,0 +1,4 @@
+<FilesMatch "\.(?i:w3u)$">
+  ForceType application/octet-stream
+  Header set Content-Disposition attachment
+</FilesMatch>
