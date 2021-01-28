@@ -33,9 +33,6 @@
   <channel id="5dcde197f6591d0009839e04">
     <display-name lang="es">Pluto TV Reality</display-name>
   </channel>
-  <channel id="5dcde27ffae9520009c0c75a">
-    <display-name lang="es">Pluto TV Investiga</display-name>
-  </channel>
   <channel id="5dcde2ac4bc6c500094ab45b">
     <display-name lang="es">Pluto TV Junior</display-name>
   </channel>
@@ -228,25 +225,9 @@
   <channel id="5f99a772c54853000797bf18">
     <display-name lang="es">Lucha Libre AAA</display-name>
   </channel>
-  <programme start="20210127120000 +0000" stop="20210127184700 +0000" channel="5dcb62e63d4d8f0009f36881">
+  <programme start="20210128000000 +0000" stop="20210128024200 +0000" channel="5dcb62e63d4d8f0009f36881">
     <title lang="es">Pluto TV Cine Acción</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127184700 +0000" stop="20210127204600 +0000" channel="5dcb62e63d4d8f0009f36881">
-    <title lang="es">El Barón Rojo</title>
-    <desc lang="es">De la carnicería y el caos de la Primera Guerra Mundial surgió un hombre cuyo nombre pasaría a la leyenda. ¿Caballero? ¿Guerrero? ¿Aventurero? Manfred Von Richthofen es conocido por siempre como El Barón Rojo.</desc>
-  </programme>
-  <programme start="20210127204600 +0000" stop="20210127223300 +0000" channel="5dcb62e63d4d8f0009f36881">
-    <title lang="es">Fuera de la Senda</title>
-    <desc lang="es">Stanley Winters es un ex militar que eligió vivir en reclusión en algún lugar de las montañas de Francia.</desc>
-  </programme>
-  <programme start="20210127223300 +0000" stop="20210128005600 +0000" channel="5dcb62e63d4d8f0009f36881">
-    <title lang="es">El caldero del diablo</title>
-    <desc lang="es">En “El Caldero del Diablo”, una ciudad donde la depravación y la violencia han forjado una sociedad en la que solo pueden sobrevivir los letales y los insensibles, dos jóvenes se forjan un nombre como los sicarios más eficientes e imparables.</desc>
-  </programme>
-  <programme start="20210128005600 +0000" stop="20210128024200 +0000" channel="5dcb62e63d4d8f0009f36881">
-    <title lang="es">El duelo final</title>
-    <desc lang="es">Una luchadora que dejó el ring se ve obligada a volver al servicio activo cuando su hermana, quien ingresó al mundo de los combates ilegales, tiene su vida amenazada por el dueño del torneo, un hombre sádico y capaz de todo.</desc>
   </programme>
   <programme start="20210128024200 +0000" stop="20210128050000 +0000" channel="5dcb62e63d4d8f0009f36881">
     <title lang="es">Crónicas de la tribu fantasma</title>
@@ -264,21 +245,21 @@
     <title lang="es">Cazadores de hombres</title>
     <desc lang="es">Basada en la novela del japonés Juko Nishimura, la película sigue a un fiscal que ve manchado su expediente por una violación, asesinato y robo, por lo que se dispone a limpiar su nombre.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127195500 +0000" channel="5dcdde78f080d900098550e4">
+  <programme start="20210128105800 +0000" stop="20210128124800 +0000" channel="5dcb62e63d4d8f0009f36881">
+    <title lang="es">The 51st State</title>
+    <desc lang="es">Un químico maestro estadounidense planea obtener un gran puntaje en un negocio de drogas único en la vida. No todo va según lo planeado y pronto se enreda en una red de engaños.</desc>
+  </programme>
+  <programme start="20210128124800 +0000" stop="20210128144700 +0000" channel="5dcb62e63d4d8f0009f36881">
+    <title lang="es">Peleador misterioso - Proyecto A</title>
+    <desc lang="es">Un joven es golpeado y no puede recordar quién es, pero pronto descubre que tiene dos habilidades significativas. Él sabe mucho sobre cocinar, y es un hábil artista marcial.</desc>
+  </programme>
+  <programme start="20210128144700 +0000" stop="20210128163200 +0000" channel="5dcb62e63d4d8f0009f36881">
+    <title lang="es">The bodyguard</title>
+    <desc lang="es">Un experto en artes marciales entra a trabajar como guardaespaldas de la hija de un rico empresario. La empresa de seguridad, propiedad de un antiguo amigo del luchador, oculta un oscuro plan de poder.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128013300 +0000" channel="5dcdde78f080d900098550e4">
     <title lang="es">Pluto TV Cine Comedia</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127195500 +0000" stop="20210127213900 +0000" channel="5dcdde78f080d900098550e4">
-    <title lang="es">El Estafador</title>
-    <desc lang="es">Bobby es un carterista de Nueva York que deambula por la ciudad disfrazado de corredor de bolsa. Él enfrenta a un desafío: una reciente conquista suya, Lucy, está embarazada. En una ciudad donde una vez fue invisible, Bobby ahora está muy expuesto.</desc>
-  </programme>
-  <programme start="20210127213900 +0000" stop="20210127233400 +0000" channel="5dcdde78f080d900098550e4">
-    <title lang="es">Mi Novio es un Ladrón</title>
-    <desc lang="es">Henry Durand es un joven agente federal al que se le asigna una tarea difícil: espiar a su madre y su novio, sospechoso de liderar una banda de ladrones de arte.</desc>
-  </programme>
-  <programme start="20210127233400 +0000" stop="20210128013300 +0000" channel="5dcdde78f080d900098550e4">
-    <title lang="es">Los pequeños detalles</title>
-    <desc lang="es">Una familia de mapaches descubre gusanos que viven debajo del césped en el patio trasero de Jeff y Nealy. Este problema de plagas comienza una reacción en cadena oscuramente cómica y salvaje de tensión doméstica, infidelidad y asesinato.</desc>
   </programme>
   <programme start="20210128013300 +0000" stop="20210128031800 +0000" channel="5dcdde78f080d900098550e4">
     <title lang="es">Es un Desastre</title>
@@ -300,21 +281,21 @@
     <title lang="es">Shaolin Girl</title>
     <desc lang="es">Una joven entrenadora de Shaolin regresa a Japón para resucitar la difunta escuela de artes marciales de su abuelo.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127195300 +0000" channel="5dcddf1ed95e740009fef7ab">
+  <programme start="20210128111500 +0000" stop="20210128130700 +0000" channel="5dcdde78f080d900098550e4">
+    <title lang="es">Bienvenido a la Jungla</title>
+    <desc lang="es">Un empleado que es víctima del bullying debe dar rienda suelta a su bestia interior después de que un retiro de trabajo en equipo en la jungla sale mal.</desc>
+  </programme>
+  <programme start="20210128130700 +0000" stop="20210128144600 +0000" channel="5dcdde78f080d900098550e4">
+    <title lang="es">Una canción Americana</title>
+    <desc lang="es">Un cineasta anti-sistema propone la idea de suprimir la fiesta del 4 de julio, el Día de la Independencia. En un claro guiño a 'Cuento de navidad' de Charles Dickens, el realizador es visitado en una misma noche por tres fantasmas.</desc>
+  </programme>
+  <programme start="20210128144600 +0000" stop="20210128164500 +0000" channel="5dcdde78f080d900098550e4">
+    <title lang="es">Promesas de Hielo</title>
+    <desc lang="es">Un joven debate entre las expectativas tradicionales de su familia indo-canadienses y su sueño de jugar hockey.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128012400 +0000" channel="5dcddf1ed95e740009fef7ab">
     <title lang="es">Pluto TV Cine Terror</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127195300 +0000" stop="20210127215000 +0000" channel="5dcddf1ed95e740009fef7ab">
-    <title lang="es">Sueño Mortal</title>
-    <desc lang="es">Kate Bowman es una joven trabajadora social que toma un vida ordinaria, investigando muertes misteriosas que parecen ser vinculado a la parálisis del sueño.</desc>
-  </programme>
-  <programme start="20210127215000 +0000" stop="20210127233100 +0000" channel="5dcddf1ed95e740009fef7ab">
-    <title lang="es">Juegos Peligrosos</title>
-    <desc lang="es">Madre soltera en tiempos difíciles, le ofrecen un trabajo en un verdadero espectáculo de terror, con una promesa de un millón de dólares al ganador.</desc>
-  </programme>
-  <programme start="20210127233100 +0000" stop="20210128012400 +0000" channel="5dcddf1ed95e740009fef7ab">
-    <title lang="es">La casa del demonio</title>
-    <desc lang="es">Desesperada por dinero fácil, la estudiante de segundo año Samantha Hughes (Jocelin Donahue) acepta trabajar como niñera en la apartada mansión de la extraña familia Ulman.</desc>
   </programme>
   <programme start="20210128012400 +0000" stop="20210128031300 +0000" channel="5dcddf1ed95e740009fef7ab">
     <title lang="es">Muñeca diabólica</title>
@@ -336,53 +317,21 @@
     <title lang="es">Desde el más allá</title>
     <desc lang="es">Maya, una madre viuda lucha contra un poder sobrenatural y diabólico para poder salvar a su pequeña hija Nia.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127191900 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+  <programme start="20210128112200 +0000" stop="20210128125900 +0000" channel="5dcddf1ed95e740009fef7ab">
+    <title lang="es">Rito satánico</title>
+    <desc lang="es">Un joven de 17 años está en arresto domiciliario durante el verano mientras su madre está fuera por negocios. Ocurre un horrible incidente que deja una presencia ominosa en la casa.</desc>
+  </programme>
+  <programme start="20210128125900 +0000" stop="20210128145300 +0000" channel="5dcddf1ed95e740009fef7ab">
+    <title lang="es">La Invocación 2</title>
+    <desc lang="es">Pasaron muchos años después de los misteriosos y terribles hechos provocados por una cinta de vídeo maldita, que provocó la muerte de varias personas.</desc>
+  </programme>
+  <programme start="20210128145300 +0000" stop="20210128165000 +0000" channel="5dcddf1ed95e740009fef7ab">
+    <title lang="es">El Payaso del Mal</title>
+    <desc lang="es">Un padre amoroso se convierte en un salvaje asesino, luego de vestir un traje de payaso maldito para el cumpleaños de su hijo.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128025100 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
     <title lang="es">Pluto TV Viajes</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127191900 +0000" stop="20210127202100 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">Beautiful Planet</title>
-    <desc lang="es">las vistas y los sonidos de Viena son bastante memorables y la ciudad posee algunos puntos de referencia europeos verdaderamente excepcionales y monumentos importantes. Con palacios sofisticados y una arquitectura impresionante,.</desc>
-  </programme>
-  <programme start="20210127202100 +0000" stop="20210127203600 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">Las personas de las montañas</title>
-    <desc lang="es">El Pueblo Druso forma una comunidad religiosa cerrada, descendiente del Islam, pero que rechaza la Sharia. Los individuos nacen drusos, no pueden convertirse en drusos.</desc>
-  </programme>
-  <programme start="20210127203600 +0000" stop="20210127205000 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">Las personas de las montañas</title>
-    <desc lang="es">Habiendo quedado marginados, los tuvanos son una de las minorías más pobres del país. Se ganan la vida principalmente con la cría de yaks. También son los últimos chamanistas de la región.</desc>
-  </programme>
-  <programme start="20210127205000 +0000" stop="20210127210500 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">Las personas de las montañas</title>
-    <desc lang="es">Los sherpas no son un pueblo nepalés corriente. Tienen su propia provincia, Khumbu, y practican el budismo, en un país que es 80% hindú. Y todos comparten el mismo apellido de Sherpa.</desc>
-  </programme>
-  <programme start="20210127210500 +0000" stop="20210127220500 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">Españoles en el Mundo</title>
-    <desc lang="es">Hoy Grecia Continental. Desde la llanura del Tesalia,donde los monasterios aparecen suspendidos en las montañas de Meteora hasta el Peloponeso y Atenas.</desc>
-  </programme>
-  <programme start="20210127220500 +0000" stop="20210127232000 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">Españoles en el Mundo</title>
-    <desc lang="es">El programa visita la ciudad de Hamburgo, en Alemania.</desc>
-  </programme>
-  <programme start="20210127232000 +0000" stop="20210127233400 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">Las personas de las montañas</title>
-    <desc lang="es">Habiendo quedado marginados, los tuvanos son una de las minorías más pobres del país. Se ganan la vida principalmente con la cría de yaks. También son los últimos chamanistas de la región.</desc>
-  </programme>
-  <programme start="20210127233400 +0000" stop="20210128000400 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">Destinos In</title>
-    <desc lang="es">Viajes, turismo y cultura en Bocas del Toro.</desc>
-  </programme>
-  <programme start="20210128000400 +0000" stop="20210128010000 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">El alma de India: los festivales</title>
-    <desc lang="es">Cory Goldberg nos lleva a Goa y Kerala para capturar la celebración de la Navidad.</desc>
-  </programme>
-  <programme start="20210128010000 +0000" stop="20210128015300 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">El alma de India: los festivales</title>
-    <desc lang="es">Danny Sura, nos lleva a presenciar el festival Rath Yatra, en el que tres dioses hindúes son sacados de sus templos en grandes carrozas para encontrarse con sus devotos.</desc>
-  </programme>
-  <programme start="20210128015300 +0000" stop="20210128025100 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
-    <title lang="es">En la Ruta del Libro</title>
-    <desc lang="es">Un viaje íntimo con Iván Monsalves, al corazón de Concepción, una ciudad que combina sofisticación, patrimonio cultural y una agitada vida nocturna. Con la participación de Francisco Cortés, Bárbara Calderón, Muñoz Coloma, Johann Bórquez y Omar Lara.</desc>
   </programme>
   <programme start="20210128025100 +0000" stop="20210128034900 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
     <title lang="es">En la Ruta del Libro</title>
@@ -412,21 +361,57 @@
     <title lang="es">Beautiful Planet</title>
     <desc lang="es">De todas las ciudades históricas de Italia, es quizás Roma la que ejerce la fascinación más irresistible. Roma, la "Ciudad Eterna", ha sido un lugar sagrado y una ciudad de importancia internacional desde la antigüedad.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127192500 +0000" channel="5dcddfcb229eff00091b6bdf">
+  <programme start="20210128104200 +0000" stop="20210128111000 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Destinos In</title>
+    <desc lang="es">Viajes, turismo y cultura en el Norte Argentino.</desc>
+  </programme>
+  <programme start="20210128111000 +0000" stop="20210128113900 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Trazando Caminos</title>
+    <desc lang="es">El Morro.</desc>
+  </programme>
+  <programme start="20210128113900 +0000" stop="20210128121200 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Trazando Caminos</title>
+    <desc lang="es">Encanto Mezcalina.</desc>
+  </programme>
+  <programme start="20210128121200 +0000" stop="20210128124200 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Trazando Caminos</title>
+    <desc lang="es">Fuerte De San Diego.</desc>
+  </programme>
+  <programme start="20210128124200 +0000" stop="20210128131700 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Trazando Caminos</title>
+    <desc lang="es">Iguala.</desc>
+  </programme>
+  <programme start="20210128131700 +0000" stop="20210128134900 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Trazando Caminos</title>
+    <desc lang="es">La Roqueta.</desc>
+  </programme>
+  <programme start="20210128134900 +0000" stop="20210128144900 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Latinos por el Mundo</title>
+    <desc lang="es">Viajamos a uno de los países más atractivos por sus diferencias con Occidente, tierra de desierto, únicamente roto de norte a sur por el río Nilo, un País de pirámides, de esfinges, aquí nos esperan varios latinos, valientes y aventureros.</desc>
+  </programme>
+  <programme start="20210128144900 +0000" stop="20210128150400 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Las personas de las montañas</title>
+    <desc lang="es">Los enfrentamientos entre guerrilleros y el ejército cobran muchas vidas locales y los indígenas muestran un gran coraje en esta guerra que no es de ellos.</desc>
+  </programme>
+  <programme start="20210128150400 +0000" stop="20210128151900 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Las personas de las montañas</title>
+    <desc lang="es">Se ha extinguido durante los últimos 10.000 años. Su suelo es rojo y su nieve eterna. Los indios quechuas viven en las estribaciones del volcán, los "páramos”.</desc>
+  </programme>
+  <programme start="20210128151900 +0000" stop="20210128153300 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Las personas de las montañas</title>
+    <desc lang="es">Habiendo quedado marginados, los tuvanos son una de las minorías más pobres del país. Se ganan la vida principalmente con la cría de yaks. También son los últimos chamanistas de la región.</desc>
+  </programme>
+  <programme start="20210128153300 +0000" stop="20210128155700 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Destinos In</title>
+    <desc lang="es">Viajes, turismo y cultura en El Calafate e Iguazú.</desc>
+  </programme>
+  <programme start="20210128155700 +0000" stop="20210128165900 +0000" channel="5dcddfbdb7cf0e0009ae09ea">
+    <title lang="es">Beautiful Planet</title>
+    <desc lang="es">De todas las ciudades históricas de Italia, es quizás Roma la que ejerce la fascinación más irresistible. Roma, la "Ciudad Eterna", ha sido un lugar sagrado y una ciudad de importancia internacional desde la antigüedad.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128020800 +0000" channel="5dcddfcb229eff00091b6bdf">
     <title lang="es">Pluto TV Cine Drama</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127192500 +0000" stop="20210127214800 +0000" channel="5dcddfcb229eff00091b6bdf">
-    <title lang="es">Trampa-22</title>
-    <desc lang="es">La historia de un pequeño grupo de voladores en el Mediterráneo en 1944. Por separado y juntos, están nerviosos, asustados, a menudo soeces y a veces patéticos. Casi todos están un poco locos.</desc>
-  </programme>
-  <programme start="20210127214800 +0000" stop="20210127234000 +0000" channel="5dcddfcb229eff00091b6bdf">
-    <title lang="es">Finding Oscar</title>
-    <desc lang="es">Del productor ejecutivo Steven Spielberg llega un documental inspirador que arroja luz sobre una masacre olvidada durante la guerra civil de Guatemala. Casi 30 años después, un científico forense y un fiscal ayudan a hacer justicia a los responsables.</desc>
-  </programme>
-  <programme start="20210127234000 +0000" stop="20210128020800 +0000" channel="5dcddfcb229eff00091b6bdf">
-    <title lang="es">La suerte del vinicultor</title>
-    <desc lang="es">La historia de Sobran Jodeau, un joven enólogo, y los tres amores de su vida, su bella y apasionada esposa Celeste, la orgullosa baronesa Aurora de Valday y Xas, un ángel caído que entabla una amistad con Sobran.</desc>
   </programme>
   <programme start="20210128020800 +0000" stop="20210128040700 +0000" channel="5dcddfcb229eff00091b6bdf">
     <title lang="es">Lejos de los hombres</title>
@@ -444,73 +429,21 @@
     <title lang="es">Finding Oscar</title>
     <desc lang="es">Del productor ejecutivo Steven Spielberg llega un documental inspirador que arroja luz sobre una masacre olvidada durante la guerra civil de Guatemala. Casi 30 años después, un científico forense y un fiscal ayudan a hacer justicia a los responsables.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127193700 +0000" channel="5dcde0657444a40009cd2422">
+  <programme start="20210128103300 +0000" stop="20210128130100 +0000" channel="5dcddfcb229eff00091b6bdf">
+    <title lang="es">La suerte del vinicultor</title>
+    <desc lang="es">La historia de Sobran Jodeau, un joven enólogo, y los tres amores de su vida, su bella y apasionada esposa Celeste, la orgullosa baronesa Aurora de Valday y Xas, un ángel caído que entabla una amistad con Sobran.</desc>
+  </programme>
+  <programme start="20210128130100 +0000" stop="20210128150000 +0000" channel="5dcddfcb229eff00091b6bdf">
+    <title lang="es">Lejos de los hombres</title>
+    <desc lang="es">Durante la guerra de Argelia en 1954, el profesor Daru (Viggo Mortensen) fue reclutado para luchar por el ejército francés. Nació en Argelia, pero es de familia española.</desc>
+  </programme>
+  <programme start="20210128150000 +0000" stop="20210128165600 +0000" channel="5dcddfcb229eff00091b6bdf">
+    <title lang="es">Una historia de amor y oscuridad</title>
+    <desc lang="es">La historia del escritor Amos Oz, nacido en Palestina y criado en la posguerra por un padre amante de la literatura y una madre polaca que huyó del antisemitismo. Amos Oz trató de llegar a un acuerdo pacífico entre Israel y Palestina.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128025500 +0000" channel="5dcde0657444a40009cd2422">
     <title lang="es">Pluto TV Cocina</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127193700 +0000" stop="20210127200500 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">The Latin Kitchen</title>
-    <desc lang="es">Tendremos tacos mexicanos tradicionales con el chef Luis Valenzuela, quien comparte su secreto con los tacos ahumados y jugosos de pollo.</desc>
-  </programme>
-  <programme start="20210127200500 +0000" stop="20210127203100 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Food, Booze &amp; Tattoos</title>
-    <desc lang="es">Echamos un vistazo al corazón del centro de Ciudad del Cabo, hogar de la panadería de Jason.</desc>
-  </programme>
-  <programme start="20210127203100 +0000" stop="20210127210000 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Cocinísima</title>
-    <desc lang="es">El chef Mariano Sandoval nos lleva de la mano aprendiendo hacer increíbles platillos internacionales con fáciles recetas de cocina.</desc>
-  </programme>
-  <programme start="20210127210000 +0000" stop="20210127212900 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Con Sabor Jarocho</title>
-    <desc lang="es">Masa Salada Para Bolillo.</desc>
-  </programme>
-  <programme start="20210127212900 +0000" stop="20210127221400 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Torres en la Cocina</title>
-    <desc lang="es">Arroz de Jabalí y Bacalao Con Coliflor.</desc>
-  </programme>
-  <programme start="20210127221400 +0000" stop="20210127225900 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">A Bocados: Episodio 32</title>
-    <desc lang="es">Receta: fideua de conejo y alioli. Iñaki Bringas granja de conejos en Karrantza. En un pis pas: brocheta de gambas. Video: brocheta de gambas de  bea del Bar Goiz Argi de la parte vieja de San Sebastian.</desc>
-  </programme>
-  <programme start="20210127225900 +0000" stop="20210127232600 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Flour Power</title>
-    <desc lang="es">Hornear es indulgente – ¡especialmente cuando se hacen golosinas ricas y deliciosas! La presentadora Jessica McGovern comparte algunas recetas infalibles para todas las cosas ricas.</desc>
-  </programme>
-  <programme start="20210127232600 +0000" stop="20210127235300 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Flour Power</title>
-    <desc lang="es">La anfitriona Jessica McGovern prepara deliciosos dulces italianos clásicos, incluyendo un Biscotti de Cereza y Pistacho que se desmorona.</desc>
-  </programme>
-  <programme start="20210127235300 +0000" stop="20210128000600 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Dpostres</title>
-    <desc lang="es">Para el episodio de hoy, Antonella nos muestra tres cafés que son las mejores opciones cuando piensa en comerse un merengue.</desc>
-  </programme>
-  <programme start="20210128000600 +0000" stop="20210128002200 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Dpostres</title>
-    <desc lang="es">Antonella nos presenta tres opciones para comer los mejores brownies de la ciudad.</desc>
-  </programme>
-  <programme start="20210128002200 +0000" stop="20210128004900 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Flour Power</title>
-    <desc lang="es">Pequeños, elegantes y superdeliciosos, la anfitriona Jessica McGovern nos muestra cómo hacer postres que puedes comer con los dedos y que saben a gloria.</desc>
-  </programme>
-  <programme start="20210128004900 +0000" stop="20210128011600 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Flour Power</title>
-    <desc lang="es">La talentosa panadera Jessica McGovern nos muestra cómo ponerse elegante con tres impresionantes postres franceses.</desc>
-  </programme>
-  <programme start="20210128011600 +0000" stop="20210128013300 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Ideas fantásticas para decorar pasteles</title>
-    <desc lang="es">Descubre todas las cosas que se pueden hacer con cupcakes y crema de mantequilla de colores. Te presentamos una gran variedad de ideas fantásticas para decorara pasteles para fiestas.</desc>
-  </programme>
-  <programme start="20210128013300 +0000" stop="20210128020000 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Flour Power</title>
-    <desc lang="es">¡No se olvide de comer sus frutas y verduras! La presentadora Jessica McGovern nos muestra cómo incluir ingredientes nutritivos en nuestros postres elegantes.</desc>
-  </programme>
-  <programme start="20210128020000 +0000" stop="20210128023500 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">10 postres de chocolate</title>
-    <desc lang="es">¡La Nutella y el chocolate son de las cosas más deliciosas del mundo! Sin embargo, es aburrido comer simples barras de chocolate o Nutella sola. Mira este video para aprender a hacer increíbles chocolates y artesanías con Nutella.</desc>
-  </programme>
-  <programme start="20210128023500 +0000" stop="20210128025500 +0000" channel="5dcde0657444a40009cd2422">
-    <title lang="es">Dpostres</title>
-    <desc lang="es">Antonella nos presenta tres opciones para comer las mejores tartas de queso de la ciudad.</desc>
   </programme>
   <programme start="20210128025500 +0000" stop="20210128030900 +0000" channel="5dcde0657444a40009cd2422">
     <title lang="es">Dpostres</title>
@@ -584,65 +517,49 @@
     <title lang="es">Mezcla</title>
     <desc lang="es">En esta Edición de Mezcla de Comida y Tragos, Tamee va detrás del bar y se dirige a la cocina de CHURCH KEY en West Hollywood.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127194400 +0000" channel="5dcde07af1c85b0009b18651">
+  <programme start="20210128103500 +0000" stop="20210128110500 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Cocinísima</title>
+    <desc lang="es">El chef Mariano Sandoval nos lleva de la mano aprendiendo hacer increíbles platillos internacionales con fáciles recetas de cocina.</desc>
+  </programme>
+  <programme start="20210128110500 +0000" stop="20210128113400 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Cocinísima</title>
+    <desc lang="es">El chef Mariano Sandoval nos lleva de la mano aprendiendo hacer increíbles platillos internacionales con fáciles recetas de cocina.</desc>
+  </programme>
+  <programme start="20210128113400 +0000" stop="20210128120200 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Cocinísima</title>
+    <desc lang="es">El chef Mariano Sandoval nos lleva de la mano aprendiendo hacer increíbles platillos internacionales con fáciles recetas de cocina.</desc>
+  </programme>
+  <programme start="20210128120200 +0000" stop="20210128123100 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Con Sabor Jarocho</title>
+    <desc lang="es">Estofado De Res A La Italiana.</desc>
+  </programme>
+  <programme start="20210128123100 +0000" stop="20210128130000 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Con Sabor Jarocho</title>
+    <desc lang="es">Masa Salada Para Bolillo.</desc>
+  </programme>
+  <programme start="20210128130000 +0000" stop="20210128133100 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Con Sabor Jarocho</title>
+    <desc lang="es">Costillas En Salsa De Pulque.</desc>
+  </programme>
+  <programme start="20210128133100 +0000" stop="20210128141600 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Torres en la Cocina</title>
+    <desc lang="es">Chuletas de Cerdo en Salsa y Peras a la Sangría.</desc>
+  </programme>
+  <programme start="20210128141600 +0000" stop="20210128150100 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Torres en la Cocina</title>
+    <desc lang="es">Arroz de Jabalí y Bacalao Con Coliflor.</desc>
+  </programme>
+  <programme start="20210128150100 +0000" stop="20210128154600 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Torres en la Cocina</title>
+    <desc lang="es">Tarta de cabracho y paella de pulpo y butifarra.</desc>
+  </programme>
+  <programme start="20210128154600 +0000" stop="20210128161500 +0000" channel="5dcde0657444a40009cd2422">
+    <title lang="es">Real Girl's Kitchen</title>
+    <desc lang="es">Cocinar para niños - ¡algo muy fácil! Bueno, en realidad no, cuando buscas una comida saludable. Jenna Dewan Tatum recluta la experiencia de Haylie para preparar una comida para niños en The Gentle Barn y Haylie salta al desafío.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128024600 +0000" channel="5dcde07af1c85b0009b18651">
     <title lang="es">Pluto TV Deportes</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127194400 +0000" stop="20210127201500 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Sport Stars Uncovered</title>
-    <desc lang="es">La sobrina golfista de Tiger Woods y las ganancias fuera de campo de Cristiano Ronaldo.</desc>
-  </programme>
-  <programme start="20210127201500 +0000" stop="20210127204700 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Abanderados</title>
-    <desc lang="es">Patricia Bermúdez es una atleta de origen humilde que lleva la práctica de la Lucha en un alto nivel deportivo.</desc>
-  </programme>
-  <programme start="20210127204700 +0000" stop="20210127212000 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Abanderados</title>
-    <desc lang="es">Federico Molinari viene de un linaje de atletas gimnastas y su determinación es un ejemplo en la Gimnasia Artística.</desc>
-  </programme>
-  <programme start="20210127212000 +0000" stop="20210127215000 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Abanderados</title>
-    <desc lang="es">Braian Toledo quería ser futbolista, pero para sobresalir en el deporte a dedicado todo su esfuerzo a un deporte nicho; la Jabalina.</desc>
-  </programme>
-  <programme start="20210127215000 +0000" stop="20210127222200 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Abanderados</title>
-    <desc lang="es">Las hermanas Etel y Sofia Sánchez, saben que en el agua está su segunda casa donde pueden expresar su deporte y arte gracias al nado sincronizado.</desc>
-  </programme>
-  <programme start="20210127222200 +0000" stop="20210127225100 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Guide To The Games</title>
-    <desc lang="es">El espectáculo que disecciona los 33 deportes de los Juegos Olímpicos de Tokio, analizando la forma y perfilando a los atletas que compiten por el oro en 2020.</desc>
-  </programme>
-  <programme start="20210127225100 +0000" stop="20210127232000 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Guide To The Games</title>
-    <desc lang="es">El espectáculo que disecciona los 33 deportes de los Juegos Olímpicos de Tokio, analizando la forma y perfilando a los atletas que compiten por el oro en 2020.</desc>
-  </programme>
-  <programme start="20210127232000 +0000" stop="20210127234900 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Countdown To Tokyo</title>
-    <desc lang="es">Observamos los desarrollos previos a los Juegos Olímpicos de Tokio, perfilar a los atletas, explorar las sedes y examinar los problemas relacionados con los Juegos de 2020.</desc>
-  </programme>
-  <programme start="20210127234900 +0000" stop="20210128001900 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Countdown To Tokyo</title>
-    <desc lang="es">Observamos los desarrollos previos a los Juegos Olímpicos de Tokio, perfilar a los atletas, explorar las sedes y examinar los problemas relacionados con los Juegos de 2020.</desc>
-  </programme>
-  <programme start="20210128001900 +0000" stop="20210128004900 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Correr Para Vivir</title>
-    <desc lang="es">Luego de un accidente hace 20 años, Ruben Grande perdió su pierna derecha por una infección. Ruben hoy es conferencista, autor y para-triatleta de alto rendimiento.  Su determinación lo obliga a usar dos prótesis diferentes durante el recorrido.</desc>
-  </programme>
-  <programme start="20210128004900 +0000" stop="20210128012000 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Correr Para Vivir</title>
-    <desc lang="es">Adrián, es un Administrador y Triatleta. Comenzó a hacer triatlones en 1998, pero no aguantó la intensidad y dejó el deporte. Años más tarde, luego de una severa enfermedad de tiroides, volvió a entrenar para recuperar su cuerpo.</desc>
-  </programme>
-  <programme start="20210128012000 +0000" stop="20210128014900 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Correr Para Vivir</title>
-    <desc lang="es">Aun cuando es un triatleta desde su juventud, sus compromisos profesionales y personales, separaron a José Manuel LaPiedra del deporte por mucho tiempo. Ahora tratará de volver en el Triatlón de la Paz (Baja California).</desc>
-  </programme>
-  <programme start="20210128014900 +0000" stop="20210128021700 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Correr Para Vivir</title>
-    <desc lang="es">Charis Rodríguez practica el deporte apenas hace un año. Licenciada en Informática, madre de un niño de 5 años y dueña de su propio negocio, Charis encontró en el triatlón la forma perfecta de demostrar que la voluntad no tiene límites.</desc>
-  </programme>
-  <programme start="20210128021700 +0000" stop="20210128024600 +0000" channel="5dcde07af1c85b0009b18651">
-    <title lang="es">Los Mejores Tries de la Historia</title>
-    <desc lang="es">Un programa con grandes tries de Inglaterra, Irlanda, de los Wallabies Australiano y de los magníficos Pumas Argentinos.</desc>
   </programme>
   <programme start="20210128024600 +0000" stop="20210128031400 +0000" channel="5dcde07af1c85b0009b18651">
     <title lang="es">Los Mejores Tries de la Historia</title>
@@ -700,41 +617,61 @@
     <title lang="es">Pure Outdoor</title>
     <desc lang="es">Terje Hackinson presenta lo mejor del talento Freeride del mundo: el Oakley Arctic Challenge de Oslo.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127192900 +0000" channel="5dcde0cc2efd2700090b7ff4">
+  <programme start="20210128101300 +0000" stop="20210128104200 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Pure Outdoor</title>
+    <desc lang="es">Esta semana nos dirigimos a algunos entornos épicos, ya que los Alpes europeos son la primera parada, le traemos un informe sobre una nueva y ambiciosa expedición de montañismo.</desc>
+  </programme>
+  <programme start="20210128104200 +0000" stop="20210128111100 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Pure Outdoor</title>
+    <desc lang="es">Volveremos a los Alpes europeos para ponernos al día con el progreso del Mammut Big Project.</desc>
+  </programme>
+  <programme start="20210128111100 +0000" stop="20210128114000 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Only Live Once</title>
+    <desc lang="es">Salimos con algunos de los principales escaladores del mundo en Austria. Y el Anual Vans Downtown Showdown, es un evento que presenta algunos de los mejores exponentes deportivos.</desc>
+  </programme>
+  <programme start="20210128114000 +0000" stop="20210128120900 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Only Live Once</title>
+    <desc lang="es">Dos de las principales corredoras de BMX femenino del mundo nos dan una idea de su deporte y relatan sus memorias olímpicas.</desc>
+  </programme>
+  <programme start="20210128120900 +0000" stop="20210128123800 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Only Live Once</title>
+    <desc lang="es">Solo se vive una vez incluye dos eventos que alcanzan sus emocionantes etapas finales; en primer lugar, la acción bajo techo del Porsche Arena de Stuttgart. Y llegamos a un choque real de los mayores talentos frente a frente en la Kimberley Diamond Cup.</desc>
+  </programme>
+  <programme start="20210128123800 +0000" stop="20210128130700 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Only Live Once</title>
+    <desc lang="es">Nos unimos a más de 30.000 espectadores en Zurich, para ver algunos de los mejores ciclistas del Dirt Mountain Bike. Andorra y los Pirineos proporcionan el telón de fondo para los Juegos FISE Slopestyle Pro.</desc>
+  </programme>
+  <programme start="20210128130700 +0000" stop="20210128133800 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Star Block Workout</title>
+    <desc lang="es">En este episodio, damos una mirada diferente a los entrenamientos, si le preguntas a alguien por qué Brasil es más famoso, obtendrás una respuesta: Es el fútbol, que impregna todos los aspectos de la vida en Brasil.</desc>
+  </programme>
+  <programme start="20210128133800 +0000" stop="20210128140900 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Star Block Workout</title>
+    <desc lang="es">En este episodio, visitamos Río de Janeiro, un destino que lo tiene todo: edificios de gran altura, una bulliciosa cultura callejera, montañas y bosques increíbles y un conjunto de playas que pueden competir con los mejores del mundo.</desc>
+  </programme>
+  <programme start="20210128140900 +0000" stop="20210128144000 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Star Block Workout</title>
+    <desc lang="es">En este episodio viajamos a Río de Janeiro, conocido como uno de los destinos de playa premium del mundo. Con Boost en la ciudad, Ipanema recibirá una dosis de locura de Block Workout: el sol, la arena, el mar y las rocas están a la orden del día.</desc>
+  </programme>
+  <programme start="20210128144000 +0000" stop="20210128151000 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Star Block Workout</title>
+    <desc lang="es">En este episodio vemos a Río de Janeiro, una ciudad increíblemente diversa y con ricos y pobres viviendo codo a codo en la vibrante y constantemente en expansión economía brasileña.</desc>
+  </programme>
+  <programme start="20210128151000 +0000" stop="20210128153500 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Conexión Yoga</title>
+    <desc lang="es">El yoga se ha convertido en un maravilloso medio de entrenamiento, concentración y un excelente complemento para una solución completa de atención médica.</desc>
+  </programme>
+  <programme start="20210128153500 +0000" stop="20210128155800 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Conexión Yoga</title>
+    <desc lang="es">El yoga se ha convertido en un maravilloso medio de entrenamiento, concentración y un excelente complemento para una solución completa de atención médica.</desc>
+  </programme>
+  <programme start="20210128155800 +0000" stop="20210128162700 +0000" channel="5dcde07af1c85b0009b18651">
+    <title lang="es">Namaste Yoga: Balanceo de piernas extendido</title>
+    <desc lang="es">Mezclando posturas fáciles de pie con equilibrios difíciles, la secuencia de Balance de piernas extendido desafía al profesional a mantener la integridad de la respiración de principio a fin.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128021900 +0000" channel="5dcde0cc2efd2700090b7ff4">
     <title lang="es">Pluto TV Novelas</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127192900 +0000" stop="20210127202200 +0000" channel="5dcde0cc2efd2700090b7ff4">
-    <title lang="es">Cuando Vivas Conmigo</title>
-    <desc lang="es">La Policía descubre que Josefita es inocente y es víctima de Tiburcio, el verdadero culpable. Entre tanto, “Escobita” y Magdalena ponen en marcha el plan con el que recuperarán su herencia.</desc>
-  </programme>
-  <programme start="20210127202200 +0000" stop="20210127211300 +0000" channel="5dcde0cc2efd2700090b7ff4">
-    <title lang="es">La fuerza del destino</title>
-    <desc lang="es">El matrimonio de Miguel Ángel y Laura está a punto de desmoronarse. Ella es estéril y eso los ha llevado a tener una relación enfermiza.</desc>
-  </programme>
-  <programme start="20210127211300 +0000" stop="20210127220300 +0000" channel="5dcde0cc2efd2700090b7ff4">
-    <title lang="es">La fuerza del destino</title>
-    <desc lang="es">El matrimonio de Miguel Ángel y Laura está a punto de desmoronarse. Ella es estéril y eso los ha llevado a tener una relación enfermiza.</desc>
-  </programme>
-  <programme start="20210127220300 +0000" stop="20210127225400 +0000" channel="5dcde0cc2efd2700090b7ff4">
-    <title lang="es">Sin tetas no hay paraíso</title>
-    <desc lang="es">El hombre oscuro le da la misión a Bairon y a su compañero de eliminar al magistrado con un tiempo límite de un mes. Catalina seduce a Octavio. El hombre las echa de la casa. Las mujeres se encuentran con el doctor para la cirugía de los senos.</desc>
-  </programme>
-  <programme start="20210127225400 +0000" stop="20210127234700 +0000" channel="5dcde0cc2efd2700090b7ff4">
-    <title lang="es">Sin tetas no hay paraíso</title>
-    <desc lang="es">A Catalina le realizan la operación, las mujeres son echadas del apartamento de Octavio pues él se ha enamorado de ella y se percata de una mentira por parte de ella. La mujer se ve con el Titi el cual se entusiasma por verla operada.</desc>
-  </programme>
-  <programme start="20210127234700 +0000" stop="20210128003900 +0000" channel="5dcde0cc2efd2700090b7ff4">
-    <title lang="es">Cuando Vivas Conmigo</title>
-    <desc lang="es">“Escobita” y Magdalena descubren que su padre les ha mentido y aún pueden recuperar su herencia. Entre tanto, Josefita se convierte en la principal sospechosa del secuestro de Mabel.</desc>
-  </programme>
-  <programme start="20210128003900 +0000" stop="20210128013200 +0000" channel="5dcde0cc2efd2700090b7ff4">
-    <title lang="es">Cuando Vivas Conmigo</title>
-    <desc lang="es">La Policía descubre que Josefita es inocente y es víctima de Tiburcio, el verdadero culpable. Entre tanto, “Escobita” y Magdalena ponen en marcha el plan con el que recuperarán su herencia.</desc>
-  </programme>
-  <programme start="20210128013200 +0000" stop="20210128021900 +0000" channel="5dcde0cc2efd2700090b7ff4">
-    <title lang="es">La mujer de Judas</title>
-    <desc lang="es">Natalia quiere buscar a “La Mujer de Judas” para contar su leyenda. Se siente irresistiblemente atraída hacia esa mujer, Altagracia del Toro, quien hace 23 años fue acusada de asesinar a un sacerdote.</desc>
   </programme>
   <programme start="20210128021900 +0000" stop="20210128030600 +0000" channel="5dcde0cc2efd2700090b7ff4">
     <title lang="es">La mujer de Judas</title>
@@ -776,33 +713,37 @@
     <title lang="es">Sinú, rio de pasiones</title>
     <desc lang="es">Pipe continúa arriesgando su vida en Bogotá, mientras en Montería la traición es la protagonista.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127192400 +0000" channel="5dcde1317578340009b751d0">
+  <programme start="20210128104900 +0000" stop="20210128114200 +0000" channel="5dcde0cc2efd2700090b7ff4">
+    <title lang="es">Sin tetas no hay paraíso</title>
+    <desc lang="es">A Catalina le realizan la operación, las mujeres son echadas del apartamento de Octavio pues él se ha enamorado de ella y se percata de una mentira por parte de ella. La mujer se ve con el Titi el cual se entusiasma por verla operada.</desc>
+  </programme>
+  <programme start="20210128114200 +0000" stop="20210128122900 +0000" channel="5dcde0cc2efd2700090b7ff4">
+    <title lang="es">La mujer de Judas</title>
+    <desc lang="es">Natalia quiere buscar a “La Mujer de Judas” para contar su leyenda. Se siente irresistiblemente atraída hacia esa mujer, Altagracia del Toro, quien hace 23 años fue acusada de asesinar a un sacerdote.</desc>
+  </programme>
+  <programme start="20210128122900 +0000" stop="20210128132200 +0000" channel="5dcde0cc2efd2700090b7ff4">
+    <title lang="es">Cuando Vivas Conmigo</title>
+    <desc lang="es">La Policía descubre que Josefita es inocente y es víctima de Tiburcio, el verdadero culpable. Entre tanto, “Escobita” y Magdalena ponen en marcha el plan con el que recuperarán su herencia.</desc>
+  </programme>
+  <programme start="20210128132200 +0000" stop="20210128141300 +0000" channel="5dcde0cc2efd2700090b7ff4">
+    <title lang="es">La fuerza del destino</title>
+    <desc lang="es">El matrimonio de Miguel Ángel y Laura está a punto de desmoronarse. Ella es estéril y eso los ha llevado a tener una relación enfermiza.</desc>
+  </programme>
+  <programme start="20210128141300 +0000" stop="20210128150300 +0000" channel="5dcde0cc2efd2700090b7ff4">
+    <title lang="es">La fuerza del destino</title>
+    <desc lang="es">El matrimonio de Miguel Ángel y Laura está a punto de desmoronarse. Ella es estéril y eso los ha llevado a tener una relación enfermiza.</desc>
+  </programme>
+  <programme start="20210128150300 +0000" stop="20210128155500 +0000" channel="5dcde0cc2efd2700090b7ff4">
+    <title lang="es">Sinú, rio de pasiones</title>
+    <desc lang="es">Pipe continúa arriesgando su vida en Bogotá, mientras en Montería la traición es la protagonista.</desc>
+  </programme>
+  <programme start="20210128155500 +0000" stop="20210128164800 +0000" channel="5dcde0cc2efd2700090b7ff4">
+    <title lang="es">Sin tetas no hay paraíso</title>
+    <desc lang="es">A Catalina le realizan la operación, las mujeres son echadas del apartamento de Octavio pues él se ha enamorado de ella y se percata de una mentira por parte de ella. La mujer se ve con el Titi el cual se entusiasma por verla operada.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128020100 +0000" channel="5dcde1317578340009b751d0">
     <title lang="es">Pluto TV Series</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127192400 +0000" stop="20210127201600 +0000" channel="5dcde1317578340009b751d0">
-    <title lang="es">Freaks and Geeks</title>
-    <desc lang="es">A Sam lo molesta una chica más grande de la escuela. Lindsay se sorprende cuando Kim es buena con ella, pero pronto se descubre la verdadera razón del cambio.</desc>
-  </programme>
-  <programme start="20210127201600 +0000" stop="20210127211200 +0000" channel="5dcde1317578340009b751d0">
-    <title lang="es">Doc Martin</title>
-    <desc lang="es">Aparece un viejo amigo de tía Joan, agitando viejos recuerdos. Mientras tanto, tanto Doc Martin como Elaine tienen dificultades con el afecto de otras personas.</desc>
-  </programme>
-  <programme start="20210127211200 +0000" stop="20210127220800 +0000" channel="5dcde1317578340009b751d0">
-    <title lang="es">Doc Martin</title>
-    <desc lang="es">Se está corriendo la voz en el pueblo sobre el "pequeño problema" del médico con la sangre. Cuando Peter Cronk está herido, la preocupación por él une a Martin y Louisa.</desc>
-  </programme>
-  <programme start="20210127220800 +0000" stop="20210127235300 +0000" channel="5dcde1317578340009b751d0">
-    <title lang="es">Steven Spielberg Presents Taken</title>
-    <desc lang="es">El capitán Crawford (Joel Gretsch) busca sin éxito al híbrido alienígena Jacob (Anton Yelchin), pero su proyecto rejuvenece cuando lo visita Jesse (James Kirk), un abducido frecuente.</desc>
-  </programme>
-  <programme start="20210127235300 +0000" stop="20210128005500 +0000" channel="5dcde1317578340009b751d0">
-    <title lang="es">New Blood</title>
-    <desc lang="es">¿Pueden Rash y Stefan descubrir la razón por la que Adam fue asesinado antes de que se les acabara el tiempo?</desc>
-  </programme>
-  <programme start="20210128005500 +0000" stop="20210128020100 +0000" channel="5dcde1317578340009b751d0">
-    <title lang="es">New Blood</title>
-    <desc lang="es">Rash y Stefan tienen que proteger a alguien cercano cuando muere el contador de una organización benéfica.</desc>
   </programme>
   <programme start="20210128020100 +0000" stop="20210128030300 +0000" channel="5dcde1317578340009b751d0">
     <title lang="es">New Blood</title>
@@ -836,73 +777,29 @@
     <title lang="es">Steven Spielberg Presents Taken</title>
     <desc lang="es">Charlie y Lisa se enteran de los poderes de su hija Allie cuando quedan atrapados en una situación peligrosa. Mary Crawford propone atrapar a la niña para la investigación del gobierno.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127194200 +0000" channel="5dcde17bf6591d0009839e02">
+  <programme start="20210128102000 +0000" stop="20210128120300 +0000" channel="5dcde1317578340009b751d0">
+    <title lang="es">Steven Spielberg Presents Taken</title>
+    <desc lang="es">El general Beers (James McDaniel) secuestra a Allie (Dakota Fanning), una híbrido alienígena, y planifica usarla como carnada para atraer a los extraterrestres hacia su trampa.</desc>
+  </programme>
+  <programme start="20210128120300 +0000" stop="20210128130500 +0000" channel="5dcde1317578340009b751d0">
+    <title lang="es">New Blood</title>
+    <desc lang="es">¿Pueden Rash y Stefan descubrir la razón por la que Adam fue asesinado antes de que se les acabara el tiempo?</desc>
+  </programme>
+  <programme start="20210128130500 +0000" stop="20210128141100 +0000" channel="5dcde1317578340009b751d0">
+    <title lang="es">New Blood</title>
+    <desc lang="es">Rash y Stefan tienen que proteger a alguien cercano cuando muere el contador de una organización benéfica.</desc>
+  </programme>
+  <programme start="20210128141100 +0000" stop="20210128151300 +0000" channel="5dcde1317578340009b751d0">
+    <title lang="es">New Blood</title>
+    <desc lang="es">Stefan sigue persiguiendo al cruel Daniel Lorca, mientras Rasj investiga a nuestro hijo.</desc>
+  </programme>
+  <programme start="20210128151300 +0000" stop="20210128161000 +0000" channel="5dcde1317578340009b751d0">
+    <title lang="es">Misfits</title>
+    <desc lang="es">No es la primera vez que Nathan es violentamente asesinado. Jessica, una trabajadora de caridad que es todo dulzura y luz, es su principal sospechoso. Los demás están convencidos de que Simon es el siguiente en su lista.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128025100 +0000" channel="5dcde17bf6591d0009839e02">
     <title lang="es">Pluto TV Anime</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127194200 +0000" stop="20210127201000 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">GGo Football</title>
-    <desc lang="es">Isaac hace que Myth entrene largo y duro, perfeccionando su disparo en la esquina superior izquierda de la portería. Isaac cree que hará una victoria. Pero de alguna manera, hay una gran pelea entre Isaac y Karl.</desc>
-  </programme>
-  <programme start="20210127201000 +0000" stop="20210127203600 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">BeyBlade Gen</title>
-    <desc lang="es">Kai recibe una nueva Beyblade creada por Kyojyu y anhela una revancha contra el Rey y la Reina.</desc>
-  </programme>
-  <programme start="20210127203600 +0000" stop="20210127210200 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">BeyBlade Gen</title>
-    <desc lang="es">Después de desaparecer hace treinta años, el Dr. Zagart se enfrenta a Daitokuji Kaichou en su habitación, obligándolo a ingresar a Zeo y Gordo en los preliminares del Campeonato Mundial.</desc>
-  </programme>
-  <programme start="20210127210200 +0000" stop="20210127212700 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">B-Daman Crossfire</title>
-    <desc lang="es">Cuando aparece un video de un misterioso B-Daman que no fue creado por WBMA, Riki y sus amigos son enviados a investigar. Después de reunirse con el alcalde de la ciudad y su nieto, Alba, los niños se escabullen en la noche para investigar algunas ruinas.</desc>
-  </programme>
-  <programme start="20210127212700 +0000" stop="20210127215200 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">B-Daman Crossfire</title>
-    <desc lang="es">La WBMA está estudiando la esfera antigua que Riki y sus amigos trajeron de regreso, con la esperanza de encontrar una manera de usarla para derrotar a Dragold.</desc>
-  </programme>
-  <programme start="20210127215200 +0000" stop="20210127221700 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">Yu-Gi-Oh!</title>
-    <desc lang="es">Yugi sacrificia sus propia estrellas para que Joey viaje en el bote yendo al Reino de los Duelos, para que pueda batirse en duelo para guardar la visión de su hermana, Serenity.</desc>
-  </programme>
-  <programme start="20210127221700 +0000" stop="20210127224200 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">Yu-Gi-Oh!</title>
-    <desc lang="es">Pegasus anuncia que hay muchos secretos raros que aseguran que su torneo máximo va ser como nada que se ha visto antes. ¡Yugi tendrá que resolver y dominar las reglas del concurso para sobrevivir!</desc>
-  </programme>
-  <programme start="20210127224200 +0000" stop="20210127231100 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">Inazuma Eleven</title>
-    <desc lang="es">El equipo de Raimon está armando todo después de la pelea contra Teikoku. Pero Someoka está celoso de no tener una técnica hissatsu como Gouenji.</desc>
-  </programme>
-  <programme start="20210127231100 +0000" stop="20210127234000 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">Inazuma Eleven</title>
-    <desc lang="es">El partido contra lo oculto está por comenzar. Pero antes de eso, Gouenji se une al equipo y Someoka está molesta por esto.</desc>
-  </programme>
-  <programme start="20210127234000 +0000" stop="20210128000900 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">Inuyasha</title>
-    <desc lang="es">Naraku ha ganado un nuevo cuerpo y ha renacido. Inuyasha intenta derrotarlo con una Cicatriz de Viento pero él atrapa la fuerza del ataque y lo lanza contra Kagome, Miroku y los demás. Mientras tanto, Kikyo ve a Kagura escapando del Monte Hakurei.</desc>
-  </programme>
-  <programme start="20210128000900 +0000" stop="20210128003800 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">Inuyasha</title>
-    <desc lang="es">Monte Hakurei es destruido. Koga cae al fondo de ella. Inuyasha lo salva. Cuando va a encontrarse con Kagome y los demás, que están tratando de escapar lo más rápido posible, ve una ilusión de Kikyo.</desc>
-  </programme>
-  <programme start="20210128003800 +0000" stop="20210128010600 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">GGo Football</title>
-    <desc lang="es">Isaac y su equipo se enfrentan oficialmente al equipo GGO de Shawn. Al equipo de Isaac no le gusta mucho Shawn, excepto por su compañera de clase Cat, que está enamorada de Shawn.</desc>
-  </programme>
-  <programme start="20210128010600 +0000" stop="20210128013400 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">GGo Football</title>
-    <desc lang="es">Isaac hace que Myth entrene largo y duro, perfeccionando su disparo en la esquina superior izquierda de la portería. Isaac cree que hará una victoria. Pero de alguna manera, hay una gran pelea entre Isaac y Karl.</desc>
-  </programme>
-  <programme start="20210128013400 +0000" stop="20210128020000 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">BeyBlade Gen</title>
-    <desc lang="es">Kai recibe una nueva Beyblade creada por Kyojyu y anhela una revancha contra el Rey y la Reina.</desc>
-  </programme>
-  <programme start="20210128020000 +0000" stop="20210128022600 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">BeyBlade Gen</title>
-    <desc lang="es">Después de desaparecer hace treinta años, el Dr. Zagart se enfrenta a Daitokuji Kaichou en su habitación, obligándolo a ingresar a Zeo y Gordo en los preliminares del Campeonato Mundial.</desc>
-  </programme>
-  <programme start="20210128022600 +0000" stop="20210128025100 +0000" channel="5dcde17bf6591d0009839e02">
-    <title lang="es">B-Daman Crossfire</title>
-    <desc lang="es">Cuando aparece un video de un misterioso B-Daman que no fue creado por WBMA, Riki y sus amigos son enviados a investigar. Después de reunirse con el alcalde de la ciudad y su nieto, Alba, los niños se escabullen en la noche para investigar algunas ruinas.</desc>
   </programme>
   <programme start="20210128025100 +0000" stop="20210128031600 +0000" channel="5dcde17bf6591d0009839e02">
     <title lang="es">B-Daman Crossfire</title>
@@ -972,61 +869,61 @@
     <title lang="es">Inazuma Eleven</title>
     <desc lang="es">La frontera del fútbol está por comenzar y Raimon se enfrenta a los espeluznantes saltadores de Nosei Junior High en su primer juego.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127190400 +0000" channel="5dcde197f6591d0009839e04">
+  <programme start="20210128102800 +0000" stop="20210128105700 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">Inuyasha</title>
+    <desc lang="es">Monte Hakurei es destruido. Koga cae al fondo de ella. Inuyasha lo salva. Cuando va a encontrarse con Kagome y los demás, que están tratando de escapar lo más rápido posible, ve una ilusión de Kikyo.</desc>
+  </programme>
+  <programme start="20210128105700 +0000" stop="20210128112600 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">Inuyasha</title>
+    <desc lang="es">Inuyasha es apartado de sus amigos cuando es engañado por información falsa de que Kikyo todavía está vivo. Mientras tanto, Kagome y los demás están en cierta ciudad del castillo. Son reprochados y capturados.</desc>
+  </programme>
+  <programme start="20210128112600 +0000" stop="20210128115400 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">GGo Football</title>
+    <desc lang="es">Isaac hace que Myth entrene largo y duro, perfeccionando su disparo en la esquina superior izquierda de la portería. Isaac cree que hará una victoria. Pero de alguna manera, hay una gran pelea entre Isaac y Karl.</desc>
+  </programme>
+  <programme start="20210128115400 +0000" stop="20210128122200 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">GGo Football</title>
+    <desc lang="es">El juego continua. El sol finalmente sale del fondo de las espesas nubes. ¡Isaac sabe que esta es una oportunidad y le ordena a Mito que le dispare a la esquina superior izquierda de la red.</desc>
+  </programme>
+  <programme start="20210128122200 +0000" stop="20210128124800 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">BeyBlade Gen</title>
+    <desc lang="es">Después de desaparecer hace treinta años, el Dr. Zagart se enfrenta a Daitokuji Kaichou en su habitación, obligándolo a ingresar a Zeo y Gordo en los preliminares del Campeonato Mundial.</desc>
+  </programme>
+  <programme start="20210128124800 +0000" stop="20210128131400 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">BeyBlade Gen</title>
+    <desc lang="es">Las finales del campeonato mundial de Beyblade están en marcha y las ocho parejas se presentan con el Rey y la Reina abucheados.</desc>
+  </programme>
+  <programme start="20210128131400 +0000" stop="20210128133900 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">B-Daman Crossfire</title>
+    <desc lang="es">La WBMA está estudiando la esfera antigua que Riki y sus amigos trajeron de regreso, con la esperanza de encontrar una manera de usarla para derrotar a Dragold.</desc>
+  </programme>
+  <programme start="20210128133900 +0000" stop="20210128140400 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">B-Daman Crossfire</title>
+    <desc lang="es">Mientras Riki y sus amigos entrenan para el Gran Premio Final, Rudy está furioso. Él y Dragold comienzan a desafiar a los otros B-Shots (jugador B-daman) para destruir a sus B-Damans y ni siquiera Novu puede controlarlos.</desc>
+  </programme>
+  <programme start="20210128140400 +0000" stop="20210128142900 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Pegasus anuncia que hay muchos secretos raros que aseguran que su torneo máximo va ser como nada que se ha visto antes. ¡Yugi tendrá que resolver y dominar las reglas del concurso para sobrevivir!</desc>
+  </programme>
+  <programme start="20210128142900 +0000" stop="20210128145400 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Despues que Yugi vence los primeros monstruos de duelos de Weevil,  el engañoso revela un truco final, ¡el Gran Moth hambrienta, que le sube el poder con cada turno!  ¿Podrar Yugi vencer esta monstruosidad lada antes que lo destruya a él?</desc>
+  </programme>
+  <programme start="20210128145400 +0000" stop="20210128152300 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">Inazuma Eleven</title>
+    <desc lang="es">El partido contra lo oculto está por comenzar. Pero antes de eso, Gouenji se une al equipo y Someoka está molesta por esto.</desc>
+  </programme>
+  <programme start="20210128152300 +0000" stop="20210128155200 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">Inazuma Eleven</title>
+    <desc lang="es">La frontera del fútbol está por comenzar y Raimon se enfrenta a los espeluznantes saltadores de Nosei Junior High en su primer juego.</desc>
+  </programme>
+  <programme start="20210128155200 +0000" stop="20210128162100 +0000" channel="5dcde17bf6591d0009839e02">
+    <title lang="es">Inuyasha</title>
+    <desc lang="es">Monte Hakurei es destruido. Koga cae al fondo de ella. Inuyasha lo salva. Cuando va a encontrarse con Kagome y los demás, que están tratando de escapar lo más rápido posible, ve una ilusión de Kikyo.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128025000 +0000" channel="5dcde197f6591d0009839e04">
     <title lang="es">Pluto TV Reality</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127190400 +0000" stop="20210127200400 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">¿Hay que ver para querer?</title>
-    <desc lang="es">Alejandra Azcárate nos lleva en un viaje de emociones para descubrir si es posible que dos personas se enamoren sin haberse visto nunca antes en su vida.</desc>
-  </programme>
-  <programme start="20210127200400 +0000" stop="20210127203100 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Balcony Stories: Vecinos en cuarentena</title>
-    <desc lang="es">“Balcony Stories: Vecinos en cuarentena” es un balcón que se abre al mundo.  Una forma de que todos seamos creativos, nos expresemos, estemos conectados y compartamos lo que hacen los demás.</desc>
-  </programme>
-  <programme start="20210127203100 +0000" stop="20210127205900 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Balcony Stories: Vecinos en cuarentena</title>
-    <desc lang="es">Balcony Stories: Vecinos en cuarentena es un balcón que se abre al mundo.  Una forma de que todos seamos creativos, nos expresemos, estemos conectados y compartamos lo que hacen los demás.</desc>
-  </programme>
-  <programme start="20210127205900 +0000" stop="20210127212600 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Des Hecho En Casa</title>
-    <desc lang="es">¡Armando Hoyos hace una aparición especial en el programa mientras Ale y Eugenio empiezan a mostrar el verdadero lado de su vida glamorosa!</desc>
-  </programme>
-  <programme start="20210127212600 +0000" stop="20210127215400 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Des Hecho En Casa</title>
-    <desc lang="es">El no salir está afectando a todos en casa ¡Hasta a Fiona! Pero Eugenio se sigue tratando de mantener sano conectando con sus hijos y recordando con Omar Chaparro.</desc>
-  </programme>
-  <programme start="20210127215400 +0000" stop="20210127224300 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Educando a Ozzy Osbourne</title>
-    <desc lang="es">Por más de 50años Cuba estuvo prohibida para viajeros provenientes de EE.UU pero ahora las puertas están abiertas y Jack y Ozzy se dirigen al país de la revolución y agitación de la guerra fría para ver un poco de la historia que ha estado escondida.</desc>
-  </programme>
-  <programme start="20210127224300 +0000" stop="20210127233200 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Educando a Ozzy Osbourne</title>
-    <desc lang="es">Ozzy y Jack van al lugar de nacimiento del rock and roll: Memphis, Tennessee. Ozzy está emocionado de ver el histórico Estudio Sun, pero Jack quiere desviarse y llevar a su papá a un lugar más conocido.</desc>
-  </programme>
-  <programme start="20210127233200 +0000" stop="20210127235700 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Beverly Hills Pawn</title>
-    <desc lang="es">En Beverly Hills Pawn, el jefe se prueba las gafas de sol de Heather Graham de las "Boogie Nights" nominadas al Oscar, y un cliente extravagante halaga a Aria y prueba suerte con Yossi, antes de marcharse con las manos vacías.</desc>
-  </programme>
-  <programme start="20210127235700 +0000" stop="20210128002200 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Beverly Hills Pawn</title>
-    <desc lang="es">En la casa de empeños más glamorosa del planeta, Yossi y Cory dan la bienvenida a un pariente de la leyenda de la moda Tommy Hilfiger, que está tratando de descargar una exquisita reliquia familiar con incrustaciones de diamantes.</desc>
-  </programme>
-  <programme start="20210128002200 +0000" stop="20210128004700 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Beverly Hills Pawn</title>
-    <desc lang="es">En este episodio de Beverly Hills Pawn, un caniche blanco esponjoso visita la tienda con sus dos escandalosos dueños. Cory y Aria tienen las manos ocupadas ayudándolos a elegir el regalo de cumpleaños perfecto para el cachorro mimado.</desc>
-  </programme>
-  <programme start="20210128004700 +0000" stop="20210128011100 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Beverly Hills Pawn</title>
-    <desc lang="es">Es un día fantástico para disfrazarse en The Dina Collection. Primero, el "Schwartz" está con Domique y Cory cuando se les presenta un traje espacial adecuado para un MOG.</desc>
-  </programme>
-  <programme start="20210128011100 +0000" stop="20210128020100 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Cazadores de tesoros</title>
-    <desc lang="es">Frank se emociona mucho mientras que Mike y él descubren artículos en un museo de juguetes que acaba de cerrar… y cuya colección de tesoros ahora está a la venta.</desc>
-  </programme>
-  <programme start="20210128020100 +0000" stop="20210128025000 +0000" channel="5dcde197f6591d0009839e04">
-    <title lang="es">Cazadores de tesoros</title>
-    <desc lang="es">Mike y Frank se encuentran en el valle de Napa y, en lugar de recolectar uvas, buscan tesoros dentro de una de las colecciones vinícolas más grandes del mundo, todo antes de que el dueño grite “Última llamada”.</desc>
   </programme>
   <programme start="20210128025000 +0000" stop="20210128033900 +0000" channel="5dcde197f6591d0009839e04">
     <title lang="es">Educando a Ozzy Osbourne</title>
@@ -1064,137 +961,53 @@
     <title lang="es">Air Rescue</title>
     <desc lang="es">Pedro y sus amigos han viajado desde España para recorrer el famoso Overland Track de Tasmania.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127195600 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Pluto TV Investiga</title>
-    <desc lang="es">No information available.</desc>
+  <programme start="20210128102500 +0000" stop="20210128105500 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Air Rescue</title>
+    <desc lang="es">Turista estadounidense, Alyce salió a dar un paseo por la tarde, pero dio un giro equivocado, y ahora está perdida. ¿Dónde está Alyce?</desc>
   </programme>
-  <programme start="20210127195600 +0000" stop="20210127205600 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Los archivos del FBI</title>
-    <desc lang="es">En 1992, una madre joven fue baleada frente a su hijo. La policía buscó respuestas, pero no encontró ninguna. El horrible crimen parecía carente de motivo y sentido, solo por azar.</desc>
+  <programme start="20210128105500 +0000" stop="20210128112300 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Balcony Stories: Vecinos en cuarentena</title>
+    <desc lang="es">Balcony Stories: Vecinos en cuarentena es un balcón que se abre al mundo.  Una forma de que todos seamos creativos, nos expresemos, estemos conectados y compartamos lo que hacen los demás.</desc>
   </programme>
-  <programme start="20210127205600 +0000" stop="20210127215600 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Los archivos del FBI</title>
-    <desc lang="es">En Memphis, Tennessee, un horrible crimen dejó aterrados a los residentes de la zona. Cuando una madre joven y acaudalada fue secuestrada frente a la casa de sus suegros, la policía tenía muchos sospechosos.</desc>
+  <programme start="20210128112300 +0000" stop="20210128115100 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Balcony Stories: Vecinos en cuarentena</title>
+    <desc lang="es">“Balcony Stories: Vecinos en cuarentena” es un balcón que se abre al mundo.  Una forma de que todos seamos creativos, nos expresemos, estemos conectados y compartamos lo que hacen los demás.</desc>
   </programme>
-  <programme start="20210127215600 +0000" stop="20210127225600 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">The New Detectives</title>
-    <desc lang="es">Una niña jugando en su patio en Spokane, Washington de repente desaparece. En San Luis, otra chica sale a visitar a una amiga. Nunca llega. Los padres horrorizados temen que sus hijos hayan sido secuestrados o algo peor.</desc>
+  <programme start="20210128115100 +0000" stop="20210128121900 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Des Hecho En Casa</title>
+    <desc lang="es">El no salir está afectando a todos en casa ¡Hasta a Fiona! Pero Eugenio se sigue tratando de mantener sano conectando con sus hijos y recordando con Omar Chaparro.</desc>
   </programme>
-  <programme start="20210127225600 +0000" stop="20210127235600 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">The New Detectives</title>
-    <desc lang="es">Generalmente, una víctima nunca predice peligro cuando el perpetrador es un amigo o un amante. La ciencia y la evidencia microscópica pueden desenmascarar a estos asesinos y encontrar justicia para quienes son matados por el amor.</desc>
+  <programme start="20210128121900 +0000" stop="20210128124700 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Des Hecho En Casa</title>
+    <desc lang="es">Eugenio se lleva una grande sorpresa cuando sus hijos y esposa le confiesan ciertas cosas mientras juegan desde sus casas, y también conecta con quien era su hija en televisión, Regina Blandón.</desc>
   </programme>
-  <programme start="20210127235600 +0000" stop="20210128013700 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Narco América</title>
-    <desc lang="es">Las ciudades de EE. UU. explotan con la violencia por drogas mientras el gobierno de Clinton abre las puertas a los cárteles mexicanos y aumentan las penas de cárceles.</desc>
+  <programme start="20210128124700 +0000" stop="20210128131200 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Beverly Hills Pawn</title>
+    <desc lang="es">En este episodio de Beverly Hills Pawn, un caniche blanco esponjoso visita la tienda con sus dos escandalosos dueños. Cory y Aria tienen las manos ocupadas ayudándolos a elegir el regalo de cumpleaños perfecto para el cachorro mimado.</desc>
   </programme>
-  <programme start="20210128013700 +0000" stop="20210128023400 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Interpol Investiga</title>
-    <desc lang="es">Ira Einhorn, un renombrado gurú de la Nueva Era mató a su novia en Filadelfia a finales de los 70 y luego desapareció. La Interpol lo rastreó hasta  Inglaterra.</desc>
+  <programme start="20210128131200 +0000" stop="20210128133600 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Beverly Hills Pawn</title>
+    <desc lang="es">Es un día fantástico para disfrazarse en The Dina Collection. Primero, el "Schwartz" está con Domique y Cory cuando se les presenta un traje espacial adecuado para un MOG.</desc>
   </programme>
-  <programme start="20210128023400 +0000" stop="20210128033300 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Interpol Investiga</title>
-    <desc lang="es">Es el fin de semana de Acción de Gracias, 23 de noviembre de 1985, y el aeropuerto de Atenas está lleno. A pesar de las multitudes, la seguridad es increíblemente laxa.</desc>
+  <programme start="20210128133600 +0000" stop="20210128140000 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Beverly Hills Pawn</title>
+    <desc lang="es">Hoy, algunas de las leyendas más grandes de Hollywood aparecen en Beverly Hills Pawn. Un cliente por primera vez llega con un bebé Ewok de Return of the Jedi, luego supera sus nervios para intercambiar impresiones de Star Wars con Aria y Cory.</desc>
   </programme>
-  <programme start="20210128033300 +0000" stop="20210128043300 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Los archivos del FBI</title>
-    <desc lang="es">En 1997, una serie de crímenes en una pequeña comunidad agrícola de Iowa dejó a los residentes sorprendidos y aterrados.</desc>
+  <programme start="20210128140000 +0000" stop="20210128142400 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Beverly Hills Pawn</title>
+    <desc lang="es">En Beverly Hills Pawn, Cory y Yossi se encuentran cara a cara con un hombre con una pistola. Afortunadamente, es un arma famosa de una película legendaria de James Bond y está cargada de historia de Hollywood, no de balas.</desc>
   </programme>
-  <programme start="20210128043300 +0000" stop="20210128053300 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Los archivos del FBI</title>
-    <desc lang="es">A finales de los ochenta, las importaciones de cocaína en Florida estaban entre las más altas del país. El homicidio y la intimidación se impusieron en los territorios.</desc>
+  <programme start="20210128142400 +0000" stop="20210128151300 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Cazadores de tesoros</title>
+    <desc lang="es">Dos hermanos son mejores que uno cuando se trata de negociar, lo cual hace que Mike quiera unirse para salvar su resultado final.</desc>
   </programme>
-  <programme start="20210128053300 +0000" stop="20210128063300 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">The New Detectives</title>
-    <desc lang="es">En Carolina del Norte, el hogar de una pareja prominente se convierte en una escena improbable de derramamiento de sangre terrible.</desc>
+  <programme start="20210128151300 +0000" stop="20210128160300 +0000" channel="5dcde197f6591d0009839e04">
+    <title lang="es">Cazadores de tesoros</title>
+    <desc lang="es">Al llegar por primera vez a Nueva México, los muchachos van a ver directamente a Roswell, pero se desvían a un pueblo del Lejano Oeste con un artículo de un millón de dólares para vender.</desc>
   </programme>
-  <programme start="20210128063300 +0000" stop="20210128073300 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">The New Detectives</title>
-    <desc lang="es">Para el detective astuto y especialista forense, las pistas más importantes a menudo se ocultan a simple vista, y lo que parece trivial para algunos es, en realidad, evidencia crítica.</desc>
-  </programme>
-  <programme start="20210128073300 +0000" stop="20210128083300 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">The Prosecutors: In Pursuit of Justice</title>
-    <desc lang="es">En 1992, la actividad criminal de las pandillas en Chicago está en aumento y cada vez hay más muertes. Para detener a una de ellas se requerirá el esfuerzo en conjunto de la policía de Chicago, cinco agencias federales y un fiscal distinguido.</desc>
-  </programme>
-  <programme start="20210128083300 +0000" stop="20210128090100 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Archivos Forenses</title>
-    <desc lang="es">Una niña es testigo del asesinato de su madre en 1992. El asesinato queda sin resolver por años.</desc>
-  </programme>
-  <programme start="20210128090100 +0000" stop="20210128092900 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Archivos Forenses</title>
-    <desc lang="es">Un pistolero enmascarado atacó a una familia entera.</desc>
-  </programme>
-  <programme start="20210128092900 +0000" stop="20210128095700 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Archivos Forenses</title>
-    <desc lang="es">Rachael Mullenix, de 19, fue condenada de apuñalar a su madre, Barbara Mullenix, en el 2006. Ella supuestamente empacó el cuerpo sangriento de su madre en una caja de cartón antes de tirarla en el Newport Bay de California.</desc>
-  </programme>
-  <programme start="20210128095700 +0000" stop="20210128102500 +0000" channel="5dcde27ffae9520009c0c75a">
-    <title lang="es">Archivos Forenses</title>
-    <desc lang="es">El 20 de Mayo del 2001, Carrie Nelson fue golpeada hasta su muerte mientras trabajaban en un parque de oficinas. El caso transcurrió sin resolver por seis años.</desc>
-  </programme>
-  <programme start="20210127120000 +0000" stop="20210127195400 +0000" channel="5dcde2ac4bc6c500094ab45b">
+  <programme start="20210128000000 +0000" stop="20210128023600 +0000" channel="5dcde2ac4bc6c500094ab45b">
     <title lang="es">Pluto TV Junior</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127195400 +0000" stop="20210127202300 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Episodio 23</title>
-    <desc lang="es">Hello Kitty y sus amigos aprenden importantes lecciones de vida, hacen nuevos amigos y viven aventuras emocionantes. Venga con la gata más tierna y aprenda sobre la importancia de explorar um mundo fascinante.</desc>
-  </programme>
-  <programme start="20210127202300 +0000" stop="20210127205200 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Episodio 24</title>
-    <desc lang="es">Hello Kitty y sus amigos aprenden importantes lecciones de vida, hacen nuevos amigos y viven aventuras emocionantes. Venga con la gata más tierna y aprenda sobre la importancia de explorar um mundo fascinante.</desc>
-  </programme>
-  <programme start="20210127205200 +0000" stop="20210127212300 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Barney</title>
-    <desc lang="es">¡Todos aman a Barney! Cuando Ryan trata de ser como Barney, le cuesta mucho llenar los zapatos del dinosaurio. / Baby Bop está teniendo "uno de esos días" Cada vez que se da vuelta, alguien le dice "¡no!".</desc>
-  </programme>
-  <programme start="20210127212300 +0000" stop="20210127214800 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Los Doodlebop</title>
-    <desc lang="es">Los Doodlebops reciben una llamada telefónica de Bob: el autobús se rompió. ¿Cómo van a ir al show sin el autobús? Lo único que pueden hacer los Doodlebops es tratar de llegar al teatro por su cuenta.</desc>
-  </programme>
-  <programme start="20210127214800 +0000" stop="20210127220100 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Jelly Jamm LATAM</title>
-    <desc lang="es">El disco de sonidos se ha vuelto loco y todos los sonidos en Jammbo han cambiado, causando un gran caos.</desc>
-  </programme>
-  <programme start="20210127220100 +0000" stop="20210127221400 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Jelly Jamm LATAM</title>
-    <desc lang="es">Bello tiene que usar un parche en el ojo. Se siente incómodo y desanimado por su aspecto. Afortunadamente, sus amigos usan la sabiduría de una canción para recordarle que cualquier problema puede convertirse en algo divertido.</desc>
-  </programme>
-  <programme start="20210127221400 +0000" stop="20210127224500 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Aventuras de Juana la Iguana</title>
-    <desc lang="es">Juana y sus amigos deben resolver el acertijo de los números.</desc>
-  </programme>
-  <programme start="20210127224500 +0000" stop="20210127231600 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Clifford</title>
-    <desc lang="es">Las aventuras de un perro rojo más grande que la vida en la isla de Bridwell.</desc>
-  </programme>
-  <programme start="20210127231600 +0000" stop="20210127234700 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Clifford</title>
-    <desc lang="es">Las aventuras de un perro rojo más grande que la vida en la isla de Bridwell.</desc>
-  </programme>
-  <programme start="20210127234700 +0000" stop="20210128001800 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Clifford</title>
-    <desc lang="es">Las aventuras de un perro rojo más grande que la vida en la isla de Bridwell.</desc>
-  </programme>
-  <programme start="20210128001800 +0000" stop="20210128003300 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">El Show de Juana</title>
-    <desc lang="es">Canciones, cuentos, manualidades y recetas divertidas.</desc>
-  </programme>
-  <programme start="20210128003300 +0000" stop="20210128010400 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Barney</title>
-    <desc lang="es">¡Hay un concurso de pesca en el parque! Cuando Ryan se siente tentado a no seguir las reglas. / Cuando Riff se encuentra con un amigo que no puede escuchar bien, él se pregunta si todavía le gustaría la música.</desc>
-  </programme>
-  <programme start="20210128010400 +0000" stop="20210128011700 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">El Show de Artesanías de Kooki</title>
-    <desc lang="es">Kooki hace un hermoso brazalete de cuentas y luego lucha contra dragones de su castillo de cartón.</desc>
-  </programme>
-  <programme start="20210128011700 +0000" stop="20210128014200 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Los Doodlebop</title>
-    <desc lang="es">Moe quiere jugar, pero todo el mundo está leyendo. Hasta Bob está enfrascado en su libro favorito: el Manual del Propietario del Autobús Doodlebop. Deedee y Rooney intentan que Moe se interese por la lectura, pero a él no le divierte para nada.</desc>
-  </programme>
-  <programme start="20210128014200 +0000" stop="20210128023600 +0000" channel="5dcde2ac4bc6c500094ab45b">
-    <title lang="es">Little Baby Bum</title>
-    <desc lang="es">Little Baby Bum es un espectáculo divertido y educativo para niños con canciones infantiles clásicas y nuevas. Con sus amigos y familiares, Mia, de 6 años, experimenta el mundo que la rodea a través de canciones y, a veces, también con un poco de magia.</desc>
   </programme>
   <programme start="20210128023600 +0000" stop="20210128030300 +0000" channel="5dcde2ac4bc6c500094ab45b">
     <title lang="es">Corduroy</title>
@@ -1268,21 +1081,57 @@
     <title lang="es">Jelly Jamm LATAM</title>
     <desc lang="es">Goomo ha decidido dar 100.000 pasos con un par de zapatillas mágicas que lo llevarán a un tesoro increíble. Al menos eso es lo que él cree porque sus amigos piensan que se ha vuelto loco. Al final, ¿quién gana?</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127192800 +0000" channel="5dcde437229eff00091b6c30">
+  <programme start="20210128101000 +0000" stop="20210128102300 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Jelly Jamm LATAM</title>
+    <desc lang="es">¿Qué necesita un agente especial? ¿Qué inventos increíbles podemos crear con nuestros objetos cotidianos? Mina tiene la respuesta. Pronto demostrará a sus amigos que la ciencia no necesita ser aburrida.</desc>
+  </programme>
+  <programme start="20210128102300 +0000" stop="20210128111800 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Little Baby Bum</title>
+    <desc lang="es">Little Baby Bum es un espectáculo divertido y educativo para niños con canciones infantiles clásicas y nuevas. Con sus amigos y familiares, Mia, de 6 años, experimenta el mundo que la rodea a través de canciones y, a veces, también con un poco de magia.</desc>
+  </programme>
+  <programme start="20210128111800 +0000" stop="20210128114900 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Aventuras de Juana la Iguana</title>
+    <desc lang="es">El juego del Ozono se convierte en una increíble aventura, que transporta a Juana y sus amigos en el tiempo y el espacio.</desc>
+  </programme>
+  <programme start="20210128114900 +0000" stop="20210128121400 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Los Doodlebop</title>
+    <desc lang="es">Moe quiere jugar, pero todo el mundo está leyendo. Hasta Bob está enfrascado en su libro favorito: el Manual del Propietario del Autobús Doodlebop. Deedee y Rooney intentan que Moe se interese por la lectura, pero a él no le divierte para nada.</desc>
+  </programme>
+  <programme start="20210128121400 +0000" stop="20210128124600 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Timothy Va A La Escuela</title>
+    <desc lang="es">Nora empieza a ver cambios en su vida diaria. / Un día están jugando los niños a hacer una pirámide humana.</desc>
+  </programme>
+  <programme start="20210128124600 +0000" stop="20210128131800 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Timothy Va A La Escuela</title>
+    <desc lang="es">Lilly siempre esta distraída y olvida donde deja las cosas. / Frank 1 y frank 2 están jugando y de pronto frank 1 se siente mal.</desc>
+  </programme>
+  <programme start="20210128131800 +0000" stop="20210128135000 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Timothy Va A La Escuela</title>
+    <desc lang="es">La señora jenkins les dice que al otro día van a pintar. / El papá de Timothy le avisa a Timothy que los Frank van a pasar la noche.</desc>
+  </programme>
+  <programme start="20210128135000 +0000" stop="20210128142100 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Clifford</title>
+    <desc lang="es">Las aventuras de un perro rojo más grande que la vida en la isla de Bridwell.</desc>
+  </programme>
+  <programme start="20210128142100 +0000" stop="20210128150000 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">My Magic Pet Morphle</title>
+    <desc lang="es">Morphle puede transformarse en cualquier cosa que su compañera humana Mila quiera. ¡Desde dinosaurios hasta automóviles, vehículos de construcción como excavadoras, camiones volquete y grúas hasta mascotas como gatos perros!</desc>
+  </programme>
+  <programme start="20210128150000 +0000" stop="20210128152600 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">¿Qué tipo de transporte es ese? / Dibujando retratos / Diferentes trabajos</title>
+    <desc lang="es">A Hello Kitty y su hermana Mimmy les encanta explorar y aprender cosas nuevas. ¡Más aún cuando las pueden compartir con amigos!  Es divertido aprender del mundo que nos rodea: desde cómo cuidar las flores, bailar y hasta practicar los buenos modales.</desc>
+  </programme>
+  <programme start="20210128152600 +0000" stop="20210128155400 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Caillou</title>
+    <desc lang="es">Caillou nota que a Sarah se le está por caer un diente y se horroriza. Caillou quiere ser tan alto como su amigo André.</desc>
+  </programme>
+  <programme start="20210128155400 +0000" stop="20210128160900 +0000" channel="5dcde2ac4bc6c500094ab45b">
+    <title lang="es">Canta con Juana (Karaoke English)</title>
+    <desc lang="es">Canciones en Inglés parte 2.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128005400 +0000" channel="5dcde437229eff00091b6c30">
     <title lang="es">Pluto TV Cine Estelar</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127192800 +0000" stop="20210127211000 +0000" channel="5dcde437229eff00091b6c30">
-    <title lang="es">Sin Regreso</title>
-    <desc lang="es">Mitchel y Carter son dos viejos amigos que se proponen realizar un viaje lleno de aventuras. Pero cuando comienza su viaje de placer no son capaces de imaginar el giro que está a punto de dar su amistad y sus vidas.</desc>
-  </programme>
-  <programme start="20210127211000 +0000" stop="20210127230800 +0000" channel="5dcde437229eff00091b6c30">
-    <title lang="es">Lo que no mata</title>
-    <desc lang="es">Dos amigos de la infancia, Brain y Paulie, salen en libertad tras pasar una temporada en la cárcel. Es momento de empezar de nuevo, al menos para Brian; puesto que Paulie aún tiene en mente un último golpe...</desc>
-  </programme>
-  <programme start="20210127230800 +0000" stop="20210128005400 +0000" channel="5dcde437229eff00091b6c30">
-    <title lang="es">Urge</title>
-    <desc lang="es">Una paseo a una isla se torna mortal cuando el misterioso dueño de un club nocturno introduce a un grupo de amigos a una droga que no puede tomarse más de una vez.</desc>
   </programme>
   <programme start="20210128005400 +0000" stop="20210128030700 +0000" channel="5dcde437229eff00091b6c30">
     <title lang="es">Persecución Inminente</title>
@@ -1304,37 +1153,21 @@
     <title lang="es">Margin Call</title>
     <desc lang="es">Inspirado en el colapso financiero mundial del 2008, Margin Call se lleva a cabo en las oficinas de Wall Street de un banco de inversión de gran alcance durante las peores 24 horas de su historia financiera.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127193100 +0000" channel="5dd6ab8056beb000091fc6b6">
+  <programme start="20210128110200 +0000" stop="20210128131300 +0000" channel="5dcde437229eff00091b6c30">
+    <title lang="es">Secretos Peligrosos</title>
+    <desc lang="es">Una agente de la policía de Nebraska viaja a Bosnia como observadora de las Naciones Unidas tras la guerra de los Balcanes. Allí descubre la existencia de una red de trata de blancas.</desc>
+  </programme>
+  <programme start="20210128131300 +0000" stop="20210128151900 +0000" channel="5dcde437229eff00091b6c30">
+    <title lang="es">Amores Peligrosos</title>
+    <desc lang="es">A comienzos de los años setenta, el periodista Ward Jansen regresa a su pueblo natal en Florida para investigar el caso de Hillary Van Wetter , un hombre que ha sido condenado a muerte por haber matado en 1969 a un corrupto sheriff local.</desc>
+  </programme>
+  <programme start="20210128151900 +0000" stop="20210128171600 +0000" channel="5dcde437229eff00091b6c30">
+    <title lang="es">Punto de Ruptura</title>
+    <desc lang="es">Un abogado drogadicto se enfrenta en la corte a una corporación de suministros médicos mientras pelea con sus propios demonios personales.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128023800 +0000" channel="5dd6ab8056beb000091fc6b6">
     <title lang="es">Pluto TV Hogar</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127193100 +0000" stop="20210127204600 +0000" channel="5dd6ab8056beb000091fc6b6">
-    <title lang="es">Great Interior Design Challenge</title>
-    <desc lang="es">Kelly y Daniel serán tutoras y apoyarán a 9 nuevos diseñadores aficionados talentosos que lucharán por el título de campeón del Gran desafío de diseño de Interiores.</desc>
-  </programme>
-  <programme start="20210127204600 +0000" stop="20210127220100 +0000" channel="5dd6ab8056beb000091fc6b6">
-    <title lang="es">Great Interior Design Challenge</title>
-    <desc lang="es">Kelly y Daniel serán tutoras y apoyarán a 9 nuevos diseñadores aficionados talentosos que lucharán por el título de campeón del Gran desafío de diseño de Interiores.</desc>
-  </programme>
-  <programme start="20210127220100 +0000" stop="20210127230100 +0000" channel="5dd6ab8056beb000091fc6b6">
-    <title lang="es">Unreal Estate</title>
-    <desc lang="es">Kate descubre un paraíso palaciego en el arrecife de Great Barrier mientras Cam se dirige al oeste para explorar la casa de escondite de Lady Gaga.</desc>
-  </programme>
-  <programme start="20210127230100 +0000" stop="20210127234900 +0000" channel="5dd6ab8056beb000091fc6b6">
-    <title lang="es">Extreme Makeover Home Edition</title>
-    <desc lang="es">"Extreme makeover: home edition” reconstruye un hogar para una familia que tomó la custodia de cinco niños pequeños que quedaron huérfanos por la muerte de sus padres.</desc>
-  </programme>
-  <programme start="20210127234900 +0000" stop="20210128003800 +0000" channel="5dd6ab8056beb000091fc6b6">
-    <title lang="es">Extreme Makeover Home Edition</title>
-    <desc lang="es">Extreme makeover: home edition” ofrece un nuevo hogar para una madre soltera y sus cuatro hijos que han estado viviendo en el comedor de la casa de sus padres.</desc>
-  </programme>
-  <programme start="20210128003800 +0000" stop="20210128013800 +0000" channel="5dd6ab8056beb000091fc6b6">
-    <title lang="es">Obsessive Compulsive Cleaners</title>
-    <desc lang="es">Ex-azafato Richard, de Hastings, limpia con cloro su refrigerador cuatro veces a la semana y ajusta sus cojines a diario.</desc>
-  </programme>
-  <programme start="20210128013800 +0000" stop="20210128023800 +0000" channel="5dd6ab8056beb000091fc6b6">
-    <title lang="es">Obsessive Compulsive Cleaners</title>
-    <desc lang="es">En este tercer episodio más limpiadores compulsivos serán cuidadosamente emparejados con alguien cuya casa desesperadamente necesita una buena limpiada.</desc>
   </programme>
   <programme start="20210128023800 +0000" stop="20210128032700 +0000" channel="5dd6ab8056beb000091fc6b6">
     <title lang="es">Extreme Makeover Home Edition</title>
@@ -1368,61 +1201,33 @@
     <title lang="es">Unreal Estate</title>
     <desc lang="es">Kate y Cam revisan los hogares de algunos de los artistas más celebrados de Australia y descubren que sus casas son más bien obras de arte.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127191000 +0000" channel="5dd6d935d000120009bc1132">
+  <programme start="20210128104800 +0000" stop="20210128113700 +0000" channel="5dd6ab8056beb000091fc6b6">
+    <title lang="es">Extreme Makeover Home Edition</title>
+    <desc lang="es">"Extreme makeover: home edition” ayuda a una familia de cuatro personas que sacrificaron todo y acogieron a cinco sobrinas y sobrinos para mantenerlos fuera del sistema de cuidado de crianza.</desc>
+  </programme>
+  <programme start="20210128113700 +0000" stop="20210128122800 +0000" channel="5dd6ab8056beb000091fc6b6">
+    <title lang="es">Extreme Makeover Home Edition</title>
+    <desc lang="es">Una madre soltera que adoptó tres hijos, dos de los cuales son HIV positivos, reconstruirá su hogar.</desc>
+  </programme>
+  <programme start="20210128122800 +0000" stop="20210128132800 +0000" channel="5dd6ab8056beb000091fc6b6">
+    <title lang="es">Obsessive Compulsive Cleaners</title>
+    <desc lang="es">Alison fue diagnosticada con OCD hace seis años y pasa más de 30 horas a la semana manteniendo su casa de cinco cuartos en Morton, Lincolnshire, en forma inmaculada.</desc>
+  </programme>
+  <programme start="20210128132800 +0000" stop="20210128142800 +0000" channel="5dd6ab8056beb000091fc6b6">
+    <title lang="es">Obsessive Compulsive Cleaners</title>
+    <desc lang="es">En el episodio dos más limpiadores compulsivos serán asignados a alguien cuya casa desesperadamente necesita una buena limpiada.</desc>
+  </programme>
+  <programme start="20210128142800 +0000" stop="20210128154300 +0000" channel="5dd6ab8056beb000091fc6b6">
+    <title lang="es">Great Interior Design Challenge</title>
+    <desc lang="es">Kelly y Daniel serán tutoras y apoyarán a 9 nuevos diseñadores aficionados talentosos que lucharán por el título de campeón del Gran desafío de diseño de Interiores.</desc>
+  </programme>
+  <programme start="20210128154300 +0000" stop="20210128165800 +0000" channel="5dd6ab8056beb000091fc6b6">
+    <title lang="es">Great Interior Design Challenge</title>
+    <desc lang="es">Kelly y Daniel serán tutoras y apoyarán a 9 nuevos diseñadores aficionados talentosos que lucharán por el título de campeón del Gran desafío de diseño de Interiores.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128025300 +0000" channel="5dd6d935d000120009bc1132">
     <title lang="es">Pluto TV  Competencias</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127191000 +0000" stop="20210127201100 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">The Wall Uruguay</title>
-    <desc lang="es">The Wall es un programa de juegos tremendamente impredecible, rápido y sencillo con enormes sumas de dinero en juego. Dos jugadores deben trabajar juntos para enfrentarse al gigantesco muro de cuatro pisos.</desc>
-  </programme>
-  <programme start="20210127201100 +0000" stop="20210127210100 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Wipeout USA</title>
-    <desc lang="es">Los concursantes enfrentan un nuevo obstáculo, Caos en el jardín de infantes.</desc>
-  </programme>
-  <programme start="20210127210100 +0000" stop="20210127212600 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Ninja Warrior</title>
-    <desc lang="es">La esperanza llena el aire cuando llegan los retadores para conquistar los obstáculos del Monte Midoriyama. Con sueños de victoria, solo los mejores avanzarán a través de 4 etapas para convertirse en el nuevo guerrero ninja.</desc>
-  </programme>
-  <programme start="20210127212600 +0000" stop="20210127215100 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Ninja Warrior</title>
-    <desc lang="es">La esperanza llena el aire cuando llegan los retadores para conquistar los obstáculos del Monte Midoriyama. Con sueños de victoria, solo los mejores avanzarán a través de 4 etapas para convertirse en el nuevo guerrero ninja.</desc>
-  </programme>
-  <programme start="20210127215100 +0000" stop="20210127221600 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Total Blackout</title>
-    <desc lang="es">Cuatro concursantes están encerrados en una camisa de fuerza para identificar artículos usando solo sus lenguas, adivinar el peso de varios objetos y sumergirse en una bañera llena de agua para averiguar lo que se hace vertido sobre ellos.</desc>
-  </programme>
-  <programme start="20210127221600 +0000" stop="20210127224100 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Total Blackout</title>
-    <desc lang="es">Cuatro equipos deben transferir elementos en la oscuridad total, lamer e identificar sustancias de algunos pies repugnantes e ir al ataque en un laberinto lleno de palomas, recolectando tantos huevos como sea posible en la oscuridad total.</desc>
-  </programme>
-  <programme start="20210127224100 +0000" stop="20210127233100 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">La gran competencia</title>
-    <desc lang="es">Herreros, expertos en artes marciales y un campeón de cortadores utilizan sus armas para cortar, apuñalar y rebanar a través de una agotadora serie de retos, diseñada para llevar al límite tanto a los cuchillos.</desc>
-  </programme>
-  <programme start="20210127233100 +0000" stop="20210128002400 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Minuto Para Ganar</title>
-    <desc lang="es">Minuto Para Ganar es un programa de juegos en español donde los concursantes compiten en desafíos de un minuto con niveles crecientes de dificultad para tener la oportunidad de ganar hasta $ 100,000.</desc>
-  </programme>
-  <programme start="20210128002400 +0000" stop="20210128011300 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Fear Factor MTV</title>
-    <desc lang="es">Las estrellas de MTV Terrence J, Romeo Miller y las celebridades de The Challenge compiten para superar sus miedos. Estas celebridades deben navegar a través de un tanque de cebo de tiburón, esquivar bolas de fuego gigantes sin quemarse y más.</desc>
-  </programme>
-  <programme start="20210128011300 +0000" stop="20210128013800 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Ninja Warrior</title>
-    <desc lang="es">La esperanza llena el aire cuando llegan los retadores para conquistar los obstáculos del Monte Midoriyama. Con sueños de victoria, solo los mejores avanzarán a través de 4 etapas para convertirse en el nuevo guerrero ninja.</desc>
-  </programme>
-  <programme start="20210128013800 +0000" stop="20210128020300 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Ninja Warrior</title>
-    <desc lang="es">La esperanza llena el aire cuando llegan los retadores para conquistar los obstáculos del Monte Midoriyama. Con sueños de victoria, solo los mejores avanzarán a través de 4 etapas para convertirse en el nuevo guerrero ninja.</desc>
-  </programme>
-  <programme start="20210128020300 +0000" stop="20210128022800 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Total Blackout</title>
-    <desc lang="es">Cuatro concursantes están encerrados en una camisa de fuerza para identificar artículos usando solo sus lenguas, adivinar el peso de varios objetos y sumergirse en una bañera llena de agua para averiguar lo que se hace vertido sobre ellos.</desc>
-  </programme>
-  <programme start="20210128022800 +0000" stop="20210128025300 +0000" channel="5dd6d935d000120009bc1132">
-    <title lang="es">Total Blackout</title>
-    <desc lang="es">Cuatro equipos deben transferir elementos en la oscuridad total, lamer e identificar sustancias de algunos pies repugnantes e ir al ataque en un laberinto lleno de palomas, recolectando tantos huevos como sea posible en la oscuridad total.</desc>
   </programme>
   <programme start="20210128025300 +0000" stop="20210128034300 +0000" channel="5dd6d935d000120009bc1132">
     <title lang="es">La gran competencia</title>
@@ -1456,77 +1261,33 @@
     <title lang="es">Total Blackout</title>
     <desc lang="es">Tres mujeres fuertes y un veterano del ejército deben agarrar los anillos solo con la boca, identificar los objetos vertidos en su brazo atado y conquistar un laberinto equipado con algunos invitados voraces.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127195500 +0000" channel="5dd6dae8ce788b0009eaf77b">
+  <programme start="20210128101700 +0000" stop="20210128104200 +0000" channel="5dd6d935d000120009bc1132">
+    <title lang="es">Total Blackout</title>
+    <desc lang="es">Las madres se unen con su descendencia para adivinar el peso de varios objetos, identificar elementos en el tanque misterioso e intentar identificar objetos colocados dentro de los cascos burbujas.</desc>
+  </programme>
+  <programme start="20210128104200 +0000" stop="20210128113500 +0000" channel="5dd6d935d000120009bc1132">
+    <title lang="es">Minuto Para Ganar</title>
+    <desc lang="es">Minuto Para Ganar es un programa de juegos en español donde los concursantes compiten en desafíos de un minuto con niveles crecientes de dificultad para tener la oportunidad de ganar hasta $ 100,000.</desc>
+  </programme>
+  <programme start="20210128113500 +0000" stop="20210128124900 +0000" channel="5dd6d935d000120009bc1132">
+    <title lang="es">The Wall Uruguay</title>
+    <desc lang="es">The Wall es un programa de juegos tremendamente impredecible, rápido y sencillo con enormes sumas de dinero en juego. Dos jugadores deben trabajar juntos para enfrentarse al gigantesco muro de cuatro pisos.</desc>
+  </programme>
+  <programme start="20210128124900 +0000" stop="20210128133900 +0000" channel="5dd6d935d000120009bc1132">
+    <title lang="es">Wipeout USA</title>
+    <desc lang="es">Los concursantes se enfrentan a un buffet de comida para bebés y al Bar de Sushi.</desc>
+  </programme>
+  <programme start="20210128133900 +0000" stop="20210128153700 +0000" channel="5dd6d935d000120009bc1132">
+    <title lang="es">La Fortaleza</title>
+    <desc lang="es">"La Fortaleza, el reto sagrado", es un reality show donde 16 conquistadores pondrán a prueba sus habilidades, su fuerza, su equilibrio, su resistencia y su destreza.</desc>
+  </programme>
+  <programme start="20210128153700 +0000" stop="20210128162600 +0000" channel="5dd6d935d000120009bc1132">
+    <title lang="es">Fear Factor MTV</title>
+    <desc lang="es">Las estrellas de MTV Terrence J, Romeo Miller y las celebridades de The Challenge compiten para superar sus miedos. Estas celebridades deben navegar a través de un tanque de cebo de tiburón, esquivar bolas de fuego gigantes sin quemarse y más.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128025700 +0000" channel="5dd6dae8ce788b0009eaf77b">
     <title lang="es">Pluto TV Kids</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127195500 +0000" stop="20210127202400 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Arthur and the mynimoys</title>
-    <desc lang="es">Maltazard invita a Sifrat, Arthur, Selenia y Betameche para que vengan en son de paz a celebrar su cumpleaños. Todo va bien pero cuando nuestros héroes salen de Necrópolis, Maltazard envía un Chilop que los persiga.</desc>
-  </programme>
-  <programme start="20210127202400 +0000" stop="20210127205700 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Wizards versus Aliens</title>
-    <desc lang="es">Los Nekross, alienígenas saqueadores insaciables, invaden la Tierra en busca de magia. El mago adolescente Tom Clarke y su amigo Benny Sherwood lideran la defensa contra ellos.</desc>
-  </programme>
-  <programme start="20210127205700 +0000" stop="20210127213100 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Wizards versus Aliens</title>
-    <desc lang="es">Los Nekross, alienígenas saqueadores insaciables, invaden la Tierra en busca de magia. El mago adolescente Tom Clarke y su amigo Benny Sherwood lideran la defensa contra ellos.</desc>
-  </programme>
-  <programme start="20210127213100 +0000" stop="20210127214400 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Pumpkin Reports</title>
-    <desc lang="es">El nuevo hermano y la hermana de Max Green son extraterrestres enviados a la Tierra como parte avanzada de una invasión, y él es el único que puede evitar que conviertan a los humanos en jardineros de esclavos involuntarios.</desc>
-  </programme>
-  <programme start="20210127214400 +0000" stop="20210127215700 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Pumpkin Reports</title>
-    <desc lang="es">El nuevo hermano y la hermana de Max Green son extraterrestres enviados a la Tierra como parte avanzada de una invasión, y él es el único que puede evitar que conviertan a los humanos en jardineros de esclavos involuntarios.</desc>
-  </programme>
-  <programme start="20210127215700 +0000" stop="20210127221000 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Pumpkin Reports</title>
-    <desc lang="es">El nuevo hermano y la hermana de Max Green son extraterrestres enviados a la Tierra como parte avanzada de una invasión, y él es el único que puede evitar que conviertan a los humanos en jardineros de esclavos involuntarios.</desc>
-  </programme>
-  <programme start="20210127221000 +0000" stop="20210127222300 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Pumpkin Reports</title>
-    <desc lang="es">El nuevo hermano y la hermana de Max Green son extraterrestres enviados a la Tierra como parte avanzada de una invasión, y él es el único que puede evitar que conviertan a los humanos en jardineros de esclavos involuntarios.</desc>
-  </programme>
-  <programme start="20210127222300 +0000" stop="20210127225000 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Max Steel</title>
-    <desc lang="es">Max, de 16 años, descubre que tiene habilidades sobrenaturales. Con su amigo alienígena Steel, aprende a sacarles ventaja a esas capacidades y se combina con Steel para ser el superhéroe más grande del mundo.</desc>
-  </programme>
-  <programme start="20210127225000 +0000" stop="20210127231700 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Max Steel</title>
-    <desc lang="es">Max, de 16 años, descubre que tiene habilidades sobrenaturales. Con su amigo alienígena Steel, aprende a sacarles ventaja a esas capacidades y se combina con Steel para ser el superhéroe más grande del mundo.</desc>
-  </programme>
-  <programme start="20210127231700 +0000" stop="20210127234500 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Kid vs. Kat</title>
-    <desc lang="es">Coop y Dennis construyen un fuerte en un árbol para tener algo de tiempo libre de Sr. Gato y de su hermanita. Millie vende un número récord de galletas Greenie Girl pero las cajas siguen desapareciendo y todos los dedos apuntan a Coop.</desc>
-  </programme>
-  <programme start="20210127234500 +0000" stop="20210128001300 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Kid vs. Kat</title>
-    <desc lang="es">Después de que Sr. Gato se entera de que le tomaron radiografías en la primera ida al veterinario, se escabulle para destruirlas. El nuevo helicóptero de rescate controlado por radio de Coop le trae recuerdos a su papá de su juguete preferido.</desc>
-  </programme>
-  <programme start="20210128001300 +0000" stop="20210128003800 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Grojband</title>
-    <desc lang="es">Corey Riffen, de 12 años, forma una banda de garage con sus mejores tres amigos y, en poco tiempo, se da cuenta de que su banda es pésima... con todas las letras. El problema no es su música ni su imagen cambiante, sino las letras de Corey.</desc>
-  </programme>
-  <programme start="20210128003800 +0000" stop="20210128010300 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Grojband</title>
-    <desc lang="es">Corey Riffen, de 12 años, forma una banda de garage con sus mejores tres amigos y, en poco tiempo, se da cuenta de que su banda es pésima... con todas las letras. El problema no es su música ni su imagen cambiante, sino las letras de Corey.</desc>
-  </programme>
-  <programme start="20210128010300 +0000" stop="20210128013100 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Chaotic</title>
-    <desc lang="es">¡Hay un nuevo niño en Chaotic! Buzz Jr. es un talentoso jugador danés. Desafortunadamente, el padre exigente del niño está quitando el aguijón de su juego. Depende de Kaz mostrarle a Buzz Sr. que la lucha de Drome es más dura de lo que piensa.</desc>
-  </programme>
-  <programme start="20210128013100 +0000" stop="20210128015900 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Chaotic</title>
-    <desc lang="es">Durante una búsqueda de exploración, Sarah y Peyton se topan con el luchador más colosal que jamás hayan visto. Kaz y Tom se enteran del gigante y deciden rastrearlo.</desc>
-  </programme>
-  <programme start="20210128015900 +0000" stop="20210128022800 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Arthur and the mynimoys</title>
-    <desc lang="es">Betameche decide equipar su pelota multifuncional con un accesorio que le permite localizarlo silbando. Pero no ve que hay una pulga dentro de la pelota. Ahora, completamente dirigida por el insecto, la pelota se ha perdido.</desc>
-  </programme>
-  <programme start="20210128022800 +0000" stop="20210128025700 +0000" channel="5dd6dae8ce788b0009eaf77b">
-    <title lang="es">Arthur and the mynimoys</title>
-    <desc lang="es">Maltazard invita a Sifrat, Arthur, Selenia y Betameche para que vengan en son de paz a celebrar su cumpleaños. Todo va bien pero cuando nuestros héroes salen de Necrópolis, Maltazard envía un Chilop que los persiga.</desc>
   </programme>
   <programme start="20210128025700 +0000" stop="20210128032400 +0000" channel="5dd6dae8ce788b0009eaf77b">
     <title lang="es">Wizards versus Aliens</title>
@@ -1600,69 +1361,69 @@
     <title lang="es">Wizards versus Aliens</title>
     <desc lang="es">Cuando llegan unos alienígenas a la Tierra, dos adolescentes son lo único que se interpone entre ellos y lo más preciado del universo. ¡La magia! Los alienígenas van drenando la magia de los planetas para alimentar a su enorme, repulsivo y viscoso rey.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127193800 +0000" channel="5dd6dc7480e3550009133d4a">
+  <programme start="20210128101000 +0000" stop="20210128102300 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Pumpkin Reports</title>
+    <desc lang="es">El nuevo hermano y la hermana de Max Green son extraterrestres enviados a la Tierra como parte avanzada de una invasión, y él es el único que puede evitar que conviertan a los humanos en jardineros de esclavos involuntarios.</desc>
+  </programme>
+  <programme start="20210128102300 +0000" stop="20210128103600 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Pumpkin Reports</title>
+    <desc lang="es">El nuevo hermano y la hermana de Max Green son extraterrestres enviados a la Tierra como parte avanzada de una invasión, y él es el único que puede evitar que conviertan a los humanos en jardineros de esclavos involuntarios.</desc>
+  </programme>
+  <programme start="20210128103600 +0000" stop="20210128104900 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Pumpkin Reports</title>
+    <desc lang="es">El nuevo hermano y la hermana de Max Green son extraterrestres enviados a la Tierra como parte avanzada de una invasión, y él es el único que puede evitar que conviertan a los humanos en jardineros de esclavos involuntarios.</desc>
+  </programme>
+  <programme start="20210128104900 +0000" stop="20210128110200 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Pumpkin Reports</title>
+    <desc lang="es">El nuevo hermano y la hermana de Max Green son extraterrestres enviados a la Tierra como parte avanzada de una invasión, y él es el único que puede evitar que conviertan a los humanos en jardineros de esclavos involuntarios.</desc>
+  </programme>
+  <programme start="20210128110200 +0000" stop="20210128112900 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Max Steel</title>
+    <desc lang="es">Max, de 16 años, descubre que tiene habilidades sobrenaturales. Con su amigo alienígena Steel, aprende a sacarles ventaja a esas capacidades y se combina con Steel para ser el superhéroe más grande del mundo.</desc>
+  </programme>
+  <programme start="20210128112900 +0000" stop="20210128115600 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Max Steel</title>
+    <desc lang="es">Max, de 16 años, descubre que tiene habilidades sobrenaturales. Con su amigo alienígena Steel, aprende a sacarles ventaja a esas capacidades y se combina con Steel para ser el superhéroe más grande del mundo.</desc>
+  </programme>
+  <programme start="20210128115600 +0000" stop="20210128122400 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Kid vs. Kat</title>
+    <desc lang="es">Después de que Sr. Gato se entera de que le tomaron radiografías en la primera ida al veterinario, se escabulle para destruirlas. El nuevo helicóptero de rescate controlado por radio de Coop le trae recuerdos a su papá de su juguete preferido.</desc>
+  </programme>
+  <programme start="20210128122400 +0000" stop="20210128125200 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Kid vs. Kat</title>
+    <desc lang="es">Coop está muy resfriado y tiene que quedarse a solas en casa con Sr. Gato, sin ir a la escuela. Coop y Dennis realizan un espectáculo de magia y hacen desaparecer a Sr. Gato.</desc>
+  </programme>
+  <programme start="20210128125200 +0000" stop="20210128131700 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Grojband</title>
+    <desc lang="es">Corey Riffen, de 12 años, forma una banda de garage con sus mejores tres amigos y, en poco tiempo, se da cuenta de que su banda es pésima... con todas las letras. El problema no es su música ni su imagen cambiante, sino las letras de Corey.</desc>
+  </programme>
+  <programme start="20210128131700 +0000" stop="20210128134200 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Grojband</title>
+    <desc lang="es">Corey Riffen, de 12 años, forma una banda de garage con sus mejores tres amigos y, en poco tiempo, se da cuenta de que su banda es pésima... con todas las letras. El problema no es su música ni su imagen cambiante, sino las letras de Corey.</desc>
+  </programme>
+  <programme start="20210128134200 +0000" stop="20210128141000 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Chaotic</title>
+    <desc lang="es">Durante una búsqueda de exploración, Sarah y Peyton se topan con el luchador más colosal que jamás hayan visto. Kaz y Tom se enteran del gigante y deciden rastrearlo.</desc>
+  </programme>
+  <programme start="20210128141000 +0000" stop="20210128143700 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Chaotic</title>
+    <desc lang="es">Peyton se queda estupefacto cuando descubre que está luchando contra el cantante principal de su banda favorita. Se sorprende aún más cuando la estrella de rock ofrece pases gratuitos en el backstage para su próximo concierto.</desc>
+  </programme>
+  <programme start="20210128143700 +0000" stop="20210128150600 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Arthur and the mynimoys</title>
+    <desc lang="es">Maltazard invita a Sifrat, Arthur, Selenia y Betameche para que vengan en son de paz a celebrar su cumpleaños. Todo va bien pero cuando nuestros héroes salen de Necrópolis, Maltazard envía un Chilop que los persiga.</desc>
+  </programme>
+  <programme start="20210128150600 +0000" stop="20210128153500 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Arthur and the mynimoys</title>
+    <desc lang="es">El Rey Sifrat sale de peregrinación y Selenia es nombrada reina en su lugar. La captura de su padre por los Seides la deja en un dilema.</desc>
+  </programme>
+  <programme start="20210128153500 +0000" stop="20210128160200 +0000" channel="5dd6dae8ce788b0009eaf77b">
+    <title lang="es">Wizards versus Aliens</title>
+    <desc lang="es">Cuando llegan unos alienígenas a la Tierra, dos adolescentes son lo único que se interpone entre ellos y lo más preciado del universo. ¡La magia! Los alienígenas van drenando la magia de los planetas para alimentar a su enorme, repulsivo y viscoso rey.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128023900 +0000" channel="5dd6dc7480e3550009133d4a">
     <title lang="es">Pluto TV Velocidad​</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127193800 +0000" stop="20210127200600 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">American Dreams</title>
-    <desc lang="es">Probamos un super-deportivo de Mercedes Benz que impresiona a nivel estético y mecánico. También visitamos un taller especializado  en Porsche de calle y de competencia, y un clásico de la marca francesa Citroën, el  DS 1972.</desc>
-  </programme>
-  <programme start="20210127200600 +0000" stop="20210127203300 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">American Dreams</title>
-    <desc lang="es">Recorremos un museo en el que se puede ver de cerca la historia de los automóviles en Estados Unidos. Un clásico japonés que no pierde vigencia, el Corolla y además.</desc>
-  </programme>
-  <programme start="20210127203300 +0000" stop="20210127205900 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">American Dreams</title>
-    <desc lang="es">Una exclusiva colección con lo mejor de la marca Porsche, una Susuki GSX R600 y un taller donde modifican motos clásicas dándoles un toque único y original.</desc>
-  </programme>
-  <programme start="20210127205900 +0000" stop="20210127213100 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Potenza Azzurra</title>
-    <desc lang="es">En la exposición de automóviles clásicos e históricos de Milán se exhiben y venden algunos de los mejores automóviles clásicos de la región y el continente, con las marcas más importantes de Italia como automóviles.</desc>
-  </programme>
-  <programme start="20210127213100 +0000" stop="20210127220400 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Potenza Azzurra</title>
-    <desc lang="es">Con más 115 mil visitantes y 5 mil vehículos en exhibición, es uno de los encuentros más importantes de la región de Padua. Deportivos, clásicos, híbridos y vehículos de competición, incluidos fórmula uno, pueden.</desc>
-  </programme>
-  <programme start="20210127220400 +0000" stop="20210127223600 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Potenza Azzurra</title>
-    <desc lang="es">Las marcas más importantes del mundo tienen una cita en la tierra de grandes nombres en el mundo de los motores, como lo son Lamborghini y Ducati, Bologna para participar de su motorshow.</desc>
-  </programme>
-  <programme start="20210127223600 +0000" stop="20210127230600 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Car Crash TV</title>
-    <desc lang="es">En el programa de esta semana, nuestro mago residente The Great Car Crashini regresa con su truco favorito en Abra Car Dabra, y volvemos a la casa de subastas para estimar la más reciente cosecha de choques culturales en The Art Of The Automobile.</desc>
-  </programme>
-  <programme start="20210127230600 +0000" stop="20210127233600 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Car Crash TV</title>
-    <desc lang="es">Comenzamos el programa poniendo al descubierto una colección de Intersection Idiots antes de pisar el pedal y tomar rumbo estatal para disfrutar una ronda de Stock Car Collisions!</desc>
-  </programme>
-  <programme start="20210127233600 +0000" stop="20210128000600 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Car Crash TV</title>
-    <desc lang="es">En este episodio, convertiremos una vez más nuestras pistas en pistas de baile y calificaremos en escala de diez a nuestros automovilistas por su desempeño en la más reciente ronda de Strictly Car Crashing.</desc>
-  </programme>
-  <programme start="20210128000600 +0000" stop="20210128003200 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Modern Wheels or Classic Steals</title>
-    <desc lang="es">Elegante, deportivo y sexy: ¿pueden Elo y Rebecca cumplir con los requisitos de Katie por 15.000 dólares? Cuando dos convertibles clásicos se enfrentan a dos convertibles modernos, la respuesta es claramente sí.</desc>
-  </programme>
-  <programme start="20210128003200 +0000" stop="20210128005800 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Modern Wheels or Classic Steals</title>
-    <desc lang="es">Paul es un hombre de familia con un presupuesto de 10.000 libras esterlinas. ¿Puede Rebecca tentarlo con un BMW moderno? ¿Quizás el clásico Mercedes-Benz de Elo es lo que el hombre necesita?</desc>
-  </programme>
-  <programme start="20210128005800 +0000" stop="20210128012400 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Modern Wheels or Classic Steals</title>
-    <desc lang="es">¿Qué maquina pueden ofrecer Elo y Rebecca a un DJ de dieciocho años al que le gustan las comodidades y los autos rápidos? Bueno, una máquina de velocidad muy modificada con un sistema de sonido fuerte, por supuesto.</desc>
-  </programme>
-  <programme start="20210128012400 +0000" stop="20210128014800 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Modern Wheels or Classic Steals</title>
-    <desc lang="es">Encontrar el auto perfecto para un agente de comedia no es cosa de risa. ¿Su requisito clave? El coche más ecológico posible. Rebecca tiene dos autos eléctricos bajo el velo, pero Elo tiene un Fiat 500 de 1968 con una bota de mimbre.</desc>
-  </programme>
-  <programme start="20210128014800 +0000" stop="20210128021300 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Modern Wheels or Classic Steals</title>
-    <desc lang="es">Aktar es un instructor de carreras. Es un hombre que conoce sus autos. Tiene un garaje lleno de ellos. Ahora los venderá a todos y comprará su “Forever Car”.</desc>
-  </programme>
-  <programme start="20210128021300 +0000" stop="20210128023900 +0000" channel="5dd6dc7480e3550009133d4a">
-    <title lang="es">Modern Wheels or Classic Steals</title>
-    <desc lang="es">Elegante, deportivo y sexy: ¿pueden Elo y Rebecca cumplir con los requisitos de Katie por 15.000 dólares? Cuando dos convertibles clásicos se enfrentan a dos convertibles modernos, la respuesta es claramente sí.</desc>
   </programme>
   <programme start="20210128023900 +0000" stop="20210128030500 +0000" channel="5dd6dc7480e3550009133d4a">
     <title lang="es">Modern Wheels or Classic Steals</title>
@@ -1724,25 +1485,65 @@
     <title lang="es">Paralelo Cero</title>
     <desc lang="es">Conocemos a fondo al Crucero Sherpa 18M, además una lancha clásica Inora y con su historia. Además, la lancha Herencia Custom Boat.</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127192900 +0000" channel="5dd6ddb30a1d8a000908ed4c">
+  <programme start="20210128101700 +0000" stop="20210128104700 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">American Dreams</title>
+    <desc lang="es">En Miami, visitamos a un especialista en audio para automóviles. En Las Vegas todo es diversión, por eso nos damos un gusto y probamos unos super-deportivos en una pista. Además un Mercedes Benz híbrido.</desc>
+  </programme>
+  <programme start="20210128104700 +0000" stop="20210128110800 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">Planeta Camión</title>
+    <desc lang="es">Testeamos el BMW Eléctrico,  un concept ecológico y silencioso.  Repasamos la historia de la marca Cummins,  que cumplió 100 años. Un conductor nos cuenta la experiencia de manejar un camión 100% eléctrico de Volvo.</desc>
+  </programme>
+  <programme start="20210128110800 +0000" stop="20210128112800 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">Planeta Camión</title>
+    <desc lang="es">Conocemos la gama de Mercedes Benz especializada para la explotación minera y petrolífera. Testeamos el Iveco Daily Hi-Matic, un utilitario en versión automática.</desc>
+  </programme>
+  <programme start="20210128112800 +0000" stop="20210128115100 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">Planeta Camión</title>
+    <desc lang="es">Todo sobre el Mack Granite GU 813 E, un camión para tareas extremas. Renault Trucks Range T: presenta la nueva generación de camiones.</desc>
+  </programme>
+  <programme start="20210128115100 +0000" stop="20210128121600 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">Lazy Boy Garage</title>
+    <desc lang="es">Los chicos encuentran un Seat 133 en perfecto estado en España, que encaja con su búsqueda para capturar el espíritu del automovilismo retro, pero ¿podrán encontrar al comprador adecuado?</desc>
+  </programme>
+  <programme start="20210128121600 +0000" stop="20210128124100 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">Lazy Boy Garage</title>
+    <desc lang="es">Tom 'Wookie' Ford piensa que comprar una camioneta retro que alguien pueda usar para vender café es una obviedad, y los chicos encuentran un Renault 4F6, pero ¿pueden obtener ganancias en una subasta?</desc>
+  </programme>
+  <programme start="20210128124100 +0000" stop="20210128130700 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">Lazy Boy Garage</title>
+    <desc lang="es">Jonny Smith encuentra un Ford Cortina Mk4 austriaco, conocido en Europa como el Taunus, pero los Lazy Boys deben decidir si reemplazan su raro motor.</desc>
+  </programme>
+  <programme start="20210128130700 +0000" stop="20210128133400 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">American Dreams</title>
+    <desc lang="es">El conocemos todo sobre el fascinante mundo de los coches europeos en Estados Unidos. Además, encontramos a uno de los pocos  Javelin que quedan y descrubirmos  el mundo del sonido para autos.</desc>
+  </programme>
+  <programme start="20210128133400 +0000" stop="20210128140200 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">American Dreams</title>
+    <desc lang="es">Un Lexus modificado y potenciado por la mano de un especialista. Descubrimos todos los secretos que esconde una fábrica de llantas  y un car show para los amantes de los autos.</desc>
+  </programme>
+  <programme start="20210128140200 +0000" stop="20210128143100 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">American Dreams</title>
+    <desc lang="es">En Las Vegas, cobertura especial del Sema Show, uno de los eventos más espectaculares de Estados Unidos donde fabricantes de autos, llanta y accesorios, entre otros, muestran sus productos. Además un Subaru totalmente modificado.</desc>
+  </programme>
+  <programme start="20210128143100 +0000" stop="20210128150100 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">American Dreams</title>
+    <desc lang="es">En Miami, visitamos a un especialista en audio para automóviles. En Las Vegas todo es diversión, por eso nos damos un gusto y probamos unos super-deportivos en una pista. Además un Mercedes Benz híbrido.</desc>
+  </programme>
+  <programme start="20210128150100 +0000" stop="20210128153000 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">American Dreams</title>
+    <desc lang="es">Un local especializado en repuestos y accesorios off road y de altas prestaciones, un testeo del Subaru Forester; además un taller que customiza todo tipos de vehículos hasta transformarlos en el sueño de su dueño.</desc>
+  </programme>
+  <programme start="20210128153000 +0000" stop="20210128155800 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">American Dreams</title>
+    <desc lang="es">Probamos un super-deportivo de Mercedes Benz que impresiona a nivel estético y mecánico. También visitamos un taller especializado  en Porsche de calle y de competencia, y un clásico de la marca francesa Citroën, el  DS 1972.</desc>
+  </programme>
+  <programme start="20210128155800 +0000" stop="20210128162500 +0000" channel="5dd6dc7480e3550009133d4a">
+    <title lang="es">American Dreams</title>
+    <desc lang="es">Recorremos un museo en el que se puede ver de cerca la historia de los automóviles en Estados Unidos. Un clásico japonés que no pierde vigencia, el Corolla y además.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128021500 +0000" channel="5dd6ddb30a1d8a000908ed4c">
     <title lang="es">Pluto TV Cine Familia​</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127192900 +0000" stop="20210127202100 +0000" channel="5dd6ddb30a1d8a000908ed4c">
-    <title lang="es">Mulan</title>
-    <desc lang="es">Cuando un general jubilado del ejército es demasiado viejo para ayudar a sofocar un levantamiento rebelde, su joven hija, Mu Lan, se disfraza de hombre y se alista en el ejército.</desc>
-  </programme>
-  <programme start="20210127202100 +0000" stop="20210127221700 +0000" channel="5dd6ddb30a1d8a000908ed4c">
-    <title lang="es">Charlie: La Historia de un Juguete</title>
-    <desc lang="es">Caden y su mejor amigo Charlie, un golden retriever, visitan a su padre Jack en su Tienda Wonder Toy. Ellos descubren al Wondermation, su mayor y más nuevo invento. Deben protegerlo de los torpes matones de la ciudad.</desc>
-  </programme>
-  <programme start="20210127221700 +0000" stop="20210128000100 +0000" channel="5dd6ddb30a1d8a000908ed4c">
-    <title lang="es">Alpha and Omega</title>
-    <desc lang="es">Dos lobos que no se parecen en nada: uno disciplinado y Alfa, y el otro un lobo Omega, cómico y amante de la diversión, son capturados y llevados a miles de kilómetros de su hogar. Decididos a reunirse con su manada, los dos lobos comienzan una caminata.</desc>
-  </programme>
-  <programme start="20210128000100 +0000" stop="20210128021500 +0000" channel="5dd6ddb30a1d8a000908ed4c">
-    <title lang="es">Nada Más a Perder</title>
-    <desc lang="es">Samantha Wick, una de las jóvenes gimnastas más prometedoras de su generación, está aislada del equipo olímpico y decide finalmente seguir su sueño de montar a caballo, entrando en un campo de equitación para mujeres.</desc>
   </programme>
   <programme start="20210128021500 +0000" stop="20210128035500 +0000" channel="5dd6ddb30a1d8a000908ed4c">
     <title lang="es">Adventures in Dinotopia</title>
@@ -1764,53 +1565,25 @@
     <title lang="es">Garfield Gets Real</title>
     <desc lang="es">Sigue a Garfield detrás de escena en Cartoon World, donde se aburre de su vida como estrella del cómic. Pensando que la vida es más verde al otro lado de la realidad, Garfield decide escapar al "mundo real".</desc>
   </programme>
-  <programme start="20210127120000 +0000" stop="20210127194600 +0000" channel="5dd6de52b9914200091f047a">
+  <programme start="20210128102500 +0000" stop="20210128115800 +0000" channel="5dd6ddb30a1d8a000908ed4c">
+    <title lang="es">La Casa de los Cuentos de Hadas</title>
+    <desc lang="es">Nat descubre que los libros que le dejo su tía sirven como refugio para todos los héroes encontrados en la literatura infantil. El va a desafiar todo para salvar a sus pequeños amigos.</desc>
+  </programme>
+  <programme start="20210128115800 +0000" stop="20210128134400 +0000" channel="5dd6ddb30a1d8a000908ed4c">
+    <title lang="es">El Gran Buck Howard</title>
+    <desc lang="es">Un joven, para disgusto de su padre, se convierte en el nuevo asistente de un ilusionista en decadencia.</desc>
+  </programme>
+  <programme start="20210128134400 +0000" stop="20210128153600 +0000" channel="5dd6ddb30a1d8a000908ed4c">
+    <title lang="es">Jack and The Beanstalk</title>
+    <desc lang="es">Basado en el clásico cuento de hadas, esta película de acción cuenta las aventuras de dos jóvenes en la cima de un árbol encantado y en un mundo mágico lleno de fantasía y peligro.</desc>
+  </programme>
+  <programme start="20210128153600 +0000" stop="20210128171700 +0000" channel="5dd6ddb30a1d8a000908ed4c">
+    <title lang="es">Dinosaurios</title>
+    <desc lang="es">Tres niños curiosos activan una máquina del tiempo que los lleva 65 millones de años atrás, a la época de los dinosaurios. El T-Rex los confunde con sus propios críos por lo que los pequeños deben escapar antes de que los verdaderos hijos nazcan.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128024300 +0000" channel="5dd6de52b9914200091f047a">
     <title lang="es">Pluto TV Teen</title>
     <desc lang="es">No information available.</desc>
-  </programme>
-  <programme start="20210127194600 +0000" stop="20210127201400 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">My Babysitter's a Vampire</title>
-    <desc lang="es">Cuando los padres sobreprotectores de Ethan Morgan contratan a una niñera para que los cuide a él y a su hermana de ocho años, él pensó que se moriría de la vergüenza. Pero no hay necesidad de preocuparse: la niñera Sarah es mitad vampiro.</desc>
-  </programme>
-  <programme start="20210127201400 +0000" stop="20210127210400 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">Isa TKM</title>
-    <desc lang="es">Por culpa de Dago Isa pierde su momento de amor súper único. Trampistina se porta como sargento coronel con Justa. ¡Y todo porque la Ricaldita perdió el amor de Alex!</desc>
-  </programme>
-  <programme start="20210127210400 +0000" stop="20210127215200 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">Somos tú y yo</title>
-    <desc lang="es">Rosángela le cuenta a Rosmery que el Bambino se estaba besando con Mandy. Rosmery no lo puede creer y piensa ponerlos en su sitio ya que ella no es ninguna tonta.</desc>
-  </programme>
-  <programme start="20210127215200 +0000" stop="20210127224300 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">Que Clase De Amor</title>
-    <desc lang="es">Alejandra le dice a Diego que está feliz que él la haya aceptado como es. Y Diego le dice que la ama. Manuel le dice de todo a Román por haber engañado….</desc>
-  </programme>
-  <programme start="20210127224300 +0000" stop="20210127232800 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">Somos tú y yo</title>
-    <desc lang="es">Sheryl le pide a Víctor que cante a dúo con Paola para demostrarle que a ella no le molesta que ellos dos canten juntos. Víctor acepta.</desc>
-  </programme>
-  <programme start="20210127232800 +0000" stop="20210128001900 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">Isa TKM</title>
-    <desc lang="es">Isa acepta ser novia de Alex. Había esperado que se lo pidiera desde hace mucho tiempo. Lamentablemente, su también dilatado beso, fue interrumpido por Olimpo. Quedan en celebrar en la Pizzería. Norma fue testigo de la escena.</desc>
-  </programme>
-  <programme start="20210128001900 +0000" stop="20210128004900 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">Kenan y Kel</title>
-    <desc lang="es">Kenan escribe un poema de amor inspirado en Sharla. Pero Kel le hace creer a su compañera, Alison, que su novio Phillip escribió el poema. Cuando Alison rompe con su novio por culpa de Kel, los chicos intentan remediar la situación.</desc>
-  </programme>
-  <programme start="20210128004900 +0000" stop="20210128011800 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">Taina</title>
-    <desc lang="es">Taina es traicionada cuando un nuevo estudiante canta su nuevo material en una audición. Renee sueña con Daniel y cree que eso significa que están destinados a amarse.</desc>
-  </programme>
-  <programme start="20210128011800 +0000" stop="20210128014800 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">Kenan y Kel</title>
-    <desc lang="es">Ansioso por saber qué le compraron sus padres como regalo de cumpleaños, Kenan se mete en su habitación y encuentra un paquete, pero Kel lo rompe por accidente. Ahora los chicos tienen que correr para reemplazar el regalo.</desc>
-  </programme>
-  <programme start="20210128014800 +0000" stop="20210128021600 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">My Babysitter's a Vampire</title>
-    <desc lang="es">Cuando los padres sobreprotectores de Ethan Morgan contratan a una niñera para que los cuide a él y a su hermana de ocho años, él pensó que se moriría de la vergüenza. Pero no hay necesidad de preocuparse: la niñera Sarah es mitad vampiro.</desc>
-  </programme>
-  <programme start="20210128021600 +0000" stop="20210128024300 +0000" channel="5dd6de52b9914200091f047a">
-    <title lang="es">The Haunting Hour</title>
-    <desc lang="es">Mike y Cristen visitan a su abuelo en su nueva casa y descubren que hay más en él de lo que parece.</desc>
   </programme>
   <programme start="20210128024300 +0000" stop="20210128031000 +0000" channel="5dd6de52b9914200091f047a">
     <title lang="es">The Haunting Hour</title>
@@ -1875,5 +1648,81 @@
   <programme start="20210128094600 +0000" stop="20210128101400 +0000" channel="5dd6de52b9914200091f047a">
     <title lang="es">Raising Expectations</title>
     <desc lang="es">Después de ser expulsado de la feria de ciencias de la escuela, Emmett convence a Nate para que ingrese y participe con un proyecto escolar que en realidad es una bomba de olor apestosa.</desc>
+  </programme>
+  <programme start="20210128101400 +0000" stop="20210128104200 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">Raising Expectations</title>
+    <desc lang="es">Wayne y Conner están en lados opuestos del debate sobre si cortar o no el árbol del jardín. Adam y Bentley están trabajando juntos para reparar el aire acondicionado.</desc>
+  </programme>
+  <programme start="20210128104200 +0000" stop="20210128111200 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">Kenan y Kel</title>
+    <desc lang="es">Kenan escribe un poema de amor inspirado en Sharla. Pero Kel le hace creer a su compañera, Alison, que su novio Phillip escribió el poema. Cuando Alison rompe con su novio por culpa de Kel, los chicos intentan remediar la situación.</desc>
+  </programme>
+  <programme start="20210128111200 +0000" stop="20210128114100 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">Taina</title>
+    <desc lang="es">Taina es traicionada cuando un nuevo estudiante canta su nuevo material en una audición. Renee sueña con Daniel y cree que eso significa que están destinados a amarse.</desc>
+  </programme>
+  <programme start="20210128114100 +0000" stop="20210128121100 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">Kenan y Kel</title>
+    <desc lang="es">Ansioso por saber qué le compraron sus padres como regalo de cumpleaños, Kenan se mete en su habitación y encuentra un paquete, pero Kel lo rompe por accidente. Ahora los chicos tienen que correr para reemplazar el regalo.</desc>
+  </programme>
+  <programme start="20210128121100 +0000" stop="20210128130200 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">Que Clase De Amor</title>
+    <desc lang="es">Alejandra le dice a Diego que está feliz que él la haya aceptado como es. Y Diego le dice que la ama. Manuel le dice de todo a Román por haber engañado….</desc>
+  </programme>
+  <programme start="20210128130200 +0000" stop="20210128135000 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">Somos tú y yo</title>
+    <desc lang="es">Rosángela le cuenta a Rosmery que el Bambino se estaba besando con Mandy. Rosmery no lo puede creer y piensa ponerlos en su sitio ya que ella no es ninguna tonta.</desc>
+  </programme>
+  <programme start="20210128135000 +0000" stop="20210128143500 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">Somos tú y yo</title>
+    <desc lang="es">Sheryl le pide a Víctor que cante a dúo con Paola para demostrarle que a ella no le molesta que ellos dos canten juntos. Víctor acepta.</desc>
+  </programme>
+  <programme start="20210128143500 +0000" stop="20210128150500 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">Kenan y Kel</title>
+    <desc lang="es">Ansioso por saber qué le compraron sus padres como regalo de cumpleaños, Kenan se mete en su habitación y encuentra un paquete, pero Kel lo rompe por accidente. Ahora los chicos tienen que correr para reemplazar el regalo.</desc>
+  </programme>
+  <programme start="20210128150500 +0000" stop="20210128153300 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">My Babysitter's a Vampire</title>
+    <desc lang="es">Cuando los padres sobreprotectores de Ethan Morgan contratan a una niñera para que los cuide a él y a su hermana de ocho años, él pensó que se moriría de la vergüenza. Pero no hay necesidad de preocuparse: la niñera Sarah es mitad vampiro.</desc>
+  </programme>
+  <programme start="20210128153300 +0000" stop="20210128162400 +0000" channel="5dd6de52b9914200091f047a">
+    <title lang="es">Isa TKM</title>
+    <desc lang="es">Isa acepta ser novia de Alex. Había esperado que se lo pidiera desde hace mucho tiempo. Lamentablemente, su también dilatado beso, fue interrumpido por Olimpo. Quedan en celebrar en la Pizzería. Norma fue testigo de la escena.</desc>
+  </programme>
+  <programme start="20210128000000 +0000" stop="20210128022000 +0000" channel="5dd7ea2aeab5230009986735">
+    <title lang="es">Pluto TV Cine Romance​</title>
+    <desc lang="es">No information available.</desc>
+  </programme>
+  <programme start="20210128022000 +0000" stop="20210128041600 +0000" channel="5dd7ea2aeab5230009986735">
+    <title lang="es">HappyThankYouMorePlease</title>
+    <desc lang="es">Un grupo de personas lucha con el amor, la amistad y los problemas del crecimiento, y constantemente tratan de encontrar formas de lidiar con los problemas.</desc>
+  </programme>
+  <programme start="20210128041600 +0000" stop="20210128060200 +0000" channel="5dd7ea2aeab5230009986735">
+    <title lang="es">Entre Nosotros</title>
+    <desc lang="es">Dos parejas se reúnen en dos tardes en donde cualquier cosa puede suceder en esta oscura historia cómica de mejores amigos, matrimonio, amor, desilusión y sueños.</desc>
+  </programme>
+  <programme start="20210128060200 +0000" stop="20210128074500 +0000" channel="5dd7ea2aeab5230009986735">
+    <title lang="es">The Reckoning</title>
+    <desc lang="es">Katie Lapp, ahora Katherine Mayfield, ha heredado el enorme patrimonio de su madre biológica. Pero su nuevo mundo se estremece cuando su antiguo amor Amish, Daniel Fisher, revela que está vivo. Pero Katie elige al jefe de la fundación para casarse.</desc>
+  </programme>
+  <programme start="20210128074500 +0000" stop="20210128092900 +0000" channel="5dd7ea2aeab5230009986735">
+    <title lang="es">Corazón del tiempo</title>
+    <desc lang="es">En la Esperanza de San Pedro, Chiapas, en medio de la lucha zapatista, Sonia va a casarse. Ya se dió la dote y se habló con la familia del novio. Pero Sonia está enamorada de otro: un insurgente.</desc>
+  </programme>
+  <programme start="20210128092900 +0000" stop="20210128111300 +0000" channel="5dd7ea2aeab5230009986735">
+    <title lang="es">Mothers Of The Bride</title>
+    <desc lang="es">Para involucrarse en la boda de su única hija, Debra debe competir con la madre biológica de su hija, que ahora es una exclusiva planificadora de eventos.</desc>
+  </programme>
+  <programme start="20210128111300 +0000" stop="20210128130300 +0000" channel="5dd7ea2aeab5230009986735">
+    <title lang="es">Se acabó el amor</title>
+    <desc lang="es">Esta retorcida y obsesiva historia de amor sigue a Syd (Chris Evans), un tenso hombre de veintitantos cuya vida está a punto de pasar de sin sentido a inútil.</desc>
+  </programme>
+  <programme start="20210128130300 +0000" stop="20210128150500 +0000" channel="5dd7ea2aeab5230009986735">
+    <title lang="es">Autumn in New York</title>
+    <desc lang="es">Will Keane es el propietario de uno de los restaurantes más famosos y prestigiosos de Nueva York. Su carisma y seguridad le convierten en un imán para las mujeres, con las que se relaciona sin comprometerse.</desc>
+  </programme>
+  <programme start="20210128150500 +0000" stop="20210128165100 +0000" channel="5dd7ea2aeab5230009986735">
+    <title lang="es">Por siempre a tu lado</title>
+    <desc lang="es">'Un plan para enamorarse (Amor, boda y matrimonio)' es una comedia romántica que tiene por protagonista a una consejera matrimonial recién casada. Su cometido en la vida es preocuparse por la felicidad conyugal de otras parejas.</desc>
   </programme>
 </tv>
