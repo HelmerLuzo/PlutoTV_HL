@@ -207,14 +207,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6017532ce5b36a001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6011b3b26d8e6b001a316cf2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fff6eb272b3e1001a65c006/poster.jpg" group-title="New Movies This Month", Concussion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff6eb272b3e1001a65c006/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fff6eac72b3e1001a65bf8c/poster.jpg" group-title="New Movies This Month", Aloha
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff6eac72b3e1001a65bf8c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5b5b622d90be80285d594391/poster.jpg" group-title="New Movies This Month", The 6th Day
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b5b622d90be80285d594391/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5c65cd8701d5a2826c1945da/poster.jpg" group-title="New Movies This Month", Teenage Mutant Ninja Turtles
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c65cd8701d5a2826c1945da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5b5b622d90be80285d594391/poster.jpg" group-title="New Movies This Month", The 6th Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b5b622d90be80285d594391/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5be615ac110ac4906371b1f6/poster.jpg" group-title="New Movies This Month", The Devil's Own
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5be615ac110ac4906371b1f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fff6eac72b3e1001a65bf8c/poster.jpg" group-title="New Movies This Month", Aloha
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff6eac72b3e1001a65bf8c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/60132ddacaf1bb001a802378/poster.jpg" group-title="New Movies This Month", Flight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60132ddacaf1bb001a802378/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5ffc913300da4e001389d404/poster.jpg" group-title="New Movies This Month", We Were Soldiers
@@ -481,22 +481,28 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff7c2c2a593c30013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7631da76c54900134c6221/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fbea9f94926fb00133b1e4d/poster.jpg" group-title="Last Chance to Watch", Venus
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fbea9f94926fb00133b1e4d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb34a558bff97001a641436/poster.jpg" group-title="Places We Love - Korea & Japan!", The Wailing
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb34a558bff97001a641436/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5b85dc49bd9265d59b28b7b1/poster.jpg" group-title="Places We Love - Korea & Japan!", I Saw the Devil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b85dc49bd9265d59b28b7b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5a57a83697ad51c3cfc7301b/poster.jpg" group-title="Places We Love - Korea & Japan!", Battle Royale
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a57a83697ad51c3cfc7301b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb34abc8bff97001a642036/poster.jpg" group-title="Places We Love - Korea & Japan!", A Better Tomorrow
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb34abc8bff97001a642036/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5bcb7799613b15a6fd460f5c/poster.jpg" group-title="Places We Love - Korea & Japan!", Nameless Gangster
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bcb7799613b15a6fd460f5c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5feb7288042d2a001a2065d0/poster.jpg" group-title="Places We Love - Korea & Japan!", Oh Lucy!
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feb7288042d2a001a2065d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/589e3e255d2facdab98d7829/poster.jpg" group-title="Places We Love - Korea & Japan!", Uzumasa Limelight
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/589e3e255d2facdab98d7829/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5e95e859c733d6001a19bdb3/poster.jpg" group-title="Places We Love - Korea & Japan!", Ghost In The Shell
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e95e859c733d6001a19bdb3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5a70f862689f93acec188f0c/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", The Adventures of Priscilla, Queen of the Desert
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a70f862689f93acec188f0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5feb856a636004001a796221/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", The Sapphires
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feb856a636004001a796221/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5cad42bc63dc2e0c463c242f/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", Quigley Down Under
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cad42bc63dc2e0c463c242f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5e95e887c733d6001a19c323/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", Tracks (2015)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e95e887c733d6001a19c323/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f5a5b6c967d660013082892/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", Welcome to Woop Woop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f5a5b6c967d660013082892/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fbea9d3bb848f0013e6519e/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", The Piano
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fbea9d3bb848f0013e6519e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9930d4a8c57548aa0a5391/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", Whale Rider
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9930d4a8c57548aa0a5391/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fff6eac72b3e1001a65bf8c/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", Aloha
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff6eac72b3e1001a65bf8c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5d37367e8df214bf1c79e872/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", Donovan's Reef
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d37367e8df214bf1c79e872/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5eece9dd6e0047001cba27d6/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", Paradise, Hawaiian Style
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5eece9dd6e0047001cba27d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/568f00cc6fdbc686673c9285/poster.jpg" group-title="Places We Love - Australia, New Zealand, and Hawaii!", Blue Hawaii
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/568f00cc6fdbc686673c9285/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5c65cd8701d5a2826c1945da/poster.jpg" group-title="Action", Teenage Mutant Ninja Turtles
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c65cd8701d5a2826c1945da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5b5b622d90be80285d594391/poster.jpg" group-title="Action", The 6th Day
@@ -4463,7 +4469,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ed54bd0b44a33001b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6009d430caf1bb001a7f57e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/60133e8b2c5c49001a619353/poster.jpg" group-title="Películas en Español", No habrá paz para los malvados
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60133e8b2c5c49001a619353/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4f5001729443001a34b600/poster.jpg" group-title="Películas en Español", Fuera del Cielo
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4f5001729443001a34b600/poster.jpg" group-title="Películas en Español", Fuera del cielo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4f5001729443001a34b600/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fce9342c8c57d00131ccd5b/poster.jpg" group-title="Películas en Español", The Code
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fce9342c8c57d00131ccd5b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
@@ -4525,7 +4531,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600c7ecc813b2d001b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fda831ab27a60001b2a0ba2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5df7fc3f726cb988f35c99ab/poster.jpg" group-title="Películas en Español", Waffle Street
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df7fc3f726cb988f35c99ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5d955a4c036f350e41f45556/poster.jpg" group-title="Películas en Español", Ladron Que Roba a Ladron (LAS)
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5d955a4c036f350e41f45556/poster.jpg" group-title="Películas en Español", Ladrón que roba ladrón
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d955a4c036f350e41f45556/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f84f0dae657fb001310d104/poster.jpg" group-title="Películas en Español", Airplane VS Volcano
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f84f0dae657fb001310d104/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
