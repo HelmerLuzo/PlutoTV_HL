@@ -1,8 +1,10 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
-#EXTINF:-1, tvg-id="60218d81873f0e0007cff614" tvg-name="RICH" tvg-logo="https://images.pluto.tv/channels/60218d81873f0e0007cff614/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="54", RICH
-https://stitcher.pluto.tv/stitch/hls/channel/60218d81873f0e0007cff614/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-id="60218baa464ef900073168c1" tvg-name="Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="56", Empeños a lo bestia
+#EXTINF:-1, tvg-id="60218baa464ef900073168c1" tvg-name="Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="54", Empeños a lo bestia
 https://stitcher.pluto.tv/stitch/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-id="60218c2a32f9c40007c2f7cc" tvg-name="Pluto TV Action Kids" tvg-logo="https://images.pluto.tv/channels/60218c2a32f9c40007c2f7cc/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="55", Pluto TV Action Kids
+https://stitcher.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-id="60218d81873f0e0007cff614" tvg-name="RICH" tvg-logo="https://images.pluto.tv/channels/60218d81873f0e0007cff614/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="56", RICH
+https://stitcher.pluto.tv/stitch/hls/channel/60218d81873f0e0007cff614/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="600ae52e34a3700007000534" tvg-name="Sin tetas no hay paraíso" tvg-logo="https://images.pluto.tv/channels/600ae52e34a3700007000534/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="57", Sin tetas no hay paraíso
 https://stitcher.pluto.tv/stitch/hls/channel/600ae52e34a3700007000534/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="600ae59c341b1d0007d1c7cb" tvg-name="Tierra de lobos" tvg-logo="https://images.pluto.tv/channels/600ae59c341b1d0007d1c7cb/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="58", Tierra de lobos
