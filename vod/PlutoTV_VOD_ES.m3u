@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f523c30db45a1001a79abf5/poster.jpg" group-title="Top Cine", Mentiras E Ilusiones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f523c30db45a1001a79abf5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f5cd4fa72a5001a5fd827/poster.jpg" group-title="Top Cine", Superhero Movie
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cd4fa72a5001a5fd827/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f523c18db45a1001a79aaee/poster.jpg" group-title="Top Cine", What Just Happened?
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f523c18db45a1001a79aaee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6207f8fb35bf001af7bebb/poster.jpg" group-title="Top Cine", El espía
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6207f8fb35bf001af7bebb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f5ce5fa72a5001a5fd945/poster.jpg" group-title="Top Cine", The Road
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5ce5fa72a5001a5fd945/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f8b2c4f90fbf4001aa3ad18/poster.jpg" group-title="Top Cine", Hércules en Nueva York
@@ -37,8 +45,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cf0fa72a5001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cccfa72a5001a5fd796/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4e183cfa72a5001a5fa6dd/poster.jpg" group-title="Top Cine", Doble identidad
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e183cfa72a5001a5fa6dd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6207f8fb35bf001af7bebb/poster.jpg" group-title="Top Cine", El espía
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6207f8fb35bf001af7bebb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4e1812fa72a5001a5fa3df/poster.jpg" group-title="Top Cine", Betty Anne Waters
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e1812fa72a5001a5fa3df/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4e1847fa72a5001a5fa789/poster.jpg" group-title="Top Cine", El Milagro De Henry Poole
@@ -63,8 +69,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cf2fa72a5001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e1863fa72a5001a5fa99d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f5cd8fa72a5001a5fd861/poster.jpg" group-title="Top Cine", Cuatro vidas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cd8fa72a5001a5fd861/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f523c30db45a1001a79abf5/poster.jpg" group-title="Top Cine", Mentiras E Ilusiones
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f523c30db45a1001a79abf5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4e1833fa72a5001a5fa62f/poster.jpg" group-title="Top Cine", Descubriendo El Amor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e1833fa72a5001a5fa62f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4ab3c5fa72a5001a5f7919/poster.jpg" group-title="Top Cine", Christmas Mail
@@ -85,12 +89,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f523c1adb45a1001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f562deaf7db51001a3c5f0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f523c38db45a1001a79ac69/poster.jpg" group-title="Top Cine", ¿Qué hacemos con Maisie?
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f523c38db45a1001a79ac69/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f523c18db45a1001a79aaee/poster.jpg" group-title="Top Cine", What Just Happened?
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f523c18db45a1001a79aaee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4eacefdb45a1001a7952d8/poster.jpg" group-title="Top Cine", Mi Vida Es Una Ruina
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4eacefdb45a1001a7952d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f5cd4fa72a5001a5fd827/poster.jpg" group-title="Top Cine", Superhero Movie
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cd4fa72a5001a5fd827/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff2ee73eff9b2001a7f5b95/poster.jpg" group-title="Top Cine", Pi, fe en el caos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff2ee73eff9b2001a7f5b95/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4e17f5fa72a5001a5fa1d3/poster.jpg" group-title="Top Cine", All's Faire in Love
