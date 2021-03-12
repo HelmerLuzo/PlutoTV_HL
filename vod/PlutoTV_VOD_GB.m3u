@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6041f848e7c979001a8984e3/poster.jpg" group-title="New on Pluto TV", Rooftops
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6041f848e7c979001a8984e3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ac35ffe774001ad5a03b/poster.jpg" group-title="New on Pluto TV", The Runner
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ac35ffe774001ad5a03b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ab5534b28d001a373418/poster.jpg" group-title="New on Pluto TV", On the Edge
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ab5534b28d001a373418/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ab5134b28d001a3733c8/poster.jpg" group-title="New on Pluto TV", The Nugget
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ab5134b28d001a3733c8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ebb512d561001a4e8839/poster.jpg" group-title="New on Pluto TV", Images
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ebb512d561001a4e8839/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/604738571e25b3001a5e854c/poster.jpg" group-title="New on Pluto TV", The Big Easy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604738571e25b3001a5e854c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5d4a351a4d54d185054b0191/poster.jpg" group-title="New on Pluto TV", Super Size Me
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d4a351a4d54d185054b0191/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5d819401064aea4a5f386858/poster.jpg" group-title="New on Pluto TV", Bottle Shock
@@ -157,8 +169,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d06c03610013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d36c03610013aba4ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6c57d26c03610013aba4dc/poster.jpg" group-title="New on Pluto TV", Mother and Child
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d26c03610013aba4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3e2c1c9dd795001ab448de/poster.jpg" group-title="New on Pluto TV", Battle of Britain
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3e2c1c9dd795001ab448de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5faaa0faf6e14a001aa60247/poster.jpg" group-title="TV: Paranormal", Confessions Of An Alien Abductee
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faaa0faf6e14a001aa60247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5de7ebef3b19031c25ec110b/poster.jpg" group-title="TV: Paranormal", Aliens on the Moon: The Truth Exposed
