@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/uk.xml.gz"
+#EXTINF:-1, tvg-id="600adb12bb86110007195ce5" tvg-name="Loupe" tvg-logo="https://images.pluto.tv/channels/600adb12bb86110007195ce5/colorLogoPNG.png" group-title="New on Pluto TV" tvg-chno="32", Loupe
+https://stitcher.pluto.tv/stitch/hls/channel/600adb12bb86110007195ce5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="600acdc434a37000070004cf" tvg-name="Judge Nosey" tvg-logo="https://images.pluto.tv/channels/600acdc434a37000070004cf/colorLogoPNG.png" group-title="New on Pluto TV" tvg-chno="33", Judge Nosey
 https://stitcher.pluto.tv/stitch/hls/channel/600acdc434a37000070004cf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="600acaff5f2d6e000745effb" tvg-name="Pluto TV Lives" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" group-title="New on Pluto TV" tvg-chno="34", Pluto TV Lives
@@ -9,8 +11,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/600ad1a372e57c0007dbee5a/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f6b54b9e67cf60007d4cef1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="5f6b535a278bfe000799484a" tvg-name="Dog The Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" group-title="New on Pluto TV" tvg-chno="38", Dog The Bounty Hunter
 https://stitcher.pluto.tv/stitch/hls/channel/5f6b535a278bfe000799484a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-id="5f27bbe4779de70007a6d1c1" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" group-title="New on Pluto TV" tvg-chno="39", Ghost Hunters
-https://stitcher.pluto.tv/stitch/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="5ad8d3a31b95267e225e4e09" tvg-name="Pluto TV Movies" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="Movies" tvg-chno="50", Pluto TV Movies
 https://stitcher.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="5dbfeb961b411c00090b52b3" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" group-title="Movies" tvg-chno="51", Pluto TV Action
@@ -51,6 +51,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5e79c2f280389000077242a8/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5c45f5a9d40d58066869fa60/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="5d4af2ffa9506ab29cf38c38" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5d4af2ffa9506ab29cf38c38/colorLogoPNG.png" group-title="Crime & Mystery" tvg-chno="216", Pluto TV Paranormal
 https://stitcher.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-id="5f27bbe4779de70007a6d1c1" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" group-title="Crime & Mystery" tvg-chno="218", Ghost Hunters
+https://stitcher.pluto.tv/stitch/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="5dc2ba1a9c91420009db4858" tvg-name="Nosey" tvg-logo="https://images.pluto.tv/channels/5dc2ba1a9c91420009db4858/colorLogoPNG.png" group-title="Entertainment" tvg-chno="300", Nosey
 https://stitcher.pluto.tv/stitch/hls/channel/5dc2ba1a9c91420009db4858/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-id="5bd833b41843b56328bac189" tvg-name="Mythbusters" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" group-title="Entertainment" tvg-chno="301", Mythbusters
