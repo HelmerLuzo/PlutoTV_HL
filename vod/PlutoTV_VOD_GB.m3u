@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6050b49217007f001a8130a2/poster.jpg" group-title="New on Pluto TV", The Navigator
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6050b49217007f001a8130a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ebb012d561001a4e87f5/poster.jpg" group-title="New on Pluto TV", A Serial Killer's Guide To Life
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ebb012d561001a4e87f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6041f848e7c979001a8984e3/poster.jpg" group-title="New on Pluto TV", Rooftops
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6041f848e7c979001a8984e3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ac35ffe774001ad5a03b/poster.jpg" group-title="New on Pluto TV", The Runner
@@ -647,6 +649,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bca16d1ed3fa8a147
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff41f2ce3ed06001a5e841d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5feb39504aa70a001a4fec32/poster.jpg" group-title="Documentaries", Laughology
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feb39504aa70a001a4fec32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ebb312d561001a4e8819/poster.jpg" group-title="Documentaries", British Sounds
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ebb312d561001a4e8819/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5bc449e70d638461d67348f3/poster.jpg" group-title="Documentaries", Programming the Nation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bc449e70d638461d67348f3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5faaa1ac3650d7001b3f98b6/poster.jpg" group-title="Documentaries", Beyond Earth
@@ -797,5 +801,3 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e158a2825ce304162
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190d64b0875c36c90c45f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5d81e5b8cb6d43ff35c45ec5/poster.jpg" group-title="Documentaries", Nazis in the CIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d81e5b8cb6d43ff35c45ec5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5e158a0d25ce3041625370d6/poster.jpg" group-title="Documentaries", Nelson Mandela: One Man
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e158a0d25ce3041625370d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
