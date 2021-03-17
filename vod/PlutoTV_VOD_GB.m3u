@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6050b49217007f001a8130a2/poster.jpg" group-title="New on Pluto TV", The Navigator
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6050b49217007f001a8130a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6041f848e7c979001a8984e3/poster.jpg" group-title="New on Pluto TV", Rooftops
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6041f848e7c979001a8984e3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ac35ffe774001ad5a03b/poster.jpg" group-title="New on Pluto TV", The Runner
@@ -255,6 +257,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d990a077029e88fb4
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f96b158b828e1001a8831c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4ff62b53b5f80009e988a6/poster.jpg" group-title="Movies: Sci Fi", Capricorn One
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4ff62b53b5f80009e988a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6050b49217007f001a8130a2/poster.jpg" group-title="Movies: Sci Fi", The Navigator
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6050b49217007f001a8130a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4a46202e863de9e270c31b/poster.jpg" group-title="Movies: Sci Fi", And The Lost Treasure of Ugarit
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4a46202e863de9e270c31b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4a46202e863de9e270c325/poster.jpg" group-title="Movies: Sci Fi", And The Quest For Akhenatens Tomb
