@@ -13,8 +13,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ba37b964b078e0f37
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e708a715c1e25001a27ba13/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6050b49217007f001a8130a2/poster.jpg" group-title="New on Pluto TV", The Navigator
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6050b49217007f001a8130a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ebb012d561001a4e87f5/poster.jpg" group-title="New on Pluto TV", A Serial Killer's Guide To Life
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ebb012d561001a4e87f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6041f848e7c979001a8984e3/poster.jpg" group-title="New on Pluto TV", Rooftops
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6041f848e7c979001a8984e3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ac35ffe774001ad5a03b/poster.jpg" group-title="New on Pluto TV", The Runner
@@ -173,6 +171,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d56c03610013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d66c03610013aba539/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6c57d86c03610013aba558/poster.jpg" group-title="New on Pluto TV", Taxi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d86c03610013aba558/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6c57d06c03610013aba4b9/poster.jpg" group-title="New on Pluto TV", Wilde
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d06c03610013aba4b9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5d4a316f3adbde84973e0746/poster.jpg" group-title="Movies: Action", Legend of the Red Dragon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d4a316f3adbde84973e0746/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa987cb8b78ef001aa1f03a/poster.jpg" group-title="Movies: Action", In the Name of the King
