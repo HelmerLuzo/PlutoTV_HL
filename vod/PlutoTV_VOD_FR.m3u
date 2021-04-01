@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6062dc2fa224c9001bb82818/poster.jpg" group-title="Cinéma", Birdman FR
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6062dc2fa224c9001bb82818.m3u8
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc8e77a0dddaf0013b63f41/poster.jpg" group-title="Cinéma", Allies
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/5fc8e77a0dddaf0013b63f41.m3u8
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5ffd81fb23d1f7001301ba0e/poster.jpg" group-title="Cinéma", 10,000 Days
@@ -75,6 +77,10 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/5ff83bde2a97380013422b54.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/5ffd81f923d1f7001301b9eb.m3u8
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5ffc340d2816a5001a9ff256/poster.jpg" group-title="Films Romantiques", Rodeo & Juliet
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/5ffc340d2816a5001a9ff256.m3u8
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6065a0f5e85e72001a641f8b/poster.jpg" group-title="Films Romantiques", Le miracle de Noël
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6065a0f5e85e72001a641f8b.m3u8
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6065a0f2e85e72001a641f6e/poster.jpg" group-title="Films Romantiques", Un nouveau départ pour Noël
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6065a0f2e85e72001a641f6e.m3u8
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/6033a5c5c73a55001aa03fee/poster.jpg" group-title="Thrillers", Warbirds
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6033a5c5c73a55001aa03fee.m3u8
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/5fbf615699839e0013e069f0/poster.jpg" group-title="Thrillers", L'invasion finale
@@ -125,3 +131,5 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/5fb3b5f8fd17cc001a015e29.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/601d6a1687be07001a29ca26.m3u8
 #EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/601d6a1a87be07001a29ca61/poster.jpg" group-title="Documentaires", Pingouins : le Charlie Chaplin Africain
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/601d6a1a87be07001a29ca61.m3u8
+#EXTINF:-1, tvg-logo="https://api.pluto.tv/v3/images/episodes/606456b4918e16001a4fd571/poster.jpg" group-title="Documentaires", Chasseurs d’avions
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606456b4918e16001a4fd571.m3u8
