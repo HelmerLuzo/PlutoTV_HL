@@ -371,6 +371,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9c08afc8ccd6797d
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5900d34f8f3a7ecddc4e474a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a565737424d3aae4bffa632/poster.jpg" group-title="New Movies This Month", The Fantasticks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a565737424d3aae4bffa632/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60358654b2b870001a0409f6/poster.jpg" group-title="Trending Now", Snatch
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60358654b2b870001a0409f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058d5c6a224c9001bb775aa/poster.jpg" group-title="Trending Now", Foxcatcher
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058d5c6a224c9001bb775aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603694f36c2a2d001410954c/poster.jpg" group-title="Trending Now", The November Man
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603694f36c2a2d001410954c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60380d5913a1a7001a73d947/poster.jpg" group-title="Trending Now", Disconnect
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60380d5913a1a7001a73d947/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603e7a19b2b870001a04c85e/poster.jpg" group-title="Trending Now", Before I Go to Sleep
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603e7a19b2b870001a04c85e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9a1dc67ecf48001a358c51/poster.jpg" group-title="Trending Now", Fargo (1996)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9a1dc67ecf48001a358c51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/605a71d88119a5001a71cb83/poster.jpg" group-title="Trending Now", Tyler Perry's Madea's Family Reunion
@@ -385,46 +395,60 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e8b8050dcc107001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60340e45eac950001314f136/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60358659b2b870001a040a7f/poster.jpg" group-title="Trending Now", Little Man
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60358659b2b870001a040a7f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ef671a7beb4ef0014ac0a5a/poster.jpg" group-title="Trending Now", Redbelt
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ef671a7beb4ef0014ac0a5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60132ddacaf1bb001a802378/poster.jpg" group-title="Trending Now", Flight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60132ddacaf1bb001a802378/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58be3149b229f409a921cb3c/poster.jpg" group-title="Trending Now", Mud
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58be3149b229f409a921cb3c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ed28c8cefbd62001b280de6/poster.jpg" group-title="Trending Now", South Park: Bigger, Longer & Uncut
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ed28c8cefbd62001b280de6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60634b5b9457110007ca0200/poster.jpg" group-title="Trending Now", Platoon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60634b5b9457110007ca0200/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058d5c6a224c9001bb775aa/poster.jpg" group-title="Trending Now", Foxcatcher
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058d5c6a224c9001bb775aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e865f81822bbc001ac9f622/poster.jpg" group-title="Trending Now", Moon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e865f81822bbc001ac9f622/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f344fcf1e712200131dac10/poster.jpg" group-title="Trending Now", Wolf
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f344fcf1e712200131dac10/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60358654b2b870001a0409f6/poster.jpg" group-title="Trending Now", Snatch
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60358654b2b870001a0409f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ef6719ebeb4ef0014ac093a/poster.jpg" group-title="Trending Now", Driven
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ef6719ebeb4ef0014ac093a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ca2afdf2ecfdaae49357414/poster.jpg" group-title="Trending Now", Stargate
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ca2afdf2ecfdaae49357414/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b4fd161380218bf4e470daf/poster.jpg" group-title="Trending Now", About Last Night
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b4fd161380218bf4e470daf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058d5c9a224c9001bb775ff/poster.jpg" group-title="Trending Now", Basic
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058d5c9a224c9001bb775ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603e7a19b2b870001a04c85e/poster.jpg" group-title="Trending Now", Before I Go to Sleep
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603e7a19b2b870001a04c85e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3367b4bbff270013badb79/poster.jpg" group-title="Trending Now", Breakin' All The Rules
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3367b4bbff270013badb79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c0f16f1741fbc7c3ea8fea9/poster.jpg" group-title="Trending Now", The Jane Austen Book Club
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c0f16f1741fbc7c3ea8fea9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60369105049634001a5e9da5/poster.jpg" group-title="Trending Now", Killer Joe
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60369105049634001a5e9da5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb3d914aa02b96ad7c0de19/poster.jpg" group-title="Trending Now", Kung Fu Hustle
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb3d914aa02b96ad7c0de19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603694f36c2a2d001410954c/poster.jpg" group-title="Trending Now", The November Man
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603694f36c2a2d001410954c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603690ef54f963001a6864a6/poster.jpg" group-title="Trending Now", Hector and the Search for Happiness
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603690ef54f963001a6864a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6036c2adf2c1bd001af33409/poster.jpg" group-title="Trending Now", Debug
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6036c2adf2c1bd001af33409/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60369113558c290014f96b8e/poster.jpg" group-title="Trending Now", London Fields
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60369113558c290014f96b8e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f98d560405ab3001be93cfe/poster.jpg" group-title="Trending Now", Return to Zero
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f98d560405ab3001be93cfe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60380eea54f963001a688094/poster.jpg" group-title="Trending Now", Romeo and Juliet
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60380eea54f963001a688094/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e0e57c8ec5579c50887a8f4/poster.jpg" group-title="Trending Now", S.W.A.T.: Firefight
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e0e57c8ec5579c50887a8f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058d5c9a224c9001bb775ff/poster.jpg" group-title="Trending Now", Basic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058d5c9a224c9001bb775ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cd9ec092427bc9f3c120dd6/poster.jpg" group-title="Trending Now", Big Game
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cd9ec092427bc9f3c120dd6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3367b4bbff270013badb79/poster.jpg" group-title="Trending Now", Breakin' All The Rules
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3367b4bbff270013badb79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e337fe96cbe9e99c44bcb9f/poster.jpg" group-title="Trending Now", Passengers
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e337fe96cbe9e99c44bcb9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c0f16f1741fbc7c3ea8fea9/poster.jpg" group-title="Trending Now", The Jane Austen Book Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c0f16f1741fbc7c3ea8fea9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e8624ce4f626f001a4be6e1/poster.jpg" group-title="Trending Now", Bobby Jones: Stroke of Genius
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e8624ce4f626f001a4be6e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b3b10b3c59f01f16f4815dc/poster.jpg" group-title="Trending Now", Lords of Dogtown
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b3b10b3c59f01f16f4815dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/601311ec67e9ba001a83e263/poster.jpg" group-title="Trending Now", The Rider
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/601311ec67e9ba001a83e263/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b3b10a7c59f01f16f4813c7/poster.jpg" group-title="Trending Now", Shampoo
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b3b10a7c59f01f16f4813c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6036911fd36089001adc9a5e/poster.jpg" group-title="Trending Now", The Love Punch
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6036911fd36089001adc9a5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c0f16ee741fbc7c3ea8fe3a/poster.jpg" group-title="Trending Now", To Die For
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c0f16ee741fbc7c3ea8fe3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb3d914aa02b96ad7c0de19/poster.jpg" group-title="Trending Now", Kung Fu Hustle
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb3d914aa02b96ad7c0de19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f2d86d0bbff270013ba656e/poster.jpg" group-title="Trending Now", Universal Soldier: The Return
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f2d86d0bbff270013ba656e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e0e57afec5579c50887a606/poster.jpg" group-title="Trending Now", The Way We Were
@@ -437,20 +461,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e0e57dbec5579c508
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e0e57cbec5579c50887a920/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bac1a3a3a849c313518c43f/poster.jpg" group-title="Trending Now", All the King's Men
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bac1a3a3a849c313518c43f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cd9ec092427bc9f3c120dd6/poster.jpg" group-title="Trending Now", Big Game
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cd9ec092427bc9f3c120dd6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e8624ce4f626f001a4be6e1/poster.jpg" group-title="Trending Now", Bobby Jones: Stroke of Genius
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e8624ce4f626f001a4be6e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b3b10a7c59f01f16f4813c7/poster.jpg" group-title="Trending Now", Shampoo
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b3b10a7c59f01f16f4813c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ecf12e99c2d16001ad70f31/poster.jpg" group-title="Trending Now", Cat Ballou
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ecf12e99c2d16001ad70f31/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b4fd161380218bf4e470daf/poster.jpg" group-title="Trending Now", About Last Night
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b4fd161380218bf4e470daf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b36cb53ad1b6cc652158cab/poster.jpg" group-title="Trending Now", The China Syndrome
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b36cb53ad1b6cc652158cab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6036c2adf2c1bd001af33409/poster.jpg" group-title="Trending Now", Debug
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6036c2adf2c1bd001af33409/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60380d5913a1a7001a73d947/poster.jpg" group-title="Trending Now", Disconnect
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60380d5913a1a7001a73d947/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ef6719ebeb4ef0014ac093a/poster.jpg" group-title="Trending Now", Driven
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ef6719ebeb4ef0014ac093a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb3d911aa02b96ad7c0dd7b/poster.jpg" group-title="Trending Now", Drunken Master
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb3d911aa02b96ad7c0dd7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ef671a0beb4ef0014ac098b/poster.jpg" group-title="Trending Now", Final Fantasy: The Spirits Within
@@ -463,8 +481,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b8072f06a83caa23c
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bd25df7ff625bd9a8af1c26/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e332f438956c895148047b7/poster.jpg" group-title="Trending Now", Hanging Up
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e332f438956c895148047b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603690ef54f963001a6864a6/poster.jpg" group-title="Trending Now", Hector and the Search for Happiness
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603690ef54f963001a6864a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3367b6bbff270013badba3/poster.jpg" group-title="Trending Now", Hush
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3367b6bbff270013badba3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ead190e8ad740001b7f8619/poster.jpg" group-title="Trending Now", Ike: Countdown to D-Day
@@ -487,10 +503,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ecd6cafdd6d8f001b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60358657b2b870001a040a32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ecd6ca3dd6d8f001b5cced5/poster.jpg" group-title="Trending Now", Loser
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ecd6ca3dd6d8f001b5cced5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60369113558c290014f96b8e/poster.jpg" group-title="Trending Now", London Fields
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60369113558c290014f96b8e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b3b10b3c59f01f16f4815dc/poster.jpg" group-title="Trending Now", Lords of Dogtown
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b3b10b3c59f01f16f4815dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ead19168ad740001b7f8711/poster.jpg" group-title="Trending Now", Pacific Heights
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ead19168ad740001b7f8711/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b8072110b6819aa2020d2ca/poster.jpg" group-title="Trending Now", Moscow on the Hudson
@@ -501,32 +513,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ead19228ad740001b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b4fd155380218bf4e470bee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b4fd147380218bf4e4709f6/poster.jpg" group-title="Trending Now", Nowhere to Run
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b4fd147380218bf4e4709f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ef671a7beb4ef0014ac0a5a/poster.jpg" group-title="Trending Now", Redbelt
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ef671a7beb4ef0014ac0a5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e337fe96cbe9e99c44bcb9f/poster.jpg" group-title="Trending Now", Passengers
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e337fe96cbe9e99c44bcb9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b805a8053abc1a358059835/poster.jpg" group-title="Trending Now", Postcards from the Edge
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b805a8053abc1a358059835/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ef671b2beb4ef0014ac0b3b/poster.jpg" group-title="Trending Now", The Professionals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ef671b2beb4ef0014ac0b3b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ed28c8cefbd62001b280de6/poster.jpg" group-title="Trending Now", South Park: Bigger, Longer & Uncut
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ed28c8cefbd62001b280de6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e0e57c1ec5579c50887a808/poster.jpg" group-title="Trending Now", The Remains of the Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e0e57c1ec5579c50887a808/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f98d560405ab3001be93cfe/poster.jpg" group-title="Trending Now", Return to Zero
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f98d560405ab3001be93cfe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60380eea54f963001a688094/poster.jpg" group-title="Trending Now", Romeo and Juliet
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60380eea54f963001a688094/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e0e57c8ec5579c50887a8f4/poster.jpg" group-title="Trending Now", S.W.A.T.: Firefight
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e0e57c8ec5579c50887a8f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ecd6cb3dd6d8f001b5ccfda/poster.jpg" group-title="Trending Now", The Survivors
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ecd6cb3dd6d8f001b5ccfda/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6000811050e458001a79b291/poster.jpg" group-title="Trending Now", Urban Legends: Bloody Mary
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6000811050e458001a79b291/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b4fd131380218bf4e4706f6/poster.jpg" group-title="Trending Now", Used Cars
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b4fd131380218bf4e4706f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c12a8d564c71ea53df17355/poster.jpg" group-title="Trending Now", Urban Legend
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c12a8d564c71ea53df17355/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6000811050e458001a79b291/poster.jpg" group-title="Trending Now", Urban Legends: Bloody Mary
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6000811050e458001a79b291/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f0745d4c39749001375ac12/poster.jpg" group-title="Trending Now", Urban Legends: The Final Cut
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f0745d4c39749001375ac12/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ffc90e223d1f70013019e98/poster.jpg" group-title="Last Chance to Watch", Almost Famous
@@ -1929,6 +1929,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e741ea77255220014
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58e2e7a05ead55f9c2afe608/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d9cb0a30c9961e39651e159/poster.jpg" group-title="Comfort Movies", The Other End Of The Line
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d9cb0a30c9961e39651e159/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d38b6bd583286c4f60ce862/poster.jpg" group-title="Comedy Central Stand-Up", Whitney Cummings: I Love You
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6bd583286c4f60ce862/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d38b6de583286c4f60cea5f/poster.jpg" group-title="Comedy Central Stand-Up", Nikki Glaser: Perfect
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6de583286c4f60cea5f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326de681d35898a5360543/poster.jpg" group-title="Comedy Central Stand-Up", Hannibal Buress: Live From Chicago
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326de681d35898a5360543/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326de381d35898a5360516/poster.jpg" group-title="Comedy Central Stand-Up", Hannibal Buress: Animal Furnace
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326de381d35898a5360516/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326dd681d35898a536043f/poster.jpg" group-title="Comedy Central Stand-Up", Amy Schumer Presents Rachel Feinstein
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326dd681d35898a536043f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d38b6e4583286c4f60ceabd/poster.jpg" group-title="Comedy Central Stand-Up", Nick Swardson: Taste It
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6e4583286c4f60ceabd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326dd081d35898a53603e1/poster.jpg" group-title="Comedy Central Stand-Up", Chris Hardwick: Mandroid
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326dd081d35898a53603e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d38b6f9583286c4f60cec17/poster.jpg" group-title="Comedy Central Stand-Up", Tracy Morgan: Bona Fide
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6f9583286c4f60cec17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58de8ebce8f51b555ac3902f/poster.jpg" group-title="Staff Picks", Babel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58de8ebce8f51b555ac3902f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ffc90e223d1f70013019e98/poster.jpg" group-title="Staff Picks", Almost Famous
@@ -2329,22 +2345,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb4604b2cdc95001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e30b42fc2ef745c4e002cea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4788bcf7bbe5b5ea84089c/poster.jpg" group-title="Romance", The Roman Spring of Mrs. Stone
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4788bcf7bbe5b5ea84089c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d38b6bd583286c4f60ce862/poster.jpg" group-title="Comedy Central Stand-Up", Whitney Cummings: I Love You
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6bd583286c4f60ce862/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d38b6de583286c4f60cea5f/poster.jpg" group-title="Comedy Central Stand-Up", Nikki Glaser: Perfect
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6de583286c4f60cea5f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326de681d35898a5360543/poster.jpg" group-title="Comedy Central Stand-Up", Hannibal Buress: Live From Chicago
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326de681d35898a5360543/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326de381d35898a5360516/poster.jpg" group-title="Comedy Central Stand-Up", Hannibal Buress: Animal Furnace
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326de381d35898a5360516/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326dd681d35898a536043f/poster.jpg" group-title="Comedy Central Stand-Up", Amy Schumer Presents Rachel Feinstein
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326dd681d35898a536043f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d38b6e4583286c4f60ceabd/poster.jpg" group-title="Comedy Central Stand-Up", Nick Swardson: Taste It
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6e4583286c4f60ceabd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326dd081d35898a53603e1/poster.jpg" group-title="Comedy Central Stand-Up", Chris Hardwick: Mandroid
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326dd081d35898a53603e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d38b6f9583286c4f60cec17/poster.jpg" group-title="Comedy Central Stand-Up", Tracy Morgan: Bona Fide
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6f9583286c4f60cec17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5b737fbb02a232ad35334b/poster.jpg" group-title="Animal Planet", World's Ugliest Pets
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5b737fbb02a232ad35334b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6023154a6d7ca5001ae99205/poster.jpg" group-title="Thrillers", Wind River
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6023154a6d7ca5001ae99205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603e7a19b2b870001a04c85e/poster.jpg" group-title="Thrillers", Before I Go to Sleep
@@ -2743,8 +2745,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f651bac5e6bed001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bbb8b0bf74817b1c78557a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1e04e3d65e92e03ffbe88d/poster.jpg" group-title="Horror", Maggie
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1e04e3d65e92e03ffbe88d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5b737fbb02a232ad35334b/poster.jpg" group-title="Animal Planet", World's Ugliest Pets
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5b737fbb02a232ad35334b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9a1dc67ecf48001a358c51/poster.jpg" group-title="'90s Throwback", Fargo (1996)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9a1dc67ecf48001a358c51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ac50b12ea0c647dd15b7ac3/poster.jpg" group-title="'90s Throwback", The Hot Spot
@@ -3733,6 +3733,44 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e478828f7bbe5b5ea
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7f9002377682001a57f96f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e95e86ec733d6001a19c01c/poster.jpg" group-title="Indies", Only God Forgives
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e95e86ec733d6001a19c01c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6054d3c6e52b47001baf544a/poster.jpg" group-title="True Crime", The Real SVU
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6054d3c6e52b47001baf544a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60551abde52b47001baf5e78/poster.jpg" group-title="True Crime", The Abduction of Jaycee Dugard
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60551abde52b47001baf5e78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6039844a049634001a5eda97/poster.jpg" group-title="True Crime", The Rise and Fall of Pablo Escobar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6039844a049634001a5eda97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603960ff049634001a5ecdda/poster.jpg" group-title="True Crime", The Rise and Fall of El Chapo
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603960ff049634001a5ecdda/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6039844605d744001a218154/poster.jpg" group-title="True Crime", The Definitive Guide to the Mob
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6039844605d744001a218154/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a3f295090001a60872d/poster.jpg" group-title="True Crime", O.J.: Guilty in Vegas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a3f295090001a60872d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a436c2a2d001410c80b/poster.jpg" group-title="True Crime", Long Island Serial Killer
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a436c2a2d001410c80b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60398439e60433001ab2ebe8/poster.jpg" group-title="True Crime", Jonestown: The Women Behind the Massacre
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60398439e60433001ab2ebe8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6039843e558c290014f9b029/poster.jpg" group-title="True Crime", JonBenet's Mother: Victim or Killer?
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6039843e558c290014f9b029/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60398442ffe774001ad44681/poster.jpg" group-title="True Crime", Inside Alcatraz: Legends of the Rock
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60398442ffe774001ad44681/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a36ea7ac5001a91b30a/poster.jpg" group-title="True Crime", Dating App Horrors: The Untold Story
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a36ea7ac5001a91b30a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ba8a6345969050e9cd97ab2/poster.jpg" group-title="True Crime", Square Grouper
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ba8a6345969050e9cd97ab2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a3213a1a7001a73f57a/poster.jpg" group-title="True Crime", Alcatraz: Search for the Truth
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a3213a1a7001a73f57a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a2b193602001318d3da/poster.jpg" group-title="True Crime", Alcatraz Escape: The Lost Evidence
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a2b193602001318d3da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ac7dc609aef7c8dec14f1d5/poster.jpg" group-title="True Crime", The FBI Files Deadly Dentist - Part Two
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ac7dc609aef7c8dec14f1d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5be1c363960153705c6ee35d/poster.jpg" group-title="True Crime", Mr. Untouchable
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5be1c363960153705c6ee35d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c48b68303a270744b8097f8/poster.jpg" group-title="True Crime", Material Witness
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c48b68303a270744b8097f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f11cfe54b8f2200131b8347/poster.jpg" group-title="True Crime", Murder Hotel (a.k.a Murder Castle)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f11cfe54b8f2200131b8347/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f906661e657fb001311bd58/poster.jpg" group-title="Rugged Reality", This Mountain Life
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f906661e657fb001311bd58/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cd08a43b6ee6754089fc503/poster.jpg" group-title="Classic Movies", Stalag 17
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cd08a43b6ee6754089fc503/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58e2efb9419d7119c4d906cf/poster.jpg" group-title="Classic Movies", Sunset Boulevard (1950)
@@ -4021,234 +4059,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa9781ef6e14a001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cc35d4335f85ad1b1a12c4f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60358657b2b870001a040a32/poster.jpg" group-title="Award Winners", The Last Detail
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60358657b2b870001a040a32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6054d3c6e52b47001baf544a/poster.jpg" group-title="True Crime", The Real SVU
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6054d3c6e52b47001baf544a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60551abde52b47001baf5e78/poster.jpg" group-title="True Crime", The Abduction of Jaycee Dugard
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60551abde52b47001baf5e78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6039844a049634001a5eda97/poster.jpg" group-title="True Crime", The Rise and Fall of Pablo Escobar
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6039844a049634001a5eda97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603960ff049634001a5ecdda/poster.jpg" group-title="True Crime", The Rise and Fall of El Chapo
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603960ff049634001a5ecdda/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6039844605d744001a218154/poster.jpg" group-title="True Crime", The Definitive Guide to the Mob
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6039844605d744001a218154/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a3f295090001a60872d/poster.jpg" group-title="True Crime", O.J.: Guilty in Vegas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a3f295090001a60872d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a436c2a2d001410c80b/poster.jpg" group-title="True Crime", Long Island Serial Killer
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a436c2a2d001410c80b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60398439e60433001ab2ebe8/poster.jpg" group-title="True Crime", Jonestown: The Women Behind the Massacre
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60398439e60433001ab2ebe8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6039843e558c290014f9b029/poster.jpg" group-title="True Crime", JonBenet's Mother: Victim or Killer?
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6039843e558c290014f9b029/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60398442ffe774001ad44681/poster.jpg" group-title="True Crime", Inside Alcatraz: Legends of the Rock
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60398442ffe774001ad44681/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a36ea7ac5001a91b30a/poster.jpg" group-title="True Crime", Dating App Horrors: The Untold Story
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a36ea7ac5001a91b30a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ba8a6345969050e9cd97ab2/poster.jpg" group-title="True Crime", Square Grouper
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ba8a6345969050e9cd97ab2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a3213a1a7001a73f57a/poster.jpg" group-title="True Crime", Alcatraz: Search for the Truth
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a3213a1a7001a73f57a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60396a2b193602001318d3da/poster.jpg" group-title="True Crime", Alcatraz Escape: The Lost Evidence
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60396a2b193602001318d3da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ac7dc609aef7c8dec14f1d5/poster.jpg" group-title="True Crime", The FBI Files Deadly Dentist - Part Two
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ac7dc609aef7c8dec14f1d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5be1c363960153705c6ee35d/poster.jpg" group-title="True Crime", Mr. Untouchable
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5be1c363960153705c6ee35d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c48b68303a270744b8097f8/poster.jpg" group-title="True Crime", Material Witness
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c48b68303a270744b8097f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f11cfe54b8f2200131b8347/poster.jpg" group-title="True Crime", Murder Hotel (a.k.a Murder Castle)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f11cfe54b8f2200131b8347/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f906661e657fb001311bd58/poster.jpg" group-title="Rugged Reality", This Mountain Life
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f906661e657fb001311bd58/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e95e857c733d6001a19bd6e/poster.jpg" group-title="Family", Furry Vengeance
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e95e857c733d6001a19bd6e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f8f6f58a0dd2c001a7fd773/poster.jpg" group-title="Family", Thomas and the Magic Railroad
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8f6f58a0dd2c001a7fd773/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f77a003542b4b0014c07c74/poster.jpg" group-title="Family", Zoo
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f77a003542b4b0014c07c74/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59271268371dfa791787c9c2/poster.jpg" group-title="Family", The Black Stallion
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59271268371dfa791787c9c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f18e87a4b8f2200131c277f/poster.jpg" group-title="Family", Slappy and The Stinkers
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f18e87a4b8f2200131c277f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f24f4e9aed833001aab18d5/poster.jpg" group-title="Family", Dilili in Paris
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f24f4e9aed833001aab18d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9120b7740902001a9616dd/poster.jpg" group-title="Family", Christmas Break-In
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9120b7740902001a9616dd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f1f02277d5a3f001a488e51/poster.jpg" group-title="Family", Emma's Chance
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f1f02277d5a3f001a488e51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f98b353e657fb0013126809/poster.jpg" group-title="Family", Adventure Boyz
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f98b353e657fb0013126809/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f8118fa652fb5001add46e0/poster.jpg" group-title="Family", I Think My Babysitter is an Alien
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8118fa652fb5001add46e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6009bfc600da4e00138ad617/poster.jpg" group-title="Family", Spy Kids 4: All the Time in the World
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6009bfc600da4e00138ad617/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f8118e5e657fb0013109ba6/poster.jpg" group-title="Family", Hope Dances
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8118e5e657fb0013109ba6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f19bbdcaed833001aaa01df/poster.jpg" group-title="Family", Taking 5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f19bbdcaed833001aaa01df/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f1f02c77d5a3f001a489cad/poster.jpg" group-title="Family", The Trumpet Of The Swan
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f1f02c77d5a3f001a489cad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fca58fa861be7001a6cc81b/poster.jpg" group-title="Family", How to Beat a Bully
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fca58fa861be7001a6cc81b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f88e289b06bf7001adc6d0a/poster.jpg" group-title="Family", Rodeo Girl
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f88e289b06bf7001adc6d0a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f1f01ed7d5a3f001a4889c3/poster.jpg" group-title="Family", Apple of My Eye
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f1f01ed7d5a3f001a4889c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59dea46830bc784304eaa68c/poster.jpg" group-title="Family", A Turtle's Tale: Sammy's Adventures
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59dea46830bc784304eaa68c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ca249316ae5db78b4b5816e/poster.jpg" group-title="Family", Arctic Tale
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ca249316ae5db78b4b5816e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/590141fda1041ca52b5ab352/poster.jpg" group-title="Family", The Secret of N.I.M.H.
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/590141fda1041ca52b5ab352/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e3c8cd986e96850bcc4a21c/poster.jpg" group-title="Family", Larger Than Life
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e3c8cd986e96850bcc4a21c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5daf995611499de25c71f313/poster.jpg" group-title="Family", Christmas Village (2014) (LF)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5daf995611499de25c71f313/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c80169712857a70211aeb2f/poster.jpg" group-title="Family", A Turtle's Tale 2: Sammy's Escape From Paradise
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c80169712857a70211aeb2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c3e2249a8382019455fef0d/poster.jpg" group-title="Family", Zapped
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c3e2249a8382019455fef0d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58b48056e81ac6d5d4669f62/poster.jpg" group-title="Family", Alpha And Omega: Family Vacation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58b48056e81ac6d5d4669f62/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58b48061e81ac6d5d4669f94/poster.jpg" group-title="Family", Alpha And Omega: A Howl-iday Adventure
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58b48061e81ac6d5d4669f94/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58b48017e81ac6d5d4669a9d/poster.jpg" group-title="Family", Alpha and Omega 4: The Legend of Saw Tooth
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58b48017e81ac6d5d4669a9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9842ee72d139001a1b1914/poster.jpg" group-title="Family", The Christmas That Almost Wasn't
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9842ee72d139001a1b1914/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5848eaa8d1dfdf3a2dd177ba/poster.jpg" group-title="Family", Winter Splendor (2014)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5848eaa8d1dfdf3a2dd177ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d2e72168c1fd96a3e3c0585/poster.jpg" group-title="Family", Radio Rebel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d2e72168c1fd96a3e3c0585/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fff24a1ac600d00143b002a/poster.jpg" group-title="Family", Yours, Mine, and Ours
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff24a1ac600d00143b002a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7fa68b41a697001a15ae04/poster.jpg" group-title="Family", The Christmas Candle
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7fa68b41a697001a15ae04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ce46d4427b4cefec1e745cf/poster.jpg" group-title="Family", Dinosaur Island
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ce46d4427b4cefec1e745cf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb72402b86187001a0947e6/poster.jpg" group-title="Family", Alpha and Omega: Dino Digs
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb72402b86187001a0947e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df82ae09b7fb18700d9d98a/poster.jpg" group-title="Family", Strawberry Shortcake: Sky's the Limit
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df82ae09b7fb18700d9d98a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c8a96cf7e8beacac56012f2/poster.jpg" group-title="Family", Tad: The Lost Explorer
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c8a96cf7e8beacac56012f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4de06e56e93628717de569/poster.jpg" group-title="Family", Ace of Hearts
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4de06e56e93628717de569/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ccb529bf3f62a204aec7090/poster.jpg" group-title="Family", All Creatures Big and Small
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ccb529bf3f62a204aec7090/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b6e235fe36f69f3602010b4/poster.jpg" group-title="Family", CarGO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b6e235fe36f69f3602010b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3a3f3470c43ed39c5d8b6b/poster.jpg" group-title="Family", Gibby
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d3a3f3470c43ed39c5d8b6b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df84007954277241fc312a1/poster.jpg" group-title="Family", When Zachary Beaver Came to Town
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df84007954277241fc312a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c8bf6006e6abdcf0de1b207/poster.jpg" group-title="Family", Snow Queen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c8bf6006e6abdcf0de1b207/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf5d193227dc38a3045ab6d/poster.jpg" group-title="Family", Vampire Dog
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf5d193227dc38a3045ab6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ddf01485ba00661b38456f6/poster.jpg" group-title="Family", Sabrina the Teenage Witch
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ddf01485ba00661b38456f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf5d184227dc38a3045aa58/poster.jpg" group-title="Family", The Missing Lynx
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf5d184227dc38a3045aa58/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d37958ad1fb2dc21a6fbc23/poster.jpg" group-title="Family", Knockout
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d37958ad1fb2dc21a6fbc23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f32961629e7001abe92a5/poster.jpg" group-title="Family", A Cat and Mouse Game
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f32961629e7001abe92a5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5dd498332f1dfa95939d2c11/poster.jpg" group-title="Family", Tio Papi
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dd498332f1dfa95939d2c11/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b77643cf7f1b75982abe523/poster.jpg" group-title="Family", Swallows and Amazons (2017)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b77643cf7f1b75982abe523/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bd72cc27f9deb1757ebdd24/poster.jpg" group-title="Family", A Cowgirl's Story
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bd72cc27f9deb1757ebdd24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f89fe77f75820001aa7b7f5/poster.jpg" group-title="Family", Jack And The Cuckoo-Clock Heart
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f89fe77f75820001aa7b7f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f88001790fbf4001aa35764/poster.jpg" group-title="Family", Matilda
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f88001790fbf4001aa35764/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5da613d6240a8fcd2cffc8cc/poster.jpg" group-title="Family", White Lion
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5da613d6240a8fcd2cffc8cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bbcdc66af4ce1bd7613fcd5/poster.jpg" group-title="Family", Son Of Rambow
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bbcdc66af4ce1bd7613fcd5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f60d78384d064001aa6248e/poster.jpg" group-title="Family", A Child's Christmas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f60d78384d064001aa6248e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5900d34f8f3a7ecddc4e471d/poster.jpg" group-title="Family", Cirque Du Soleil: Worlds Away
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5900d34f8f3a7ecddc4e471d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df8400f954277241fc312e6/poster.jpg" group-title="Family", The Best Bad Thing
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df8400f954277241fc312e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5dd4605bc6420564e7e386ba/poster.jpg" group-title="Family", Paddington Goes to School
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dd4605bc6420564e7e386ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df84017954277241fc3134e/poster.jpg" group-title="Family", Slugterra: Eastern Caverns
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df84017954277241fc3134e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e478893f7bbe5b5ea840534/poster.jpg" group-title="Family", Past the Bleachers
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e478893f7bbe5b5ea840534/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1abee5cb9b6bec67c928b7/poster.jpg" group-title="Family", Caillou's Holiday Movie
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1abee5cb9b6bec67c928b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1abedecb9b6bec67c9280e/poster.jpg" group-title="Family", Yo Gabba Gabba: Very Awesome Holiday Show
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1abedecb9b6bec67c9280e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e84d419ed98b8001a5617bc/poster.jpg" group-title="Family", The Horse Dancer
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e84d419ed98b8001a5617bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d49e9e736acb48032e26b5a/poster.jpg" group-title="Family", The Boxcar Children: Surprise Island
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d49e9e736acb48032e26b5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e3afa522dbf2c2d0dcd7839/poster.jpg" group-title="Family", One Small Hero
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e3afa522dbf2c2d0dcd7839/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bcb7cc1b9d44aaea5d94144/poster.jpg" group-title="Family", A Horse For Summer
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bcb7cc1b9d44aaea5d94144/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df04f8aed23d3292748162a/poster.jpg" group-title="Family", Operation Dalmatian: The Big Adventure
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df04f8aed23d3292748162a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e33400649d762997106e68d/poster.jpg" group-title="Family", Zoey to the Max
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e33400649d762997106e68d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a56b7b9a9e27ac53754c714/poster.jpg" group-title="Family", Mac and Me
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a56b7b9a9e27ac53754c714/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e3afa6c2dbf2c2d0dcd79f8/poster.jpg" group-title="Family", The Yearling
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e3afa6c2dbf2c2d0dcd79f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf06cceb5a3455de190ba00/poster.jpg" group-title="Family", Jeremy Fink and the Meaning of Life
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf06cceb5a3455de190ba00/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e47888bf7bbe5b5ea84043c/poster.jpg" group-title="Family", Not Quite an Angel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e47888bf7bbe5b5ea84043c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fcffe8d2fd74a0014ce92e6/poster.jpg" group-title="Family", Nico, the Unicorn
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fcffe8d2fd74a0014ce92e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d5ed7854de10e2f49411f1c/poster.jpg" group-title="Family", Finding Rin Tin Tin
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d5ed7854de10e2f49411f1c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3795add1fb2dc21a6fbe33/poster.jpg" group-title="Family", The Duke
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d3795add1fb2dc21a6fbe33/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d379598d1fb2dc21a6fbcf5/poster.jpg" group-title="Family", It's a Zoo in Here
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d379598d1fb2dc21a6fbcf5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e333ffe49d762997106e622/poster.jpg" group-title="Family", The Steam Engines of Oz
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e333ffe49d762997106e622/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6046548bb63ef2001afe4d69/poster.jpg" group-title="Family", Seven Alone
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6046548bb63ef2001afe4d69/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5db0e066f907abb2d7391ce8/poster.jpg" group-title="Family", Princess Stallion
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5db0e066f907abb2d7391ce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5de7de9a76f3d4af6f4951af/poster.jpg" group-title="Family", KONG: RETURN TO THE JUNGLE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5de7de9a76f3d4af6f4951af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf1584c522ea464edb30cf8/poster.jpg" group-title="Family", Dan TDM on Tour
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf1584c522ea464edb30cf8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d602940d3513d40b0b96c97/poster.jpg" group-title="Family", Cool Dog
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d602940d3513d40b0b96c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4edc5879f6842cf7a62ad3/poster.jpg" group-title="Family", Tito And The Birds
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4edc5879f6842cf7a62ad3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc7d584c8c57d00131c0248/poster.jpg" group-title="Family", Twelve
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7d584c8c57d00131c0248/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606237a68119a5001a725b15/poster.jpg" group-title="Family", Sheeba
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606237a68119a5001a725b15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf06cd1b5a3455de190ba35/poster.jpg" group-title="Family", Dragon Guardians
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf06cd1b5a3455de190ba35/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9876a17ecf48001a353d67/poster.jpg" group-title="Family", Super Supremes: The Dinosaur Song & More
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9876a17ecf48001a353d67/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf06cc6b5a3455de190b980/poster.jpg" group-title="Family", All Stars
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf06cc6b5a3455de190b980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3189983c1f340013320994/poster.jpg" group-title="Family", Holiday Spectacular
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3189983c1f340013320994/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa063fc1788de001ad58f59/poster.jpg" group-title="Family", Christmas Wander
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa063fc1788de001ad58f59/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3a3f3970c43ed39c5d8ba0/poster.jpg" group-title="Family", Howard Lovecraft and the Kingdom of Madness
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d3a3f3970c43ed39c5d8ba0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d49e9d236acb48032e26ad8/poster.jpg" group-title="Family", Howard Lovecraft and the Frozen Kingdom
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d49e9d236acb48032e26ad8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ddf01445ba00661b38456c3/poster.jpg" group-title="Family", The Ruby Ring
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ddf01445ba00661b38456c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6024366ae4618f001322ffbf/poster.jpg" group-title="Family", Journey to the Forbidden Valley
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024366ae4618f001322ffbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf5d190227dc38a3045ab3a/poster.jpg" group-title="Family", RoboRex
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf5d190227dc38a3045ab3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58deee50fa052dac6295dc6c/poster.jpg" group-title="TV Westerns", The Gambler (1980)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58deee50fa052dac6295dc6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/56ac1a07775224f81f963f84/poster.jpg" group-title="TV Westerns", My Pal Trigger
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/56ac1a07775224f81f963f84/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff7dc10926015001311d206/poster.jpg" group-title="Western Movies", The Alamo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff7dc10926015001311d206/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d2e209fb77cb26cb21301fa/poster.jpg" group-title="Western Movies", Wild Bill
@@ -4447,10 +4261,196 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c184ee9b36d99d996
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c184eecb36d99d996fdfe90/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c184eeeb36d99d996fdfed1/poster.jpg" group-title="Western Movies", John Wayne: Cold Vengeance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c184eeeb36d99d996fdfed1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58deee50fa052dac6295dc6c/poster.jpg" group-title="TV Westerns", The Gambler (1980)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58deee50fa052dac6295dc6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/56ac1a07775224f81f963f84/poster.jpg" group-title="TV Westerns", My Pal Trigger
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/56ac1a07775224f81f963f84/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e95e857c733d6001a19bd6e/poster.jpg" group-title="Family", Furry Vengeance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e95e857c733d6001a19bd6e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f8f6f58a0dd2c001a7fd773/poster.jpg" group-title="Family", Thomas and the Magic Railroad
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8f6f58a0dd2c001a7fd773/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f77a003542b4b0014c07c74/poster.jpg" group-title="Family", Zoo
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f77a003542b4b0014c07c74/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59271268371dfa791787c9c2/poster.jpg" group-title="Family", The Black Stallion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59271268371dfa791787c9c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f18e87a4b8f2200131c277f/poster.jpg" group-title="Family", Slappy and The Stinkers
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f18e87a4b8f2200131c277f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f24f4e9aed833001aab18d5/poster.jpg" group-title="Family", Dilili in Paris
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f24f4e9aed833001aab18d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9120b7740902001a9616dd/poster.jpg" group-title="Family", Christmas Break-In
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9120b7740902001a9616dd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f1f02277d5a3f001a488e51/poster.jpg" group-title="Family", Emma's Chance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f1f02277d5a3f001a488e51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f98b353e657fb0013126809/poster.jpg" group-title="Family", Adventure Boyz
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f98b353e657fb0013126809/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f8118fa652fb5001add46e0/poster.jpg" group-title="Family", I Think My Babysitter is an Alien
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8118fa652fb5001add46e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6009bfc600da4e00138ad617/poster.jpg" group-title="Family", Spy Kids 4: All the Time in the World
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6009bfc600da4e00138ad617/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f8118e5e657fb0013109ba6/poster.jpg" group-title="Family", Hope Dances
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8118e5e657fb0013109ba6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f19bbdcaed833001aaa01df/poster.jpg" group-title="Family", Taking 5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f19bbdcaed833001aaa01df/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f1f02c77d5a3f001a489cad/poster.jpg" group-title="Family", The Trumpet Of The Swan
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f1f02c77d5a3f001a489cad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fca58fa861be7001a6cc81b/poster.jpg" group-title="Family", How to Beat a Bully
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fca58fa861be7001a6cc81b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f88e289b06bf7001adc6d0a/poster.jpg" group-title="Family", Rodeo Girl
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f88e289b06bf7001adc6d0a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f1f01ed7d5a3f001a4889c3/poster.jpg" group-title="Family", Apple of My Eye
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f1f01ed7d5a3f001a4889c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59dea46830bc784304eaa68c/poster.jpg" group-title="Family", A Turtle's Tale: Sammy's Adventures
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59dea46830bc784304eaa68c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ca249316ae5db78b4b5816e/poster.jpg" group-title="Family", Arctic Tale
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ca249316ae5db78b4b5816e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/590141fda1041ca52b5ab352/poster.jpg" group-title="Family", The Secret of N.I.M.H.
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/590141fda1041ca52b5ab352/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e3c8cd986e96850bcc4a21c/poster.jpg" group-title="Family", Larger Than Life
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e3c8cd986e96850bcc4a21c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5daf995611499de25c71f313/poster.jpg" group-title="Family", Christmas Village (2014) (LF)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5daf995611499de25c71f313/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c80169712857a70211aeb2f/poster.jpg" group-title="Family", A Turtle's Tale 2: Sammy's Escape From Paradise
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c80169712857a70211aeb2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c3e2249a8382019455fef0d/poster.jpg" group-title="Family", Zapped
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c3e2249a8382019455fef0d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58b48056e81ac6d5d4669f62/poster.jpg" group-title="Family", Alpha And Omega: Family Vacation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58b48056e81ac6d5d4669f62/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58b48061e81ac6d5d4669f94/poster.jpg" group-title="Family", Alpha And Omega: A Howl-iday Adventure
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58b48061e81ac6d5d4669f94/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58b48017e81ac6d5d4669a9d/poster.jpg" group-title="Family", Alpha and Omega 4: The Legend of Saw Tooth
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58b48017e81ac6d5d4669a9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9842ee72d139001a1b1914/poster.jpg" group-title="Family", The Christmas That Almost Wasn't
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9842ee72d139001a1b1914/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5848eaa8d1dfdf3a2dd177ba/poster.jpg" group-title="Family", Winter Splendor (2014)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5848eaa8d1dfdf3a2dd177ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d2e72168c1fd96a3e3c0585/poster.jpg" group-title="Family", Radio Rebel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d2e72168c1fd96a3e3c0585/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fff24a1ac600d00143b002a/poster.jpg" group-title="Family", Yours, Mine, and Ours
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff24a1ac600d00143b002a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7fa68b41a697001a15ae04/poster.jpg" group-title="Family", The Christmas Candle
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7fa68b41a697001a15ae04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ce46d4427b4cefec1e745cf/poster.jpg" group-title="Family", Dinosaur Island
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ce46d4427b4cefec1e745cf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb72402b86187001a0947e6/poster.jpg" group-title="Family", Alpha and Omega: Dino Digs
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb72402b86187001a0947e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df82ae09b7fb18700d9d98a/poster.jpg" group-title="Family", Strawberry Shortcake: Sky's the Limit
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df82ae09b7fb18700d9d98a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c8a96cf7e8beacac56012f2/poster.jpg" group-title="Family", Tad: The Lost Explorer
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c8a96cf7e8beacac56012f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4de06e56e93628717de569/poster.jpg" group-title="Family", Ace of Hearts
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4de06e56e93628717de569/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ccb529bf3f62a204aec7090/poster.jpg" group-title="Family", All Creatures Big and Small
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ccb529bf3f62a204aec7090/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b6e235fe36f69f3602010b4/poster.jpg" group-title="Family", CarGO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b6e235fe36f69f3602010b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3a3f3470c43ed39c5d8b6b/poster.jpg" group-title="Family", Gibby
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d3a3f3470c43ed39c5d8b6b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df84007954277241fc312a1/poster.jpg" group-title="Family", When Zachary Beaver Came to Town
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df84007954277241fc312a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c8bf6006e6abdcf0de1b207/poster.jpg" group-title="Family", Snow Queen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c8bf6006e6abdcf0de1b207/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf5d193227dc38a3045ab6d/poster.jpg" group-title="Family", Vampire Dog
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf5d193227dc38a3045ab6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ddf01485ba00661b38456f6/poster.jpg" group-title="Family", Sabrina the Teenage Witch
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ddf01485ba00661b38456f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf5d184227dc38a3045aa58/poster.jpg" group-title="Family", The Missing Lynx
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf5d184227dc38a3045aa58/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d37958ad1fb2dc21a6fbc23/poster.jpg" group-title="Family", Knockout
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d37958ad1fb2dc21a6fbc23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f32961629e7001abe92a5/poster.jpg" group-title="Family", A Cat and Mouse Game
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f32961629e7001abe92a5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5dd498332f1dfa95939d2c11/poster.jpg" group-title="Family", Tio Papi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dd498332f1dfa95939d2c11/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b77643cf7f1b75982abe523/poster.jpg" group-title="Family", Swallows and Amazons (2017)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b77643cf7f1b75982abe523/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bd72cc27f9deb1757ebdd24/poster.jpg" group-title="Family", A Cowgirl's Story
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bd72cc27f9deb1757ebdd24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f89fe77f75820001aa7b7f5/poster.jpg" group-title="Family", Jack And The Cuckoo-Clock Heart
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f89fe77f75820001aa7b7f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f88001790fbf4001aa35764/poster.jpg" group-title="Family", Matilda
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f88001790fbf4001aa35764/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5da613d6240a8fcd2cffc8cc/poster.jpg" group-title="Family", White Lion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5da613d6240a8fcd2cffc8cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bbcdc66af4ce1bd7613fcd5/poster.jpg" group-title="Family", Son Of Rambow
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bbcdc66af4ce1bd7613fcd5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f60d78384d064001aa6248e/poster.jpg" group-title="Family", A Child's Christmas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f60d78384d064001aa6248e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5900d34f8f3a7ecddc4e471d/poster.jpg" group-title="Family", Cirque Du Soleil: Worlds Away
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5900d34f8f3a7ecddc4e471d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df8400f954277241fc312e6/poster.jpg" group-title="Family", The Best Bad Thing
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df8400f954277241fc312e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5dd4605bc6420564e7e386ba/poster.jpg" group-title="Family", Paddington Goes to School
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dd4605bc6420564e7e386ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df84017954277241fc3134e/poster.jpg" group-title="Family", Slugterra: Eastern Caverns
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df84017954277241fc3134e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e478893f7bbe5b5ea840534/poster.jpg" group-title="Family", Past the Bleachers
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e478893f7bbe5b5ea840534/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1abee5cb9b6bec67c928b7/poster.jpg" group-title="Family", Caillou's Holiday Movie
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1abee5cb9b6bec67c928b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1abedecb9b6bec67c9280e/poster.jpg" group-title="Family", Yo Gabba Gabba: Very Awesome Holiday Show
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1abedecb9b6bec67c9280e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e84d419ed98b8001a5617bc/poster.jpg" group-title="Family", The Horse Dancer
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e84d419ed98b8001a5617bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d49e9e736acb48032e26b5a/poster.jpg" group-title="Family", The Boxcar Children: Surprise Island
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d49e9e736acb48032e26b5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e3afa522dbf2c2d0dcd7839/poster.jpg" group-title="Family", One Small Hero
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e3afa522dbf2c2d0dcd7839/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bcb7cc1b9d44aaea5d94144/poster.jpg" group-title="Family", A Horse For Summer
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bcb7cc1b9d44aaea5d94144/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df04f8aed23d3292748162a/poster.jpg" group-title="Family", Operation Dalmatian: The Big Adventure
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df04f8aed23d3292748162a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e33400649d762997106e68d/poster.jpg" group-title="Family", Zoey to the Max
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e33400649d762997106e68d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a56b7b9a9e27ac53754c714/poster.jpg" group-title="Family", Mac and Me
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a56b7b9a9e27ac53754c714/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e3afa6c2dbf2c2d0dcd79f8/poster.jpg" group-title="Family", The Yearling
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e3afa6c2dbf2c2d0dcd79f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf06cceb5a3455de190ba00/poster.jpg" group-title="Family", Jeremy Fink and the Meaning of Life
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf06cceb5a3455de190ba00/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e47888bf7bbe5b5ea84043c/poster.jpg" group-title="Family", Not Quite an Angel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e47888bf7bbe5b5ea84043c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fcffe8d2fd74a0014ce92e6/poster.jpg" group-title="Family", Nico, the Unicorn
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fcffe8d2fd74a0014ce92e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d5ed7854de10e2f49411f1c/poster.jpg" group-title="Family", Finding Rin Tin Tin
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d5ed7854de10e2f49411f1c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3795add1fb2dc21a6fbe33/poster.jpg" group-title="Family", The Duke
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d3795add1fb2dc21a6fbe33/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d379598d1fb2dc21a6fbcf5/poster.jpg" group-title="Family", It's a Zoo in Here
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d379598d1fb2dc21a6fbcf5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e333ffe49d762997106e622/poster.jpg" group-title="Family", The Steam Engines of Oz
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e333ffe49d762997106e622/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6046548bb63ef2001afe4d69/poster.jpg" group-title="Family", Seven Alone
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6046548bb63ef2001afe4d69/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5db0e066f907abb2d7391ce8/poster.jpg" group-title="Family", Princess Stallion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5db0e066f907abb2d7391ce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5de7de9a76f3d4af6f4951af/poster.jpg" group-title="Family", KONG: RETURN TO THE JUNGLE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5de7de9a76f3d4af6f4951af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf1584c522ea464edb30cf8/poster.jpg" group-title="Family", Dan TDM on Tour
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf1584c522ea464edb30cf8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d602940d3513d40b0b96c97/poster.jpg" group-title="Family", Cool Dog
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d602940d3513d40b0b96c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4edc5879f6842cf7a62ad3/poster.jpg" group-title="Family", Tito And The Birds
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4edc5879f6842cf7a62ad3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc7d584c8c57d00131c0248/poster.jpg" group-title="Family", Twelve
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7d584c8c57d00131c0248/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606237a68119a5001a725b15/poster.jpg" group-title="Family", Sheeba
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606237a68119a5001a725b15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf06cd1b5a3455de190ba35/poster.jpg" group-title="Family", Dragon Guardians
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf06cd1b5a3455de190ba35/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9876a17ecf48001a353d67/poster.jpg" group-title="Family", Super Supremes: The Dinosaur Song & More
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9876a17ecf48001a353d67/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf06cc6b5a3455de190b980/poster.jpg" group-title="Family", All Stars
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf06cc6b5a3455de190b980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3189983c1f340013320994/poster.jpg" group-title="Family", Holiday Spectacular
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3189983c1f340013320994/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa063fc1788de001ad58f59/poster.jpg" group-title="Family", Christmas Wander
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa063fc1788de001ad58f59/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3a3f3970c43ed39c5d8ba0/poster.jpg" group-title="Family", Howard Lovecraft and the Kingdom of Madness
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d3a3f3970c43ed39c5d8ba0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d49e9d236acb48032e26ad8/poster.jpg" group-title="Family", Howard Lovecraft and the Frozen Kingdom
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d49e9d236acb48032e26ad8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ddf01445ba00661b38456c3/poster.jpg" group-title="Family", The Ruby Ring
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ddf01445ba00661b38456c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6024366ae4618f001322ffbf/poster.jpg" group-title="Family", Journey to the Forbidden Valley
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024366ae4618f001322ffbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf5d190227dc38a3045ab3a/poster.jpg" group-title="Family", RoboRex
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf5d190227dc38a3045ab3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f88933a72d139001a19de4e/poster.jpg" group-title="Game Shows", Episode 7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f88933a72d139001a19de4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1fc64d00a654f43fb373ee/poster.jpg" group-title="Game Shows", Five Wordy Stories to Satisfy Your Inner Linguist
@@ -4813,8 +4813,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6e85b2d66cb7001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6e85b4d66cb7001ab13eb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff7dc0e926015001311d1c9/poster.jpg" group-title="Sci-Fi + Fantasy TV", Stargate: Continuum
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff7dc0e926015001311d1c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc557b10983410013db3ca9/poster.jpg" group-title="Adventure TV", The Art of Murder
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc557b10983410013db3ca9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d8a94cec4c3bf2f80da528b/poster.jpg" group-title="James Bond en Español", 007: el satánico doctor No
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d8a94cec4c3bf2f80da528b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d8a94dbc4c3bf2f80da536e/poster.jpg" group-title="James Bond en Español", 007: de Rusia con amor
