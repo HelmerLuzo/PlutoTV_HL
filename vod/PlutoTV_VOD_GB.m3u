@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6065c032b58b22001a47dbc5/poster.jpg" group-title="New on Pluto TV", Lake Michigan Monster
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6065c032b58b22001a47dbc5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6065e215a224c9001bb87a02/poster.jpg" group-title="New on Pluto TV", Season Of The Witch
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6065e215a224c9001bb87a02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d4940b10eaa737d9c9adafc/poster.jpg" group-title="New on Pluto TV", Exposed
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d4940b10eaa737d9c9adafc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6041f84ce7c979001a898533/poster.jpg" group-title="New on Pluto TV", Gang of Roses
@@ -157,10 +161,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d06c03610013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d36c03610013aba4ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6c57d26c03610013aba4dc/poster.jpg" group-title="New on Pluto TV", Mother and Child
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d26c03610013aba4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3e2c1c9dd795001ab448de/poster.jpg" group-title="New on Pluto TV", Battle of Britain
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3e2c1c9dd795001ab448de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3e2c1a9dd795001ab448c1/poster.jpg" group-title="New on Pluto TV", The Real Mary Poppins
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3e2c1a9dd795001ab448c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d4a316f3adbde84973e0746/poster.jpg" group-title="Movies: Action", Legend of the Red Dragon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d4a316f3adbde84973e0746/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa987cb8b78ef001aa1f03a/poster.jpg" group-title="Movies: Action", In the Name of the King
