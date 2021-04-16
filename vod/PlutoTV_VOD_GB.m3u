@@ -23,6 +23,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60634a82a224c9001b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60634a7ea224c9001bb831ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6062e5943bbc1b001aedf8ac/poster.jpg" group-title="New on Pluto TV", Another world
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6062e5943bbc1b001aedf8ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60643017e52b47001bb06d6f/poster.jpg" group-title="New on Pluto TV", Runaway Jury
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60643017e52b47001bb06d6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6065c032b58b22001a47dbc5/poster.jpg" group-title="New on Pluto TV", Lake Michigan Monster
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6065c032b58b22001a47dbc5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6065e215a224c9001bb87a02/poster.jpg" group-title="New on Pluto TV", Season Of The Witch
@@ -167,8 +169,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7ed55272d139001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6dbe2b2115de001aa97e79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f58b30d967d6600130805f5/poster.jpg" group-title="New on Pluto TV", Smart People
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f58b30d967d6600130805f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f5f305e4069bb00074ff995/poster.jpg" group-title="New on Pluto TV", Bernie
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f5f305e4069bb00074ff995/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d4a316f3adbde84973e0746/poster.jpg" group-title="Movies: Action", Legend of the Red Dragon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d4a316f3adbde84973e0746/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa987cb8b78ef001aa1f03a/poster.jpg" group-title="Movies: Action", In the Name of the King
