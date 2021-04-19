@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/605db7ee1ca306001a3690e9/poster.jpg" group-title="Highlight", Birdman
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/605db7ee1ca306001a3690e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dcf235736001ac4ada3/poster.jpg" group-title="Neu auf Pluto TV", Empire Records DE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dcf235736001ac4ada3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dcb235736001ac4ad47/poster.jpg" group-title="Neu auf Pluto TV", Carpool DE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dcb235736001ac4ad47/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dc1235736001ac4ac67/poster.jpg" group-title="Neu auf Pluto TV", Aliens In The Attic DE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dc1235736001ac4ac67/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6061dfb33bbc1b001aedef7f/poster.jpg" group-title="Neu auf Pluto TV", Sommersby
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6061dfb33bbc1b001aedef7f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60755caf918e16001a5129e7/poster.jpg" group-title="Neu auf Pluto TV", Little Manhattan
@@ -59,6 +65,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff81d0bcc17ce0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f854ae607ce430013081d51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f78cc6eb06bf7001adaffe5/poster.jpg" group-title="Neu auf Pluto TV", Der Sportpenner
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f78cc6eb06bf7001adaffe5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dd1235736001ac4adcf/poster.jpg" group-title="Beliebt auf Pluto TV", Freddy Got Fingered DE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dd1235736001ac4adcf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6075a49b5426cf001a3b1566/poster.jpg" group-title="Beliebt auf Pluto TV", Hunger Ward
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6075a49b5426cf001a3b1566/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606c860206e132001a703bff/poster.jpg" group-title="Beliebt auf Pluto TV", Todes - Date
