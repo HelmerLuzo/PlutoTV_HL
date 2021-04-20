@@ -181,6 +181,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d36c03610013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d26c03610013aba4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5de7ebef3b19031c25ec110b/poster.jpg" group-title="TV: Paranormal", Aliens on the Moon: The Truth Exposed
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5de7ebef3b19031c25ec110b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190df0b0875c36c90c54b4/poster.jpg" group-title="TV: Paranormal", Aliens and Pyramids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190df0b0875c36c90c54b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5feae69193c209001aed201e/poster.jpg" group-title="TV: Paranormal", Return to Area 51
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feae69193c209001aed201e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5faaa0faf6e14a001aa60247/poster.jpg" group-title="TV: Paranormal", Confessions Of An Alien Abductee
@@ -201,8 +203,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1cf86098f41269b5
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190d0eb0875c36c90c3d04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190d0bb0875c36c90c3c7d/poster.jpg" group-title="TV: Paranormal", Aliens in Egypt
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190d0bb0875c36c90c3c7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190df0b0875c36c90c54b4/poster.jpg" group-title="TV: Paranormal", Aliens and Pyramids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190df0b0875c36c90c54b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190bb2b0875c36c90c1880/poster.jpg" group-title="TV: Paranormal", Alien from Area 51
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190bb2b0875c36c90c1880/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190c1db0875c36c90c1f97/poster.jpg" group-title="TV: Paranormal", Alien Crash at Roswell
@@ -663,40 +663,46 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606c6f1506e132001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d4a351a4d54d185054b0191/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bca16d1ed3fa8a14743df43/poster.jpg" group-title="Documentaries", 2020 Nostradamus
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bca16d1ed3fa8a14743df43/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190d0bb0875c36c90c3c7c/poster.jpg" group-title="Documentaries", Bible Conspiracies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190d0bb0875c36c90c3c7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff41f2ce3ed06001a5e841d/poster.jpg" group-title="Documentaries", Nostradamus: The Last Words
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff41f2ce3ed06001a5e841d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5feb394d4aa70a001a4fec1a/poster.jpg" group-title="Documentaries", Excavating Jesus
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feb394d4aa70a001a4fec1a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff42f8136304e001ac32540/poster.jpg" group-title="Documentaries", Tutankhamun: A Murder Mystery
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff42f8136304e001ac32540/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ebb312d561001a4e8819/poster.jpg" group-title="Documentaries", British Sounds
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ebb312d561001a4e8819/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3e2c1a9dd795001ab448c1/poster.jpg" group-title="Documentaries", The Real Mary Poppins
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3e2c1a9dd795001ab448c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5faaa1ac3650d7001b3f98b6/poster.jpg" group-title="Documentaries", Beyond Earth
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faaa1ac3650d7001b3f98b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b19136cb0875c36c90cd8c5/poster.jpg" group-title="Documentaries", In the Shadow of the Moon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b19136cb0875c36c90cd8c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190c7bb0875c36c90c29c0/poster.jpg" group-title="Documentaries", A Field Full of Secrets
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190c7bb0875c36c90c29c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb291f10e9442661e736bdd/poster.jpg" group-title="Documentaries", A One World Agenda The Illuminati
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb291f10e9442661e736bdd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bc449e70d638461d67348f3/poster.jpg" group-title="Documentaries", Programming the Nation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bc449e70d638461d67348f3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ce7ab38fa0b5b106d2b5c3c/poster.jpg" group-title="Documentaries", Generation Zapped
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ce7ab38fa0b5b106d2b5c3c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff41f2ce3ed06001a5e841d/poster.jpg" group-title="Documentaries", Nostradamus: The Last Words
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff41f2ce3ed06001a5e841d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b1909d7b0875c36c90bb82b/poster.jpg" group-title="Documentaries", Killer Legends
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b1909d7b0875c36c90bb82b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ebb312d561001a4e8819/poster.jpg" group-title="Documentaries", British Sounds
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ebb312d561001a4e8819/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5faaa1ac3650d7001b3f98b6/poster.jpg" group-title="Documentaries", Beyond Earth
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faaa1ac3650d7001b3f98b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff42f8136304e001ac32540/poster.jpg" group-title="Documentaries", Tutankhamun: A Murder Mystery
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff42f8136304e001ac32540/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5feb394d4aa70a001a4fec1a/poster.jpg" group-title="Documentaries", Excavating Jesus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feb394d4aa70a001a4fec1a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bc449e70d638461d67348f3/poster.jpg" group-title="Documentaries", Programming the Nation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bc449e70d638461d67348f3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6017b9705777bb001aa9ea2e/poster.jpg" group-title="Documentaries", Conspiracy Rising
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6017b9705777bb001aa9ea2e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5feb39504aa70a001a4fec32/poster.jpg" group-title="Documentaries", Laughology
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feb39504aa70a001a4fec32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bfbf57e851dd5632e2ff011/poster.jpg" group-title="Documentaries", Bigger Stronger Faster
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bfbf57e851dd5632e2ff011/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5faaa0ebf158a3001aa55bb9/poster.jpg" group-title="Documentaries", Cat Nation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faaa0ebf158a3001aa55bb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5feb39504aa70a001a4fec32/poster.jpg" group-title="Documentaries", Laughology
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feb39504aa70a001a4fec32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190d0bb0875c36c90c3c7c/poster.jpg" group-title="Documentaries", Bible Conspiracies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190d0bb0875c36c90c3c7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb25a5baa9a8e65e3a6ff98/poster.jpg" group-title="Documentaries", Mind Control: MK Ultra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb25a5baa9a8e65e3a6ff98/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf7e54f86bbf99ccdbf9e33/poster.jpg" group-title="Documentaries", PoliWood
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf7e54f86bbf99ccdbf9e33/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb291f10e9442661e736bdd/poster.jpg" group-title="Documentaries", A One World Agenda The Illuminati
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb291f10e9442661e736bdd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ba890df47c9d316dda1cff2/poster.jpg" group-title="Documentaries", Square Grouper
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ba890df47c9d316dda1cff2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6017b96c5777bb001aa9e9fa/poster.jpg" group-title="Documentaries", 42 Ways To Kill Hitler
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6017b96c5777bb001aa9e9fa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6017b9785777bb001aa9eaab/poster.jpg" group-title="Documentaries", Surviving Alcatraz
@@ -705,16 +711,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6017b9785777bb001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feb39544aa70a001a4fec6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190c4eb0875c36c90c23cc/poster.jpg" group-title="Documentaries", Plastic Galaxy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190c4eb0875c36c90c23cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ba890df47c9d316dda1cff2/poster.jpg" group-title="Documentaries", Square Grouper
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ba890df47c9d316dda1cff2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe090d2c6c263001bceaa55/poster.jpg" group-title="Documentaries", The Berlin Wall: Escape To Freedom
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe090d2c6c263001bceaa55/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fad88dcfd17cc001a00ef5d/poster.jpg" group-title="Documentaries", Fair Trade in Cocoa from the Ivory Coast
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fad88dcfd17cc001a00ef5d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3e2c1a9dd795001ab448c1/poster.jpg" group-title="Documentaries", The Real Mary Poppins
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3e2c1a9dd795001ab448c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ce7ab38fa0b5b106d2b5c3c/poster.jpg" group-title="Documentaries", Generation Zapped
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ce7ab38fa0b5b106d2b5c3c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190c7bb0875c36c90c29bc/poster.jpg" group-title="Documentaries", Danny Greene: The Rise and Fall of the Irishman
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190c7bb0875c36c90c29bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9806a8405ab3001be91c31/poster.jpg" group-title="Documentaries", Superheroes
@@ -741,16 +741,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5feb39524aa70a001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e158a4f25ce3041625373cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d81e5a4cb6d43ff35c45e0a/poster.jpg" group-title="Documentaries", Joan of Arc: God's Warrior
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d81e5a4cb6d43ff35c45e0a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c46648bf45c186306bc1114/poster.jpg" group-title="Documentaries", Cant Stand Losing You  Surviving the Police
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c46648bf45c186306bc1114/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d56051073a1fac6d2de0630/poster.jpg" group-title="Documentaries", Freddie Mercury: The King of Queen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d56051073a1fac6d2de0630/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d52e1228aa9d9cfec1fa8ff/poster.jpg" group-title="Documentaries", Queen: How They Broke Free
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d52e1228aa9d9cfec1fa8ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c46648bf45c186306bc1114/poster.jpg" group-title="Documentaries", Cant Stand Losing You  Surviving the Police
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c46648bf45c186306bc1114/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c425db345b4c12fcca57380/poster.jpg" group-title="Documentaries", David Bowie: On the Rock Trail
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c425db345b4c12fcca57380/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c425da15f7754324f0fa5a7/poster.jpg" group-title="Documentaries", The Story of the Rolling Stones
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c425da15f7754324f0fa5a7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d56051073a1fac6d2de0630/poster.jpg" group-title="Documentaries", Freddie Mercury: The King of Queen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d56051073a1fac6d2de0630/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d52e0c346917bc9715c59e7/poster.jpg" group-title="Documentaries", Thin Lizzy: Rocker on the Loose
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d52e0c346917bc9715c59e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ef5a4ee8827d200140c58d9/poster.jpg" group-title="Documentaries", The Beatles: Parting Ways
