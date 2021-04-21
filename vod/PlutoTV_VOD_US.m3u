@@ -323,6 +323,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60380eea54f963001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603694f36c2a2d001410954c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e8624ce4f626f001a4be6e1/poster.jpg" group-title="New Movies This Month", Bobby Jones: Stroke of Genius
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e8624ce4f626f001a4be6e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6038357beac9500013152ecc/poster.jpg" group-title="New Movies This Month", Hunger Ward
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6038357beac9500013152ecc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5901423ca1041ca52b5abb2c/poster.jpg" group-title="New Movies This Month", Mermaids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5901423ca1041ca52b5abb2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59d66471142b60f007cb0535/poster.jpg" group-title="New Movies This Month", Mystic Pizza
@@ -435,8 +437,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff7dc1c9260150013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5efe6fe4cda25e0013da2902/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5efe6fe6cda25e0013da293f/poster.jpg" group-title="New Movies This Month", Mac & Devin Go to High School
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5efe6fe6cda25e0013da293f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5dcf01ca0c42504d33745072/poster.jpg" group-title="New Movies This Month", Undertow
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dcf01ca0c42504d33745072/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9a1dc67ecf48001a358c51/poster.jpg" group-title="Trending Now", Fargo (1996)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9a1dc67ecf48001a358c51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60358654b2b870001a0409f6/poster.jpg" group-title="Trending Now", Snatch
@@ -3409,104 +3409,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b99395fbf3fdb7a06
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f88001790fbf4001aa35764/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f87ffd690fbf4001aa350b7/poster.jpg" group-title="'70s Flashback", The Losers
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f87ffd690fbf4001aa350b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1e47d600a654f43fb3464b/poster.jpg" group-title="Crime Docs", Cocaine Cowboys Reloaded
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1e47d600a654f43fb3464b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5694166b2bb959cc3f59f060/poster.jpg" group-title="Crime Docs", Cropsey
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5694166b2bb959cc3f59f060/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59dea46130bc784304eaa5bc/poster.jpg" group-title="Crime Docs", The Dog (2013)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59dea46130bc784304eaa5bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f87ffcf90fbf4001aa35000/poster.jpg" group-title="Crime Docs", The Trials Of Darryl Hunt
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f87ffcf90fbf4001aa35000/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5be1c363960153705c6ee35d/poster.jpg" group-title="Crime Docs", Mr. Untouchable
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5be1c363960153705c6ee35d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d69a2b58568459ae305c0e3/poster.jpg" group-title="Crime Docs", The Seventh Fire
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d69a2b58568459ae305c0e3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc7d570c8c57d00131c0054/poster.jpg" group-title="Crime Docs", Motown Mafia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7d570c8c57d00131c0054/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb495f52cdc95001a8ea72d/poster.jpg" group-title="Crime Docs", Jay Sebring....Cutting To The Truth
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb495f52cdc95001a8ea72d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ffd108900da4e001389e2b7/poster.jpg" group-title="Crime Docs", Public Enemy Number One
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ffd108900da4e001389e2b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fea225c42366e001a1f5b3b/poster.jpg" group-title="Crime Docs", Climate for Murder
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fea225c42366e001a1f5b3b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f90667fe657fb001311bf7c/poster.jpg" group-title="Crime Docs", Sugar Wars: The Rise of the Cleveland Mafia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f90667fe657fb001311bf7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa37c55fdb601001af14d0d/poster.jpg" group-title="Crime Docs", 1275 Days
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa37c55fdb601001af14d0d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe3c165636004001a791ca6/poster.jpg" group-title="Crime Docs", The Frank Matthews Story
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe3c165636004001a791ca6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fce754b48bae9001a2df708/poster.jpg" group-title="Crime Docs", Killing Jimmy Hoffa
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fce754b48bae9001a2df708/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc7d581c8c57d00131c020b/poster.jpg" group-title="Crime Docs", The Gang Activists
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7d581c8c57d00131c020b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fce754c48bae9001a2df73c/poster.jpg" group-title="Crime Docs", American Dope White Powder Black Power
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fce754c48bae9001a2df73c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/583c9c661efc8f687a7bb2eb/poster.jpg" group-title="Crime Docs", Is This El Chapo?
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/583c9c661efc8f687a7bb2eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58d017ba29f14ed84eccbd87/poster.jpg" group-title="Crime Docs", Crips And Bloods: Made In America
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58d017ba29f14ed84eccbd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a4fda853a13bb80d47ee9f6/poster.jpg" group-title="Crime Docs", American Gang Wars
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a4fda853a13bb80d47ee9f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d52d46dbc51f4ce6fd2dca9/poster.jpg" group-title="Crime Docs", Elvis & The Memphis Mafia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d52d46dbc51f4ce6fd2dca9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c4a11b82662e7844aa82913/poster.jpg" group-title="Crime Docs", Gangland Graveyard
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c4a11b82662e7844aa82913/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ddd378cb290dd2bbfd003e1/poster.jpg" group-title="Crime Docs", Monster: The Story of Josef Fritzl
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ddd378cb290dd2bbfd003e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5b50d16bcac332e3195bef/poster.jpg" group-title="Crime Docs", Long Island Railroad Massacre
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5b50d16bcac332e3195bef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a31b675c019467319264892/poster.jpg" group-title="Crime Docs", Narco Cultura (2014)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a31b675c019467319264892/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c48b68303a270744b8097f8/poster.jpg" group-title="Crime Docs", Material Witness
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c48b68303a270744b8097f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb28472d330705fac6cc73f/poster.jpg" group-title="Crime Docs", Peace Officer
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb28472d330705fac6cc73f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c82a74e5422478939670179/poster.jpg" group-title="Crime Docs", A Place Called Chiapas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c82a74e5422478939670179/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f874afab06bf7001adc5099/poster.jpg" group-title="Crime Docs", Mourning Son
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f874afab06bf7001adc5099/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5c955a754f443d62b0f552/poster.jpg" group-title="Crime Docs", Code of Silence
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5c955a754f443d62b0f552/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58922b523739d62b0a38af92/poster.jpg" group-title="Crime Docs", Love and Terror On the Howling Plains of Nowhere
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58922b523739d62b0a38af92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58a396eb6dd7fcf88bad4894/poster.jpg" group-title="Crime Docs", Valentine Road
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58a396eb6dd7fcf88bad4894/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb28475d330705fac6cc799/poster.jpg" group-title="Crime Docs", The Patent Scam
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb28475d330705fac6cc799/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/589e3e255d2facdab98d77d4/poster.jpg" group-title="Crime Docs", Bloodsworth An Innocent Man
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/589e3e255d2facdab98d77d4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a81d78485803840357c31ae/poster.jpg" group-title="Crime Docs", Catching Hell In The City of Angels
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a81d78485803840357c31ae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1199ac035cc2935a41340b/poster.jpg" group-title="Crime Docs", Tales from the Organ Trade
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1199ac035cc2935a41340b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b5f2d41bb77d15215deca96/poster.jpg" group-title="Crime Docs", An Unreal Dream
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b5f2d41bb77d15215deca96/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ba8a6345969050e9cd97ab2/poster.jpg" group-title="Crime Docs", Square Grouper
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ba8a6345969050e9cd97ab2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058edef1ca306001a3648b8/poster.jpg" group-title="Crime Docs", Beyond Boundaries
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058edef1ca306001a3648b8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58be2e0f5af29520ab14598b/poster.jpg" group-title="Crime Docs", JFK: The Smoking Gun
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58be2e0f5af29520ab14598b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6022e02a1c9c1f001a0e1394/poster.jpg" group-title="Crime Docs", Chain of Death
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6022e02a1c9c1f001a0e1394/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c7ec9e8188e90651e962918/poster.jpg" group-title="Crime Docs", The Missing Women of Mexico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c7ec9e8188e90651e962918/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d7bddd7f7b4daddb12e1eca/poster.jpg" group-title="Crime Docs", How to Prepare for Prison
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d7bddd7f7b4daddb12e1eca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c54eb404e5815ebce397b6a/poster.jpg" group-title="Crime Docs", The UnPerfect Crime
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c54eb404e5815ebce397b6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c54eb494e5815ebce397c4a/poster.jpg" group-title="Crime Docs", Angel of Death
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c54eb494e5815ebce397c4a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c54eb424e5815ebce397ba0/poster.jpg" group-title="Crime Docs", The Boneyard
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c54eb424e5815ebce397ba0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c54eb444e5815ebce397bd6/poster.jpg" group-title="Crime Docs", Escape From Death Row
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c54eb444e5815ebce397bd6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7f8f9e377682001a57efac/poster.jpg" group-title="Documentaries", Drunk Stoned, Brilliant, Dead: The Story Of The National Lampoon
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7f8f9e377682001a57efac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6038357beac9500013152ecc/poster.jpg" group-title="Documentaries", Hunger Ward
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6038357beac9500013152ecc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fdce497b27a60001b2a9257/poster.jpg" group-title="Documentaries", Finding Yingying
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fdce497b27a60001b2a9257/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bad6e86ac5d753a4b63db42/poster.jpg" group-title="Documentaries", An Inconvenient Truth
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bad6e86ac5d753a4b63db42/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e9ef8b2fd5f1e001a2b9ba9/poster.jpg" group-title="Documentaries", An Inconvenient Sequel: Truth to Power
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e9ef8b2fd5f1e001a2b9ba9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7f8fc8377682001a57f3b1/poster.jpg" group-title="Documentaries", I Am Not Your Negro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7f8fc8377682001a57f3b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/605e8e30b58b22001a475604/poster.jpg" group-title="Documentaries", Where To Invade Next
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/605e8e30b58b22001a475604/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/599f098be2e833f9fdd0dd98/poster.jpg" group-title="Documentaries", Bowling For Columbine
@@ -3515,8 +3427,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/599f098be2e833f9fd
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa97801f6e14a001aa5de8f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa97810f6e14a001aa5e035/poster.jpg" group-title="Documentaries", The First Monday in May
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa97810f6e14a001aa5e035/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e9ef8b2fd5f1e001a2b9ba9/poster.jpg" group-title="Documentaries", An Inconvenient Sequel: Truth to Power
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e9ef8b2fd5f1e001a2b9ba9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7f8f9e377682001a57efac/poster.jpg" group-title="Documentaries", Drunk Stoned, Brilliant, Dead: The Story Of The National Lampoon
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7f8f9e377682001a57efac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fee375542366e001a1f8b6b/poster.jpg" group-title="Documentaries", Page One: Inside the New York Times
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fee375542366e001a1f8b6b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5852e811cb5ad7d3f9a31648/poster.jpg" group-title="Documentaries", The Institute
@@ -3529,8 +3441,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff7fd32cc17ce0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60526c84e85e72001a62b073/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff7fd39cc17ce00130b202b/poster.jpg" group-title="Documentaries", Teenage
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff7fd39cc17ce00130b202b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7f8fc8377682001a57f3b1/poster.jpg" group-title="Documentaries", I Am Not Your Negro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7f8fc8377682001a57f3b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff7fd09cc17ce00130b1b13/poster.jpg" group-title="Documentaries", The Kill Team
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff7fd09cc17ce00130b1b13/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58b48025e81ac6d5d4669b6e/poster.jpg" group-title="Documentaries", Deliver Us From Evil
@@ -3563,8 +3473,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d9cb0b40c9961e396
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ca249316ae5db78b4b5816e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bdc73df390f8e41a1138ae5/poster.jpg" group-title="Documentaries", Freakonomics
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bdc73df390f8e41a1138ae5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fdce497b27a60001b2a9257/poster.jpg" group-title="Documentaries", Finding Yingying
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fdce497b27a60001b2a9257/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7f9009377682001a57fa37/poster.jpg" group-title="Documentaries", American Swing
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7f9009377682001a57fa37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff7fd4dcc17ce00130b2228/poster.jpg" group-title="Documentaries", Brimstone & Glory
@@ -4127,8 +4035,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b3aec63bbacc7ee58
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5deec66eedabb4a06be12900/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9a1dc67ecf48001a358c51/poster.jpg" group-title="Award Winners", Fargo (1996)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9a1dc67ecf48001a358c51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6038357beac9500013152ecc/poster.jpg" group-title="Award Winners", Hunger Ward
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6038357beac9500013152ecc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058d5c6a224c9001bb775aa/poster.jpg" group-title="Award Winners", Foxcatcher
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058d5c6a224c9001bb775aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d37368d8df214bf1c79e8f8/poster.jpg" group-title="Award Winners", Children of a Lesser God
@@ -4157,6 +4063,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5901422ba1041ca52b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff7dc1c926015001311d370/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6074d7e1e85e72001a65a64c/poster.jpg" group-title="Award Winners", The Road
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6074d7e1e85e72001a65a64c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6038357beac9500013152ecc/poster.jpg" group-title="Award Winners", Hunger Ward
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6038357beac9500013152ecc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9ae9d687fe2d001aadf33d/poster.jpg" group-title="Award Winners", Big Eyes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9ae9d687fe2d001aadf33d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5baeb11bb061c23f203e7848/poster.jpg" group-title="Award Winners", Zodiac
@@ -4807,6 +4715,98 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58018c23cbd1c94059
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5801878dcbd1c94059965751/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d7bdf2d8b6839c9e41360ff/poster.jpg" group-title="Stand-Up Comedy", Keedar Whittle: Hear Me Out
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d7bdf2d8b6839c9e41360ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1e47d600a654f43fb3464b/poster.jpg" group-title="Crime Docs", Cocaine Cowboys Reloaded
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1e47d600a654f43fb3464b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5694166b2bb959cc3f59f060/poster.jpg" group-title="Crime Docs", Cropsey
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5694166b2bb959cc3f59f060/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59dea46130bc784304eaa5bc/poster.jpg" group-title="Crime Docs", The Dog (2013)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59dea46130bc784304eaa5bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f87ffcf90fbf4001aa35000/poster.jpg" group-title="Crime Docs", The Trials Of Darryl Hunt
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f87ffcf90fbf4001aa35000/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5be1c363960153705c6ee35d/poster.jpg" group-title="Crime Docs", Mr. Untouchable
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5be1c363960153705c6ee35d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d69a2b58568459ae305c0e3/poster.jpg" group-title="Crime Docs", The Seventh Fire
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d69a2b58568459ae305c0e3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc7d570c8c57d00131c0054/poster.jpg" group-title="Crime Docs", Motown Mafia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7d570c8c57d00131c0054/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb495f52cdc95001a8ea72d/poster.jpg" group-title="Crime Docs", Jay Sebring....Cutting To The Truth
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb495f52cdc95001a8ea72d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ffd108900da4e001389e2b7/poster.jpg" group-title="Crime Docs", Public Enemy Number One
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ffd108900da4e001389e2b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fea225c42366e001a1f5b3b/poster.jpg" group-title="Crime Docs", Climate for Murder
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fea225c42366e001a1f5b3b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f90667fe657fb001311bf7c/poster.jpg" group-title="Crime Docs", Sugar Wars: The Rise of the Cleveland Mafia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f90667fe657fb001311bf7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa37c55fdb601001af14d0d/poster.jpg" group-title="Crime Docs", 1275 Days
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa37c55fdb601001af14d0d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe3c165636004001a791ca6/poster.jpg" group-title="Crime Docs", The Frank Matthews Story
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe3c165636004001a791ca6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fce754b48bae9001a2df708/poster.jpg" group-title="Crime Docs", Killing Jimmy Hoffa
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fce754b48bae9001a2df708/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc7d581c8c57d00131c020b/poster.jpg" group-title="Crime Docs", The Gang Activists
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7d581c8c57d00131c020b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fce754c48bae9001a2df73c/poster.jpg" group-title="Crime Docs", American Dope White Powder Black Power
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fce754c48bae9001a2df73c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/583c9c661efc8f687a7bb2eb/poster.jpg" group-title="Crime Docs", Is This El Chapo?
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/583c9c661efc8f687a7bb2eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58d017ba29f14ed84eccbd87/poster.jpg" group-title="Crime Docs", Crips And Bloods: Made In America
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58d017ba29f14ed84eccbd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a4fda853a13bb80d47ee9f6/poster.jpg" group-title="Crime Docs", American Gang Wars
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a4fda853a13bb80d47ee9f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d52d46dbc51f4ce6fd2dca9/poster.jpg" group-title="Crime Docs", Elvis & The Memphis Mafia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d52d46dbc51f4ce6fd2dca9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c4a11b82662e7844aa82913/poster.jpg" group-title="Crime Docs", Gangland Graveyard
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c4a11b82662e7844aa82913/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ddd378cb290dd2bbfd003e1/poster.jpg" group-title="Crime Docs", Monster: The Story of Josef Fritzl
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ddd378cb290dd2bbfd003e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5b50d16bcac332e3195bef/poster.jpg" group-title="Crime Docs", Long Island Railroad Massacre
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5b50d16bcac332e3195bef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a31b675c019467319264892/poster.jpg" group-title="Crime Docs", Narco Cultura (2014)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a31b675c019467319264892/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c48b68303a270744b8097f8/poster.jpg" group-title="Crime Docs", Material Witness
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c48b68303a270744b8097f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb28472d330705fac6cc73f/poster.jpg" group-title="Crime Docs", Peace Officer
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb28472d330705fac6cc73f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c82a74e5422478939670179/poster.jpg" group-title="Crime Docs", A Place Called Chiapas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c82a74e5422478939670179/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f874afab06bf7001adc5099/poster.jpg" group-title="Crime Docs", Mourning Son
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f874afab06bf7001adc5099/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5c955a754f443d62b0f552/poster.jpg" group-title="Crime Docs", Code of Silence
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5c955a754f443d62b0f552/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58922b523739d62b0a38af92/poster.jpg" group-title="Crime Docs", Love and Terror On the Howling Plains of Nowhere
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58922b523739d62b0a38af92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58a396eb6dd7fcf88bad4894/poster.jpg" group-title="Crime Docs", Valentine Road
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58a396eb6dd7fcf88bad4894/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb28475d330705fac6cc799/poster.jpg" group-title="Crime Docs", The Patent Scam
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb28475d330705fac6cc799/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/589e3e255d2facdab98d77d4/poster.jpg" group-title="Crime Docs", Bloodsworth An Innocent Man
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/589e3e255d2facdab98d77d4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a81d78485803840357c31ae/poster.jpg" group-title="Crime Docs", Catching Hell In The City of Angels
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a81d78485803840357c31ae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1199ac035cc2935a41340b/poster.jpg" group-title="Crime Docs", Tales from the Organ Trade
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1199ac035cc2935a41340b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b5f2d41bb77d15215deca96/poster.jpg" group-title="Crime Docs", An Unreal Dream
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b5f2d41bb77d15215deca96/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ba8a6345969050e9cd97ab2/poster.jpg" group-title="Crime Docs", Square Grouper
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ba8a6345969050e9cd97ab2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058edef1ca306001a3648b8/poster.jpg" group-title="Crime Docs", Beyond Boundaries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058edef1ca306001a3648b8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58be2e0f5af29520ab14598b/poster.jpg" group-title="Crime Docs", JFK: The Smoking Gun
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58be2e0f5af29520ab14598b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6022e02a1c9c1f001a0e1394/poster.jpg" group-title="Crime Docs", Chain of Death
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6022e02a1c9c1f001a0e1394/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c7ec9e8188e90651e962918/poster.jpg" group-title="Crime Docs", The Missing Women of Mexico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c7ec9e8188e90651e962918/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d7bddd7f7b4daddb12e1eca/poster.jpg" group-title="Crime Docs", How to Prepare for Prison
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d7bddd7f7b4daddb12e1eca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c54eb404e5815ebce397b6a/poster.jpg" group-title="Crime Docs", The UnPerfect Crime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c54eb404e5815ebce397b6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c54eb494e5815ebce397c4a/poster.jpg" group-title="Crime Docs", Angel of Death
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c54eb494e5815ebce397c4a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c54eb424e5815ebce397ba0/poster.jpg" group-title="Crime Docs", The Boneyard
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c54eb424e5815ebce397ba0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c54eb444e5815ebce397bd6/poster.jpg" group-title="Crime Docs", Escape From Death Row
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c54eb444e5815ebce397bd6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7f8fc0377682001a57f2e9/poster.jpg" group-title="Food Docs", Jiro Dreams Of Sushi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7f8fc0377682001a57f2e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff7fd0ecc17ce00130b1b70/poster.jpg" group-title="Food Docs", Soul of a Banquet
@@ -5119,6 +5119,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6009d430caf1bb001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6036bb66c9165e00145d1387/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c959b98e25fca305c5172f1/poster.jpg" group-title="Películas en español", Blood For Blood
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c959b98e25fca305c5172f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cb7a4a4b0265267033513b1/poster.jpg" group-title="Películas en español", Intercambio
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cb7a4a4b0265267033513b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6009cf8ece98800013ec3721/poster.jpg" group-title="Películas en español", Crank 2: High Voltage
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6009cf8ece98800013ec3721/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60708426e85e72001a6537e6/poster.jpg" group-title="Películas en español", Foolproof
@@ -5293,8 +5295,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d13e3a28c95908897
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5a3d042b036e21dfe57aa0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fda8321b27a60001b2a0c6e/poster.jpg" group-title="Películas en español", Atrás hay relámpagos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fda8321b27a60001b2a0c6e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e583c355c7c10001a6000f1/poster.jpg" group-title="Películas en español", Bestezuelas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e583c355c7c10001a6000f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d420ade6f10d8274f067002/poster.jpg" group-title="Romantic Comedies", Failure to Launch
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d420ade6f10d8274f067002/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/597260e86e549904d1e670c1/poster.jpg" group-title="Romantic Comedies", Thanks For Sharing
@@ -7761,6 +7761,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f906657e657fb0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff3b44cc17ce00130ba8c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f87fff990fbf4001aa35433/poster.jpg" group-title="Political Docs", Taxi To The Dark Side
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f87fff990fbf4001aa35433/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6038357beac9500013152ecc/poster.jpg" group-title="Political Docs", Hunger Ward
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6038357beac9500013152ecc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b3b1554c59f01f16f482202/poster.jpg" group-title="Political Docs", Why We Fight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b3b1554c59f01f16f482202/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc7d56dc8c57d00131c0036/poster.jpg" group-title="Political Docs", An Eye for an Eye
