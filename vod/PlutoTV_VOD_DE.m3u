@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/605db7ee1ca306001a3690e9/poster.jpg" group-title="Highlight", Birdman
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/605db7ee1ca306001a3690e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607c7f925426cf001a3bc0cb/poster.jpg" group-title="Highlight", Love & Other Drugs DE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607c7f925426cf001a3bc0cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d6429918e16001a51e4de/poster.jpg" group-title="Highlight", The Darkest Hour DE
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d6429918e16001a51e4de/poster.jpg" group-title="Highlight", Darkest Hour
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607d6429918e16001a51e4de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dcd235736001ac4ad73/poster.jpg" group-title="Neu auf Pluto TV", Dangerous Beauty DE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dcd235736001ac4ad73/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60813dfed55d910013f24f7d/poster.jpg" group-title="Neu auf Pluto TV", The Mambo Kings DE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60813dfed55d910013f24f7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798de8235736001ac4afb8/poster.jpg" group-title="Neu auf Pluto TV", Marmaduke DE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798de8235736001ac4afb8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d86a55426cf001a3bcfad/poster.jpg" group-title="Neu auf Pluto TV", Simply Irresistible DE
@@ -39,11 +41,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dcf235736001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dcb235736001ac4ad47/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dc1235736001ac4ac67/poster.jpg" group-title="Neu auf Pluto TV", Aliens In The Attic DE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dc1235736001ac4ac67/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607c7f925426cf001a3bc0cb/poster.jpg" group-title="Neu auf Pluto TV", Love & Other Drugs DE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607c7f925426cf001a3bc0cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60755caf918e16001a5129e7/poster.jpg" group-title="Neu auf Pluto TV", Little Manhattan
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60755caf918e16001a5129e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d6429918e16001a51e4de/poster.jpg" group-title="Neu auf Pluto TV", The Darkest Hour DE
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d6429918e16001a51e4de/poster.jpg" group-title="Neu auf Pluto TV", Darkest Hour
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607d6429918e16001a51e4de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60802723f6870e001a5db3cf/poster.jpg" group-title="Neu auf Pluto TV", Nur für den Sommer
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60802723f6870e001a5db3cf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
@@ -115,8 +115,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6075a49b5426cf001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dd1235736001ac4adcf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dd8235736001ac4ae52/poster.jpg" group-title="Beliebt auf Pluto TV", Hear No Evil DE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dd8235736001ac4ae52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dd3235736001ac4adfb/poster.jpg" group-title="Beliebt auf Pluto TV", Goodbye Lover DE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dd3235736001ac4adfb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606c860206e132001a703bff/poster.jpg" group-title="Beliebt auf Pluto TV", Todes - Date
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606c860206e132001a703bff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f8449fab93a07001a85a8db/poster.jpg" group-title="Beliebt auf Pluto TV", Die Besucher
