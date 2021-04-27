@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/605db7ee1ca306001a3690e9/poster.jpg" group-title="Highlight", Birdman
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/605db7ee1ca306001a3690e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607c7f925426cf001a3bc0cb/poster.jpg" group-title="Highlight", Love and other Drugs - Nebenwirkung inklusive
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607c7f925426cf001a3bc0cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d6429918e16001a51e4de/poster.jpg" group-title="Highlight", Darkest Hour
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607d6429918e16001a51e4de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dcd235736001ac4ad73/poster.jpg" group-title="Neu auf Pluto TV", Dangerous Beauty DE
@@ -41,6 +43,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dcf235736001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dcb235736001ac4ad47/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dc1235736001ac4ac67/poster.jpg" group-title="Neu auf Pluto TV", Aliens In The Attic DE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dc1235736001ac4ac67/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607c7f925426cf001a3bc0cb/poster.jpg" group-title="Neu auf Pluto TV", Love and other Drugs - Nebenwirkung inklusive
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607c7f925426cf001a3bc0cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60755caf918e16001a5129e7/poster.jpg" group-title="Neu auf Pluto TV", Little Manhattan
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60755caf918e16001a5129e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d6429918e16001a51e4de/poster.jpg" group-title="Neu auf Pluto TV", Darkest Hour
