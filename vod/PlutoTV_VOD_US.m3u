@@ -241,14 +241,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/605a71d88119a5001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6047d9b5ea7ac5001a9307bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60132ddacaf1bb001a802378/poster.jpg" group-title="New Movies This Month", Flight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60132ddacaf1bb001a802378/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60358654b2b870001a0409f6/poster.jpg" group-title="New Movies This Month", Snatch
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60358654b2b870001a0409f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058d5c6a224c9001bb775aa/poster.jpg" group-title="New Movies This Month", Foxcatcher
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058d5c6a224c9001bb775aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60340e45eac950001314f136/poster.jpg" group-title="New Movies This Month", Last Holiday
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60340e45eac950001314f136/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60358659b2b870001a040a7f/poster.jpg" group-title="New Movies This Month", Little Man
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60358659b2b870001a040a7f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60358654b2b870001a0409f6/poster.jpg" group-title="New Movies This Month", Snatch
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60358654b2b870001a0409f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58be3149b229f409a921cb3c/poster.jpg" group-title="New Movies This Month", Mud
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58be3149b229f409a921cb3c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e8b8050dcc107001aafd21e/poster.jpg" group-title="New Movies This Month", The Forbidden Kingdom
@@ -309,6 +309,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58e2e85ad7fe705cb6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603e7a19b2b870001a04c85e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59fb5452feadc135f37fd47d/poster.jpg" group-title="New Movies This Month", Wild Card
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59fb5452feadc135f37fd47d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c6c865dbb225fd2ebadbfc3/poster.jpg" group-title="New Movies This Month", The Big Short
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c6c865dbb225fd2ebadbfc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ef671b2beb4ef0014ac0b3b/poster.jpg" group-title="New Movies This Month", The Professionals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ef671b2beb4ef0014ac0b3b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/590bfa77114615beb3525240/poster.jpg" group-title="New Movies This Month", Black Snake Moan (2007)
@@ -341,8 +343,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ae762cad18500a26a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f98d560405ab3001be93cfe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6087277cdffcc4001a9a55f4/poster.jpg" group-title="New Movies This Month", Summer Night
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6087277cdffcc4001a9a55f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c6c865dbb225fd2ebadbfc3/poster.jpg" group-title="New Movies This Month", The Big Short
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c6c865dbb225fd2ebadbfc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9c08c4c8ccd6797db67f75/poster.jpg" group-title="New Movies This Month", Top Five
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9c08c4c8ccd6797db67f75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5da76afa8eaf0fb9c2e9004d/poster.jpg" group-title="New Movies This Month", Whiskey Tango Foxtrot
