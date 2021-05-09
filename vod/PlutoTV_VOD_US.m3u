@@ -325,6 +325,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608313e4c9def9001b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7631d676c54900134c61e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6079d2dea224c9001bba763c/poster.jpg" group-title="New Movies This Month", Nowhere Boy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6079d2dea224c9001bba763c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/609432e8295990001398bc2c/poster.jpg" group-title="New Movies This Month", Bobby
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609432e8295990001398bc2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607dc2118119a5001a746994/poster.jpg" group-title="New Movies This Month", I'm Not There
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607dc2118119a5001a746994/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6079cb3506e132001a716089/poster.jpg" group-title="New Movies This Month", Cake
@@ -435,8 +437,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5901423ca1041ca52b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f2d9348c88558001323fbd5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59d66471142b60f007cb0535/poster.jpg" group-title="New Movies This Month", Mystic Pizza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59d66471142b60f007cb0535/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ae762cad18500a26a1a6d31/poster.jpg" group-title="New Movies This Month", Capote
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ae762cad18500a26a1a6d31/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60678ccfb58b22001a48163c/poster.jpg" group-title="Cine Premiere", Minority Report
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60678ccfb58b22001a48163c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6067a54c06e132001a6ff861/poster.jpg" group-title="Cine Premiere", Reporteras en guerra
@@ -1665,6 +1665,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bac1a3a3a849c3135
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6079d2d1a224c9001bba756d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59014253a1041ca52b5abd72/poster.jpg" group-title="Drama", Lions for Lambs
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59014253a1041ca52b5abd72/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/609432e8295990001398bc2c/poster.jpg" group-title="Drama", Bobby
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609432e8295990001398bc2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e66aa944698db001ab30874/poster.jpg" group-title="Drama", House of Sand and Fog
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e66aa944698db001ab30874/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4f27b2fe1a6f001a7adf5f/poster.jpg" group-title="Drama", Carol
@@ -1835,8 +1837,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff7fd55cc17ce0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60526c87e85e72001a62b0bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58e3dadc3db51e35c614711c/poster.jpg" group-title="Drama", Things We Lost In The Fire
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58e3dadc3db51e35c614711c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e865f81822bbc001ac9f622/poster.jpg" group-title="Drama", Moon
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e865f81822bbc001ac9f622/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60358654b2b870001a0409f6/poster.jpg" group-title="Crime Movies", Snatch
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60358654b2b870001a0409f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6023154a6d7ca5001ae99205/poster.jpg" group-title="Crime Movies", Wind River
