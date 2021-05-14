@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", La Cita T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a75335e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Pivote T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a753354/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", Las Tías T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782cae8b7e6001a75337d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", La Pulga T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782cae8b7e6001a753384/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", La Novia T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a75336a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Compañero de Equipo T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a753377/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Regalo T1E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a753363/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Vecino T1E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a75334e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", Los Quince T1E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a753372/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Soñador T1E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782cae8b7e6001a75338c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f3390df5e2e86001a903f0c/poster.jpg" group-title="Las Reglas Del Juego", El golpe nigeriano T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f33a5394fd476001b737f32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f3390df5e2e86001a903f0c/poster.jpg" group-title="Las Reglas Del Juego", Golpe de vuelta a casa T1E2
@@ -351,6 +331,138 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602f5fb40259790013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602f5fb40259790013532af6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6021804573753b001a05550e/poster.jpg" group-title="Sin Tetas No Hay Paraíso", Expiación T3E15
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602f5fb40259790013532b18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El impacto de lo nuevo (piloto) T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eeb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Grito el cuerpo eléctrico T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ruleta rusa T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d390fbf4001aa37ea2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Tonto por amor T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Kilohercio T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ec0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Significado de la muerte T1E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ed4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Fusible encendido T1E7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ec5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", En presencia de mis enemigos T1E8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ef4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Crimen del nuevo siglo T1E9
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ed9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El Ascenso de la Estrella Oscura T1E10
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ee3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Un Tono mas Blanco de Palidez T1E11
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d590fbf4001aa37f31/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Visión doble T1E12
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f00/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Los lazos de sangre T1E13
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d390fbf4001aa37e98/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ego alterado T1E14
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ecf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El síndrome de Lázaro T1E15
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Interfaz T1E16
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ede/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Presunto culpable T1E17
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Nada que temer T1E18
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f10/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Bailando sobre la navaja T1E19
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ebb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ex marca el lugar T1E20
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Deseo mortal T1E21
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f1e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Una raza aparte T1E22
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Pasado como prólogo T2E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2658e1a4cc500073253c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Jugada de poder T2E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2659542044f00078deaf2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Tiempo al cuadrado T2E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2659dec6e180007099228/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", De quién son estos bosques T2E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265be6499d70008750320/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El futuro revelado T2E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265c7a7656c0007dd889d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ningún hombre se queda atrás T2E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265d036d67d0007a997b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Encrucijada del alma T2E7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265d626c8f80007de685d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Señal desde arriba T2E8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265e28c38d2000780b470/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Cuerpo y alma T2E9
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265ea035cb10007d09c61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Suplente T2E10
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265f2949b46000798fe26/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El grift T2E11
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265fb8fa6ec0007b65b3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Al final del destino T2E12
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26609261a7e000785aec0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Dentro de estos muros T2E13
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266311e9ef5000795c253/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Dificultades T2E14
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2663854838e0007ec6699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Bajo el manto de guerra T2E15
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2663f202afe0007c73dd9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Una vez alrededor T2E16
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266478f2ab4000701b39f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Juicio final T2E17
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2664e3131dd00074daad2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Infierno T2E18
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26655464ae00008158660/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Un paso mas cerca T2E19
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2665d5a43410007340583/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Toque de Realidad T2E20
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266674f71440007f5927b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Despertar T2E21
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266a009e92d0007d78b96/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Para que no se convierta T2E22
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266a674285a000782d47d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", En la noche sin luna T3E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266ae6cc2dc000727cb2d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Salarios de pecado T3E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266b7e022e90007099317/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", La raza T3E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266c1513250000728f5c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Donde mora el mal T3E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266c9cec8a00007297ea5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", La toma de cuervos T3E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266cf5ee7bb0007baceef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Sombras de la oscuridad T3E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266dff64785000728ee64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", La mano de Dios T3E7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266e62cb928000768b9fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Yermo T3E8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266ee31424200079771fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Sin salida T3E9
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26706a9c1af0008b46d6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Guardián del hermano T3E10
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2670de82db50007fb2cc2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Posibilidades T3E11
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26714f5514d000793c7f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Teoría de la conspiración T3E12
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2671c650588000775c69b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Arte de Atracción T3E13
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26724f09e020007e767f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Una vida normal T3E14
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2672bb42c5200071a3595/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Lealtades divididas T3E15
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2673821e2a6000765f8cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Edad de la inocencia T3E16
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267afc54853000797f9c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ella se ha deshecho T3E17
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267b6ee6c3e0007c88be6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Entre Medio T3E18
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267bf69297f0007717d6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Amante soñado T3E19
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faceb513650d7001b3ff153/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", La profecía T3E20
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faceb513650d7001b3ff15b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Cirque des Merveilles T3E21
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267ce049b2700076686f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El asalto T3E22
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267d78d19af000710a22c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f5272222aa610001a833582/poster.jpg" group-title="Historias Para No Dormir", El cumpleaños T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f527eb561f1b1001aff71bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f5272222aa610001a833582/poster.jpg" group-title="Historias Para No Dormir", La mano T1E2
@@ -869,6 +981,26 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d14fa72a5001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d14fa72a5001a5fde1e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d13fa72a5001a5fddff/poster.jpg" group-title="Viaje a los Confines de la Tierra", 3 T1E3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d14fa72a5001a5fde0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", La Cita T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a75335e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Pivote T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a753354/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", Las Tías T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782cae8b7e6001a75337d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", La Pulga T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782cae8b7e6001a753384/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", La Novia T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a75336a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Compañero de Equipo T1E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a753377/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Regalo T1E7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a753363/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Vecino T1E8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a75334e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", Los Quince T1E9
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a753372/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Soñador T1E10
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782cae8b7e6001a75338c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fe9b77e4aa70a001a4fd4d6/poster.jpg" group-title="Conan, el aventurero", El Corazón del Elefante: parte 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9b7814aa70a001a4fd530/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fe9b77e4aa70a001a4fd4d6/poster.jpg" group-title="Conan, el aventurero", El Corazón del Elefante: parte 2 T1E2
@@ -1017,138 +1149,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fca37aee7dc9c001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fca37aee7dc9c001a9ef227/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fca37ace7dc9c001a9ef1f6/poster.jpg" group-title="I live with Models", El padre de Tommy T2E8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fca37aee7dc9c001a9ef218/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El impacto de lo nuevo (piloto) T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eeb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Grito el cuerpo eléctrico T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ruleta rusa T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d390fbf4001aa37ea2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Tonto por amor T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Kilohercio T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ec0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Significado de la muerte T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ed4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Fusible encendido T1E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ec5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", En presencia de mis enemigos T1E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ef4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Crimen del nuevo siglo T1E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ed9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El Ascenso de la Estrella Oscura T1E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ee3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Un Tono mas Blanco de Palidez T1E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d590fbf4001aa37f31/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Visión doble T1E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f00/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Los lazos de sangre T1E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d390fbf4001aa37e98/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ego alterado T1E14
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ecf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El síndrome de Lázaro T1E15
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Interfaz T1E16
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ede/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Presunto culpable T1E17
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Nada que temer T1E18
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f10/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Bailando sobre la navaja T1E19
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37ebb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ex marca el lugar T1E20
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Deseo mortal T1E21
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37f1e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Una raza aparte T1E22
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8946d490fbf4001aa37eb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Pasado como prólogo T2E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2658e1a4cc500073253c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Jugada de poder T2E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2659542044f00078deaf2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Tiempo al cuadrado T2E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2659dec6e180007099228/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", De quién son estos bosques T2E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265be6499d70008750320/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El futuro revelado T2E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265c7a7656c0007dd889d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ningún hombre se queda atrás T2E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265d036d67d0007a997b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Encrucijada del alma T2E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265d626c8f80007de685d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Señal desde arriba T2E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265e28c38d2000780b470/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Cuerpo y alma T2E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265ea035cb10007d09c61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Suplente T2E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265f2949b46000798fe26/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El grift T2E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa265fb8fa6ec0007b65b3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Al final del destino T2E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26609261a7e000785aec0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Dentro de estos muros T2E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266311e9ef5000795c253/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Dificultades T2E14
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2663854838e0007ec6699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Bajo el manto de guerra T2E15
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2663f202afe0007c73dd9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Una vez alrededor T2E16
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266478f2ab4000701b39f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Juicio final T2E17
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2664e3131dd00074daad2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Infierno T2E18
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26655464ae00008158660/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Un paso mas cerca T2E19
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2665d5a43410007340583/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Toque de Realidad T2E20
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266674f71440007f5927b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Despertar T2E21
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266a009e92d0007d78b96/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Para que no se convierta T2E22
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266a674285a000782d47d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", En la noche sin luna T3E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266ae6cc2dc000727cb2d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Salarios de pecado T3E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266b7e022e90007099317/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", La raza T3E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266c1513250000728f5c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Donde mora el mal T3E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266c9cec8a00007297ea5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", La toma de cuervos T3E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266cf5ee7bb0007baceef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Sombras de la oscuridad T3E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266dff64785000728ee64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", La mano de Dios T3E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266e62cb928000768b9fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Yermo T3E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa266ee31424200079771fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Sin salida T3E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26706a9c1af0008b46d6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Guardián del hermano T3E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2670de82db50007fb2cc2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Posibilidades T3E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26714f5514d000793c7f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Teoría de la conspiración T3E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2671c650588000775c69b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Arte de Atracción T3E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa26724f09e020007e767f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Una vida normal T3E14
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2672bb42c5200071a3595/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Lealtades divididas T3E15
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa2673821e2a6000765f8cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Edad de la inocencia T3E16
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267afc54853000797f9c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Ella se ha deshecho T3E17
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267b6ee6c3e0007c88be6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Entre Medio T3E18
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267bf69297f0007717d6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Amante soñado T3E19
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faceb513650d7001b3ff153/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", La profecía T3E20
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faceb513650d7001b3ff15b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", Cirque des Merveilles T3E21
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267ce049b2700076686f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8946d090fbf4001aa37e3e/poster.jpg" group-title="Mutante X", El asalto T3E22
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa267d78d19af000710a22c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f69edb3e4b56900138a1e14/poster.jpg" group-title="Witches Of Oz", Episode 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f69edb4e4b56900138a1e1e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f69edb3e4b56900138a1e14/poster.jpg" group-title="Witches Of Oz", Episode 2 T1E2
