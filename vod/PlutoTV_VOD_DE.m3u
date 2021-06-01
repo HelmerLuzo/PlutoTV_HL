@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d6429918e16001a51e4de/poster.jpg" group-title="Spotlight", Darkest Hour
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607d6429918e16001a51e4de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/609b9315fc003e001381008b/poster.jpg" group-title="Spotlight", Date Movie
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609b9315fc003e001381008b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798de8235736001ac4afb8/poster.jpg" group-title="Trending", Marmaduke
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798de8235736001ac4afb8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60755caf918e16001a5129e7/poster.jpg" group-title="Trending", Little Manhattan
@@ -15,10 +15,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dc1235736001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606c84958fe583001a4ea568/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff81d19cc17ce00130b27cc/poster.jpg" group-title="Trending", Die Grüne Lüge
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff81d19cc17ce00130b27cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d6429918e16001a51e4de/poster.jpg" group-title="Trending", Darkest Hour
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607d6429918e16001a51e4de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5df8857cefe75b4f80649053/poster.jpg" group-title="Letzte Chance", Journey of Love
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5df8857cefe75b4f80649053/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5dfbef7264f3f5aa1ae4cb68/poster.jpg" group-title="Letzte Chance", Zeit der Rache
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfbef7264f3f5aa1ae4cb68/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/609b9315fc003e001381008b/poster.jpg" group-title="Neu auf Pluto TV", Date Movie
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609b9315fc003e001381008b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/609a4a4672e8e300148ad85e/poster.jpg" group-title="Neu auf Pluto TV", School Camp - Fies gegen mies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609a4a4672e8e300148ad85e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/609a8e6229599000139938c4/poster.jpg" group-title="Neu auf Pluto TV", Familie auf Rezept
@@ -121,8 +125,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609a4a4c72e8e30014
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609a4a2872e8e300148a9f49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dda235736001ac4ae7e/poster.jpg" group-title="Beliebt auf Pluto TV", Zwischen Himmel und Hölle
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dda235736001ac4ae7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6075a49b5426cf001a3b1566/poster.jpg" group-title="Beliebt auf Pluto TV", Hunger Ward
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6075a49b5426cf001a3b1566/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dd1235736001ac4adcf/poster.jpg" group-title="Beliebt auf Pluto TV", Freddy Got Fingered
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60798dd1235736001ac4adcf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60798dd8235736001ac4ae52/poster.jpg" group-title="Beliebt auf Pluto TV", Der stumme Schrei der Angst
@@ -165,8 +167,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff81d0fcc17ce0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe1b00fa41cb300132c6bac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ffc36242816a5001a9ff2fa/poster.jpg" group-title="Beliebt auf Pluto TV", Blood Surf
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ffc36242816a5001a9ff2fa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe9de654aa70a001a4fd9ae/poster.jpg" group-title="Beliebt auf Pluto TV", Jack the Ripper - Ein deutscher Serienkiller?
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9de654aa70a001a4fd9ae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fad3834f6e14a001aa6a353/poster.jpg" group-title="Beliebt auf Pluto TV", I Am Bruce Lee
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fad3834f6e14a001aa6a353/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/604735d5ea7ac5001a92ef3e/poster.jpg" group-title="Beliebt auf Pluto TV", Chamaco
@@ -363,6 +363,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff81d19cc17ce0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff81d10cc17ce00130b2730/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe9de734aa70a001a4fda68/poster.jpg" group-title="Dokus + Wissen", Das Geheimnis von Phaistos - Fälscher am Werk?
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9de734aa70a001a4fda68/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe9de674aa70a001a4fd9c5/poster.jpg" group-title="Dokus + Wissen", Israel und die Bombe - Ein radioaktives Tabu
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9de674aa70a001a4fd9c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa9899efd17cc001a0071d6/poster.jpg" group-title="Dokus + Wissen", Die Huber Buam
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa9899efd17cc001a0071d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f758256959dbf001a848121/poster.jpg" group-title="Dokus + Wissen", Unbelieavable Flying Objects
