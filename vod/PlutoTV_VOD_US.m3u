@@ -329,6 +329,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60822d9f6b9d17001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e741e9e725522001447029f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60abee94014c770013e59953/poster.jpg" group-title="New Movies This Month", The Night Listener
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60abee94014c770013e59953/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60b8f1074db0eb0013b74357/poster.jpg" group-title="New Movies This Month", The Miseducation of Cameron Post
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b8f1074db0eb0013b74357/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a7d0175c4082001373abb6/poster.jpg" group-title="New Movies This Month", Kinky Boots
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a7d0175c4082001373abb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7f8fb5377682001a57f1e6/poster.jpg" group-title="New Movies This Month", Lemon
@@ -397,8 +399,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5966921170e766a310
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cd08a24b6ee6754089fc201/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60873b178213d1001a534512/poster.jpg" group-title="New Movies This Month", Miss Potter
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60873b178213d1001a534512/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a7cfebca015c00143c94e7/poster.jpg" group-title="New Movies This Month", Flirting With Disaster
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a7cfebca015c00143c94e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60abd594ac192300136e4012/poster.jpg" group-title="Trending Now", Rock the Kasbah
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60abd594ac192300136e4012/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b36cbb3ad1b6cc652159794/poster.jpg" group-title="Trending Now", Johnny Mnemonic
@@ -839,6 +839,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb6ea251635720014
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bac1a0e3a849c313518c029/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e6d0fd27255220014464893/poster.jpg" group-title="Last Chance to Watch", You Got Served: Beat the World
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e6d0fd27255220014464893/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60b8f1074db0eb0013b74357/poster.jpg" group-title="LGBTQ Cinema", The Miseducation of Cameron Post
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b8f1074db0eb0013b74357/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a7d0175c4082001373abb6/poster.jpg" group-title="LGBTQ Cinema", Kinky Boots
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a7d0175c4082001373abb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e4f27b2fe1a6f001a7adf5f/poster.jpg" group-title="LGBTQ Cinema", Carol
@@ -1641,6 +1643,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f98d560405ab3001b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e8624ce4f626f001a4be6e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fd2ba7f59c69f001a235b72/poster.jpg" group-title="Drama", The Passion of the Christ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fd2ba7f59c69f001a235b72/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60b8f1074db0eb0013b74357/poster.jpg" group-title="Drama", The Miseducation of Cameron Post
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b8f1074db0eb0013b74357/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ae762cad18500a26a1a6d31/poster.jpg" group-title="Drama", Capote
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ae762cad18500a26a1a6d31/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58de8eaee8f51b555ac38f80/poster.jpg" group-title="Drama", Better Luck Tomorrow
@@ -1821,8 +1825,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a049735853d017b5f
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb4e82fa2114f726d3c67be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5daf452067e63c6a85860ffa/poster.jpg" group-title="Drama", Strangerland
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5daf452067e63c6a85860ffa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1e04b0d65e92e03ffbe367/poster.jpg" group-title="Drama", The Limey
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1e04b0d65e92e03ffbe367/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1e04b0d65e92e03ffbe367/poster.jpg" group-title="Crime Movies", The Limey
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1e04b0d65e92e03ffbe367/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6023154a6d7ca5001ae99205/poster.jpg" group-title="Crime Movies", Wind River
