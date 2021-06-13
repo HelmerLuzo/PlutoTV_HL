@@ -621,8 +621,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60903d28e63e660013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e865f81822bbc001ac9f622/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058cdb3b58b22001a46e157/poster.jpg" group-title="Popcorn Movie Summer", The Replacement Killers
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058cdb3b58b22001a46e157/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60b8f03e4db0eb0013b6fbc9/poster.jpg" group-title="Cine Premiere", La mala educación de Cameron Post
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b8f03e4db0eb0013b6fbc9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e3b38b096cf312b8517d7e7/poster.jpg" group-title="Cine Premiere", Cloverfield: Monstruo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e3b38b096cf312b8517d7e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60b950a54db0eb0013b774fb/poster.jpg" group-title="Cine Premiere", El bebé de Bridget Jones
@@ -633,6 +631,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607dc9148fe583001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b9548bbf15af00137758aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607daffdf3fd5d001b822646/poster.jpg" group-title="Cine Premiere", When A Stranger Calls
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607daffdf3fd5d001b822646/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60b8f03e4db0eb0013b6fbc9/poster.jpg" group-title="Cine Premiere", La mala educación de Cameron Post
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b8f03e4db0eb0013b6fbc9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6026dff7c9165e00145c0ea6/poster.jpg" group-title="Cine Premiere", La caza del octubre rojo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6026dff7c9165e00145c0ea6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60abd582ac192300136e3d52/poster.jpg" group-title="Cine Premiere", Bleed for This
@@ -2243,6 +2243,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6e4583286c4f6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326dd081d35898a53603e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d38b6f9583286c4f60cec17/poster.jpg" group-title="Comedy Central Stand-Up", Tracy Morgan: Bona Fide
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d38b6f9583286c4f60cec17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326ddb81d35898a5360490/poster.jpg" group-title="Comedy Central Stand-Up", Anthony Jeselnik: Caligula
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326ddb81d35898a5360490/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326dec81d35898a53605a2/poster.jpg" group-title="Comedy Central Stand-Up", Natasha Leggero: Live at Bimbo's
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326dec81d35898a53605a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59b176106e491a89a5ac2422/poster.jpg" group-title="Crime 360", Conviction
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59b176106e491a89a5ac2422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c50e8b8797392c88aa0f538/poster.jpg" group-title="Crime 360", Secret Tapes of the OJ Case: The Untold Story
