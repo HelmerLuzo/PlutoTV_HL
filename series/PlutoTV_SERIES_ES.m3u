@@ -1115,6 +1115,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f562dd6f7db51001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f562dd6f7db51001a3c5da3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f562db9f7db51001a3c5acc/poster.jpg" group-title="Ana y los 7", Capítulo Especial T2E25
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f562dddf7db51001a3c5e40/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f562db9f7db51001a3c5acc/poster.jpg" group-title="Ana y los 7", Nuevas caras T4E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bc01d67d6200131c0a4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f562db9f7db51001a3c5acc/poster.jpg" group-title="Ana y los 7", Las piezas empiezan a moverse T4E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bc01d67d6200131c0a3f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f562db9f7db51001a3c5acc/poster.jpg" group-title="Ana y los 7", Atraco en casa T4E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bc00d67d6200131c0a0b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f562db9f7db51001a3c5acc/poster.jpg" group-title="Ana y los 7", Manuela se casa T4E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bc01d67d6200131c0a2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f562db9f7db51001a3c5acc/poster.jpg" group-title="Ana y los 7", Una duda insoportable T4E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bc00d67d6200131c0a18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfffa72a5001a5fdbbe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 2 T1E2
@@ -2357,35 +2367,41 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4ead29db45a1001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e1867fa72a5001a5fa9eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e1865fa72a5001a5fa9d5/poster.jpg" group-title="23-F: El Día Más Difícil del Rey", 2 T1E2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e1866fa72a5001a5fa9e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la reina leopardo T1E1
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", El regreso de Tarzán: parte 1 T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bfb0d67d6200131c323a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", El regreso de Tarzán: parte 2 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bfb0d67d6200131c31ee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la reina leopardo T1E3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de11f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la Legión Perdida T1E2
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la Legión Perdida T1E4
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de104/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y el diamante escarlata T1E3
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y el diamante escarlata T1E5
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e9a5ff04300139de182/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la orquídea negra T1E4
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la orquídea negra T1E6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de0bd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y los reflejos en un mal de ojo T1E5
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y los reflejos en un mal de ojo T1E7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de0e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la sacerdotisa de Opar T1E6
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la sacerdotisa de Opar T1E8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e9a5ff04300139de18f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la furia de los Zadu T1E7
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la furia de los Zadu T1E9
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e9a5ff04300139de175/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la venganza de Zimpala T1E8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la venganza de Zimpala T1E10
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de139/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y el guijarro blanco T1E9
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y el regreso de Kukulcán T1E11
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bfb0d67d6200131c320d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y el guijarro blanco T1E12
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de12c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y el dios de la luna T1E10
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y el dios de la luna T1E13
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e935ff04300139de09e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la ciudad prohibida T1E11
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la ciudad prohibida T1E14
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e9a5ff04300139de19c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y el demonio leopardo T1E12
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y el demonio leopardo T1E15
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de0f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y los amtoranos T1E13
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y los amtoranos T1E16
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de0b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la bestia de Dunali T1E14
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la bestia de Dunali T1E17
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de112/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la mujer de acero T1E15
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la mujer de acero T1E18
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de0d4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6058b2e333e416001a3e42c1/poster.jpg" group-title="Sherlock Homes", Las cuatro firmas T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058b2e433e416001a3e42eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
@@ -8009,17 +8025,19 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb399de9d991c001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb399df9d991c001a9e3034/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 101 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f36274f17dc86001a787504/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 103 T1E2
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 102 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9b9b8529bee00141db0e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 103 T1E3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f36274f17dc86001a7874f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 104 T1E3
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 104 T1E4
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f36274f17dc86001a78750f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 105 T1E4
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 105 T1E5
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f36275117dc86001a78751e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 106 T1E5
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 106 T1E6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3e1e6e17dc86001a7911dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 107 T1E6
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 107 T1E7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f36275017dc86001a787519/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 108 T1E7
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f36274e17dc86001a7874d9/poster.jpg" group-title="Million Dollar Baby", Episodio 108 T1E8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f36274f17dc86001a7874fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5ff5b94800da4e0013895245/poster.jpg" group-title="Snack-Off: cocina como puedas", Cocina de camping y Jelly Beans T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ffc105a77c49a00131c4f5f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
