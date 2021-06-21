@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60cb5696adcfc00013d4f3b2/poster.jpg" group-title="Nuevo en Pluto TV", El mejor día del año
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60cb5696adcfc00013d4f3b2.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60cb5693adcfc00013d4f35f/poster.jpg" group-title="Nuevo en Pluto TV", La Historia de Wim de la A a la Z
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60cb5693adcfc00013d4f35f.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c065498b413a0013551166/poster.jpg" group-title="Nuevo en Pluto TV", El hombre que embotelló el sol
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60c065498b413a0013551166.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/608922dc3f06c5001a779a55/poster.jpg" group-title="Nuevo en Pluto TV", Fast and Famous
@@ -477,8 +481,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e1829fa72a5001a5fa581.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fe9b77b4aa70a001a4fd4a6.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b685235736001ac44621/poster.jpg" group-title="Cine: Aventuras", Marmaduke ES
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b685235736001ac44621.m3u8
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c9b7f9ae2cc8001316fa1f/poster.jpg" group-title="Cine: Aventuras", El mejor jugador
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60c9b7f9ae2cc8001316fa1f.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f69edb0e4b56900138a1ddc/poster.jpg" group-title="Cine: Aventuras", Pants On Fire
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f69edb0e4b56900138a1ddc.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe9b7304aa70a001a4fce36/poster.jpg" group-title="Cine: Aventuras", Una Familia Genial
