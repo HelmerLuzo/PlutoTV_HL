@@ -437,10 +437,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f28aa30f3de660013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bd1efe2cd6410e58e743a01/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ecd5f1c86f709001b51ad50/poster.jpg" group-title="Trending Now", Blue Thunder
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ecd5f1c86f709001b51ad50/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e865f81822bbc001ac9f622/poster.jpg" group-title="Trending Now", Moon
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e865f81822bbc001ac9f622/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603694f36c2a2d001410954c/poster.jpg" group-title="Trending Now", The November Man
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603694f36c2a2d001410954c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e865f81822bbc001ac9f622/poster.jpg" group-title="Trending Now", Moon
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e865f81822bbc001ac9f622/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058cd9db58b22001a46df67/poster.jpg" group-title="Trending Now", Colombiana
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058cd9db58b22001a46df67/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b36cb55ad1b6cc652158d37/poster.jpg" group-title="Trending Now", The Broken Hearts Club: A Romantic Comedy
@@ -5069,8 +5069,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d5737b4e18626fad3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faf1cd193fb64001a7809a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d326dec81d35898a53605a2/poster.jpg" group-title="Stand-Up Comedy", Natasha Leggero: Live at Bimbo's
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d326dec81d35898a53605a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/603ec5f86aa390001aeef91d/poster.jpg" group-title="Stand-Up Comedy", Steve Coogan Live: The Man Who Thinks He's It
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603ec5f86aa390001aeef91d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60abd590ac192300136e3f96/poster.jpg" group-title="Sports Movies", Bleed for This
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60abd590ac192300136e3f96/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e8624ce4f626f001a4be6e1/poster.jpg" group-title="Sports Movies", Bobby Jones: Stroke of Genius
