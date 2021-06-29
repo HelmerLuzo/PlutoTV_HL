@@ -2977,6 +2977,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bfb0d67d620013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bfb0d67d6200131c31fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la mujer de acero T1E22
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de0d4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d11fa72a5001a5fddc7/poster.jpg" group-title="Shattered City", 1 T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d12fa72a5001a5fddd3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d11fa72a5001a5fddc7/poster.jpg" group-title="Shattered City", 2 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d12fa72a5001a5fdddd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/604a3b771e25b3001a5ed0cd/poster.jpg" group-title="Dream Team", Rompe las barreras T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604a3b781e25b3001a5ed0d3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/604a3b771e25b3001a5ed0cd/poster.jpg" group-title="Dream Team", Rompe las barreras II T1E2
@@ -9177,10 +9181,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6017c49561334a001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6017c49561334a001a0d3c62/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6017c49261334a001a0d3bee/poster.jpg" group-title="Amor a dos bandas", Última oportunidad T1E13
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6017c49461334a001a0d3c2e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d11fa72a5001a5fddc7/poster.jpg" group-title="Shattered City", 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d12fa72a5001a5fddd3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d11fa72a5001a5fddc7/poster.jpg" group-title="Shattered City", 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d12fa72a5001a5fdddd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e185dfa72a5001a5fa938/poster.jpg" group-title="Kaidan", Kaidan T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e185efa72a5001a5fa940/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfbfa72a5001a5fdb2e/poster.jpg" group-title="Flood", Episodio 1 T1E1
