@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b675235736001ac4448d/poster.jpg" group-title="Destacados", Guess Who ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b675235736001ac4448d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d2d7c1fad1f80013b310b4/poster.jpg" group-title="Destacados", Pride ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d2d7c1fad1f80013b310b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0437628f1d30013ed3c18/poster.jpg" group-title="Destacados", Love Is Strange ES
@@ -7,16 +9,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0437628f1d30013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d071598e504f0013f36353/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4e1855fa72a5001a5fa892/poster.jpg" group-title="Destacados", Freeheld, Un Amor Incondicional
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e1855fa72a5001a5fa892/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f5ceafa72a5001a5fd9bd/poster.jpg" group-title="Destacados", Una Jornada Particular
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5ceafa72a5001a5fd9bd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4e183bfa72a5001a5fa6c0/poster.jpg" group-title="Destacados", Dioses y monstruos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e183bfa72a5001a5fa6c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b685235736001ac44621/poster.jpg" group-title="Destacados", Marmaduke ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b685235736001ac44621/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0438328f1d30013ed3ea1/poster.jpg" group-title="Destacados", Still Alice ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0438328f1d30013ed3ea1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0435428f1d30013ed3465/poster.jpg" group-title="Destacados", A Royal Affair ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0435428f1d30013ed3465/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6086b37cc80199001ac63891/poster.jpg" group-title="Destacados", Whip It ES
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6086b37cc80199001ac63891/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a769bcca015c00143c8956/poster.jpg" group-title="Destacados", Una gran noche
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a769bcca015c00143c8956/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b681235736001ac445c1/poster.jpg" group-title="Destacados", Love & Other Drugs ES
@@ -27,8 +25,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b6aa235736001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cccfa72a5001a5fd796/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b662235736001ac442c1/poster.jpg" group-title="Destacados", Brazil ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b662235736001ac442c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b685235736001ac44621/poster.jpg" group-title="Destacados", Marmaduke ES
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b685235736001ac44621/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60dabf4ab8187f00136b1ef9/poster.jpg" group-title="Nuevo en Pluto TV", The Hunt ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60dabf4ab8187f00136b1ef9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60dabf4eb8187f00136b2017/poster.jpg" group-title="Nuevo en Pluto TV", Amour ES
@@ -377,18 +373,28 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4b5f0c61f1b1001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4ab3d2fa72a5001a5f79cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f929aaefe51e4001aac9c66/poster.jpg" group-title="Cine: Thriller", Poseido ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f929aaefe51e4001aac9c66/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d18632d2de2a0013003599/poster.jpg" group-title="Cine: Drama", Melancholia ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d18632d2de2a0013003599/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0438328f1d30013ed3ea1/poster.jpg" group-title="Cine: Drama", Still Alice ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0438328f1d30013ed3ea1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b681235736001ac445c1/poster.jpg" group-title="Cine: Drama", Love & Other Drugs ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b681235736001ac445c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0439228f1d30013ed429c/poster.jpg" group-title="Cine: Drama", 45 Years ES
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0439228f1d30013ed429c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4e183bfa72a5001a5fa6c0/poster.jpg" group-title="Cine: Drama", Dioses y monstruos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e183bfa72a5001a5fa6c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b659235736001ac441e1/poster.jpg" group-title="Cine: Drama", Aloha ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b659235736001ac441e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d2d7befad1f80013b30ffd/poster.jpg" group-title="Cine: Drama", L'Avenir ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d2d7befad1f80013b30ffd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60813c96d55d910013f24e90/poster.jpg" group-title="Cine: Drama", The Mambo Kings ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60813c96d55d910013f24e90/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d427a3b8187f00136a41cc/poster.jpg" group-title="Cine: Drama", Little Men ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d427a3b8187f00136a41cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0437d28f1d30013ed3d7f/poster.jpg" group-title="Cine: Drama", Miss Julie ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0437d28f1d30013ed3d7f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0439228f1d30013ed429c/poster.jpg" group-title="Cine: Drama", 45 Years ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0439228f1d30013ed429c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b660235736001ac44291/poster.jpg" group-title="Cine: Drama", Boys On The Side ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b660235736001ac44291/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0436b28f1d30013ed38eb/poster.jpg" group-title="Cine: Drama", Happy End ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0436b28f1d30013ed38eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f5ccffa72a5001a5fd7d0/poster.jpg" group-title="Cine: Drama", Sonámbulo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5ccffa72a5001a5fd7d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b66d235736001ac443d6/poster.jpg" group-title="Cine: Drama", Family Business ES
@@ -397,10 +403,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b66d235736001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f523c26db45a1001a79ab9e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f929abdfe51e4001aac9cf1/poster.jpg" group-title="Cine: Drama", Las horas del verano ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f929abdfe51e4001aac9cf1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60813c96d55d910013f24e90/poster.jpg" group-title="Cine: Drama", The Mambo Kings ES
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60813c96d55d910013f24e90/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60795a0af6870e001a5d054d/poster.jpg" group-title="Cine: Drama", Guilty By Suspicion ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60795a0af6870e001a5d054d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4e183bfa72a5001a5fa6c0/poster.jpg" group-title="Cine: Drama", Dioses y monstruos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e183bfa72a5001a5fa6c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60780e20918e16001a517bee/poster.jpg" group-title="Cine: Drama", El libro del amor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60780e20918e16001a517bee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4eacbbdb45a1001a7950a9/poster.jpg" group-title="Cine: Drama", La última vez que me suicide
@@ -445,6 +451,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e1812fa72a5001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4eacd1db45a1001a7951b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f5cdbfa72a5001a5fd899/poster.jpg" group-title="Cine: Drama", The Burning Plain
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cdbfa72a5001a5fd899/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0435d28f1d30013ed362f/poster.jpg" group-title="Cine: Drama", Departures ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0435d28f1d30013ed362f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4eacc4db45a1001a7950fe/poster.jpg" group-title="Cine: Drama", Little Fish
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4eacc4db45a1001a7950fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f5cc1fa72a5001a5fd6d6/poster.jpg" group-title="Cine: Drama", Relaciones cruzadas
@@ -465,6 +473,62 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5ceafa72a5001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7192886c03610013ac0258/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f4f5cbdfa72a5001a5fd69e/poster.jpg" group-title="Cine: Drama", Prim: El Asesinato de la Calle del Turco
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cbdfa72a5001a5fd69e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0435628f1d30013ed3494/poster.jpg" group-title="Cine: Drama", After The Storm ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0435628f1d30013ed3494/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0438928f1d30013ed40c2/poster.jpg" group-title="Cine: Drama", The Wild Pear Tree ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0438928f1d30013ed40c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0436028f1d30013ed36fa/poster.jpg" group-title="Cine: Drama", El Taller De Escritura ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0436028f1d30013ed36fa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0436428f1d30013ed37b0/poster.jpg" group-title="Cine: Drama", Forushande ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0436428f1d30013ed37b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0436928f1d30013ed3858/poster.jpg" group-title="Cine: Drama", Gracias A Dios ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0436928f1d30013ed3858/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0435128f1d30013ed3406/poster.jpg" group-title="Cine: Drama", A Quiet Passion ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0435128f1d30013ed3406/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0437228f1d30013ed3a8a/poster.jpg" group-title="Cine: Drama", La Villa ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0437228f1d30013ed3a8a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0437428f1d30013ed3b51/poster.jpg" group-title="Cine: Drama", Los Caballeros Blancos ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0437428f1d30013ed3b51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0437b28f1d30013ed3cf0/poster.jpg" group-title="Cine: Drama", Mia Madre ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0437b28f1d30013ed3cf0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0437928f1d30013ed3ca3/poster.jpg" group-title="Cine: Drama", Loveless ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0437928f1d30013ed3ca3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0438c28f1d30013ed4161/poster.jpg" group-title="Cine: Drama", Three Faces ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0438c28f1d30013ed4161/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0439028f1d30013ed424f/poster.jpg" group-title="Cine: Drama", Umimachi Diary ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0439028f1d30013ed424f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d1863bd2de2a0013003741/poster.jpg" group-title="Cine: Drama", Silent Heart ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d1863bd2de2a0013003741/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d1863dd2de2a0013003804/poster.jpg" group-title="Cine: Drama", The Third Murder ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d1863dd2de2a0013003804/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d18627d2de2a001300340b/poster.jpg" group-title="Cine: Drama", An Episode In The Life Of An Iron Picker ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d18627d2de2a001300340b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d18625d2de2a001300337c/poster.jpg" group-title="Cine: Drama", A Separation ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d18625d2de2a001300337c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d18640d2de2a001300385f/poster.jpg" group-title="Cine: Drama", No ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d18640d2de2a001300385f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d42798b8187f00136a398d/poster.jpg" group-title="Cine: Drama", About Elly ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d42798b8187f00136a398d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d18638d2de2a001300367a/poster.jpg" group-title="Cine: Drama", Rückker Nach Montaux ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d18638d2de2a001300367a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d427a1b8187f00136a4141/poster.jpg" group-title="Cine: Drama", Like Father, Like Son ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d427a1b8187f00136a4141/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d4279bb8187f00136a3a4c/poster.jpg" group-title="Cine: Drama", Faust ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d4279bb8187f00136a3a4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d4279db8187f00136a40b6/poster.jpg" group-title="Cine: Drama", If Not Us, Who? ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d4279db8187f00136a40b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d2d7c5fad1f80013b31b73/poster.jpg" group-title="Cine: Drama", In A Better World ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d2d7c5fad1f80013b31b73/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d2d7c3fad1f80013b316a8/poster.jpg" group-title="Cine: Drama", Honey ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d2d7c3fad1f80013b316a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60dc12af18f85d00145bcec2/poster.jpg" group-title="Cine: Drama", Winter's Bone ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60dc12af18f85d00145bcec2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d2d7cffad1f80013b3305a/poster.jpg" group-title="Cine: Drama", Hedi ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d2d7cffad1f80013b3305a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60dabf4ab8187f00136b1ef9/poster.jpg" group-title="Cine: Drama", The Hunt ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60dabf4ab8187f00136b1ef9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60dabf4eb8187f00136b2017/poster.jpg" group-title="Cine: Drama", Amour ES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60dabf4eb8187f00136b2017/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b68e235736001ac446fd/poster.jpg" group-title="Cine: Romance", My Super Ex-Girlfriend ES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b68e235736001ac446fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b66b235736001ac443a5/poster.jpg" group-title="Cine: Romance", Down With Love ES
