@@ -257,6 +257,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/568f00cc6fdbc68667
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f32f61063683d00138a19b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b805a9053abc1a358059a81/poster.jpg" group-title="New Movies This Month", The Fisher King
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b805a9053abc1a358059a81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6026ef6ac9165e00145c0f66/poster.jpg" group-title="New Movies This Month", Mother
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6026ef6ac9165e00145c0f66/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58be3149b229f409a921cb7a/poster.jpg" group-title="New Movies This Month", Mortal Enemies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58be3149b229f409a921cb7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb4e833a2114f726d3c6825/poster.jpg" group-title="New Movies This Month", The Wraith
@@ -357,8 +359,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f5bf792f9b7630014
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc58cf9c74aa4001301501b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc58cf7c74aa40013014fea/poster.jpg" group-title="New Movies This Month", Scary Movie 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc58cf7c74aa40013014fea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60da3eb00de2dc00134a4043/poster.jpg" group-title="New Movies This Month", Pawn
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60da3eb00de2dc00134a4043/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0c9b5d67d6200131cae2d/poster.jpg" group-title="Trending Now", The Monuments Men
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0c9b5d67d6200131cae2d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c0f16fa741fbc7c3ea9007c/poster.jpg" group-title="Trending Now", In the Line of Fire
@@ -679,10 +679,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d825f823b40f3765b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60bff1ca7f92cf001309c571/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e41a18082c204a8047f0d01/poster.jpg" group-title="Cine Premiere", From Prada to Nada
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e41a18082c204a8047f0d01/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d8aa4b9c4c3bf2f80da5524/poster.jpg" group-title="Cine Premiere", El aro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d8aa4b9c4c3bf2f80da5524/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e794001d9272d001a99e54f/poster.jpg" group-title="Cine Premiere", Total Recall
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e794001d9272d001a99e54f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d8aa4b9c4c3bf2f80da5524/poster.jpg" group-title="Cine Premiere", El aro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d8aa4b9c4c3bf2f80da5524/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60679be4f3fd5d001b80aa01/poster.jpg" group-title="Cine Premiere", South Park: Más grande, más larga y sin censura
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60679be4f3fd5d001b80aa01/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5eb2d4a01b77ab001a63b90f/poster.jpg" group-title="Cine Premiere", Star Trek X: Nemesis
@@ -1701,6 +1701,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6074d7e1e85e72001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60903cf9c1e6bb001af6db34/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60da45029abbef001306cd37/poster.jpg" group-title="Drama", Jawbone
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60da45029abbef001306cd37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6026ef6ac9165e00145c0f66/poster.jpg" group-title="Drama", Mother
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6026ef6ac9165e00145c0f66/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/590bfa77114615beb3525240/poster.jpg" group-title="Drama", Black Snake Moan (2007)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/590bfa77114615beb3525240/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d13aecdcee0d4842d875190/poster.jpg" group-title="Drama", Raging Bull
@@ -1801,8 +1803,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c3a6a350a9d8001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ca2d9028f1d30013ece76a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fecc1eaf80815001ae866f1/poster.jpg" group-title="Drama", Indignation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fecc1eaf80815001ae866f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5efd03d14f424700132ba1ce/poster.jpg" group-title="Drama", Emperor
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5efd03d14f424700132ba1ce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e912ca5e97a19001b981f37/poster.jpg" group-title="Crime Movies", We Own The Night
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e912ca5e97a19001b981f37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/568f00cc6fdbc686673c91ab/poster.jpg" group-title="Crime Movies", Hard Eight
@@ -2271,6 +2271,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ad7c212cffe4415c0
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f99cc34184e2e001a74cf82/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b8072f66a83caa23cdddbfb/poster.jpg" group-title="Staff Picks", Best of the Best
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b8072f66a83caa23cdddbfb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6026ef6ac9165e00145c0f66/poster.jpg" group-title="Staff Picks", Mother
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6026ef6ac9165e00145c0f66/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa97851f6e14a001aa5e770/poster.jpg" group-title="Staff Picks", Barking Dogs Never Bite
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa97851f6e14a001aa5e770/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff7fd50cc17ce00130b2259/poster.jpg" group-title="Staff Picks", Bellflower
@@ -5349,10 +5351,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ad5e40308e9e0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ad5e3d308e9e00133db4ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60ad5e3a308e9e00133dad1f/poster.jpg" group-title="RiffTrax", RiffTrax: Beast of the Yellow Night
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ad5e3a308e9e00133dad1f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d075558c290014f9800e/poster.jpg" group-title="RiffTrax", RiffTrax: Invasion of the Animal People
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d075558c290014f9800e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d099558c290014f982c0/poster.jpg" group-title="RiffTrax", RiffTrax Short: Christmas Toyshop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d099558c290014f982c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d075558c290014f9800e/poster.jpg" group-title="RiffTrax", RiffTrax: Invasion of the Animal People
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d075558c290014f9800e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d097558c290014f982a6/poster.jpg" group-title="RiffTrax", RiffTrax Short: Carnivorous Plants
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d097558c290014f982a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a7ef54ac192300136e1a0a/poster.jpg" group-title="RiffTrax", RiffTrax: Godmonster of Indian Flats
@@ -5703,6 +5705,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fea807a42366e001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ca6a496beaaa1c77736794a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fea807e42366e001a1f617c/poster.jpg" group-title="World Cinema", Cézanne Et Moi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fea807e42366e001a1f617c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6026ef6ac9165e00145c0f66/poster.jpg" group-title="World Cinema", Mother
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6026ef6ac9165e00145c0f66/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d6f0a8f19e013cd1f692e23/poster.jpg" group-title="World Cinema", Pusher
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d6f0a8f19e013cd1f692e23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6009c8c0ce98800013ec362d/poster.jpg" group-title="World Cinema", Tokyo!
@@ -5853,8 +5857,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f1f01f37d5a3f001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb6fb5e07adb3001b648577/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb70f18f2c381001adcc254/poster.jpg" group-title="World Cinema", Kung Fu Killer
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb70f18f2c381001adcc254/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb70b78e8b7e6001a751ff2/poster.jpg" group-title="World Cinema", Little Big Soldier
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb70b78e8b7e6001a751ff2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cdc5d3e80cd5521782f2d5b/poster.jpg" group-title="Major League Soccer", Skill Check - Week 11
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cdc5d3e80cd5521782f2d5b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cdc53eb39f1a3218f5fb42a/poster.jpg" group-title="Major League Soccer", Week 11
@@ -7869,76 +7871,28 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ea9c0b0c733d6001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58deee93fa052dac6295e05b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a4fb4f12283838db3981246/poster.jpg" group-title="Music Concerts", Stop Making Sense
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a4fb4f12283838db3981246/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfda628e0a4488adf0f61/poster.jpg" group-title="Music Concerts", Paul McCartney and Wings: Rockshow
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfda628e0a4488adf0f61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58deee7cfa052dac6295df0b/poster.jpg" group-title="Music Concerts", Paul Simon & Friends (2009)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58deee7cfa052dac6295df0b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f1f02ad7d5a3f001a489aea/poster.jpg" group-title="Music Concerts", The Gospel Live
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f1f02ad7d5a3f001a489aea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58b48017e81ac6d5d4669ab6/poster.jpg" group-title="Music Concerts", CSNY: Deja Vu
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58b48017e81ac6d5d4669ab6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd5c28e0a4488adf085e/poster.jpg" group-title="Music Concerts", The Who: Tommy Live at the Royal Albert Hall
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd5c28e0a4488adf085e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd6128e0a4488adf08c8/poster.jpg" group-title="Music Concerts", The Rolling Stones: Sweet Summer Sun - Hyde Park Live
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd6128e0a4488adf08c8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b99396cbf3fdb7a0609014a/poster.jpg" group-title="Music Concerts", Best of Michael Bolton Live
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b99396cbf3fdb7a0609014a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/590b93ef7d2d896db38069c6/poster.jpg" group-title="Music Concerts", Kiss: Live in Las Vegas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/590b93ef7d2d896db38069c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ae8946c873e40aa6f964f92/poster.jpg" group-title="Music Concerts", Megadeth: Rust In Peace
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ae8946c873e40aa6f964f92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd5328e0a4488adf0784/poster.jpg" group-title="Music Concerts", Stone Temple Pilots: Alive in the Windy City
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd5328e0a4488adf0784/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ae7582440277f9759c34126/poster.jpg" group-title="Music Concerts", Barenaked Ladies: Talk To The Hand Live In Michigan
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ae7582440277f9759c34126/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58deeeaffa052dac6295e240/poster.jpg" group-title="Music Concerts", Celebration Of Blues And Soul: The 1989 Presidential Inaugural Concert (2014)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58deeeaffa052dac6295e240/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58deeea3fa052dac6295e185/poster.jpg" group-title="Music Concerts", Graham Parker And The Rumour: This Is Live (2013)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58deeea3fa052dac6295e185/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd6628e0a4488adf0915/poster.jpg" group-title="Music Concerts", The Rolling Stones: Some Girls - Live in Texas '78
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd6628e0a4488adf0915/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5708221c4c5fc6aa55946b9f/poster.jpg" group-title="Music Concerts", The Strange Case of Alice Cooper: Live 1979
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5708221c4c5fc6aa55946b9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd4d28e0a4488adf06f7/poster.jpg" group-title="Music Concerts", Alice Cooper: Live at Montreux 2005
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd4d28e0a4488adf06f7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd8e28e0a4488adf0ce8/poster.jpg" group-title="Music Concerts", Dream Theater: Live at Luna Park
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd8e28e0a4488adf0ce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b993967bf3fdb7a060900d8/poster.jpg" group-title="Music Concerts", Gipsy Kings Live at the Kenwood House
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b993967bf3fdb7a060900d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd9d28e0a4488adf0e7d/poster.jpg" group-title="Music Concerts", Jeff Beck: Performing This Week Live at Ronnie Scott's
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd9d28e0a4488adf0e7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfda428e0a4488adf0f24/poster.jpg" group-title="Music Concerts", Muddy Waters and The Rolling Stones: Live at the Checkerboard Lounge, Chicago 1981
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfda428e0a4488adf0f24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd5628e0a4488adf07b1/poster.jpg" group-title="Music Concerts", Patti Smith: Live at Montreux 2005
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd5628e0a4488adf07b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd3228e0a4488adf0489/poster.jpg" group-title="Music Concerts", Phil Collins Live at Montreux 2004
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd3228e0a4488adf0489/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c82a75054224789396701a7/poster.jpg" group-title="Music Concerts", The Doors: Live at the Bowl '68
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c82a75054224789396701a7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ce349ad73c227f4aaa79d1b/poster.jpg" group-title="Music Concerts", ZZ Top: Live at Montreux 2013
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ce349ad73c227f4aaa79d1b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd9328e0a4488adf0d6a/poster.jpg" group-title="Music Concerts", Frank Sinatra: Concert for the Americas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd9328e0a4488adf0d6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd2b28e0a4488adf03fc/poster.jpg" group-title="Music Concerts", The Everly Brothers: Reunion Concert
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd2b28e0a4488adf03fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd1e28e0a4488adf0223/poster.jpg" group-title="Music Concerts", Yes: 35th Anniversary Concert - Songs from Tsongas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd1e28e0a4488adf0223/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd2728e0a4488adf0355/poster.jpg" group-title="Music Concerts", The Who: Live in Texas '75
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd2728e0a4488adf0355/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd2528e0a4488adf0302/poster.jpg" group-title="Music Concerts", Toto: 35th Anniversary Live in Poland
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd2528e0a4488adf0302/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd2328e0a4488adf02ab/poster.jpg" group-title="Music Concerts", Toto: Falling in Between - Live in Paris
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd2328e0a4488adf02ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd5a28e0a4488adf0823/poster.jpg" group-title="Music Concerts", Toto: 25th Anniversary - Live in Amsterdam
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd5a28e0a4488adf0823/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c82b64a65496483f791939c/poster.jpg" group-title="Music Concerts", Classic Albums: Meat Loaf's Bat Out of Hell
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c82b64a65496483f791939c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd4928e0a4488adf0699/poster.jpg" group-title="Music Concerts", Classic Albums: Cream's Disraeli Gears
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd4928e0a4488adf0699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd3e28e0a4488adf05ae/poster.jpg" group-title="Music Concerts", Classic Albums: Iron Maiden's The Number of the Beast
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd3e28e0a4488adf05ae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd3428e0a4488adf04c0/poster.jpg" group-title="Music Concerts", Peter Gabriel: Secret World - Live
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd3428e0a4488adf04c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c93d5c6365ab41eefb8c825/poster.jpg" group-title="Music Concerts", Wacken
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c93d5c6365ab41eefb8c825/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c099c7c2d746b5109499403/poster.jpg" group-title="Music Concerts", Jarabe de Palo Tour Americano 14/15
@@ -7957,8 +7911,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f88002590fbf4001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f88000c90fbf4001aa35658/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f88002190fbf4001aa35869/poster.jpg" group-title="Music Concerts", Human Rights Concerts: Human Rights Now!
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f88002190fbf4001aa35869/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5dfd1928e0a4488adf01a3/poster.jpg" group-title="Music Concerts", Styx and The Contemporary Youth Orchestra and Chorus of Cleveland: One With Everything
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5dfd1928e0a4488adf01a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/602ec2c20259790013532240/poster.jpg" group-title="Music Concerts", Rush - Time Stand Still
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602ec2c20259790013532240/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/602ec2c20259790013532240/poster.jpg" group-title="Music Concerts", Rush - Time Stand Still
