@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c65cd8701d5a2826c1945da/poster.jpg" group-title="Most Popular Movies", Teenage Mutant Ninja Turtles
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c65cd8701d5a2826c1945da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d9ed1366312d0014701f19/poster.jpg" group-title="Most Popular Movies", G.I. Joe: Retaliation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d9ed1366312d0014701f19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0b42fd2de2a0013ffc4e8/poster.jpg" group-title="Most Popular Movies", Face/Off
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0b42fd2de2a0013ffc4e8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a81371ac192300136e1dcb/poster.jpg" group-title="Most Popular Movies", Noah
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a81371ac192300136e1dcb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6058cdacb58b22001a46e0b1/poster.jpg" group-title="Most Popular Movies", Jesse Stone: Benefit Of The Doubt
@@ -11,14 +15,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6058cda7b58b22001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc58cf9c74aa4001301501b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc58cf7c74aa40013014fea/poster.jpg" group-title="Most Popular Movies", Scary Movie 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc58cf7c74aa40013014fea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/601aef6f6d7ca5001ae90624/poster.jpg" group-title="Most Popular Movies", Ghost In The Shell
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/601aef6f6d7ca5001ae90624/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/602aba55f2c1bd001af23da8/poster.jpg" group-title="Most Popular Movies", Lara Croft Tomb Raider: Cradle of Life
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602aba55f2c1bd001af23da8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59d6646b142b60f007cb045e/poster.jpg" group-title="Most Popular Movies", Robocop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59d6646b142b60f007cb045e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607e034fb58b22001a49d17d/poster.jpg" group-title="Most Popular Movies", The Best of Me
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607e034fb58b22001a49d17d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/601aef6f6d7ca5001ae90624/poster.jpg" group-title="Most Popular Movies", Ghost In The Shell
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/601aef6f6d7ca5001ae90624/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/602aba55f2c1bd001af23da8/poster.jpg" group-title="Most Popular Movies", Lara Croft Tomb Raider: Cradle of Life
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602aba55f2c1bd001af23da8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ccb74fd7961c11dc5342724/poster.jpg" group-title="Most Popular Movies", Father Goose
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ccb74fd7961c11dc5342724/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e82a19543fbc7001a04d3f4/poster.jpg" group-title="Most Popular Movies", Shaft
@@ -161,16 +165,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60873b1a8213d1001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ac50b21ea0c647dd15b7c85/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/58e3daf03db51e35c6147366/poster.jpg" group-title="Most Popular Movies", Alfie
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58e3daf03db51e35c6147366/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d9ed1366312d0014701f19/poster.jpg" group-title="New Movies This Month", G.I. Joe: Retaliation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d9ed1366312d0014701f19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0b42fd2de2a0013ffc4e8/poster.jpg" group-title="New Movies This Month", Face/Off
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0b42fd2de2a0013ffc4e8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a9dd738fb6f2f17481afe6c/poster.jpg" group-title="New Movies This Month", The Untouchables
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a9dd738fb6f2f17481afe6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c7922a4db0eb0013b8d238/poster.jpg" group-title="New Movies This Month", Fences
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7922a4db0eb0013b8d238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60da0de49abbef0013069207/poster.jpg" group-title="New Movies This Month", Once Upon A Time In Mexico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60da0de49abbef0013069207/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0c9b5d67d6200131cae2d/poster.jpg" group-title="New Movies This Month", The Monuments Men
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0c9b5d67d6200131cae2d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e912ca5e97a19001b981f37/poster.jpg" group-title="New Movies This Month", We Own The Night
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e912ca5e97a19001b981f37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a9dd738fb6f2f17481afe6c/poster.jpg" group-title="New Movies This Month", The Untouchables
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a9dd738fb6f2f17481afe6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d9ed1366312d0014701f19/poster.jpg" group-title="New Movies This Month", G.I. Joe: Retaliation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d9ed1366312d0014701f19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0b42fd2de2a0013ffc4e8/poster.jpg" group-title="New Movies This Month", Face/Off
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0b42fd2de2a0013ffc4e8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3367c4bbff270013badc17/poster.jpg" group-title="New Movies This Month", Predestination
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3367c4bbff270013badc17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f50317b3bb7850013d31885/poster.jpg" group-title="New Movies This Month", The Sum Of All Fears
@@ -179,8 +187,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f50317b3bb7850013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5900d3438f3a7ecddc4e45b5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e6d175b89acba001abc3556/poster.jpg" group-title="New Movies This Month", Road to Perdition
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e6d175b89acba001abc3556/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60d0c9b5d67d6200131cae2d/poster.jpg" group-title="New Movies This Month", The Monuments Men
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d0c9b5d67d6200131cae2d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59d6646b142b60f007cb045e/poster.jpg" group-title="New Movies This Month", Robocop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59d6646b142b60f007cb045e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59d6646b142b60f007cb0488/poster.jpg" group-title="New Movies This Month", Robocop 2
@@ -195,8 +201,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e3c8d1a86e96850bc
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d27f611e23180013bea29c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f9c6fd872d139001a1b8a95/poster.jpg" group-title="New Movies This Month", Hannibal
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9c6fd872d139001a1b8a95/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e912ca5e97a19001b981f37/poster.jpg" group-title="New Movies This Month", We Own The Night
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e912ca5e97a19001b981f37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b805a7c53abc1a3580597a4/poster.jpg" group-title="New Movies This Month", Vantage Point
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b805a7c53abc1a3580597a4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ef671aabeb4ef0014ac0a97/poster.jpg" group-title="New Movies This Month", Revolver
@@ -677,14 +681,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606776178119a5001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60677fe3918e16001a502863/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d825f823b40f3765b7dc6dc/poster.jpg" group-title="Cine Premiere", Nacho Libre
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d825f823b40f3765b7dc6dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e41a18082c204a8047f0d01/poster.jpg" group-title="Cine Premiere", From Prada to Nada
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e41a18082c204a8047f0d01/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60bff1ca7f92cf001309c571/poster.jpg" group-title="Cine Premiere", Tommy Boy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60bff1ca7f92cf001309c571/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d8aa4b9c4c3bf2f80da5524/poster.jpg" group-title="Cine Premiere", El aro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d8aa4b9c4c3bf2f80da5524/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e41a18082c204a8047f0d01/poster.jpg" group-title="Cine Premiere", From Prada to Nada
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e41a18082c204a8047f0d01/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e794001d9272d001a99e54f/poster.jpg" group-title="Cine Premiere", Total Recall
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e794001d9272d001a99e54f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d8aa4b9c4c3bf2f80da5524/poster.jpg" group-title="Cine Premiere", El aro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d8aa4b9c4c3bf2f80da5524/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60679be4f3fd5d001b80aa01/poster.jpg" group-title="Cine Premiere", South Park: Más grande, más larga y sin censura
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60679be4f3fd5d001b80aa01/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5eb2d4a01b77ab001a63b90f/poster.jpg" group-title="Cine Premiere", Star Trek X: Nemesis
@@ -3787,10 +3791,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a301778abd18fcd77
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d9cb0b40c9961e39651e2cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/591f217bccd4ac735b7138c4/poster.jpg" group-title="Documentaries", Fursonas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/591f217bccd4ac735b7138c4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/56e0b76c0e3d19cb319092b3/poster.jpg" group-title="Documentaries", After Porn Ends
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/56e0b76c0e3d19cb319092b3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7f8fdf377682001a57f5d9/poster.jpg" group-title="Documentaries", Gonzo: The Life and Work of Dr. Hunter S. Thompson
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7f8fdf377682001a57f5d9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/56e0b76c0e3d19cb319092b3/poster.jpg" group-title="Documentaries", After Porn Ends
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/56e0b76c0e3d19cb319092b3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7f8fe9377682001a57f6da/poster.jpg" group-title="Documentaries", Food, Inc.
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7f8fe9377682001a57f6da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c90130529bee00141d9d77/poster.jpg" group-title="Documentaries", Stronger Than Bullets
@@ -5409,10 +5413,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ad5e40308e9e0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ad5e3d308e9e00133db4ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60ad5e3a308e9e00133dad1f/poster.jpg" group-title="RiffTrax", RiffTrax: Beast of the Yellow Night
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ad5e3a308e9e00133dad1f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d099558c290014f982c0/poster.jpg" group-title="RiffTrax", RiffTrax Short: Christmas Toyshop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d099558c290014f982c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d075558c290014f9800e/poster.jpg" group-title="RiffTrax", RiffTrax: Invasion of the Animal People
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d075558c290014f9800e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d099558c290014f982c0/poster.jpg" group-title="RiffTrax", RiffTrax Short: Christmas Toyshop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d099558c290014f982c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d097558c290014f982a6/poster.jpg" group-title="RiffTrax", RiffTrax Short: Carnivorous Plants
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d097558c290014f982a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a7ef54ac192300136e1a0a/poster.jpg" group-title="RiffTrax", RiffTrax: Godmonster of Indian Flats
