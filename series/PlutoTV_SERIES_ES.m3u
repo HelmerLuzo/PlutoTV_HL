@@ -2387,6 +2387,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cb1fa72a5001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cb1fa72a5001a5fd5a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cf6fa72a5001a5fdaa5/poster.jpg" group-title="El Bloke", 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cf7fa72a5001a5fdab1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cf6fa72a5001a5fdaa5/poster.jpg" group-title="El Bloke", 2 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cf7fa72a5001a5fdab7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fe9b78f4aa70a001a4fd6f1/poster.jpg" group-title="Acapulco H.E.A.T.", Nombre en clave: El cuervo - Parte 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9b7964aa70a001a4fd7c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fe9b78f4aa70a001a4fd6f1/poster.jpg" group-title="Acapulco H.E.A.T.", Nombre en clave: El cuervo - Parte 2 T1E2
@@ -6675,27 +6677,29 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb633c8c83001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb633c8c83001a0f9656/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Especial Land Rover T2E3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb623c8c83001a0f95ee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", SUV Girlpower T2E4
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", SUV extraordinarios T2E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb633c8c83001a0f964d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", SUV Girlpower T2E5
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb623c8c83001a0f960e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Prototipos SUV T2E5
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Prototipos SUV T2E6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb623c8c83001a0f95e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Normal vs. Lifestyle SUV T2E6
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Normal vs. Lifestyle SUV T2E7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb623c8c83001a0f95f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", SUV americanos T2E7
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", SUV americanos T2E8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb623c8c83001a0f95ce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", SUV tuneados T2E8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", SUV tuneados T2E9
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb633c8c83001a0f966f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Pequeño, fuerte, elegante T2E9
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Pequeño, fuerte, elegante T2E10
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb633c8c83001a0f962b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Pasión por el todoterreno T2E10
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Pasión por el todoterreno T2E11
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb633c8c83001a0f9662/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Tracción total sobre nieve T2E11
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Tracción total sobre nieve T2E12
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb623c8c83001a0f95dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Diversión de Rally T2E12
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Diversión de Rally T2E13
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb633c8c83001a0f9634/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Tracción en las 4 ruedas de las rancheras T2E13
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Tracción en las 4 ruedas de las rancheras T2E14
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb633c8c83001a0f963e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Todoterrenos extremos T2E14
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6024eb5f3c8c83001a0f9590/poster.jpg" group-title="4x4", Todoterrenos extremos T2E15
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6024eb633c8c83001a0f9622/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6065920c676b99001b92ce0c/poster.jpg" group-title="Las farsantes", Episodio 101 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606d5ac0f3fd5d001b81128d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
