@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60e84dc1ab3ca30013650f84/poster.jpg" group-title="Ascensión", Episodio 1 T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60e84dc3ab3ca30013650f9e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60e84dc1ab3ca30013650f84/poster.jpg" group-title="Ascensión", Episodio 2 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60e84dc3ab3ca30013650fb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60e84dc1ab3ca30013650f84/poster.jpg" group-title="Ascensión", Episodio 3 T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60e84dc3ab3ca30013650fca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60e84dc1ab3ca30013650f84/poster.jpg" group-title="Ascensión", Episodio 4 T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60e84dc3ab3ca30013650fa7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60e84dc1ab3ca30013650f84/poster.jpg" group-title="Ascensión", Episodio 5 T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60e84dc3ab3ca30013650fd7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60e84dc1ab3ca30013650f84/poster.jpg" group-title="Ascensión", Episodio 6 T1E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60e84dcbab3ca300136515bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60ae389c67fa5300130928c3/poster.jpg" group-title="Just Kidding", Pedos de conejillo de indias T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ae38c667fa530013092ba6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60ae389c67fa5300130928c3/poster.jpg" group-title="Just Kidding", Cabeza de baloncesto T1E2
