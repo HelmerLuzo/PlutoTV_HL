@@ -1211,10 +1211,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cacd6e06b81d806e1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b85dc54bd9265d59b28b97f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb4e83fa2114f726d3c68a3/poster.jpg" group-title="Action", State Property
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb4e83fa2114f726d3c68a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa37c45fdb601001af14b8b/poster.jpg" group-title="Action", Elephant White (Broadcast Edit)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa37c45fdb601001af14b8b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1d548579681f03f23f8f5c/poster.jpg" group-title="Action", Seeking Justice
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1d548579681f03f23f8f5c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fa37c45fdb601001af14b8b/poster.jpg" group-title="Action", Elephant White (Broadcast Edit)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa37c45fdb601001af14b8b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60873b1a8213d1001a534557/poster.jpg" group-title="Action", State Property: Blood on the Streets
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60873b1a8213d1001a534557/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe37ea8c8c57d00131ef752/poster.jpg" group-title="Action", Gator
@@ -2803,12 +2803,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604bdd69b2b870001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604bddd8ffe774001ad5d5f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/604bdda34a69b8001a3a1726/poster.jpg" group-title="Nuestros Mundos", Tilcara, la primera de todas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604bdda34a69b8001a3a1726/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5dcc2fedd64a01ba56fbdde7/poster.jpg" group-title="Nuestros Mundos", Yo soy la salsa
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dcc2fedd64a01ba56fbdde7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c3cec984d28021518b3e98b/poster.jpg" group-title="Nuestros Mundos", La vida útil
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c3cec984d28021518b3e98b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c099c732d746b5109499307/poster.jpg" group-title="Nuestros Mundos", Familias por Igual (Families Like Yours)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c099c732d746b5109499307/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5903ace20c0eb90a4f806428/poster.jpg" group-title="Nuestros Mundos", How It's Made: Surfboards
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5903ace20c0eb90a4f806428/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c099c802d746b5109499468/poster.jpg" group-title="Nuestros Mundos", Francisco, el Papa de todos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c099c802d746b5109499468/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c5b737fbb02a232ad35334b/poster.jpg" group-title="Animal Planet", World's Ugliest Pets
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c5b737fbb02a232ad35334b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607466ac726ca7001a9037aa/poster.jpg" group-title="Animal Planet", 2020 Laurel Mountain Cluster
@@ -5595,10 +5599,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ad5e40308e9e0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ad5e3d308e9e00133db4ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60ad5e3a308e9e00133dad1f/poster.jpg" group-title="RiffTrax", RiffTrax: Beast of the Yellow Night
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ad5e3a308e9e00133dad1f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d075558c290014f9800e/poster.jpg" group-title="RiffTrax", RiffTrax: Invasion of the Animal People
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d075558c290014f9800e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d099558c290014f982c0/poster.jpg" group-title="RiffTrax", RiffTrax Short: Christmas Toyshop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d099558c290014f982c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d075558c290014f9800e/poster.jpg" group-title="RiffTrax", RiffTrax: Invasion of the Animal People
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d075558c290014f9800e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6037d097558c290014f982a6/poster.jpg" group-title="RiffTrax", RiffTrax Short: Carnivorous Plants
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6037d097558c290014f982a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a7ef54ac192300136e1a0a/poster.jpg" group-title="RiffTrax", RiffTrax: Godmonster of Indian Flats
@@ -8245,6 +8249,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5db0dfa3fc8e3a5a23
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5db0df9ffc8e3a5a23aee9b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5db0df9dfc8e3a5a23aee997/poster.jpg" group-title="Educational TV", BIG Cats With BIG Cattitudes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5db0df9dfc8e3a5a23aee997/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1fc64d00a654f43fb373ee/poster.jpg" group-title="Educational TV", Five Wordy Stories to Satisfy Your Inner Linguist
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1fc64d00a654f43fb373ee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d954d08f18f348d69acbb5d/poster.jpg" group-title="Kids' Cartoons", Haunted Transylvania 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d954d08f18f348d69acbb5d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e3afa582dbf2c2d0dcd7880/poster.jpg" group-title="Kids' Cartoons", Pinocchio and the Emperor of the Night
