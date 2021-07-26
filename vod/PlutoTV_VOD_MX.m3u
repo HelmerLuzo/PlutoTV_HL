@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a52a0b06e9520016477b4c/poster.jpg" group-title="Nuevo en Pluto", Cumbres Borrascosas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/60a52a0b06e9520016477b4c.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/609bf0b141fc480013277eac/poster.jpg" group-title="Nuevo en Pluto", La Leyenda de la Tumba del Dragón
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/609bf0b141fc480013277eac.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a529dc06e95200164778ba/poster.jpg" group-title="Nuevo en Pluto", Ninja - Guerrero Silencioso
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/60a529dc06e95200164778ba.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60b63d61a9f076001a5559a1/poster.jpg" group-title="Nuevo en Pluto", American Psycho 2
@@ -17,10 +21,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/60bf726cd782df0013ef28c2.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/609bf0a441fc480013277d92.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a5332eb0d72c001a44423d/poster.jpg" group-title="Nuevo en Pluto", La Espera
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/60a5332eb0d72c001a44423d.m3u8
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/609bf0b141fc480013277eac/poster.jpg" group-title="Nuevo en Pluto", La Leyenda de la Tumba del Dragón
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/609bf0b141fc480013277eac.m3u8
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a52a0b06e9520016477b4c/poster.jpg" group-title="Nuevo en Pluto", Cumbres Borrascosas
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/60a52a0b06e9520016477b4c.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a52a0806e9520016477b11/poster.jpg" group-title="Nuevo en Pluto", Respuesta Armada
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/60a52a0806e9520016477b11.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a52a1206e9520016477b8e/poster.jpg" group-title="Nuevo en Pluto", Un Escape Real
@@ -1739,6 +1739,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5e2620153a83a92d512654f5.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5e2620123a83a92d512654cb.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f21b1567d5a3f001a4915b2/poster.jpg" group-title="Cine Documental", El Escape De Hitler
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5f21b1567d5a3f001a4915b2.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3d64803bb7850013d1b74b/poster.jpg" group-title="Cine Documental", Magnicidios
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5f3d64803bb7850013d1b74b.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fd8b82dd87c3b001aef7dd3/poster.jpg" group-title="Cine Documental", IKIGAI, la sonrisa de Gardel
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5fd8b82dd87c3b001aef7dd3.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3569b52aa610001a80eb75/poster.jpg" group-title="Cine Documental", La Corona Partida LAS
@@ -1763,6 +1765,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5f3d774b0b2a6c001ab95758.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5f7c932da0de59001ad01a2b.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f87060c652fb5001addd98c/poster.jpg" group-title="Cine Documental", El Dorado
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5f87060c652fb5001addd98c.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f18526e333fb50013fbe029/poster.jpg" group-title="Cine Documental", Pancho Villa Toma Zacatecas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5f18526e333fb50013fbe029.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3e7aa3336b4e001a2e3c16/poster.jpg" group-title="Cine Documental", Frontera
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_MX/5f3e7aa3336b4e001a2e3c16.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb806574f9a75001a0f1c6f/poster.jpg" group-title="Cine Documental", Fontanarrosa
