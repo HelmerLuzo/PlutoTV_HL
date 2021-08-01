@@ -1587,22 +1587,454 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c205a8413741001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c205a7413741001afa177b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60c205a5413741001afa1761/poster.jpg" group-title="The Goes Wrong Show ES", El espíritu de la Navidad T1E6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c205a8413741001afa17a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfffa72a5001a5fdbbe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfffa72a5001a5fdb99/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 3 T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfffa72a5001a5fdba9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 4 T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfffa72a5001a5fdb8f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 5 T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfffa72a5001a5fdbc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 6 T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfffa72a5001a5fdb8a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 7 T1E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfffa72a5001a5fdb94/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfdfa72a5001a5fdb66/poster.jpg" group-title="Guante Blanco", Capitulo 8 T1E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfffa72a5001a5fdb9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 1 T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77140c3df6d001ac3288d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 2 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7713eab1ee2001ad343fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 3 T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7713fc3df6d001ac32844/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 4 T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7713dc3df6d001ac3278f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 5 T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7713cab1ee2001ad34380/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 6 T1E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7713bc3df6d001ac32746/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 7 T1E7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7713bab1ee2001ad34336/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 8 T1E8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7713ac3df6d001ac32690/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 9 T1E9
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77141ab1ee2001ad344fb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 10 T1E10
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77139ab1ee2001ad34281/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 11 T1E11
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77138ab1ee2001ad34249/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 12 T1E12
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7713fab1ee2001ad34446/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 13 T1E13
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77137c3df6d001ac32569/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 14 T1E14
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77135c3df6d001ac324eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 15 T1E15
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77134ab1ee2001ad340de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 16 T1E16
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77133c3df6d001ac324a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 17 T1E17
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77132ab1ee2001ad34028/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 18 T1E18
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7712eab1ee2001ad33f3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 19 T1E19
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77130ab1ee2001ad33ff0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 20 T1E20
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7712dab1ee2001ad33f02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 21 T1E21
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7712bab1ee2001ad33e4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 22 T1E22
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7712aab1ee2001ad33e15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 23 T1E23
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77128ab1ee2001ad33d60/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 24 T1E24
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77127ab1ee2001ad33d17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 25 T1E25
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77125ab1ee2001ad33cce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 26 T1E26
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77123ab1ee2001ad33c51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 27 T1E27
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77122ab1ee2001ad33c1a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 28 T1E28
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77121ab1ee2001ad33be3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 29 T1E29
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7711fab1ee2001ad33b9a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 30 T1E30
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7711dab1ee2001ad33a68/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 31 T1E31
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7711eab1ee2001ad33b1d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 32 T1E32
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7711aab1ee2001ad33998/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 33 T1E33
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7711bab1ee2001ad339b3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 34 T1E34
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77119ab1ee2001ad3394f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 35 T1E35
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77142c3df6d001ac328d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 36 T1E36
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77115ab1ee2001ad33851/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 37 T1E37
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77112ab1ee2001ad33764/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 38 T1E38
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77117ab1ee2001ad3389a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 39 T1E39
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7710fab1ee2001ad336e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 40 T1E40
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77114ab1ee2001ad33819/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 41 T1E41
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77111ab1ee2001ad3372d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 42 T1E42
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7710eab1ee2001ad3369b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 43 T1E43
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7710cab1ee2001ad3361e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 44 T1E44
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7710aab1ee2001ad335e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 45 T1E45
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77109ab1ee2001ad33532/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 46 T1E46
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77107ab1ee2001ad3347d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 47 T1E47
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77106ab1ee2001ad33400/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 48 T1E48
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77104ab1ee2001ad3334b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 49 T1E49
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77103ab1ee2001ad332ce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 50 T1E50
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b77101ab1ee2001ad33251/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 51 T1E51
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770ffab1ee2001ad331d4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 52 T1E52
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770fdab1ee2001ad3311f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 53 T1E53
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770fcab1ee2001ad330e8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 54 T1E54
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770fbab1ee2001ad330cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 55 T1E55
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770faab1ee2001ad330b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 56 T1E56
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770f9ab1ee2001ad33097/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 57 T1E57
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770f7ab1ee2001ad3304e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 58 T1E58
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770f6ab1ee2001ad32f99/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 59 T1E59
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770f3ab1ee2001ad32ed3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 60 T1E60
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770f2ab1ee2001ad32eb8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 61 T1E61
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770f5ab1ee2001ad32f1c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 62 T1E62
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770f1ab1ee2001ad32e9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 63 T1E63
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770efab1ee2001ad32e60/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 64 T1E64
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770eeab1ee2001ad32e23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 65 T1E65
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770edab1ee2001ad32dec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 66 T1E66
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770ecab1ee2001ad32da2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 67 T1E67
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770e9ab1ee2001ad32d32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 68 T1E68
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770e7ab1ee2001ad32cb5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 69 T1E69
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770eaab1ee2001ad32d59/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 70 T1E70
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770e6ab1ee2001ad32c9a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 71 T1E71
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770e5ab1ee2001ad32c4b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 72 T1E72
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770e2ab1ee2001ad32bcb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 73 T1E73
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770e0ab1ee2001ad32b81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 74 T1E74
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770e3ab1ee2001ad32c02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 75 T1E75
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770dfab1ee2001ad32b38/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 76 T1E76
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770ddab1ee2001ad32a82/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 77 T1E77
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770dcab1ee2001ad329cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 78 T1E78
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770d9ab1ee2001ad328ce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 79 T1E79
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770daab1ee2001ad32984/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 80 T1E80
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770d8ab1ee2001ad32885/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 81 T1E81
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770d6ab1ee2001ad3284d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 82 T1E82
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770d5ab1ee2001ad32803/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 83 T1E83
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770d3ab1ee2001ad3274d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 84 T1E84
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770d0ab1ee2001ad32686/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 85 T1E85
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770d1ab1ee2001ad326d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 86 T1E86
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770ceab1ee2001ad3264f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 87 T1E87
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770cdab1ee2001ad325d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 88 T1E88
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770ccab1ee2001ad32589/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 89 T1E89
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770caab1ee2001ad32540/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 90 T1E90
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770c8ab1ee2001ad32509/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 91 T1E91
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770bdab1ee2001ad321bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 92 T1E92
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770c3ab1ee2001ad322cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 93 T1E93
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770b9ab1ee2001ad320be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 94 T1E94
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770c5ab1ee2001ad32405/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 95 T1E95
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770b0ab1ee2001ad31e68/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 96 T1E96
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770a3ab1ee2001ad3192c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 97 T1E97
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770c6ab1ee2001ad324ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 98 T1E98
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770c4ab1ee2001ad32350/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 99 T1E99
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770b4ab1ee2001ad31faf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 100 T1E100
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7709fab1ee2001ad317e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 101 T1E101
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770beab1ee2001ad32205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 102 T1E102
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770a8ab1ee2001ad31b4b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 103 T1E103
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770baab1ee2001ad320f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 104 T1E104
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7709cab1ee2001ad316b3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 105 T1E105
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770b1ab1ee2001ad31eb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 106 T1E106
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770a5ab1ee2001ad319e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 107 T1E107
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770adab1ee2001ad31cfe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 108 T1E108
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770aaab1ee2001ad31c12/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 109 T1E109
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770b6ab1ee2001ad3202c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 110 T1E110
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770a0ab1ee2001ad3182e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 111 T1E111
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770c0ab1ee2001ad3224e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 112 T1E112
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770a9ab1ee2001ad31b95/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 113 T1E113
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770afab1ee2001ad31db3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 114 T1E114
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7709dab1ee2001ad31768/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 115 T1E115
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770bcab1ee2001ad3213f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 116 T1E116
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770a6ab1ee2001ad31a96/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 117 T1E117
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770b7ab1ee2001ad32075/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 118 T1E118
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7709aab1ee2001ad3167c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 119 T1E119
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770b3ab1ee2001ad31efa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 120 T1E120
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770a2ab1ee2001ad31877/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 121 T1E121
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770c1ab1ee2001ad32297/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 122 T1E122
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b770acab1ee2001ad31c49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b7709aab1ee2001ad3167a/poster.jpg" group-title="El secretario", Episodio 123 T1E123
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7723f5cc5f2001a3158b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 1 T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f9deece86001ad65b55/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 2 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f9aeece86001ad65ac9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 3 T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f9ceece86001ad65b11/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 4 T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f99eece86001ad65a7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 5 T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f97eece86001ad65a39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 6 T1E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f96eece86001ad659f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 7 T1E7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f95eece86001ad659af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 8 T1E8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f94eece86001ad6596a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 9 T1E9
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f92eece86001ad65937/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 10 T1E10
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f91eece86001ad658f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 11 T1E11
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f8feece86001ad658ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 12 T1E12
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f8eeece86001ad65868/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 13 T1E13
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f8deece86001ad65823/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 14 T1E14
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f8beece86001ad657d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 15 T1E15
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f8aeece86001ad65793/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 16 T1E16
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f88eece86001ad6574f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 17 T1E17
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f87eece86001ad65704/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 18 T1E18
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f85eece86001ad656c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 19 T1E19
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f84eece86001ad65675/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 20 T1E20
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f83eece86001ad65630/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 21 T1E21
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f81eece86001ad655eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 22 T1E22
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f80eece86001ad655a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 23 T1E23
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f7eeece86001ad65561/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 24 T1E24
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f7deece86001ad6551c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 25 T1E25
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f7aeece86001ad65492/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 26 T1E26
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f79eece86001ad6544d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 27 T1E27
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f77eece86001ad65408/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 28 T1E28
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f7ceece86001ad654d7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 29 T1E29
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f76eece86001ad653c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 30 T1E30
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f75eece86001ad6537e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 31 T1E31
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f73eece86001ad65339/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 32 T1E32
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f72eece86001ad652f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 33 T1E33
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f6feece86001ad65266/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 34 T1E34
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f6ceece86001ad651d7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 35 T1E35
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f69eece86001ad65142/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 36 T1E36
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f6beece86001ad6518c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 37 T1E37
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f6deece86001ad6521b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 38 T1E38
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f70eece86001ad652aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 39 T1E39
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f67eece86001ad650f7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b76f67eece86001ad650f5/poster.jpg" group-title="Fugitivos", Episodio 40 T1E40
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b76f9eeece86001ad65c0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 01 T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745c81e4718001a8117a7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 02 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745c71e4718001a81176f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 03 T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745c41e4718001a811671/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 04 T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745c61e4718001a8116ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 05 T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745c31e4718001a811640/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 06 T1E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745c11e4718001a81158b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 07 T1E7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745bf1e4718001a81150b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 08 T1E8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745c01e4718001a811542/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 09 T1E9
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745bd1e4718001a8114c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 10 T1E10
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745bc1e4718001a811478/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 11 T1E11
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745bb1e4718001a8113c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 12 T1E12
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745b81e4718001a811355/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 13 T1E13
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745b61e4718001a8112a0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 14 T1E14
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745b91e4718001a811386/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 15 T1E15
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745b41e4718001a8111ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 16 T1E16
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745b21e4718001a811177/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 17 T1E17
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745b51e4718001a8111f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 18 T1E18
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745b11e4718001a8110c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 19 T1E19
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745b01e4718001a8110b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 20 T1E20
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745ad1e4718001a810fcc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 21 T1E21
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745ae1e4718001a810ffd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 22 T1E22
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745ac1e4718001a810f17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 23 T1E23
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745aa1e4718001a810e9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 24 T1E24
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745a91e4718001a810e5c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 25 T1E25
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745a81e4718001a810e19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 26 T1E26
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745a61e4718001a810de7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 27 T1E27
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745a51e4718001a810d38/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 28 T1E28
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745a41e4718001a810d23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 29 T1E29
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745a21e4718001a810ce0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 30 T1E30
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7459c1e4718001a810aa1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 31 T1E31
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7458d1e4718001a810485/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 32 T1E32
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745a11e4718001a810ccb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 33 T1E33
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745831e4718001a8101e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 34 T1E34
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745921e4718001a810754/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 35 T1E35
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745981e4718001a810906/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 36 T1E36
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7458a1e4718001a81038d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 37 T1E37
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745a01e4718001a810c1c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 38 T1E38
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745861e4718001a8102e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 39 T1E39
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7457f1e4718001a810121/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 40 T1E40
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7459a1e4718001a8109f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 41 T1E41
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745781e4718001a81001e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 42 T1E42
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745801e4718001a810164/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 43 T1E43
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7457d1e4718001a8100ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 44 T1E44
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745891e4718001a810344/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 45 T1E45
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7459d1e4718001a810b56/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 46 T1E46
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745881e4718001a810313/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 47 T1E47
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745761e4718001a80ff6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 48 T1E48
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7457a1e4718001a810067/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 49 T1E49
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745911e4718001a81069f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 50 T1E50
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7459f1e4718001a810bd3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 51 T1E51
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7458e1e4718001a81053a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 52 T1E52
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7457b1e4718001a81009e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 53 T1E53
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745821e4718001a81019b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 54 T1E54
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745951e4718001a810886/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 55 T1E55
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745971e4718001a8108cf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 56 T1E56
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745901e4718001a8105ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 57 T1E57
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7457c1e4718001a8100d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 58 T1E58
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745851e4718001a81022d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 59 T1E59
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745941e4718001a810809/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 60 T1E60
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b745991e4718001a8109bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60b745761e4718001a80ff6d/poster.jpg" group-title="Sinú, río de pasiones", Capítulo 61 T1E61
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b7458b1e4718001a810442/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60927d8deb93db00134707b5/poster.jpg" group-title="La Selección 2", Capítulo 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60927deaeb93db001347235b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60927d8deb93db00134707b5/poster.jpg" group-title="La Selección 2", Capítulo 2 T1E2
@@ -1953,12 +2385,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60927c886c04080013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60927c866c040800136b9104/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60927c7e6c040800136b8e54/poster.jpg" group-title="La Bruja", Capítulo 29 T1E29
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60927c896c040800136b91ee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d13fa72a5001a5fddff/poster.jpg" group-title="Viaje a los Confines de la Tierra", 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d14fa72a5001a5fde19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d13fa72a5001a5fddff/poster.jpg" group-title="Viaje a los Confines de la Tierra", 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d14fa72a5001a5fde1e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d13fa72a5001a5fddff/poster.jpg" group-title="Viaje a los Confines de la Tierra", 3 T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d14fa72a5001a5fde0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", La Cita T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb782c9e8b7e6001a75335e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fb782c8e8b7e6001a753324/poster.jpg" group-title="Alternatino", El Pivote T1E2
@@ -2071,92 +2497,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f527ec661f1b1001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f527ec761f1b1001aff72f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f5272222aa610001a833582/poster.jpg" group-title="Historias Para No Dormir", El trapero T3E4
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f527ec661f1b1001aff72d7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El barquero de Cantillana T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f4832b9a18c001a4c538f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Un estudiante, un fraile, un algarrobo T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f4832b9a18c001a4c53a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", 20.000 onzas mexicanas T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f4832b9a18c001a4c53c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Aquí durmió Carlos III T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f4832b9a18c001a4c53b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La gran batalla de Andalucía T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f4832b9a18c001a4c53a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El secuestro T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f4832b9a18c001a4c5399/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La Dolorosa T1E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f4832b9a18c001a4c53ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El destino de Antonio Navajo T1E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f4832b9a18c001a4c53b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Carambola a tres bandas T1E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f51133bb7850013d30fce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Los rehenes T1E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f51123bb7850013d30fbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La mujer de negro T1E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f51133bb7850013d30fd3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", En la loca fortuna T1E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f51133bb7850013d30fd8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La muerte espera en Ronda T1E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f51133bb7850013d30fc9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Retorno al hogar T2E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5c9efa72a5001a5fd358/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El péndulo T2E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5c9ffa72a5001a5fd367/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La leyenda de Zacarías Mendoza T2E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5c9ffa72a5001a5fd37e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El servidor de la justicia T2E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5c9ffa72a5001a5fd36c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La trampa T2E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5c9ffa72a5001a5fd383/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", En la boca del diablo T2E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5c9ffa72a5001a5fd379/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Entierro en la serranía T2E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5c9ffa72a5001a5fd374/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El campeón de Almería T2E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5c9efa72a5001a5fd362/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El fuego encendido T2E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5ca5fa72a5001a5fd42a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Los desalmados T2E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5ca5fa72a5001a5fd434/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El míster T2E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5ca5fa72a5001a5fd43e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La promesa T2E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5ca5fa72a5001a5fd443/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Una larga ausencia T2E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5ca5fa72a5001a5fd448/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El prisionero de Arcos T3E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5caafa72a5001a5fd4d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El tío Pedro T3E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5caafa72a5001a5fd4ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", En la palma de la mano T3E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5caafa72a5001a5fd4c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El indulto T3E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5caafa72a5001a5fd4e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Atrapados T3E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5caafa72a5001a5fd4e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Con las horas contadas T3E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5caafa72a5001a5fd4c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El bosque de las brujas T3E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5caafa72a5001a5fd4db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", Los piadosos y los pícaros T3E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cabfa72a5001a5fd4f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La media Luna T3E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cb0fa72a5001a5fd594/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La noche de la garduña T3E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cb1fa72a5001a5fd59e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La mejor lección T3E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cb1fa72a5001a5fd5a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", En la sierra mando yo T3E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cb2fa72a5001a5fd5cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", La batalla del vino de Jerez T3E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cb1fa72a5001a5fd5c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f4830b9a18c001a4c536d/poster.jpg" group-title="Curro Jiménez", El caballo blanco T3E14
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cb1fa72a5001a5fd5a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e8dac66db1f001be3386b/poster.jpg" group-title="Arcángel", Parte Uno T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e8dad66db1f001be33879/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e8dac66db1f001be3386b/poster.jpg" group-title="Arcángel", Parte Dos T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e8dae66db1f001be33883/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e8dac66db1f001be3386b/poster.jpg" group-title="Arcángel", Parte Tres T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e8daf66db1f001be3388d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fca37cfe7dc9c001a9ef4c0/poster.jpg" group-title="Big Time in Hollywood", La Ruptura T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fca37d1e7dc9c001a9ef4fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fca37cfe7dc9c001a9ef4c0/poster.jpg" group-title="Big Time in Hollywood", la Intervención T1E2
@@ -2177,40 +2517,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fca37d2e7dc9c001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fca37d3e7dc9c001a9ef556/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fca37cfe7dc9c001a9ef4c0/poster.jpg" group-title="Big Time in Hollywood", Episodio 110 T1E10
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fca37d3e7dc9c001a9ef54a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Ron T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e0e163bb7850013d2ee4f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Polvera T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e0e163bb7850013d2ee5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Sacrifico T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e0e173bb7850013d2ee77/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Los amotinados T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e0e173bb7850013d2ee7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Marea alta T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e0e163bb7850013d2ee59/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Cerdo largo T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e0e173bb7850013d2ee6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Mala sangre T1E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e0e173bb7850013d2ee81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Heroes y villanos T1E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e0e173bb7850013d2ee72/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", El nombre del juego T1E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e17e8fa72a5001a5fa0f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Humo y espejos T1E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e17e8fa72a5001a5fa0e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", Partida de casa T1E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e17e8fa72a5001a5fa0db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", El viajero T1E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e17e8fa72a5001a5fa0eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e0e143bb7850013d2ee2d/poster.jpg" group-title="Crusoe", The Return T1E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e17e8fa72a5001a5fa0f7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4ead26db45a1001a7953c5/poster.jpg" group-title="La reina virgen", Episodio 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4ead29db45a1001a7953db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4ead26db45a1001a7953c5/poster.jpg" group-title="La reina virgen", Episodio 2 T1E2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4ead29db45a1001a7953d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d04fa72a5001a5fdc40/poster.jpg" group-title="Hielo", Parte Uno T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d05fa72a5001a5fdc4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d04fa72a5001a5fdc40/poster.jpg" group-title="Hielo", Parte Dos T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d05fa72a5001a5fdc56/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f6a514fe1625500147efdd7/poster.jpg" group-title="Andrómeda", Bajo la Noche T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6a5151e1625500147efe11/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f6a514fe1625500147efdd7/poster.jpg" group-title="Andrómeda", Una Llama Afirmante T1E2
@@ -2615,10 +2925,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f524dcc00c197001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f524dcc00c197001a62fd36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f52415e1924b7001a63abc1/poster.jpg" group-title="Desaparecida, una búsqueda desesperada", El último día T1E13
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f524dcd00c197001a62fd47/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d11fa72a5001a5fddc7/poster.jpg" group-title="Shattered City", 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d12fa72a5001a5fddd3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d11fa72a5001a5fddc7/poster.jpg" group-title="Shattered City", 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d12fa72a5001a5fdddd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f759ff1740902001a93e70c/poster.jpg" group-title="Descubriendo a Nina", Episodio 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f759ff3740902001a93e76a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f759ff1740902001a93e70c/poster.jpg" group-title="Descubriendo a Nina", Episodio 2 T1E2
@@ -2909,10 +3215,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb6255e66d5740013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f69edb4e4b56900138a1e1e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f69edb3e4b56900138a1e14/poster.jpg" group-title="Witches Of Oz", Episode 2 T1E2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f69edb5e4b56900138a1e33/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cf6fa72a5001a5fdaa5/poster.jpg" group-title="El Bloke", 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cf7fa72a5001a5fdab1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cf6fa72a5001a5fdaa5/poster.jpg" group-title="El Bloke", 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cf7fa72a5001a5fdab7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fe9b78f4aa70a001a4fd6f1/poster.jpg" group-title="Acapulco H.E.A.T.", Nombre en clave: El cuervo - Parte 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9b7964aa70a001a4fd7c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fe9b78f4aa70a001a4fd6f1/poster.jpg" group-title="Acapulco H.E.A.T.", Nombre en clave: El cuervo - Parte 2 T1E2
@@ -2961,16 +3263,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9b7944aa70a001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfcfa72a5001a5fdb3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfbfa72a5001a5fdb2e/poster.jpg" group-title="Flood", Episodio 2 T1E2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfcfa72a5001a5fdb44/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e971a2aa610001a82ec67/poster.jpg" group-title="Barrábas", Parte Uno T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e971c2aa610001a82ec71/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e971a2aa610001a82ec67/poster.jpg" group-title="Barrábas", Parte Dos T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e971c2aa610001a82ec7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cf8fa72a5001a5fdadb/poster.jpg" group-title="Fago", La emboscada T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cf9fa72a5001a5fdaeb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cf8fa72a5001a5fdadb/poster.jpg" group-title="Fago", Sin pistas T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cf9fa72a5001a5fdaf5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cf8fa72a5001a5fdadb/poster.jpg" group-title="Fago", Culpable o inocente T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cf9fa72a5001a5fdafa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fe9b7314aa70a001a4fce4b/poster.jpg" group-title="Tarzán", Tarzán y las cuevas de la oscuridad T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9b74c4aa70a001a4fd12d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fe9b7314aa70a001a4fce4b/poster.jpg" group-title="Tarzán", El viaje de Tarzán al peligro T1E2
@@ -3117,10 +3409,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9b7334aa70a001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bf97d67d6200131c0d00/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fe9b7314aa70a001a4fce4b/poster.jpg" group-title="Tarzán", Tarzán y el regreso del Bronx T3E23
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9b7334aa70a001a4fce96/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e1865fa72a5001a5fa9d5/poster.jpg" group-title="23-F: El Día Más Difícil del Rey", 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e1867fa72a5001a5fa9eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e1865fa72a5001a5fa9d5/poster.jpg" group-title="23-F: El Día Más Difícil del Rey", 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e1866fa72a5001a5fa9e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", El regreso de Tarzán: parte 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bfb0d67d6200131c323a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", El regreso de Tarzán: parte 2 T1E2
@@ -3165,10 +3453,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bfb0d67d620013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c9bfb0d67d6200131c31fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60a36e915ff04300139de060/poster.jpg" group-title="El retorno de Tarzán", Tarzán y la mujer de acero T1E22
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a36e945ff04300139de0d4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d11fa72a5001a5fddc7/poster.jpg" group-title="Shattered City", 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d12fa72a5001a5fddd3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d11fa72a5001a5fddc7/poster.jpg" group-title="Shattered City", 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d12fa72a5001a5fdddd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6051c7efa224c9001bb7126d/poster.jpg" group-title="Capeta ES", Limitador de velocidad T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6051c7f0a224c9001bb71273/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6051c7efa224c9001bb7126d/poster.jpg" group-title="Capeta ES", ¡Kart! T1E2
@@ -9777,14 +10061,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60af52cdac19230013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60af52c9ac192300136ea427/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4e185dfa72a5001a5fa938/poster.jpg" group-title="Kaidan", Kaidan T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4e185efa72a5001a5fa940/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d04fa72a5001a5fdc40/poster.jpg" group-title="Hielo", Parte Uno T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d05fa72a5001a5fdc4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5d04fa72a5001a5fdc40/poster.jpg" group-title="Hielo", Parte Dos T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5d05fa72a5001a5fdc56/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4ead20db45a1001a795355/poster.jpg" group-title="El día de los trífidos", Parte 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4ead22db45a1001a79536b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4ead20db45a1001a795355/poster.jpg" group-title="El día de los trífidos", Parte 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4ead21db45a1001a795361/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfbfa72a5001a5fdb2e/poster.jpg" group-title="Flood", Episodio 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfcfa72a5001a5fdb3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfbfa72a5001a5fdb2e/poster.jpg" group-title="Flood", Episodio 2 T1E2
