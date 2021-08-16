@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60769ad4e85e72001a65e0b5/poster.jpg" group-title="Inocente", Episodio 1 T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60769ad7e85e72001a65e0e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60769ad4e85e72001a65e0b5/poster.jpg" group-title="Inocente", Episodio 2 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60769ad7e85e72001a65e0f3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60769ad4e85e72001a65e0b5/poster.jpg" group-title="Inocente", Episodio 3 T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60769ad7e85e72001a65e0d9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60769ad4e85e72001a65e0b5/poster.jpg" group-title="Inocente", Episodio 4 T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60769ad6e85e72001a65e0c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f6b0e0fe657fb00130e5f92/poster.jpg" group-title="The Hour", Episodio 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6b0e15e657fb00130e605d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f6b0e0fe657fb00130e5f92/poster.jpg" group-title="The Hour", Episodio 2 T1E2
