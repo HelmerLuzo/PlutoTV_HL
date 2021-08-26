@@ -10345,6 +10345,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60799a0d8fe583001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfcfa72a5001a5fdb3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f4f5cfbfa72a5001a5fdb2e/poster.jpg" group-title="Flood", Episodio 2 T1E2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4f5cfcfa72a5001a5fdb44/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f96a36979094d001ae68334/poster.jpg" group-title="La Paca, Matriarca de la Droga", Primera Parte T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f96a36a79094d001ae68346/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f96a36979094d001ae68334/poster.jpg" group-title="La Paca, Matriarca de la Droga", Segunda Parte T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f96a36979094d001ae6833e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8ec3b9e18b0b001a72db0b/poster.jpg" group-title="Los Sesenta", El asesinato del Presidente Kennedy T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8ec3bae18b0b001a72db3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f8ec3b9e18b0b001a72db0b/poster.jpg" group-title="Los Sesenta", El mundo al límite T1E2
@@ -10369,10 +10373,62 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f8ec3bbe18b0b001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f97f018405ab3001be91bc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f97f017405ab3001be91baf/poster.jpg" group-title="Programando la Nación", Prácticas en la Guerra del Terror T1E2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f97f018405ab3001be91bb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f96a36979094d001ae68334/poster.jpg" group-title="La Paca, Matriarca de la Droga", Primera Parte T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f96a36a79094d001ae68346/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f96a36979094d001ae68334/poster.jpg" group-title="La Paca, Matriarca de la Droga", Segunda Parte T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f96a36979094d001ae6833e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Llanuras de hierba corta T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fda18a184001affded5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Regreso a la Mara T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fda18a184001affded0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Ngorongoro T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fda18a184001affdec6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Nieves del Kilimanjaro T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fda18a184001affdee0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Cuna de la humanidad T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fd918a184001affdebc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60235a14ab2fcc001a9cba58/poster.jpg" group-title="Land of Gremlins", Espíritu de lémur T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60235a15ab2fcc001a9cba73/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60235a14ab2fcc001a9cba58/poster.jpg" group-title="Land of Gremlins", Isla náufrago T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60235a15ab2fcc001a9cba66/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60235a14ab2fcc001a9cba58/poster.jpg" group-title="Land of Gremlins", Madagascar a sangre fría T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60235a15ab2fcc001a9cba6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Familia T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbcb2c9b7001a3ebfb8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Reconstruyendo un Imperio T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbcb2c9b7001a3ebfc4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Santuario T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbcb2c9b7001a3ebfb2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Infestación T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbdb2c9b7001a3ebfd1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Migración T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbdb2c9b7001a3ebfd8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Animales enloquecidos T1E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbcb2c9b7001a3ebfcb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Isla Socorro T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af7813b2d001b697644/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Isla Cocos T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af8813b2d001b69764e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Roatán T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af6813b2d001b697630/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Cozumel T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af7813b2d001b697649/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Belice T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af6813b2d001b69763a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Bahamas T1E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af8813b2d001b697653/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Mar de Cortés T2E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0df558c290014f91948/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Tiburones de Palau T2E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f91962/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Gigantes de Palau T2E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f91967/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Las vidas secretas de los rayos de mantra T2E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f91975/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Amazonas de los mares T2E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f91958/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Vida en el barro T2E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0df558c290014f9194e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Maldivas T2E7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f9196d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Costa Rica T2E8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f9195d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/600af05db7b339001a47d823/poster.jpg" group-title="Diarios de Ol Pejeta", Titanes africanos T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600af05fb7b339001a47d857/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/600af05db7b339001a47d823/poster.jpg" group-title="Diarios de Ol Pejeta", Refugiados de Laikipia T1E2
@@ -10451,59 +10507,3 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bb5caf1bb001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bb5caf1bb001a7ffaa4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bb3caf1bb001a7ffa6e/poster.jpg" group-title="Attack and Defend", Guerreros del agua T1E6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bb5caf1bb001a7ffa88/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Llanuras de hierba corta T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fda18a184001affded5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Regreso a la Mara T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fda18a184001affded0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Ngorongoro T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fda18a184001affdec6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Nieves del Kilimanjaro T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fda18a184001affdee0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60234fd818a184001affdea6/poster.jpg" group-title="Nomads of the Serengeti", Cuna de la humanidad T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60234fd918a184001affdebc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60235a14ab2fcc001a9cba58/poster.jpg" group-title="Land of Gremlins", Espíritu de lémur T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60235a15ab2fcc001a9cba73/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60235a14ab2fcc001a9cba58/poster.jpg" group-title="Land of Gremlins", Isla náufrago T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60235a15ab2fcc001a9cba66/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60235a14ab2fcc001a9cba58/poster.jpg" group-title="Land of Gremlins", Madagascar a sangre fría T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60235a15ab2fcc001a9cba6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Familia T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbcb2c9b7001a3ebfb8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Reconstruyendo un Imperio T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbcb2c9b7001a3ebfc4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Santuario T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbcb2c9b7001a3ebfb2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Infestación T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbdb2c9b7001a3ebfd1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Migración T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbdb2c9b7001a3ebfd8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118bbbb2c9b7001a3ebf98/poster.jpg" group-title="Animal Empires", Animales enloquecidos T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118bbcb2c9b7001a3ebfcb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Isla Socorro T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af7813b2d001b697644/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Isla Cocos T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af8813b2d001b69764e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Roatán T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af6813b2d001b697630/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Cozumel T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af7813b2d001b697649/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Belice T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af6813b2d001b69763a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Bahamas T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60118af8813b2d001b697653/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Mar de Cortés T2E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0df558c290014f91948/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Tiburones de Palau T2E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f91962/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Gigantes de Palau T2E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f91967/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Las vidas secretas de los rayos de mantra T2E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f91975/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Amazonas de los mares T2E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f91958/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Vida en el barro T2E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0df558c290014f9194e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Maldivas T2E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f9196d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60118af4813b2d001b697616/poster.jpg" group-title="Azul Salvaje", Costa Rica T2E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602fb0e0558c290014f9195d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
