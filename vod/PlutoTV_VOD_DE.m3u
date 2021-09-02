@@ -131,6 +131,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ffc36242816a5001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fad3834f6e14a001aa6a353/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/604735d5ea7ac5001a92ef3e/poster.jpg" group-title="Beliebt auf Pluto TV", Chamaco
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604735d5ea7ac5001a92ef3e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/612dd434c809bb001364c382/poster.jpg" group-title="Filme", Drei Amen für den Satan
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/612dd434c809bb001364c382/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60e2e323c567be0013a80a54/poster.jpg" group-title="Filme", Chloe rettet die Welt
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60e2e323c567be0013a80a54/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c07d65a768ec00135c5390/poster.jpg" group-title="Filme", Merlin und der Krieg der Drachen
@@ -411,10 +413,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9de6b4aa70a001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa93c8d716bdc001b3f198d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b4f7d15ceaa02ba6fa0ef6b/poster.jpg" group-title="Dokus + Wissen", Megastructures: Elbphilharmonie Hamburg
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b4f7d15ceaa02ba6fa0ef6b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b4f7d25ceaa02ba6fa0f0bb/poster.jpg" group-title="Dokus + Wissen", Katastrophen überleben
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b4f7d25ceaa02ba6fa0f0bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb6302672f3aa001310dffa/poster.jpg" group-title="Dokus + Wissen", I Am Patrick Swayze
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb6302672f3aa001310dffa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b4f7d25ceaa02ba6fa0f0bb/poster.jpg" group-title="Dokus + Wissen", Katastrophen überleben
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b4f7d25ceaa02ba6fa0f0bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb4f29f2942d7001a7373db/poster.jpg" group-title="Dokus + Wissen", I Am Steve McQueen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb4f29f2942d7001a7373db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff81cfacc17ce00130b25a5/poster.jpg" group-title="Dokus + Wissen", Ronaldo vs. Messi
