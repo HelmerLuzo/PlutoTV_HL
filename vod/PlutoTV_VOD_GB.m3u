@@ -139,6 +139,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6041f846e7c979001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607da259b58b22001a49b836/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c705b14db0eb0013b8c016/poster.jpg" group-title="Movies: Action", Justice
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c705b14db0eb0013b8c016/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c321afea905900134aa63d/poster.jpg" group-title="Movies: Action", Knight Of The Dead
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c321afea905900134aa63d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6087eb6fc9def9001b5557a1/poster.jpg" group-title="Movies: Action", Redline
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6087eb6fc9def9001b5557a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6041f848e7c979001a8984e3/poster.jpg" group-title="Movies: Action", Rooftops
@@ -379,173 +381,171 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f23197e7516100013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dcd94c1ee33233f2ac2fad9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f23196f7516100013ebb3ad/poster.jpg" group-title="Movies: Sci Fi", Laserblast
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f23196f7516100013ebb3ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c321b2ea905900134aa6c0/poster.jpg" group-title="Movies: Thriller & Horror", Extracurricular Activities
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c321b2ea905900134aa6c0/poster.jpg" group-title="Movies: Thriller", Extracurricular Activities
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c321b2ea905900134aa6c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c321afea905900134aa63d/poster.jpg" group-title="Movies: Thriller & Horror", Knight Of The Dead
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c321afea905900134aa63d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60be153fea5a420013680155/poster.jpg" group-title="Movies: Thriller & Horror", Bodysnatchers of NYC
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60be153fea5a420013680155/poster.jpg" group-title="Movies: Thriller", Bodysnatchers of NYC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60be153fea5a420013680155/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1588aaf9d5a143af2c17fd/poster.jpg" group-title="Movies: Thriller & Horror", The Ninth Gate
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1588aaf9d5a143af2c17fd/poster.jpg" group-title="Movies: Thriller", The Ninth Gate
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1588aaf9d5a143af2c17fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60be1365d782df0013eed093/poster.jpg" group-title="Movies: Thriller & Horror", Magic
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60be1365d782df0013eed093/poster.jpg" group-title="Movies: Thriller", Magic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60be1365d782df0013eed093/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60bfa8354db0eb0013b82657/poster.jpg" group-title="Movies: Thriller & Horror", The Woman In Question
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60bfa8354db0eb0013b82657/poster.jpg" group-title="Movies: Thriller", The Woman In Question
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60bfa8354db0eb0013b82657/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6087da856b9d17001ac39929/poster.jpg" group-title="Movies: Thriller & Horror", Shutter
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6087da856b9d17001ac39929/poster.jpg" group-title="Movies: Thriller", Shutter
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6087da856b9d17001ac39929/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6087da8f6b9d17001ac399e1/poster.jpg" group-title="Movies: Thriller & Horror", The Sentinel
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6087da8f6b9d17001ac399e1/poster.jpg" group-title="Movies: Thriller", The Sentinel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6087da8f6b9d17001ac399e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6095080a25dd170013279026/poster.jpg" group-title="Movies: Thriller & Horror", Home sweet home
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6095080a25dd170013279026/poster.jpg" group-title="Movies: Thriller", Home sweet home
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6095080a25dd170013279026/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/608156051b78640013fa24de/poster.jpg" group-title="Movies: Thriller & Horror", Innocence
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/608156051b78640013fa24de/poster.jpg" group-title="Movies: Thriller", Innocence
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608156051b78640013fa24de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6087da846b9d17001ac39902/poster.jpg" group-title="Movies: Thriller & Horror", Runner, Runner
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6087da846b9d17001ac39902/poster.jpg" group-title="Movies: Thriller", Runner, Runner
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6087da846b9d17001ac39902/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/608a6927e63e66001312e337/poster.jpg" group-title="Movies: Thriller & Horror", Bonnie & Clyde: Justified
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/608a6927e63e66001312e337/poster.jpg" group-title="Movies: Thriller", Bonnie & Clyde: Justified
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608a6927e63e66001312e337/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b72d918e16001a515b53/poster.jpg" group-title="Movies: Thriller & Horror", Abduction
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6076b72d918e16001a515b53/poster.jpg" group-title="Movies: Thriller", Abduction
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6076b72d918e16001a515b53/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1588bef9d5a143af2c1905/poster.jpg" group-title="Movies: Thriller & Horror", Category 5
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1588bef9d5a143af2c1905/poster.jpg" group-title="Movies: Thriller", Category 5
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1588bef9d5a143af2c1905/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60634a84a224c9001bb83221/poster.jpg" group-title="Movies: Thriller & Horror", The unseen
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60634a84a224c9001bb83221/poster.jpg" group-title="Movies: Thriller", The unseen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60634a84a224c9001bb83221/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6064291b33e416001a3f1cbe/poster.jpg" group-title="Movies: Thriller & Horror", Abandoned
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6064291b33e416001a3f1cbe/poster.jpg" group-title="Movies: Thriller", Abandoned
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6064291b33e416001a3f1cbe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60634a80a224c9001bb831d9/poster.jpg" group-title="Movies: Thriller & Horror", Fear inc
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60634a80a224c9001bb831d9/poster.jpg" group-title="Movies: Thriller", Fear inc
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60634a80a224c9001bb831d9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c1ca30ea905900134a888e/poster.jpg" group-title="Movies: Thriller & Horror", Cell
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c1ca30ea905900134a888e/poster.jpg" group-title="Movies: Thriller", Cell
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c1ca30ea905900134a888e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c1ca16ea905900134a84d8/poster.jpg" group-title="Movies: Thriller & Horror", The Nesting
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c1ca16ea905900134a84d8/poster.jpg" group-title="Movies: Thriller", The Nesting
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c1ca16ea905900134a84d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff2e14705630c001a2e63ac/poster.jpg" group-title="Movies: Thriller & Horror", 187
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff2e14705630c001a2e63ac/poster.jpg" group-title="Movies: Thriller", 187
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff2e14705630c001a2e63ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607fecde918e16001a51fd17/poster.jpg" group-title="Movies: Thriller & Horror", Street Kings
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607fecde918e16001a51fd17/poster.jpg" group-title="Movies: Thriller", Street Kings
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607fecde918e16001a51fd17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d4940b10eaa737d9c9adafc/poster.jpg" group-title="Movies: Thriller & Horror", Exposed
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d4940b10eaa737d9c9adafc/poster.jpg" group-title="Movies: Thriller", Exposed
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d4940b10eaa737d9c9adafc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/604738571e25b3001a5e854c/poster.jpg" group-title="Movies: Thriller & Horror", The Big Easy
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/604738571e25b3001a5e854c/poster.jpg" group-title="Movies: Thriller", The Big Easy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604738571e25b3001a5e854c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5de910deb32f5800098a1a6a/poster.jpg" group-title="Movies: Thriller & Horror", Arlington Road
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5de910deb32f5800098a1a6a/poster.jpg" group-title="Movies: Thriller", Arlington Road
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5de910deb32f5800098a1a6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e708a715c1e25001a27ba13/poster.jpg" group-title="Movies: Thriller & Horror", The Escapist
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e708a715c1e25001a27ba13/poster.jpg" group-title="Movies: Thriller", The Escapist
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e708a715c1e25001a27ba13/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ac35ffe774001ad5a03b/poster.jpg" group-title="Movies: Thriller & Horror", The Runner
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6048ac35ffe774001ad5a03b/poster.jpg" group-title="Movies: Thriller", The Runner
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ac35ffe774001ad5a03b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60361b70049634001a5e9945/poster.jpg" group-title="Movies: Thriller & Horror", Little Dead Rotting Hood
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60361b70049634001a5e9945/poster.jpg" group-title="Movies: Thriller", Little Dead Rotting Hood
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60361b70049634001a5e9945/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff2e14505630c001a2e638f/poster.jpg" group-title="Movies: Thriller & Horror", Chatroom
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff2e14505630c001a2e638f/poster.jpg" group-title="Movies: Thriller", Chatroom
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff2e14505630c001a2e638f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fd9fe3a636004001a7805bd/poster.jpg" group-title="Movies: Thriller & Horror", The Perfect Teacher
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fd9fe3a636004001a7805bd/poster.jpg" group-title="Movies: Thriller", The Perfect Teacher
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fd9fe3a636004001a7805bd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d80be676b99001b936b0f/poster.jpg" group-title="Movies: Thriller & Horror", Ambulance 37
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d80be676b99001b936b0f/poster.jpg" group-title="Movies: Thriller", Ambulance 37
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606d80be676b99001b936b0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f86bcb690fbf4001aa335c2/poster.jpg" group-title="Movies: Thriller & Horror", Beyond Suspicion
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f86bcb690fbf4001aa335c2/poster.jpg" group-title="Movies: Thriller", Beyond Suspicion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86bcb690fbf4001aa335c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f2cfdd9a367630013045e47/poster.jpg" group-title="Movies: Thriller & Horror", Take Shelter
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f2cfdd9a367630013045e47/poster.jpg" group-title="Movies: Thriller", Take Shelter
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f2cfdd9a367630013045e47/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6c57da6c03610013aba573/poster.jpg" group-title="Movies: Thriller & Horror", Under Suspicion
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6c57da6c03610013aba573/poster.jpg" group-title="Movies: Thriller", Under Suspicion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57da6c03610013aba573/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6c57d66c03610013aba539/poster.jpg" group-title="Movies: Thriller & Horror", The Contender
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f6c57d66c03610013aba539/poster.jpg" group-title="Movies: Thriller", The Contender
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6c57d66c03610013aba539/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60802a45f6870e001a5db3f2/poster.jpg" group-title="Movies: Thriller & Horror", Amish Abduction
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60802a45f6870e001a5db3f2/poster.jpg" group-title="Movies: Thriller", Amish Abduction
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60802a45f6870e001a5db3f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f0c28dd591f7a00072ffcbf/poster.jpg" group-title="Movies: Thriller & Horror", The Haunting
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f0c28dd591f7a00072ffcbf/poster.jpg" group-title="Movies: Thriller", The Haunting
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f0c28dd591f7a00072ffcbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fabedba6d497a001ac0ce9b/poster.jpg" group-title="Movies: Thriller & Horror", Go With Me
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fabedba6d497a001ac0ce9b/poster.jpg" group-title="Movies: Thriller", Go With Me
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fabedba6d497a001ac0ce9b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc62f76ce9667001a291259/poster.jpg" group-title="Movies: Thriller & Horror", Dead at 17
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc62f76ce9667001a291259/poster.jpg" group-title="Movies: Thriller", Dead at 17
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc62f76ce9667001a291259/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff2e13e05630c001a2e62f8/poster.jpg" group-title="Movies: Thriller & Horror", Bless The Child
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ff2e13e05630c001a2e62f8/poster.jpg" group-title="Movies: Thriller", Bless The Child
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff2e13e05630c001a2e62f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe9b839c2484d001a258179/poster.jpg" group-title="Movies: Thriller & Horror", Til Lies Do Us Part
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fe9b839c2484d001a258179/poster.jpg" group-title="Movies: Thriller", Til Lies Do Us Part
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe9b839c2484d001a258179/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc4d96039c1c5001ac39821/poster.jpg" group-title="Movies: Thriller & Horror", Stranger At The Door
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc4d96039c1c5001ac39821/poster.jpg" group-title="Movies: Thriller", Stranger At The Door
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc4d96039c1c5001ac39821/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d90895426cf001a3a606e/poster.jpg" group-title="Movies: Thriller & Horror", InstaPsycho
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d90895426cf001a3a606e/poster.jpg" group-title="Movies: Thriller", InstaPsycho
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606d90895426cf001a3a606e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e660e8c89acba001abb550e/poster.jpg" group-title="Movies: Thriller & Horror", Tales From The Crypt
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e660e8c89acba001abb550e/poster.jpg" group-title="Movies: Thriller", Tales From The Crypt
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e660e8c89acba001abb550e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb500df947f036fbf82c922/poster.jpg" group-title="Movies: Thriller & Horror", Stir Of Echoes
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5bb500df947f036fbf82c922/poster.jpg" group-title="Movies: Thriller", Stir Of Echoes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb500df947f036fbf82c922/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d2f3fb2cd0f2f745c3a5b98/poster.jpg" group-title="Movies: Thriller & Horror", Dark Tide
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d2f3fb2cd0f2f745c3a5b98/poster.jpg" group-title="Movies: Thriller", Dark Tide
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d2f3fb2cd0f2f745c3a5b98/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf81c8586bbf99ccdbfc549/poster.jpg" group-title="Movies: Thriller & Horror", Triangle
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf81c8586bbf99ccdbfc549/poster.jpg" group-title="Movies: Thriller", Triangle
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf81c8586bbf99ccdbfc549/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cacd291ce3de1093e8e3cec/poster.jpg" group-title="Movies: Thriller & Horror", An American Werewolf in Paris
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cacd291ce3de1093e8e3cec/poster.jpg" group-title="Movies: Thriller", An American Werewolf in Paris
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cacd291ce3de1093e8e3cec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f23196d7516100013ebb390/poster.jpg" group-title="Movies: Thriller & Horror", Demon Seed
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f23196d7516100013ebb390/poster.jpg" group-title="Movies: Thriller", Demon Seed
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f23196d7516100013ebb390/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e65f1fa580fad001afe5568/poster.jpg" group-title="Movies: Thriller & Horror", Halloween
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e65f1fa580fad001afe5568/poster.jpg" group-title="Movies: Thriller", Halloween
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e65f1fa580fad001afe5568/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190d05b0875c36c90c3ba3/poster.jpg" group-title="Movies: Thriller & Horror", A Haunting in Salem
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190d05b0875c36c90c3ba3/poster.jpg" group-title="Movies: Thriller", A Haunting in Salem
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190d05b0875c36c90c3ba3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5da99a096652979d61cf97dc/poster.jpg" group-title="Movies: Thriller & Horror", Castle of the Living Dead
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5da99a096652979d61cf97dc/poster.jpg" group-title="Movies: Thriller", Castle of the Living Dead
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5da99a096652979d61cf97dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1aa102db91a8ec05bf3c36/poster.jpg" group-title="Movies: Thriller & Horror", House on Haunted Hill
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1aa102db91a8ec05bf3c36/poster.jpg" group-title="Movies: Thriller", House on Haunted Hill
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1aa102db91a8ec05bf3c36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f2319867516100013ebb4d5/poster.jpg" group-title="Movies: Thriller & Horror", The Revenge of Frankenstein
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f2319867516100013ebb4d5/poster.jpg" group-title="Movies: Thriller", The Revenge of Frankenstein
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f2319867516100013ebb4d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e208da283ed2a1a47e38e74/poster.jpg" group-title="Movies: Thriller & Horror", Wakefield
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e208da283ed2a1a47e38e74/poster.jpg" group-title="Movies: Thriller", Wakefield
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e208da283ed2a1a47e38e74/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ee3257948332b001ad0e2b0/poster.jpg" group-title="Movies: Thriller & Horror", Jack The Ripper
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ee3257948332b001ad0e2b0/poster.jpg" group-title="Movies: Thriller", Jack The Ripper
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ee3257948332b001ad0e2b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3ec8e098df54ff825fb661/poster.jpg" group-title="Movies: Thriller & Horror", Let Me In
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3ec8e098df54ff825fb661/poster.jpg" group-title="Movies: Thriller", Let Me In
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d3ec8e098df54ff825fb661/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1aa4427af0e0ed4dfa36da/poster.jpg" group-title="Movies: Thriller & Horror", Last Man On Earth
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1aa4427af0e0ed4dfa36da/poster.jpg" group-title="Movies: Thriller", Last Man On Earth
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1aa4427af0e0ed4dfa36da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cd4076565376a6978006f8a/poster.jpg" group-title="Movies: Thriller & Horror", America's Most Haunted
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cd4076565376a6978006f8a/poster.jpg" group-title="Movies: Thriller", America's Most Haunted
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cd4076565376a6978006f8a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f0c23539e21530007c12b6c/poster.jpg" group-title="Movies: Thriller & Horror", Neverlake
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f0c23539e21530007c12b6c/poster.jpg" group-title="Movies: Thriller", Neverlake
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f0c23539e21530007c12b6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cb58fbbfcdbda497a0cfd54/poster.jpg" group-title="Movies: Thriller & Horror", Jordan
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cb58fbbfcdbda497a0cfd54/poster.jpg" group-title="Movies: Thriller", Jordan
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cb58fbbfcdbda497a0cfd54/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3ec8dd98df54ff825fb642/poster.jpg" group-title="Movies: Thriller & Horror", Cold in July
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d3ec8dd98df54ff825fb642/poster.jpg" group-title="Movies: Thriller", Cold in July
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d3ec8dd98df54ff825fb642/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc4d96439c1c5001ac39855/poster.jpg" group-title="Movies: Thriller & Horror", A Woman Hunted
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc4d96439c1c5001ac39855/poster.jpg" group-title="Movies: Thriller", A Woman Hunted
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc4d96439c1c5001ac39855/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5eeb11cfb44a33001b44ce14/poster.jpg" group-title="Movies: Thriller & Horror", Hold Your Breath
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5eeb11cfb44a33001b44ce14/poster.jpg" group-title="Movies: Thriller", Hold Your Breath
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5eeb11cfb44a33001b44ce14/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190ef5b0875c36c90c7032/poster.jpg" group-title="Movies: Thriller & Horror", Cube 2
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190ef5b0875c36c90c7032/poster.jpg" group-title="Movies: Thriller", Cube 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190ef5b0875c36c90c7032/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5de8c178643619a9b1c3423a/poster.jpg" group-title="Movies: Thriller & Horror", Complicit
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5de8c178643619a9b1c3423a/poster.jpg" group-title="Movies: Thriller", Complicit
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5de8c178643619a9b1c3423a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e73a0c71d1911001ad5778e/poster.jpg" group-title="Movies: Thriller & Horror", The Bunker
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e73a0c71d1911001ad5778e/poster.jpg" group-title="Movies: Thriller", The Bunker
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e73a0c71d1911001ad5778e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d95e28d891fe050c69dbfbf/poster.jpg" group-title="Movies: Thriller & Horror", Attack of the Lederhosen Zombies
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d95e28d891fe050c69dbfbf/poster.jpg" group-title="Movies: Thriller", Attack of the Lederhosen Zombies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d95e28d891fe050c69dbfbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0aed5fd33f8b4abe32ae/poster.jpg" group-title="Movies: Thriller & Horror", Soul Assassin
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0aed5fd33f8b4abe32ae/poster.jpg" group-title="Movies: Thriller", Soul Assassin
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9e0aed5fd33f8b4abe32ae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d8376a43d194f9acc3effe2/poster.jpg" group-title="Movies: Thriller & Horror", Elsewhere
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d8376a43d194f9acc3effe2/poster.jpg" group-title="Movies: Thriller", Elsewhere
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d8376a43d194f9acc3effe2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c6b089897e1f6b899754164/poster.jpg" group-title="Movies: Thriller & Horror", The Assault
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c6b089897e1f6b899754164/poster.jpg" group-title="Movies: Thriller", The Assault
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c6b089897e1f6b899754164/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190f37b0875c36c90c763c/poster.jpg" group-title="Movies: Thriller & Horror", The Resident
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b190f37b0875c36c90c763c/poster.jpg" group-title="Movies: Thriller", The Resident
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190f37b0875c36c90c763c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0aea5fd33f8b4abe3272/poster.jpg" group-title="Movies: Thriller & Horror", Siege
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0aea5fd33f8b4abe3272/poster.jpg" group-title="Movies: Thriller", Siege
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9e0aea5fd33f8b4abe3272/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e74b42fd9272d001a99a1df/poster.jpg" group-title="Movies: Thriller & Horror", Pirates of Somalia
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e74b42fd9272d001a99a1df/poster.jpg" group-title="Movies: Thriller", Pirates of Somalia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e74b42fd9272d001a99a1df/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5be58d46e95f668e2c1aee23/poster.jpg" group-title="Movies: Thriller & Horror", Two Men In Town
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5be58d46e95f668e2c1aee23/poster.jpg" group-title="Movies: Thriller", Two Men In Town
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5be58d46e95f668e2c1aee23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b19136db0875c36c90cd8fc/poster.jpg" group-title="Movies: Thriller & Horror", Tower Block
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b19136db0875c36c90cd8fc/poster.jpg" group-title="Movies: Thriller", Tower Block
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b19136db0875c36c90cd8fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c12b30264c71ea53df1740d/poster.jpg" group-title="Movies: Thriller & Horror", What Ever Happened to Baby Jane
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c12b30264c71ea53df1740d/poster.jpg" group-title="Movies: Thriller", What Ever Happened to Baby Jane
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c12b30264c71ea53df1740d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0adc5fd33f8b4abe3169/poster.jpg" group-title="Movies: Thriller & Horror", Hatchet Hour
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0adc5fd33f8b4abe3169/poster.jpg" group-title="Movies: Thriller", Hatchet Hour
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9e0adc5fd33f8b4abe3169/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d4bdc8fd6b2fc91aeda1356/poster.jpg" group-title="Movies: Thriller & Horror", Deadly Encounter
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d4bdc8fd6b2fc91aeda1356/poster.jpg" group-title="Movies: Thriller", Deadly Encounter
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d4bdc8fd6b2fc91aeda1356/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ce7ab36fa0b5b106d2b5c1f/poster.jpg" group-title="Movies: Thriller & Horror", The Time Being
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ce7ab36fa0b5b106d2b5c1f/poster.jpg" group-title="Movies: Thriller", The Time Being
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ce7ab36fa0b5b106d2b5c1f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0afd5fd33f8b4abe33d8/poster.jpg" group-title="Movies: Thriller & Horror", Bloodlines
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0afd5fd33f8b4abe33d8/poster.jpg" group-title="Movies: Thriller", Bloodlines
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9e0afd5fd33f8b4abe33d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d95e30c4c7c28ebc775cca4/poster.jpg" group-title="Movies: Thriller & Horror", Run The Tide
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d95e30c4c7c28ebc775cca4/poster.jpg" group-title="Movies: Thriller", Run The Tide
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d95e30c4c7c28ebc775cca4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0ade5fd33f8b4abe319e/poster.jpg" group-title="Movies: Thriller & Horror", Inspiration
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0ade5fd33f8b4abe319e/poster.jpg" group-title="Movies: Thriller", Inspiration
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9e0ade5fd33f8b4abe319e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf7e52386bbf99ccdbf9b75/poster.jpg" group-title="Movies: Thriller & Horror", That Evening Sun
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cf7e52386bbf99ccdbf9b75/poster.jpg" group-title="Movies: Thriller", That Evening Sun
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cf7e52386bbf99ccdbf9b75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1aa6e161e112eba357ff61/poster.jpg" group-title="Movies: Thriller & Horror", Night of the Living Dead
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c1aa6e161e112eba357ff61/poster.jpg" group-title="Movies: Thriller", Night of the Living Dead
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c1aa6e161e112eba357ff61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60be1542ea5a4200136801a9/poster.jpg" group-title="Movies: Drama", Boy Soldiers
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60be1542ea5a4200136801a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
@@ -949,5 +949,3 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190c4fb0875c36c9
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d81e5b2cb6d43ff35c45e91/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d81e5bfcb6d43ff35c45ef3/poster.jpg" group-title="Documentaries", Addicted to Food: Sharon's Story
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d81e5bfcb6d43ff35c45ef3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c79db9cf35835400d5f3cd8/poster.jpg" group-title="Documentaries", What's With Wheat
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c79db9cf35835400d5f3cd8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
