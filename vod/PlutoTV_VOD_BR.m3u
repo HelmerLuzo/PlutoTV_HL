@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/613f75b772d3a20013293b37/poster.jpg" group-title="Novidades Na Pluto", Seja James Bond
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/613f75b772d3a20013293b37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/612d3c9386e1e0001672e36c/poster.jpg" group-title="Novidades Na Pluto", MTV: Each & Everyday BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/612d3c9386e1e0001672e36c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60db8f20a9c1a500138f75d8/poster.jpg" group-title="Novidades Na Pluto", Spooks: O Mestre Espião
@@ -1539,6 +1541,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b1249cab1ee2001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b124b8ab1ee2001ad297bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60b124ffab1ee2001ad29b4a/poster.jpg" group-title="Orgulho LGBTQIA+", Emoções Reprimidas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b124ffab1ee2001ad29b4a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/613f75b772d3a20013293b37/poster.jpg" group-title="Documentários", Seja James Bond
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/613f75b772d3a20013293b37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6001f4cdac600d00143b73a5/poster.jpg" group-title="Documentários", Mais do Que um Jogo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6001f4cdac600d00143b73a5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fad3b0d9d991c001a9d94dc/poster.jpg" group-title="Documentários", Junho - O  mês que abalou Brasil
