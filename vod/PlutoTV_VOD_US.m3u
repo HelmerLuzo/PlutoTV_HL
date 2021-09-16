@@ -813,6 +813,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e38c00450b47706b9
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/612826c9b2008a001380ca6e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c0f16ef741fbc7c3ea8fe7e/poster.jpg" group-title="Last Chance to Watch", The Quick and the Dead
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c0f16ef741fbc7c3ea8fe7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3367b6bbff270013badba3/poster.jpg" group-title="Last Chance to Watch", Hush
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3367b6bbff270013badba3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5a9dd738fb6f2f17481afe6c/poster.jpg" group-title="Last Chance to Watch", The Untouchables
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5a9dd738fb6f2f17481afe6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b805a8053abc1a358059835/poster.jpg" group-title="Last Chance to Watch", Postcards from the Edge
@@ -827,8 +829,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6128fbcbcb47c00013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb3d914aa02b96ad7c0de19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c0f16fa741fbc7c3ea9007c/poster.jpg" group-title="Last Chance to Watch", In the Line of Fire
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c0f16fa741fbc7c3ea9007c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3367b6bbff270013badba3/poster.jpg" group-title="Last Chance to Watch", Hush
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3367b6bbff270013badba3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f2da15f3c1f34001331e054/poster.jpg" group-title="Last Chance to Watch", Half Past Dead
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f2da15f3c1f34001331e054/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e322a3cd4052078a78f1282/poster.jpg" group-title="Last Chance to Watch", First Knight
@@ -4039,8 +4039,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/58e2e7ae5ead55f9c2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b8072ee6a83caa23cddda74/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59d6647b142b60f007cb06ad/poster.jpg" group-title="'90s Throwback", Four Weddings and a Funeral
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59d6647b142b60f007cb06ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3367b6bbff270013badba3/poster.jpg" group-title="'90s Throwback", Hush
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3367b6bbff270013badba3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59014205a1041ca52b5ab469/poster.jpg" group-title="'90s Throwback", Thelma and Louise
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59014205a1041ca52b5ab469/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e322a3cd4052078a78f1282/poster.jpg" group-title="'90s Throwback", First Knight
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e322a3cd4052078a78f1282/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/59014268a1041ca52b5abff8/poster.jpg" group-title="'90s Throwback", Kalifornia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59014268a1041ca52b5abff8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fad899f584f69001a666a83/poster.jpg" group-title="'90s Throwback", Can't Hardly Wait
@@ -4121,12 +4125,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/59014216a1041ca52b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b3aec44bbacc7ee58f52a21/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d66efcbd3b0d78ab5d99d47/poster.jpg" group-title="'90s Throwback", Goldeneye
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d66efcbd3b0d78ab5d99d47/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d66efc9d3b0d78ab5d99cfa/poster.jpg" group-title="'90s Throwback", Tomorrow Never Dies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d66efc9d3b0d78ab5d99cfa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d0d3d35b8ff0852cd9bb854/poster.jpg" group-title="'90s Throwback", Double Impact
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d0d3d35b8ff0852cd9bb854/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6052470fb37578001a006a5e/poster.jpg" group-title="'90s Throwback", Iron Monkey
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6052470fb37578001a006a5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d0d3d35b8ff0852cd9bb854/poster.jpg" group-title="'90s Throwback", Double Impact
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d0d3d35b8ff0852cd9bb854/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d66efc9d3b0d78ab5d99cfa/poster.jpg" group-title="'90s Throwback", Tomorrow Never Dies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d66efc9d3b0d78ab5d99cfa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d66efc6d3b0d78ab5d99ca5/poster.jpg" group-title="'90s Throwback", The World Is Not Enough
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d66efc6d3b0d78ab5d99ca5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5cbe33d3b982b19e589e9a40/poster.jpg" group-title="'90s Throwback", Untamed Heart
@@ -4217,10 +4221,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d24d167f55a8b1377
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ffc91e7cc17ce00130b59a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/609d6bbfd4b3490013d2294c/poster.jpg" group-title="'90s Throwback", Delta Force 2: The Colombian Connection
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609d6bbfd4b3490013d2294c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f3367b6bbff270013badba3/poster.jpg" group-title="'90s Throwback", Hush
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3367b6bbff270013badba3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e322a3cd4052078a78f1282/poster.jpg" group-title="'90s Throwback", First Knight
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e322a3cd4052078a78f1282/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ed28c8cefbd62001b280de6/poster.jpg" group-title="'90s Throwback", South Park: Bigger, Longer & Uncut
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ed28c8cefbd62001b280de6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d7999b0e71de7f56ca130de/poster.jpg" group-title="'90s Throwback", Necessary Roughness
@@ -6131,10 +6131,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ef12eb9a55838001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc998430983410013dbc51d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc97e430983410013dbbd06/poster.jpg" group-title="Food Docs", Fat Fiction
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc97e430983410013dbbd06/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f906599e657fb001311ac9d/poster.jpg" group-title="Food Docs", Barbecue
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f906599e657fb001311ac9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fc7d558c8c57d00131bfe85/poster.jpg" group-title="Food Docs", Food as Medicine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7d558c8c57d00131bfe85/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f906599e657fb001311ac9d/poster.jpg" group-title="Food Docs", Barbecue
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f906599e657fb001311ac9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c93d5bd365ab41eefb8c781/poster.jpg" group-title="Food Docs", Food Choices
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c93d5bd365ab41eefb8c781/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/56c25987d39f6452505a5de4/poster.jpg" group-title="Food Docs", Fat, Sick & Nearly Dead
@@ -8445,10 +8445,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/56e0b76c0e3d19cb31
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/56e0b76c0e3d19cb31909137/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5d97dc1523b096a13d99125f/poster.jpg" group-title="Paranormal", Shadow Government
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d97dc1523b096a13d99125f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb385ffb2427e001a7bf433/poster.jpg" group-title="Paranormal", Indistinguishable From Magic
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb385ffb2427e001a7bf433/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/613b840962aa0500144f3aca/poster.jpg" group-title="Paranormal", Nostradamus: Future Tense
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/613b840962aa0500144f3aca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5fb385ffb2427e001a7bf433/poster.jpg" group-title="Paranormal", Indistinguishable From Magic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb385ffb2427e001a7bf433/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5f7cfb59740902001a946e32/poster.jpg" group-title="Paranormal", UFO Conclusion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7cfb59740902001a946e32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61083143777fb80014815a8e/poster.jpg" group-title="Fuse XL", The Final 24: Tupac Shakur
