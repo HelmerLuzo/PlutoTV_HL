@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/614d759673f7ab0013ac9248/poster.jpg" group-title="MTV Video Music Awards", MTV Video Music Awards T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/614d759873f7ab0013ac924e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/607d87fd06e132001a71925e/poster.jpg" group-title="La Cocina Latina", Recetas de Maíz Venezolano T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607d8b95918e16001a51e691/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/607d87fd06e132001a71925e/poster.jpg" group-title="La Cocina Latina", El Pan Nacional de Venezuela T1E2
@@ -29,34 +31,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607d88d3b58b22001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607d87fd06e132001a719260/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/607d87fd06e132001a71925e/poster.jpg" group-title="La Cocina Latina", Platos Clásicos Mexicanos con Aguacate T1E15
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607d8b8d918e16001a51e644/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/608939c0dffcc4001a9a7a8d/poster.jpg" group-title="Presume tu auto en TV", Episodio 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608939c2dffcc4001a9a7aaf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/608939c0dffcc4001a9a7a8d/poster.jpg" group-title="Presume tu auto en TV", Episodio 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608939c2dffcc4001a9a7ade/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/608939c0dffcc4001a9a7a8d/poster.jpg" group-title="Presume tu auto en TV", Episodio 3 T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608939c2dffcc4001a9a7aeb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/608939c0dffcc4001a9a7a8d/poster.jpg" group-title="Presume tu auto en TV", Episodio 4 T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608939c4dffcc4001a9a7b24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/608939c0dffcc4001a9a7a8d/poster.jpg" group-title="Presume tu auto en TV", Episodio 5 T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608939c2dffcc4001a9a7ac1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/608939c0dffcc4001a9a7a8d/poster.jpg" group-title="Presume tu auto en TV", Episodio 6 T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608939c4dffcc4001a9a7b17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/608939c0dffcc4001a9a7a8d/poster.jpg" group-title="Presume tu auto en TV", Episodio 7 T1E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608939c2dffcc4001a9a7af8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/608939c0dffcc4001a9a7a8d/poster.jpg" group-title="Presume tu auto en TV", Episodio 8 T1E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608939c2dffcc4001a9a7acf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 1 T22E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa6b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 2 T22E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa85/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 3 T22E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 5 T22E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 6 T22E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 7 T22E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611e12f54395a400138acea7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", Rose T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152980975c210013c18feb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", El fin del mundo T1E2
@@ -83,14 +57,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152980975c210013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152980975c210013c1900c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", La despedida de los caminos T1E13
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297e975c210013c18f69/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644503ef27200134fabd0/poster.jpg" group-title="Top Gear: Serie 24", Episodio 1 T24E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644503ef27200134fabe3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644503ef27200134fabd0/poster.jpg" group-title="Top Gear: Serie 24", Episodio 2 T24E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644503ef27200134fac05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644503ef27200134fabd0/poster.jpg" group-title="Top Gear: Serie 24", Episodio 3 T24E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644503ef27200134fabf4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644503ef27200134fabd0/poster.jpg" group-title="Top Gear: Serie 24", Episodio 7 T24E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644503ef27200134fabd2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", Nueva tierra T2E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643ab3ef27200134f9d9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", Diente y garra T2E2
@@ -143,18 +109,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef2720013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9ef0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", Últimos señores del tiempo T3E13
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9edf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152a43975c210013c1a328/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61161f70bd1d980013b01f16/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 3 T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152a42975c210013c1a314/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 4 T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61161f70bd1d980013b01f05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 5 T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61161f70bd1d980013b01f29/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 6 T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152a43975c210013c1a33c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Cómplices T4E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4123e43c55001a6638ee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Los fuegos de Pompeya T4E2
@@ -189,6 +143,40 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6149b3e1685e0c0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6149b64e8b20a400073892d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Doctor Who: El final de los tiempos - Parte 2 T4E17
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6149b79cf2ba5200070e5a75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/614d759673f7ab0013ac9248/poster.jpg" group-title="MTV Video Music Awards", MTV Video Music Awards T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/614d759873f7ab0013ac924e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 1 T22E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa6b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 2 T22E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa85/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 3 T22E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 5 T22E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 6 T22E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644483ef27200134faa51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644483ef27200134faa4f/poster.jpg" group-title="Top Gear 22", Episodio 7 T22E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611e12f54395a400138acea7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644503ef27200134fabd0/poster.jpg" group-title="Top Gear: Serie 24", Episodio 1 T24E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644503ef27200134fabe3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644503ef27200134fabd0/poster.jpg" group-title="Top Gear: Serie 24", Episodio 2 T24E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644503ef27200134fac05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644503ef27200134fabd0/poster.jpg" group-title="Top Gear: Serie 24", Episodio 3 T24E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644503ef27200134fabf4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611644503ef27200134fabd0/poster.jpg" group-title="Top Gear: Serie 24", Episodio 7 T24E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611644503ef27200134fabd2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 1 T1E1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152a43975c210013c1a328/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 2 T1E2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61161f70bd1d980013b01f16/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 3 T1E3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152a42975c210013c1a314/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 4 T1E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61161f70bd1d980013b01f05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 5 T1E5
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61161f70bd1d980013b01f29/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/poster.jpg" group-title="El Juego", Episodio 6 T1E6
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152a43975c210013c1a33c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611529d2975c210013c1a173/poster.jpg" group-title="Orgullo y prejuicio", Episodio 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611529d3975c210013c1a18f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611529d2975c210013c1a173/poster.jpg" group-title="Orgullo y prejuicio", Episodio 2 T1E2
@@ -1003,10 +991,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6110fb53975c210013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61121f1594c1ec00137757ce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/60f921c476826f0013722c99/poster.jpg" group-title="El Encantador de perros", Cesar's Worst Bite T7E20
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/610bf5b641ecbf0013d50585/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6135c115dc29d20013b97d86/poster.jpg" group-title="Hitler: El ascenso del mal", Hitler: El ascenso del mal - Parte 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6135c117dc29d20013b97dbe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6135c115dc29d20013b97d86/poster.jpg" group-title="Hitler: El ascenso del mal", Hitler: El ascenso del mal - Parte 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6135c116dc29d20013b97d90/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6140724dc79f030013e1f5ab/poster.jpg" group-title="Vida en el espacio", Episodio 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6140724fc79f030013e1f5d9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6140724dc79f030013e1f5ab/poster.jpg" group-title="Vida en el espacio", Episodio 2 T1E2
@@ -7359,10 +7343,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4673c40b2a6c001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4673c40b2a6c001aba316e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5f44c0738e4fda001a5bcd15/poster.jpg" group-title="Vaya Semanita", Episode 106 T5E18
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f4673c40b2a6c001aba317d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6135c115dc29d20013b97d86/poster.jpg" group-title="Hitler: El ascenso del mal", Hitler: El ascenso del mal - Parte 1 T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6135c117dc29d20013b97dbe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6135c115dc29d20013b97d86/poster.jpg" group-title="Hitler: El ascenso del mal", Hitler: El ascenso del mal - Parte 2 T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6135c116dc29d20013b97d90/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fa3ef19fd17cc001a0011cb/poster.jpg" group-title="Descubrir", Episode 1 T1E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa3ef1cfd17cc001a00123e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/5fa3ef19fd17cc001a0011cb/poster.jpg" group-title="Descubrir", Episode 2 T1E2
@@ -13359,115 +13339,3 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600af85b2a97380013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600af85b2a97380013438ac1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/600af05db7b339001a47d823/poster.jpg" group-title="Diarios de Ol Pejeta", Los enemigos internos T3E5
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600af85b2a97380013438ad6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", Rose T1E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152980975c210013c18feb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", El fin del mundo T1E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297f975c210013c18fa8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", Los muertos inquietos T1E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297f975c210013c18fdd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", Extranjeros de Londres T1E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297f975c210013c18f8a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", La tercera guerra mundial T1E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297f975c210013c18f9b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", Dalek T1E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152980975c210013c18ffb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", El juego largo T1E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297f975c210013c18fcf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", Dia del padre T1E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297f975c210013c18fb5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", El niño vacío T1E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297f975c210013c18f7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", El doctor baila T1E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297f975c210013c18fc2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", Boom Town T1E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152980975c210013c19019/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", Lobo malo T1E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61152980975c210013c1900c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/6115297c975c210013c18f40/poster.jpg" group-title="Doctor Who: Serie 1", La despedida de los caminos T1E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6115297e975c210013c18f69/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", Nueva tierra T2E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643ab3ef27200134f9d9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", Diente y garra T2E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611b6678cbc31c0013c49067/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", Reunión de la escuela T2E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611b667acbc31c0013c49089/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", La chica de la chimenea T2E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611b667acbc31c0013c490c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", El ascenso de los ciberhombres T2E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611b667acbc31c0013c49096/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", La edad del acero T2E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643ab3ef27200134f9d7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", La linterna del idiota T2E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611b667acbc31c0013c490b5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", El Planeta Imposible T2E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611b6679cbc31c0013c49076/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", El pozo de Satanás T2E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611b667acbc31c0013c490e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", Amor y monstruos T2E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611b667acbc31c0013c490d3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", Temerla T2E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611b667acbc31c0013c490a7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", Ejército de fantasmas T2E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643ab3ef27200134f9dac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643ab3ef27200134f9d7b/poster.jpg" group-title="Doctor Who: Serie 2", Día del Juicio Final T2E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643ab3ef27200134f9d8e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", Smith y Jones T3E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9f23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", El código de Shakespeare T3E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9ebd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", Gridlock T3E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9eac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", Daleks en Manhattan T3E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9e8e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", Evolución de los Daleks T3E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9e7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", El experimento de Lázaro T3E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9e70/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", 42 T3E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9ece/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", La naturaleza humana T3E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9f01/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", La familia de la sangre T3E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9f30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", Parpadear T3E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9e9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", Utopía T3E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9f12/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", El sonido de los tambores T3E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9ef0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611643b13ef27200134f9e6e/poster.jpg" group-title="Doctor Who: Serie 3", Últimos señores del tiempo T3E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611643b13ef27200134f9edf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Cómplices T4E1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4123e43c55001a6638ee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Los fuegos de Pompeya T4E2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4123e43c55001a6638bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Planeta del Ood T4E3
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4121e43c55001a66387b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", La estratagema Sontaran T4E4
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4120e43c55001a66382d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", El cielo venenoso T4E5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4123e43c55001a66389e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", La hija del doctor T4E6
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4123e43c55001a66388d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", El unicornio y la avispa T4E7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4121e43c55001a66386e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Silencio en la biblioteca T4E8
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4121e43c55001a663850/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Bosque de los Muertos T4E9
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4120e43c55001a66383a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Medianoche T4E10
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4123e43c55001a6638ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Gire a la izquierda T4E11
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4123e43c55001a6638dd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", La tierra robada T4E12
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4121e43c55001a66385d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", El final del viaje T4E13
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611a4123e43c55001a6638cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Doctor Who: El planeta de los muertos T4E14
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6149b1e60b1e1800071b0d38/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Doctor Who: Las aguas marcianas T4E15
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6149b3e1685e0c0007b85ce0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Doctor Who: El final de los tiempos - Parte 1 T4E16
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6149b64e8b20a400073892d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/series/611a411ee43c55001a663804/poster.jpg" group-title="Doctor Who: Serie 4", Doctor Who: El final de los tiempos - Parte 2 T4E17
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6149b79cf2ba5200070e5a75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
