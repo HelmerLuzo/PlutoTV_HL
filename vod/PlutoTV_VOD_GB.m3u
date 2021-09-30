@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6139c5a44b88c800132fd35c/poster.jpg" group-title="New on Pluto TV", Deceit
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6139c5a44b88c800132fd35c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61266689d367500014cf2582/poster.jpg" group-title="New on Pluto TV", Episode 1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61266689d367500014cf2582/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6126630fd367500014cf2481/poster.jpg" group-title="New on Pluto TV", Cinema Paradiso
@@ -95,6 +97,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6087da756b9d17001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60895b03b3f837001a1ac446/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607fecea918e16001a51fdfb/poster.jpg" group-title="New on Pluto TV", The Man Who Knew Too Little
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607fecea918e16001a51fdfb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b19130bb0875c36c90cc962/poster.jpg" group-title="Featured", Earthrise: The First Lunar Voyage
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b19130bb0875c36c90cc962/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5b19136cb0875c36c90cd8c5/poster.jpg" group-title="Featured", In the Shadow of the Moon
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b19136cb0875c36c90cd8c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5e1e44a0d45ad3f422e48d87/poster.jpg" group-title="Featured", The Truth is in the Stars
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1e44a0d45ad3f422e48d87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5faaa1ac3650d7001b3f98b6/poster.jpg" group-title="Featured", Beyond Earth
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faaa1ac3650d7001b3f98b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c1ca2bea905900134a87fa/poster.jpg" group-title="Movies: Action", Diablo: The Ultimate Race
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c1ca2bea905900134a87fa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60634a7ba224c9001bb83196/poster.jpg" group-title="Movies: Action", Close range
