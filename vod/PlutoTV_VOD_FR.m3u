@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606eda815426cf001a3a8ae7/poster.jpg" group-title="Cinéma", Marmaduke FR
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606eda815426cf001a3a8ae7.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73a2a224c9001bb94572/poster.jpg" group-title="Cinéma", Endiablé
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606d73a2a224c9001bb94572.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/612dfadfdc29d20013b7996c/poster.jpg" group-title="Cinéma", Un hologramme pour le roi
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/612dfadfdc29d20013b7996c.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73d0a224c9001bb947c2/poster.jpg" group-title="Cinéma", Girl Next Door
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606d73d0a224c9001bb947c2.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6062dc38a224c9001bb82936/poster.jpg" group-title="Cinéma", The Fountain FR
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6062dc38a224c9001bb82936.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606eda975426cf001a3a8d0b/poster.jpg" group-title="Cinéma", The Darkest Hour
@@ -7,14 +15,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606eda975426cf001a3a8d0b.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/61011649e4fa1a0014b8a15e.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6101169d74ed3c00147e900a/poster.jpg" group-title="Cinéma", Shadow dancer
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6101169d74ed3c00147e900a.m3u8
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606eda815426cf001a3a8ae7/poster.jpg" group-title="Cinéma", Marmaduke FR
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606eda815426cf001a3a8ae7.m3u8
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/612dfadfdc29d20013b7996c/poster.jpg" group-title="Cinéma", Un hologramme pour le roi
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/612dfadfdc29d20013b7996c.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73a5a224c9001bb9459e/poster.jpg" group-title="Cinéma", Le chevalier black
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606d73a5a224c9001bb9459e.m3u8
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73a2a224c9001bb94572/poster.jpg" group-title="Cinéma", Endiablé
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606d73a2a224c9001bb94572.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607d9bf9f6870e001a5d606e/poster.jpg" group-title="Cinéma", Bee Season FR
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/607d9bf9f6870e001a5d606e.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73d4a224c9001bb94819/poster.jpg" group-title="Cinéma", The Sentinel
@@ -31,8 +33,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/607695ac5426cf001a3b3ecc.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606eda7b5426cf001a3a8a87.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606eda835426cf001a3a8b13/poster.jpg" group-title="Cinéma", Meet Dave FR
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606eda835426cf001a3a8b13.m3u8
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73d0a224c9001bb947c2/poster.jpg" group-title="Cinéma", Girl Next Door
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606d73d0a224c9001bb947c2.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606eda885426cf001a3a8b9b/poster.jpg" group-title="Cinéma", My Super Ex-Girlfriend FR
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606eda885426cf001a3a8b9b.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73bea224c9001bb946b6/poster.jpg" group-title="Cinéma", Voisin contre voisin
