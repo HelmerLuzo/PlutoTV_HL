@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf83178213001ad6cd3d/poster.jpg" group-title="New on Pluto TV", Urge
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6166cf83178213001ad6cd3d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf80178213001ad6ccba/poster.jpg" group-title="New on Pluto TV", The Lost Medallion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6166cf80178213001ad6ccba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf6c178213001ad6c803/poster.jpg" group-title="New on Pluto TV", The Duel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6166cf6c178213001ad6c803/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf79178213001ad6caba/poster.jpg" group-title="New on Pluto TV", My All American
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6166cf79178213001ad6caba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf77178213001ad6c9ff/poster.jpg" group-title="New on Pluto TV", The Party Crasher
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6166cf77178213001ad6c9ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf74178213001ad6c97c/poster.jpg" group-title="New on Pluto TV", Blind
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6166cf74178213001ad6c97c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf71178213001ad6c929/poster.jpg" group-title="New on Pluto TV", Bedlam
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6166cf71178213001ad6c929/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/615f0d09bda3dd001a4c833b/poster.jpg" group-title="New on Pluto TV", Autobiography: Mike Tyson
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/615f0d09bda3dd001a4c833b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6139c90f73f7ab0013a82c72/poster.jpg" group-title="New on Pluto TV", Demon Hole
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6139c90f73f7ab0013a82c72/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6139c90c73f7ab0013a82baf/poster.jpg" group-title="New on Pluto TV", Transference
