@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/617fc0fa5eb49a001ae1cbaf/poster.jpg" group-title="New on Pluto TV", The Second Arrival
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/617fc0fa5eb49a001ae1cbaf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/617fc0f55eb49a001ae1cad1/poster.jpg" group-title="New on Pluto TV", Pascali's Island
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/617fc0f55eb49a001ae1cad1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/617fc1d25eb49a001ae1cca8/poster.jpg" group-title="New on Pluto TV", Are You Here
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/617fc1d25eb49a001ae1cca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61713b47a8dd34001a3cd01c/poster.jpg" group-title="New on Pluto TV", His Girl Friday
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61713b47a8dd34001a3cd01c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61713905178213001ad8a904/poster.jpg" group-title="New on Pluto TV", Charade
@@ -507,6 +513,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9e0ade5fd33f8b4a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60361b70049634001a5e9945/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60c1ca16ea905900134a84d8/poster.jpg" group-title="Movies: Horror", The Nesting
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c1ca16ea905900134a84d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61814e6210b65c001a4f39a3/poster.jpg" group-title="B Movies", The Vampire Bat
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61814e6210b65c001a4f39a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61814735efc3c8001ae526e5/poster.jpg" group-title="B Movies", The Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61814735efc3c8001ae526e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61814da052ed7b001b60dd50/poster.jpg" group-title="B Movies", The Red House
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61814da052ed7b001b60dd50/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6170254595ce3f001a330a4e/poster.jpg" group-title="B Movies", House On Haunted Hill
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6170254595ce3f001a330a4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6171179b95ce3f001a333f7c/poster.jpg" group-title="B Movies", Detour
