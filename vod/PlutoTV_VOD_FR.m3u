@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6180ee311be642001a2d1bf7/poster.jpg" group-title="Cinéma", Basmati Blues
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6180ee311be642001a2d1bf7.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6180ee441be642001a2d3192/poster.jpg" group-title="Cinéma", Bigoudis et permanente
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6180ee441be642001a2d3192.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61839666b5d0e9001a8ceb07/poster.jpg" group-title="Cinéma", Hands of Stone
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/61839666b5d0e9001a8ceb07.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6180ee311be642001a2d1bf7/poster.jpg" group-title="Cinéma", Basmati Blues
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6180ee311be642001a2d1bf7.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606eda765426cf001a3a8a2f/poster.jpg" group-title="Cinéma", Life or Something Like It FR
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606eda765426cf001a3a8a2f.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73a2a224c9001bb94572/poster.jpg" group-title="Cinéma", Endiablé
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606d73a2a224c9001bb94572.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/612dfadfdc29d20013b7996c/poster.jpg" group-title="Cinéma", Un hologramme pour le roi
@@ -39,8 +43,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606ebd2ff6870e001a5c47dc.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606eda745426cf001a3a8a03.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/616d4dc3a6e392001bc25f3c/poster.jpg" group-title="Cinéma", Chloe & Theo
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/616d4dc3a6e392001bc25f3c.m3u8
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606eda765426cf001a3a8a2f/poster.jpg" group-title="Cinéma", Life or Something Like It FR
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606eda765426cf001a3a8a2f.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73b8a224c9001bb9468e/poster.jpg" group-title="Cinéma", Sexy Movie
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/606d73b8a224c9001bb9468e.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/606d73daa224c9001bb9486c/poster.jpg" group-title="Cinéma", Mords-moi sans hésitation
@@ -221,6 +223,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/60e8079dd96ddc001314af4e.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/61127b2fbd1d980013aec243.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/610d0401cfc2d600140048f7/poster.jpg" group-title="Thrillers", Seule contre tous
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/610d0401cfc2d600140048f7.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6180ee441be642001a2d3192/poster.jpg" group-title="Comédies", Bigoudis et permanente
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6180ee441be642001a2d3192.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60ad0aaf259b950013319a6e/poster.jpg" group-title="Comédies", Hot School
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/60ad0aaf259b950013319a6e.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/610117645233ba00136a01a1/poster.jpg" group-title="Comédies", 7 psychopathes
