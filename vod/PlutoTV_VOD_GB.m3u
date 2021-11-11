@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/617fc0f35eb49a001ae1ca82/poster.jpg" group-title="New on Pluto TV", Ninja: Shadow of a Tear
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/617fc0f35eb49a001ae1ca82/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/617fc0fa5eb49a001ae1cbaf/poster.jpg" group-title="New on Pluto TV", The Second Arrival
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/617fc0fa5eb49a001ae1cbaf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/617fc0f55eb49a001ae1cad1/poster.jpg" group-title="New on Pluto TV", Pascali's Island
