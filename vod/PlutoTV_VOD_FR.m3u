@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618a904d002f0f001aa7e508/poster.jpg" group-title="Cinéma", Les 3 crimes de west memphis
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/618a904d002f0f001aa7e508.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618a90456e2dd0001a0c2414/poster.jpg" group-title="Cinéma", Ce week-end là
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/618a90456e2dd0001a0c2414.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6180ee441be642001a2d3192/poster.jpg" group-title="Cinéma", Bigoudis et permanente
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6180ee441be642001a2d3192.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61839666b5d0e9001a8ceb07/poster.jpg" group-title="Cinéma", Hands of Stone
@@ -233,6 +237,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/610d0406cfc2d60014004976.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6166996b178213001ad6c647.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61127b12bd1d980013aebe13/poster.jpg" group-title="Thrillers", Le Prix du passé
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/61127b12bd1d980013aebe13.m3u8
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618a90456e2dd0001a0c2414/poster.jpg" group-title="Comédies", Ce week-end là
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/618a90456e2dd0001a0c2414.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6180ee441be642001a2d3192/poster.jpg" group-title="Comédies", Bigoudis et permanente
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_FR/6180ee441be642001a2d3192.m3u8
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60ad0aaf259b950013319a6e/poster.jpg" group-title="Comédies", Hot School
