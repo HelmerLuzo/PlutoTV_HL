@@ -25,10 +25,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a27e65d513c001b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a49bcf23da3001b14a629/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618a49c0f23da3001b14a6c4/poster.jpg" group-title="New on Pluto TV", The Accountant of Auschwitz
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a49c0f23da3001b14a6c4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618a49caf23da3001b14a7f9/poster.jpg" group-title="New on Pluto TV", Fright Fest
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a49caf23da3001b14a7f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618a49cdf23da3001b14a860/poster.jpg" group-title="New on Pluto TV", Eternal Love
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a49cdf23da3001b14a860/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618a49d0f23da3001b14a933/poster.jpg" group-title="New on Pluto TV", Assassin
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a49d0f23da3001b14a933/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/617fc0f35eb49a001ae1ca82/poster.jpg" group-title="New on Pluto TV", Ninja: Shadow of a Tear
@@ -43,8 +39,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/617fc1d25eb49a001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61713b47a8dd34001a3cd01c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61713905178213001ad8a904/poster.jpg" group-title="New on Pluto TV", Charade
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61713905178213001ad8a904/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6177c377f3593c001aa746fd/poster.jpg" group-title="New on Pluto TV", Sanctuary For All Pt 1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6177c377f3593c001aa746fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf83178213001ad6cd3d/poster.jpg" group-title="New on Pluto TV", Urge
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6166cf83178213001ad6cd3d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf80178213001ad6ccba/poster.jpg" group-title="New on Pluto TV", The Lost Medallion
@@ -455,6 +449,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9e0afd5fd33f8b4a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d95e30c4c7c28ebc775cca4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5c9e0ade5fd33f8b4abe319e/poster.jpg" group-title="Movies: Thriller", Inspiration
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5c9e0ade5fd33f8b4abe319e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618a49caf23da3001b14a7f9/poster.jpg" group-title="Movies: Horror", Fright Fest
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a49caf23da3001b14a7f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6139c90f73f7ab0013a82c72/poster.jpg" group-title="Movies: Horror", Demon Hole
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6139c90f73f7ab0013a82c72/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60ed7f2234c9a50013f236fd/poster.jpg" group-title="Movies: Horror", Blood Tide
@@ -807,6 +803,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5db29398082fe5cf03
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d8a372215ca00b7838307ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/5ea13a42951265001ad2f92c/poster.jpg" group-title="Movies: Comedy", KICKING OFF
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ea13a42951265001ad2f92c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618a49cdf23da3001b14a860/poster.jpg" group-title="Movies: Romance", Eternal Love
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a49cdf23da3001b14a860/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6139c90a73f7ab0013a82b24/poster.jpg" group-title="Movies: Romance", The Romantics
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6139c90a73f7ab0013a82b24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60867f7a4c6c47001b5f2f09/poster.jpg" group-title="Movies: Romance", Love & Other Drugs
