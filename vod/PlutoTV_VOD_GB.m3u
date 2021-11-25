@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61977516b3ddda001360603f/poster.jpg" group-title="New on Pluto TV", Paranormal White Noise
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61977516b3ddda001360603f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6197751ab3ddda0013606112/poster.jpg" group-title="New on Pluto TV", Here Awhile
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6197751ab3ddda0013606112/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61977510b3ddda0013605f64/poster.jpg" group-title="New on Pluto TV", Ashes In The Snow
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61977510b3ddda0013605f64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6197751db3ddda00136061a9/poster.jpg" group-title="New on Pluto TV", A Few Less Men
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6197751db3ddda00136061a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/617fc0ff5eb49a001ae1cc06/poster.jpg" group-title="New on Pluto TV", Whip It
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/617fc0ff5eb49a001ae1cc06/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/617fc1d45eb49a001ae1ccf7/poster.jpg" group-title="New on Pluto TV", Wah-Wah
