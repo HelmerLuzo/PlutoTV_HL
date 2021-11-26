@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619e333e50fedf0014b00323/poster.jpg" group-title="Novidades Na Pluto", Bravoz Ubuntu
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619e333e50fedf0014b00323/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/60a4190bd9b0ce0014e6c145/poster.jpg" group-title="Novidades Na Pluto", Um Negócio de Risco
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a4190bd9b0ce0014e6c145/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/607da34606e132001a71954b/poster.jpg" group-title="Novidades Na Pluto", A Hora mais Escura
