@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619c99154b12ef00148dc5b9/poster.jpg" group-title="New on Pluto TV", What We Do in the Shadows
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619c99154b12ef00148dc5b9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619c99004b12ef00148dc13c/poster.jpg" group-title="New on Pluto TV", Age of the Dragons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619c99004b12ef00148dc13c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619c99044b12ef00148dc1bf/poster.jpg" group-title="New on Pluto TV", Escape from Sobibor
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619c99044b12ef00148dc1bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6166cf79178213001ad6caba/poster.jpg" group-title="New on Pluto TV", My All American
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6166cf79178213001ad6caba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619c990f4b12ef00148dc3fc/poster.jpg" group-title="New on Pluto TV", The Mumbai Siege: 4 Days of Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619c990f4b12ef00148dc3fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618271ce1be642001a2dfecb/poster.jpg" group-title="New on Pluto TV", Furious
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618271ce1be642001a2dfecb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/618271d21be642001a2dff3a/poster.jpg" group-title="New on Pluto TV", Dirty Cops
@@ -15,16 +23,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6197751ab3ddda0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619e29bbfdb10600130f8d9b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61977510b3ddda0013605f64/poster.jpg" group-title="New on Pluto TV", Ashes In The Snow
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61977510b3ddda0013605f64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619c99004b12ef00148dc13c/poster.jpg" group-title="New on Pluto TV", Age of the Dragons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619c99004b12ef00148dc13c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619c99044b12ef00148dc1bf/poster.jpg" group-title="New on Pluto TV", Escape from Sobibor
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619c99044b12ef00148dc1bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619c990f4b12ef00148dc3fc/poster.jpg" group-title="New on Pluto TV", The Mumbai Siege: 4 Days of Terror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619c990f4b12ef00148dc3fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/6197751db3ddda00136061a9/poster.jpg" group-title="New on Pluto TV", A Few Less Men
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6197751db3ddda00136061a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619c99154b12ef00148dc5b9/poster.jpg" group-title="New on Pluto TV", What We Do in the Shadows
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619c99154b12ef00148dc5b9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/619231e118b470001aa5eb9e/poster.jpg" group-title="New on Pluto TV", Iron Sky - The Coming Race
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619231e118b470001aa5eb9e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://api.pluto.tv/v3/images/episodes/61925bdff17779001abad1c2/poster.jpg" group-title="New on Pluto TV", Jeepers Creepers
