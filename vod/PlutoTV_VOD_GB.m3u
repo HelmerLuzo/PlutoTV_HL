@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b1f85a178ebd00137da482/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Kin
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61b1f85a178ebd00137da482/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b1f810eb667e0013a7f155/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", The Glass Castle
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61b1f810eb667e0013a7f155/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5b190eb7b0875c36c90c6937/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", 50/50
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190eb7b0875c36c90c6937/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5bb7e3901da8a897adb85085/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", The Grudge 3
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bb7e3901da8a897adb85085/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ba954cfb0867c1679527fd9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", The Grudge 2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ba954cfb0867c1679527fd9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b1f772fdb106001313b224/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", The Grudge
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61b1f772fdb106001313b224/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/619c99154b12ef00148dc5b9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", What We Do in the Shadows
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/619c99154b12ef00148dc5b9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/619c99004b12ef00148dc13c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Age of the Dragons
@@ -415,8 +427,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5d4940b10eaa737d9c
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604738571e25b3001a5e854c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5de910deb32f5800098a1a6a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Thriller", Arlington Road
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5de910deb32f5800098a1a6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5e708a715c1e25001a27ba13/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Thriller", The Escapist
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e708a715c1e25001a27ba13/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6048ac35ffe774001ad5a03b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Thriller", The Runner
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ac35ffe774001ad5a03b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff2e14505630c001a2e638f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Thriller", Chatroom
