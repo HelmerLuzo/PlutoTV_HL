@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60008eae50e458001a79b4fd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Beetlejuice
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60008eae50e458001a79b4fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61733b8d417e0a001ae62112/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Heat
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61733b8d417e0a001ae62112/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61259458256bf20015ae845a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Mean Girls
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61259458256bf20015ae845a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61818ab584bc46001a39dda5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Deep Blue Sea
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61818ab584bc46001a39dda5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/612595c6964d2000141b3eed/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Ferris Bueller's Day Off
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/612595c6964d2000141b3eed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/618981c2f3e6d6001afeaeb8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Eraser
@@ -7,14 +15,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618981c2f3e6d6001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/616ef022417e0a001ae53ca4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/618587a3173119001b2d1cce/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Seven
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618587a3173119001b2d1cce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61259458256bf20015ae845a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Mean Girls
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61259458256bf20015ae845a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/616873020b4e8f001a9604d4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Star Trek (2009)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/616873020b4e8f001a9604d4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60008eae50e458001a79b4fd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Beetlejuice
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60008eae50e458001a79b4fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61733b8d417e0a001ae62112/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Heat
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61733b8d417e0a001ae62112/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/616873110b4e8f001a9605b4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Anchorman: The Legend Of Ron Burgundy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/616873110b4e8f001a9605b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60369bf405d744001a21424b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Saving Private Ryan
@@ -25,8 +27,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/616872fc0b4e8f001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602abaabeac9500013145983/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fb6ade8dcedaf00138dc0d0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Old School
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb6ade8dcedaf00138dc0d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61818ab584bc46001a39dda5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Deep Blue Sea
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61818ab584bc46001a39dda5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7922a4db0eb0013b8d238/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Fences
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7922a4db0eb0013b8d238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5d6087541bdb1241abed9d48/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="James Bond 007", From Russia With Love
@@ -5563,10 +5563,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6038357beac9500013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f9ae9d687fe2d001aadf33d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5901425ca1041ca52b5abe80/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Award Winners", Lenny
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5901425ca1041ca52b5abe80/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607dc2118119a5001a746994/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Award Winners", I'm Not There
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607dc2118119a5001a746994/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/608826186b9d17001ac39c9d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Award Winners", Black Narcissus
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/608826186b9d17001ac39c9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607dc2118119a5001a746994/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Award Winners", I'm Not There
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607dc2118119a5001a746994/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f70f17a038550014bffd26/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Award Winners", Lilies Of The Field
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60f70f17a038550014bffd26/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f765e20e4b56900138b2272/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Award Winners", The Best Years of Our Lives
