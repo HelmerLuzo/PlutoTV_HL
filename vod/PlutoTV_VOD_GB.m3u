@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b74246601198001327cdf5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Extract
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61b74246601198001327cdf5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b8bb986011980013294814/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", The Nanny Diaries
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61b8bb986011980013294814/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b8bb9460119800132947c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", 1408
@@ -293,6 +295,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5be4224fd47a787b72
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5bab35e9f37b6526045fc5df/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5dcd94bcee33233f2ac2faa5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Action", T.N.T.
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dcd94bcee33233f2ac2faa5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b1f85a178ebd00137da482/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Sci Fi", Kin
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61b1f85a178ebd00137da482/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6110f49f94c1ec001376f11f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Sci Fi", Monsters
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6110f49f94c1ec001376f11f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6139c90c73f7ab0013a82baf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Sci Fi", Transference
@@ -679,6 +683,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61701dd3417e0a001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61701d790b4e8f001a97a5c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61701d67b8333a001ad89195/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="B Movies", I Bury The Living
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61701d67b8333a001ad89195/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b1f810eb667e0013a7f155/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Drama", The Glass Castle
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61b1f810eb667e0013a7f155/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b08d7ac323f20013e697e9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Drama", The Captain
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61b08d7ac323f20013e697e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b08d7dc323f20013e69824/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Drama", The Adventures Of Wolf Boy
