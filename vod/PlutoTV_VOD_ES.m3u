@@ -61,6 +61,12 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0386e79ba2f001a9eaa83.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0387e79ba2f001a9eac17.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c0388379ba2f001a9eac68/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nuevo en Pluto TV", Rinocerontes, la maldición del cuerno mágico
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0388379ba2f001a9eac68.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61aa2e4660119800132546ee/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Motorway
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61aa2e4660119800132546ee.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f523c5fdb45a1001a79ad76/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Traidor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f523c5fdb45a1001a79ad76.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4f5eeb8a3001307b674/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Chocolate
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4f5eeb8a3001307b674.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d0438528f1d30013ed3f64/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", The Grandmaster
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0438528f1d30013ed3f64.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61aa2e37601198001325461c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Ip Man 3
@@ -79,16 +85,10 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4f5cdefa72a5001a5fd8d3.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4f5cf0fa72a5001a5fda18.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f929ad3fe51e4001aac9dc9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Bestia de carga
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f929ad3fe51e4001aac9dc9.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f523c5fdb45a1001a79ad76/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Traidor
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f523c5fdb45a1001a79ad76.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4e17f1fa72a5001a5fa195/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", 3:10 to Yuma
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e17f1fa72a5001a5fa195.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f562dfef7db51001a3c605a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Infalible
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f562dfef7db51001a3c605a.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61aa2e4660119800132546ee/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Motorway
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61aa2e4660119800132546ee.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4f5eeb8a3001307b674/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Chocolate
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4f5eeb8a3001307b674.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f562df4f7db51001a3c5fbd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", El último patriota
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f562df4f7db51001a3c5fbd.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4e183cfa72a5001a5fa6dd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Acción", Doble identidad
@@ -163,12 +163,12 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61894441836015001bd072dd.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e182dfa72a5001a5fa5bb.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f929aaefe51e4001aac9c66/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Sci-Fi", Poseido
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f929aaefe51e4001aac9c66.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/618263c1b5d0e9001a8ca993/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Comedia", Viaje a Italia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/618263c1b5d0e9001a8ca993.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d2d7c7fad1f80013b31c2a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Comedia", Crónicas diplomáticas
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d2d7c7fad1f80013b31c2a.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61fa460004ff25001a50f0cd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Comedia", La luna en directo
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61fa460004ff25001a50f0cd.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/618263c1b5d0e9001a8ca993/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Comedia", Viaje a Italia
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/618263c1b5d0e9001a8ca993.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/611a550f456b21001aa1a43e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Comedia", Amigos por siempre
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/611a550f456b21001aa1a43e.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4eacd8db45a1001a7951f0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Comedia", Mama's Boy
@@ -241,12 +241,12 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4b5f1161f1b1001afedc06.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e17f5fa72a5001a5fa1d3.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f69edb0e4b56900138a1ddc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Comedia", Pants On Fire
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f69edb0e4b56900138a1ddc.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f562df6f7db51001a3c5fda/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Romance", Fama
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f562df6f7db51001a3c5fda.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4e185bfa72a5001a5fa906/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Romance", Historias De Manhattan
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e185bfa72a5001a5fa906.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4e17f7fa72a5001a5fa1f0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Romance", Amanece En Edimburgo
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e17f7fa72a5001a5fa1f0.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f562df6f7db51001a3c5fda/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Romance", Fama
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f562df6f7db51001a3c5fda.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7192786c03610013ac0146/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Romance", Una novia muy especial
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f7192786c03610013ac0146.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f71927b6c03610013ac017c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Romance", Todos los días
@@ -373,6 +373,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/611f61e5a1920d001363cbca.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4f5cddfa72a5001a5fd8b6.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fe9af39636004001a794d45/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Aventuras", Una Momia Divertida: El Escarabajo Dorado
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fe9af39636004001a794d45.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61dec514635aeb001ac7d706/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Thriller", Cube
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61dec514635aeb001ac7d706.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4e1812fa72a5001a5fa3df/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Thriller", Betty Anne Waters
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e1812fa72a5001a5fa3df.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f562deaf7db51001a3c5f0f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Thriller", Crónica De Un Engaño
@@ -391,8 +393,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f620813fb35bf001af7c089.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61efeca46f81a5001bd3dbab.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61dec526635aeb001ac7d822/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Thriller", Pánico en el aire
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61dec526635aeb001ac7d822.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61dec514635aeb001ac7d706/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Thriller", Cube
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61dec514635aeb001ac7d706.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6189443d836015001bd072b3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Thriller", Todo por un Sueño
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6189443d836015001bd072b3.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4eac8cdb45a1001a79504a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Thriller", La isla de la niebla
@@ -573,6 +573,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0437b28f1d30013ed3cf0.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60dabf4eb8187f00136b2017.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d2d7c5fad1f80013b31b73/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Drama", En un mundo mejor
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d2d7c5fad1f80013b31b73.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d0437628f1d30013ed3c18/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", El amor es extraño
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0437628f1d30013ed3c18.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d0435628f1d30013ed3494/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", Después de la tormenta
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0435628f1d30013ed3494.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d2d7c7fad1f80013b31c2a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", Crónicas diplomáticas
@@ -583,8 +585,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d427a1b8187f00136a4141.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d2d7c5fad1f80013b31b73.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d18640d2de2a001300385f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", No
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d18640d2de2a001300385f.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d0437628f1d30013ed3c18/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", El amor es extraño
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0437628f1d30013ed3c18.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d18632d2de2a0013003599/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", Melancolía
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d18632d2de2a0013003599.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d2d7cdfad1f80013b32b9e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", En tránsito
@@ -659,8 +659,12 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d2d7c9fad1f80013b321de.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d18627d2de2a001300340b.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d2d7cffad1f80013b3305a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", Hedi
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d2d7cffad1f80013b3305a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaa9c74755c001a4c9942/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", Charada
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaa9c74755c001a4c9942.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4fbeeb8a3001307b6c4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", El carnaval de las almas
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4fbeeb8a3001307b6c4.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/617281e200d95f001a3bc609/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", Whistle Stop ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/617281e200d95f001a3bc609.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6189443a836015001bd0728d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", Breve encuentro
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6189443a836015001bd0728d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61bb4804b3ddda00136929f1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", La dinastía del petróleo
@@ -689,8 +693,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61bb4809b3ddda0013692ab4.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4e6eeb8a3001307b5aa.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61894447836015001bd07335/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", Las Zapatillas Rojas
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61894447836015001bd07335.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaa9c74755c001a4c9942/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", Charada
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaa9c74755c001a4c9942.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6114cd6fdf179f0013199224/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", Luna Nueva
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6114cd6fdf179f0013199224.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61640f8bf3593c001aa34d43/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", La última vez que vi París
@@ -781,8 +783,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaad274755c001a4ca08e.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61640f90f3593c001aa34dc5.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61640f8df3593c001aa34d86/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", The Lost World ES
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61640f8df3593c001aa34d86.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/617281e200d95f001a3bc609/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", Whistle Stop ES
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/617281e200d95f001a3bc609.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614d81deaeae500014d8f5d0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", Ayudando a la salud
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/614d81deaeae500014d8f5d0.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/616eb69a6b2c51001aebb4a9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", The Unholy Three ES
@@ -849,6 +849,18 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/614d81d7aeae500014d8f4f8.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/614d81daaeae500014d8f572.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61976d3f60119800131fab6b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Clásico", El Jorobado de Notre Dame
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61976d3f60119800131fab6b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/620cb9275231f2001385312b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Rize
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/620cb9275231f2001385312b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/620cb9245231f200138530ed/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Dietas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/620cb9245231f200138530ed.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c1dd9942817b001a8baf8e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", El Cid, La leyenda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c1dd9942817b001a8baf8e.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4f5cc9fa72a5001a5fd771/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Sicko
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4f5cc9fa72a5001a5fd771.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/611b67e4d367500014cc89c8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", ReMine. El último movimiento obrero
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/611b67e4d367500014cc89c8.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c0386e79ba2f001a9eaa83/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Alas para la historia, el rescate de un mito
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0386e79ba2f001a9eaa83.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614aee9faeae500014d86bf0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Hijos de Tesla
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/614aee9faeae500014d86bf0.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c1dd9242817b001a8baecb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Dark Star: El universo de H.R. Giger
@@ -859,8 +871,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/614aee7172d3a200132b825b.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61eed74f04ff25001a4eb743.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61ea6dd5161b65001a9c2b18/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Bully
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61ea6dd5161b65001a9c2b18.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c0386e79ba2f001a9eaa83/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Alas para la historia, el rescate de un mito
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0386e79ba2f001a9eaa83.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c0389b79ba2f001a9eaf5a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", La Joya y los gerreros de la niebla
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0389b79ba2f001a9eaf5a.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c0387279ba2f001a9eaad4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", La ruta Moche
@@ -869,8 +879,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0387279ba2f001a9eaad4.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61eed76d0a7fe8001a1474ac.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c0386879ba2f001a9ea9ad/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Perú milenario, la historia inexplorada
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0386879ba2f001a9ea9ad.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4f5cc9fa72a5001a5fd771/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Sicko
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4f5cc9fa72a5001a5fd771.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa3e1fbff9e43001a695e17/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Telaraña: El Segundo Imperio Británico
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fa3e1fbff9e43001a695e17.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7eeeae72d139001a18f4a4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", James Dean: El principito y el Pequeño Bastardo
@@ -885,16 +893,12 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61812b8252ed7b001b60db98.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/610bf37394c1ec00137656bf.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/610bf37694c1ec0013765746/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Oh, Dior!
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/610bf37694c1ec0013765746.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/611b67e4d367500014cc89c8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", ReMine. El último movimiento obrero
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/611b67e4d367500014cc89c8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f757a3d959dbf001a847e74/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Finding Oscar
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f757a3d959dbf001a847e74.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614071cebce9e9001359c02a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", La historia de Saturno V
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/614071cebce9e9001359c02a.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7eeeaa72d139001a18f46a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", ¿Por qué no estoy en Facebook?
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f7eeeaa72d139001a18f46a.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c1dd9942817b001a8baf8e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", El Cid, La leyenda
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c1dd9942817b001a8baf8e.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fad2c70f5c6ab001a345516/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", El Ataque de Troles
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fad2c70f5c6ab001a345516.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61812b8552ed7b001b60dbe3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine: Documental", Waco: El Asedio más Largo
