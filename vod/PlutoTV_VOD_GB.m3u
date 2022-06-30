@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5e1588aaf9d5a143af2c17fd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", The Ninth Gate
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e1588aaf9d5a143af2c17fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62bd50f32769bc00132853af/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Guardian
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62bd50f32769bc00132853af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b32f203434e300134d77ce/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Office Uprising
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b32f203434e300134d77ce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/629473569366e5001aee513d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", All Roads Lead To Rome
