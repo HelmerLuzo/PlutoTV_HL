@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b17369cb032400135164c6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", Zeros and Ones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b17369cb032400135164c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b17369cb032400135164c6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Zeros and Ones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b17369cb032400135164c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5da60fcf3f4823194b5fc4de/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Rapture-palooza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5da60fcf3f4823194b5fc4de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ea13a0bd427aa001a9234e7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", The Immigrant
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ea13a0bd427aa001a9234e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62aad0c30660b80013765bef/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Held Up
@@ -145,8 +151,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6215eba2e17acd0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6139c8ff73f7ab0013a82906/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6215eb98e17acd00139a9b6c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Phantom Racer
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6215eb98e17acd00139a9b6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6215eb95e17acd00139a9b46/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Murder In The Vineyard
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6215eb95e17acd00139a9b46/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6294726f7cf4eb001ab93377/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", Love at First Swipe
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6294726f7cf4eb001ab93377/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5d52e934059331d84055832b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Music", Elvis & The Memphis Mafia
@@ -263,6 +267,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60d59bed9abbef0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ed7f2234c9a50013f236fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6048ac35ffe774001ad5a03b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="80s VS 90s", The Runner
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6048ac35ffe774001ad5a03b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b17369cb032400135164c6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Action", Zeros and Ones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b17369cb032400135164c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61baeda9d0b6ab00139e87d9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Action", Universal Soldier III: Unfinished Business
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61baeda9d0b6ab00139e87d9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61b08ddec323f20013e6a361/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Action", 16 Blocks
