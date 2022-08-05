@@ -1,0 +1,111 @@
+{
+    "name": "PlutoTV AIO",
+    "author": "Helmer Luzo",
+    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
+    "url": "https://w3ubin.com/EYfHU0ULJ.w3u",
+    "groups": [
+        {
+            "name": "Televisión",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/ES/Maratones.png",
+            "groups": [
+                {
+                    "name": "España",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/es.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_TV_ES.w3u"
+                },
+                {
+                    "name": "Brasil",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/br.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_TV_BR.w3u"
+                },
+                {
+                    "name": "Canadá",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/ca.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_TV_CA.w3u"
+                },
+                {
+                    "name": "Alemania",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/de.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_TV_DE.w3u"
+                },
+                {
+                    "name": "Francia",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/fr.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_TV_FR.w3u"
+                },
+                {
+                    "name": "Reino Unido",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/gb.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_TV_GB.w3u"
+                },
+                {
+                    "name": "Italia",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/it.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_TV_IT.w3u"
+                },
+                {
+                    "name": "México",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/mx.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_TV_MX.w3u"
+                },
+                {
+                    "name": "USA",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/us.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_TV_US.w3u"
+                }
+            ]
+        },
+        {
+            "name": "Películas",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/ES/Peliculas.png",
+            "groups": [
+                {
+                    "name": "España",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/es.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_VOD_ES.w3u"
+                },
+                {
+                    "name": "Brasil",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/br.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_VOD_BR.w3u"
+                },
+                {
+                    "name": "Alemania",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/de.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_VOD_DE.w3u"
+                },
+                {
+                    "name": "Francia",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/fr.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_VOD_FR.w3u"
+                },
+                {
+                    "name": "Reino Unido",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/gb.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_VOD_GB.w3u"
+                },
+                {
+                    "name": "México",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/mx.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_VOD_MX.w3u"
+                },
+                {
+                    "name": "USA",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/us.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_VOD_US.w3u"
+                }
+            ]
+        },
+        {
+            "name": "Series",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/ES/Series.png",
+            "groups": [
+                {
+                    "name": "España",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/es.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/series/w3u/PlutoTV_SERIES_ES.w3u"
+                }
+            ]
+        }
+    ]
+}
