@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b17369cb032400135164c6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", Zeros and Ones
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b17369cb032400135164c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62f50ba63568a9001bbb513e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", American Black Beauty
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62f50ba63568a9001bbb513e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62f50ba93568a9001bbb52ef/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Alien Apocalypse
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62f50ba93568a9001bbb52ef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62f0cfc4c24630001a5ec7aa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Merlin And The Book Of Beasts
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62f0cfc4c24630001a5ec7aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62f0e52ab80401001a2efce4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Mazes And Monsters
