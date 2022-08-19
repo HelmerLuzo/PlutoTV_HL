@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62849ca081ecb700134160c2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", Ennemis Jurés
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62849ca081ecb700134160c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b1cec5ba369d00134667b5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", Boston Streets
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b1cec5ba369d00134667b5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62849ca081ecb700134160c2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Ennemis Jurés
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62849ca081ecb700134160c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62f37f5ac24630001a5f7d2a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", La Mise Finale
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62f37f5ac24630001a5f7d2a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b194c61f287c00133d4880/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", A Star you cannot kill
@@ -19,8 +23,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b1cec5ba369d0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6299cf063434e3001345a3c4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62946f1bc6bf11001a0f5dcf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", THE PROFESSIONAL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62946f1bc6bf11001a0f5dcf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62849ca081ecb700134160c2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Ennemis Jurés
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62849ca081ecb700134160c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6299cf033434e3001345a354/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Secret Identity
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6299cf033434e3001345a354/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b16585cb03240013516153/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Sky Kids
