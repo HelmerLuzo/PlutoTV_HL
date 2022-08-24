@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b17369cb032400135164c6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", Zeros and Ones
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b17369cb032400135164c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63031c9e9bd9c6001b655ed4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Secrets of Chatsworth
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/63031c9e9bd9c6001b655ed4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63031c949bd9c6001b655d6c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Secrets of Althorp: The Spencers
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/63031c949bd9c6001b655d6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63031ca59bd9c6001b656041/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Secrets of Highclere Castle
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/63031ca59bd9c6001b656041/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62f50ba63568a9001bbb513e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", American Black Beauty
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62f50ba63568a9001bbb513e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62f50ba93568a9001bbb52ef/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Alien Apocalypse
@@ -169,10 +175,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6215eb95e17acd0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62188e08bea7d60013547b42/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62188e14bea7d60013547cbb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", A Star is born
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62188e14bea7d60013547cbb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6017b96c5777bb001aa9e9fa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", 42 Ways To Kill Hitler
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6017b96c5777bb001aa9e9fa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff2e13f05630c001a2e6317/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Featured", We Were Soldiers
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff2e13f05630c001a2e6317/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5b190d0eb0875c36c90c3d02/poster.jpeg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="TV: Paranormal", Alien Reptilian Legacy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5b190d0eb0875c36c90c3d02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/589e3e255d2facdab98d77fb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="TV: Paranormal", Alien Agenda Planet Earth
