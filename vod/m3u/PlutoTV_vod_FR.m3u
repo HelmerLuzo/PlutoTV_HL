@@ -59,7 +59,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/624d34a4d163000013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/624a923d6b411b00137bd213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62839568c51411001348eda8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", L'arnaqueuse
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62839568c51411001348eda8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61f39c98dae983001acac543/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Crypto FR
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61f39c98dae983001acac543/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Crypto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61f39c98dae983001acac543/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/612dfaf8dc29d20013b79b05/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Vice
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/612dfaf8dc29d20013b79b05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
@@ -539,8 +539,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6299cefa3434e30013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/610117bd0c13e6001319f6a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62285802562702001a82e2ee/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Sci-Fi", Battle Invasion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62285802562702001a82e2ee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61f39c98dae983001acac543/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Sci-Fi", Crypto FR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61f39c98dae983001acac543/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/612dfaf8dc29d20013b79b05/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Sci-Fi", Vice
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/612dfaf8dc29d20013b79b05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/622eebd0ffaf83001ad56f35/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Sci-Fi", Alien Predator
@@ -621,6 +619,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6110d3768a09390007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6110d5355e5ae000074256aa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6114d064ad40550013aaec7f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Sci-Fi", Apocalypse Los Angeles
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6114d064ad40550013aaec7f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61f39c98dae983001acac543/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Thrillers", Crypto
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61f39c98dae983001acac543/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62f37f5ac24630001a5f7d2a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Thrillers", La Mise Finale
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62f37f5ac24630001a5f7d2a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62946f1bc6bf11001a0f5dcf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Thrillers", THE PROFESSIONAL
