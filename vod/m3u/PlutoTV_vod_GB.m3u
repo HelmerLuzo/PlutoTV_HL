@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b17369cb032400135164c6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", Zeros and Ones
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b17369cb032400135164c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62f50b9e3568a9001bbb4830/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", When a Man Falls in the Forest
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62f50b9e3568a9001bbb4830/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6311d59e37c5800013b6dfb0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", The Immaculate Conception of Little Dizzle
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6311d59e37c5800013b6dfb0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6311d5aa37c5800013b6e16f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", The Taqwacores
@@ -29,8 +31,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/630c7a428e14850013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/630c7a348e148500138e63fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/630c7a378e148500138e6493/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", The Magnificent Texan
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/630c7a378e148500138e6493/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/630c7a558e148500138e8da1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Blood and Black Lace
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/630c7a558e148500138e8da1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/630c7a4d8e148500138e80a5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", Commando Leopard
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/630c7a4d8e148500138e80a5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/630c7a318e148500138e63dc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="New on Pluto TV", W Django!
@@ -861,6 +861,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62188e0cbea7d60013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62188e10bea7d60013547c73/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62469e1ba46b5d0013fd27e8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies: Classics", Black Beauty
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62469e1ba46b5d0013fd27e8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6305e380b80401001a335bbc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="B Movies", Iron Warrior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6305e380b80401001a335bbc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6110f7dbec6e1200142bfdb6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="B Movies", House on Haunted Hill
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6110f7dbec6e1200142bfdb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/610d0f90df179f0013172329/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="B Movies", The Little Shop of Horrors
