@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c234411f07220014c196c2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", Elizabeth II, le portrait FR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c234411f07220014c196c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62849cad81ecb70013416240/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", Le Cri du Faucon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62849cad81ecb70013416240/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61011649e4fa1a0014b8a15e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Open windows
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61011649e4fa1a0014b8a15e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61011773a5659300134e51f5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Windfighters : les guerriers du ciel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61011773a5659300134e51f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62849cad81ecb70013416240/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Le Cri du Faucon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62849cad81ecb70013416240/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6299cf063434e3001345a3c4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Haute Tension
@@ -175,6 +171,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61a73eaf91347f0013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a90456e2dd0001a0c2414/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/618a902fc85fe5001a732e30/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", alien tornado
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618a902fc85fe5001a732e30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/617679d295ce3f001a34765f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Commando d'élite
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/617679d295ce3f001a34765f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61dc12f9f30167001a69187f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Les Incontournables", Une ravissante idiote
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61dc12f9f30167001a69187f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/610116b094cf330013d17f63/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Les Incontournables", Vampires en toute intimité
@@ -183,14 +181,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/610116b094cf330013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6101169d74ed3c00147e900a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6103b0a35233ba00136beae6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Les Incontournables", L'ange et le mauvais garçon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6103b0a35233ba00136beae6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/631b2fecbb171a0013106e4b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="God Save the Queen", Royal Jewels
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/631b2fecbb171a0013106e4b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/631b2fc655ecdb0013d042b1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="God Save the Queen", An Extraordinary Queen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/631b2fc655ecdb0013d042b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/631b3988bc1f160013313ea8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="God Save the Queen", Kate A Young Queen in Waiting
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/631b3988bc1f160013313ea8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c234411f07220014c196c2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="God Save the Queen", Elizabeth II, le portrait FR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c234411f07220014c196c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61bc4d74f30167001a629e01/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cinéma", Officer Down
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61bc4d74f30167001a629e01/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/622857f0562702001a82e17a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cinéma", The Toll
@@ -321,8 +311,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/610117f494cf330013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62df8833997d57001390b7b3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62e229157abcdc0013a0934f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cinéma", Below the Beltway
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62e229157abcdc0013a0934f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61011773a5659300134e51f5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Action", Windfighters : les guerriers du ciel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61011773a5659300134e51f5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b194c21f287c00133d4858/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Action", 6 Bullets
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62b194c21f287c00133d4858/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62b194dd1f287c00133d4be2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Action", Braquage à la suédoise
