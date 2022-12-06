@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62df8833997d57001390b7b3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", F6: Twister
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62df8833997d57001390b7b3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/610117cbf36aad0014ff950d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Special id
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/610117cbf36aad0014ff950d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6375e99270e58e0013bf5db9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", The Fatal Raid
@@ -157,8 +159,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/622857ed562702001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6204c775a1a84900140654e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61f24f516f81a5001bd456d0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", Altamira
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61f24f516f81a5001bd456d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61f39c94dae983001acac4df/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nouveau en VOD", From Prada to Nada FR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61f39c94dae983001acac4df/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/606eda925426cf001a3a8c83/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Les Incontournables", Sommersby FR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606eda925426cf001a3a8c83/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/606eda885426cf001a3a8b9b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Les Incontournables", Ma super ex
