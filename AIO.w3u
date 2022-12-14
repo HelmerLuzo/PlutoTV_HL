@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV AIO by HL",
-    "author": "Actualizada 14/12/2022 08:38",
+    "author": "Actualizada 14/12/2022 08:26",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/AIO.w3u",
     "groups": [
@@ -14,6 +14,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_ES.w3u"
                 },
                 {
+                    "name": "Alemania",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/de.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_DE.w3u"
+                },
+                {
                     "name": "Brasil",
                     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/br.png",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_BR.w3u"
@@ -24,9 +29,9 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_CA.w3u"
                 },
                 {
-                    "name": "Alemania",
-                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/de.png",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_DE.w3u"
+                    "name": "Italia",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/it.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_IT.w3u"
                 },
                 {
                     "name": "Francia",
@@ -34,19 +39,14 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_FR.w3u"
                 },
                 {
-                    "name": "Reino Unido",
-                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/gb.png",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_GB.w3u"
-                },
-                {
-                    "name": "Italia",
-                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/it.png",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_IT.w3u"
-                },
-                {
                     "name": "México",
                     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/mx.png",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_MX.w3u"
+                },                
+                {
+                    "name": "Reino Unido",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/gb.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_GB.w3u"
                 },
                 {
                     "name": "USA",
