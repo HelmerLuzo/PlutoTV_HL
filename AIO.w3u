@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV AIO by HL",
-    "author": "Actualizada 14/12/2022 08:26",
+    "author": "Actualizada 14/12/2022-08:49",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/AIO.w3u",
     "groups": [
@@ -29,14 +29,14 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_CA.w3u"
                 },
                 {
-                    "name": "Italia",
-                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/it.png",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_IT.w3u"
-                },
-                {
                     "name": "Francia",
                     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/fr.png",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_FR.w3u"
+                },				
+                {
+                    "name": "Italia",
+                    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/it.png",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_IT.w3u"
                 },
                 {
                     "name": "México",
