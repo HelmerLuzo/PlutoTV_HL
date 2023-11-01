@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4e182efa72a5001a5fa5d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Hero Carousel", Darkness
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e182efa72a5001a5fa5d8.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/616698ea178213001ad6c595/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Trending", El archivo corso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/616698ea178213001ad6c595.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/616698ee178213001ad6c5fc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Trending", Dos colgados en Chicago (Los visitantes cruzan el charco)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/616698ee178213001ad6c5fc.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6086b37ac80199001ac6386d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Trending", Memorias de un zombie adolescente
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6086b37ac80199001ac6386d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6372298ccea64000135d61d1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Trending", Creepshow 2 ES
@@ -65,8 +69,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6114cd6bdf179f00131991cd.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c1dda942817b001a8bb0fb.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4e182dfa72a5001a5fa5bb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Halloween", Dagon, La Secta Del Mar
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e182dfa72a5001a5fa5bb.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c97ff21e500131cb61c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Halloween", Un cubo de sangre
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c97ff21e500131cb61c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4e9eeb8a3001307b5d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Halloween", El  fantasma invisible
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4e9eeb8a3001307b5d8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4fbeeb8a3001307b6c4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Halloween", El carnaval de las almas
@@ -203,8 +205,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/610bf38894c1ec0013765a68.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6114cd6fdf179f0013199224.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60dabf4ab8187f00136b1ef9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Top Cine", La caza
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60dabf4ab8187f00136b1ef9.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61894447836015001bd07335/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Top Cine", Las Zapatillas Rojas
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61894447836015001bd07335.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6076b662235736001ac442c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Top Cine", Brazil
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b662235736001ac442c1.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6076b67c235736001ac4453d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Top Cine", Leyenda
@@ -349,6 +349,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60057a1e813b2d001b6871ee.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63566c7157400d0013a9ae46.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63525bdfcfefb2001321050a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Acción", Catástrofe helada
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63525bdfcfefb2001321050a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/627b5b8ae500b000135db4e5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Acción", El jaguar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/627b5b8ae500b000135db4e5.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff4315b28abd1001a64062e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Acción", Megafault
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5ff4315b28abd1001a64062e.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61ea6ddb161b65001a9c2b72/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Acción", Dune
@@ -425,16 +427,12 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/618102f8436116001a0bbea1.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/628748bde6e53d0013676f4d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61640f8bf3593c001aa34d43/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Basadas en libros", La última vez que vi París
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61640f8bf3593c001aa34d43.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c8fff21e500131cb4c3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Basadas en libros", Kika Superbruja y el libro de los hechizos
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c8fff21e500131cb4c3.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaaae74755c001a4c9b97/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Basadas en libros", Adiós a las Armas
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaaae74755c001a4c9b97.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61ea6ddb161b65001a9c2b72/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Basadas en libros", Dune
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61ea6ddb161b65001a9c2b72.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4e3eeb8a3001307b584/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Basadas en libros", El ultimo hombre sobre la Tierra
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4e3eeb8a3001307b584.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c9cff21e500131cb6ce/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Basadas en libros", Kika Superbruja: El viaje a Mandolán
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c9cff21e500131cb6ce.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/653a1df03e6938001a3d1b91/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Thriller", El túnel
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653a1df03e6938001a3d1b91.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/653a2bf925fde2001a7b96b4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Thriller", Desierto de fuego
@@ -707,6 +705,10 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b6a8235736001ac44991.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/65002729f439aa00132c2812.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6086b37ac80199001ac6386d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedia", Memorias de un zombie adolescente
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6086b37ac80199001ac6386d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/616698ea178213001ad6c595/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedia", El archivo corso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/616698ea178213001ad6c595.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/616698ee178213001ad6c5fc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedia", Dos colgados en Chicago (Los visitantes cruzan el charco)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/616698ee178213001ad6c5fc.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6076b6a5235736001ac44939/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedia", El hombre que no sabía nada
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b6a5235736001ac44939.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6076b65b235736001ac4420d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedia", Al diablo con el diablo
@@ -893,10 +895,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d2d7c9fad1f80013b321de.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fe9b77b4aa70a001a4fd4a6.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4e1833fa72a5001a5fa62f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedia", Descubriendo El Amor
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e1833fa72a5001a5fa62f.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4b5f1161f1b1001afedc06/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedia", Today's Special
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4b5f1161f1b1001afedc06.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f69edb0e4b56900138a1ddc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedia", Pants On Fire
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f69edb0e4b56900138a1ddc.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d2d7c5fad1f80013b31b73/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", En un mundo mejor
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d2d7c5fad1f80013b31b73.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d18627d2de2a001300340b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", La mujer del chatarrero
@@ -1027,8 +1025,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d2d7c7fad1f80013b31c2a.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0437428f1d30013ed3b51.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62861ebea6d5630013068e64/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", Ficción
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62861ebea6d5630013068e64.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4d3eeb8a3001307b4d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", Una vida sencilla
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4d3eeb8a3001307b4d8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d0436228f1d30013ed3755/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", El amor es más fuerte que las bombas
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0436228f1d30013ed3755.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d0438c28f1d30013ed4161/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine de Autor", Tres caras
@@ -1063,12 +1059,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/653a330191ee7c001a2790b2.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/635671a1f2de430013c3d946.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/611f61e5a1920d001363cbca/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Beyond Beyond
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/611f61e5a1920d001363cbca.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61aa2e4460119800132546c8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Stubby, un héroe muy especial
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61aa2e4460119800132546c8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6076b685235736001ac44621/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Marmaduke
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b685235736001ac44621.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c6aff21e500131cb0a0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Animales en apuros
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c6aff21e500131cb0a0.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/637e1681d6253300132a920b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Aliens in the Attic
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/637e1681d6253300132a920b.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63b3eab16d793400134e7644/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Jóvenes Extraordinarios
@@ -1085,10 +1077,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b67c235736001ac4453d.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b6a816a6bb3b00147451dc.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63b6b63c501aab0013b8dea5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Vendaval 1
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b6b63c501aab0013b8dea5.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c8fff21e500131cb4c3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Kika Superbruja y el libro de los hechizos
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c8fff21e500131cb4c3.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c64ff21e500131cafaa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Mision Katmandú
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c64ff21e500131cafaa.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f69edb0e4b56900138a1ddc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Pants On Fire
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f69edb0e4b56900138a1ddc.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63b6ac49a6bb3b00147452f0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Vendaval 2
@@ -1105,12 +1093,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6299d347ba369d001340e3a8.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b3ea9d6d793400134e7268.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63b697316d793400134fb916/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Las Hermanas Vampiro
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b697316d793400134fb916.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c9cff21e500131cb6ce/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Kika Superbruja: El viaje a Mandolán
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c9cff21e500131cb6ce.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fe9b75c4aa70a001a4fd2ac/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Storm Y La Carta Prohibida De Lutero
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fe9b75c4aa70a001a4fd2ac.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61aa2e3060119800132545c4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Ana y Bruno
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61aa2e3060119800132545c4.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fe9b7a14aa70a001a4fd89f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Abulele
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fe9b7a14aa70a001a4fd89f.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63b698998ba71d0013ecebca/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Las Hermanas Vampiro 2
@@ -1125,8 +1109,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b6a3d9a6bb3b0014744fb9.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b6b4b986acfd001367049c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63b6b621501aab0013b8dcb1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Four Enchanted Sisters
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b6b621501aab0013b8dcb1.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c94ff21e500131cb5c5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Mafalda, la película
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c94ff21e500131cb5c5.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/628748b1e6e53d0013676398/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", Nocturna
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/628748b1e6e53d0013676398.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60cb5693adcfc00013d4f35f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Aventuras", La Historia de Wim de la A a la Z
@@ -1345,8 +1327,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0435128f1d30013ed3406.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60226332bffdfc001aa1df93.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4eaceddb45a1001a7952bb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Drama", Mi Vida Ahora
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4eaceddb45a1001a7952bb.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4d3eeb8a3001307b4d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Drama", Una vida sencilla
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4d3eeb8a3001307b4d8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62a9e1e165c30400136ada5a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Drama", Animales Heridos
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62a9e1e165c30400136ada5a.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d0438328f1d30013ed3ea1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Drama", Siempre Alice
@@ -1355,6 +1335,8 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d0438328f1d30013ed3ea1.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4f5cc1fa72a5001a5fd6d6.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60d427a3b8187f00136a41cc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Drama", Verano en Brooklyn
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d427a3b8187f00136a41cc.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4eacc4db45a1001a7950fe/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Drama", Little Fish
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4eacc4db45a1001a7950fe.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63ce68b2798844001b194615/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Peli y siestecita", Un amor de verano
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63ce68b2798844001b194615.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63d7c0b9e2a3e1001a7c5a2e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Peli y siestecita", Amor en pleno vuelo
@@ -1393,8 +1375,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b6fa694da5ab00130b16b1.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/636a6ef63cd246001343e17c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/618263c1b5d0e9001a8ca993/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Peli y siestecita", Viaje a Italia
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/618263c1b5d0e9001a8ca993.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61bb47f8b3ddda00136929ae/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Peli y siestecita", Sin novedad en el frente
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61bb47f8b3ddda00136929ae.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/639315374f35ef00136a81b5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Peli y siestecita", El jorobado de Notre Dame
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/639315374f35ef00136a81b5.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63d7b84c1fdb9b0013416f40/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Peli y siestecita", Navidad Vuelve A Casa
@@ -1449,8 +1429,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/618263c7b5d0e9001a8ca9ef.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/636e37dc36d64a0014593df8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/610bf38894c1ec0013765a68/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", El Tercer Hombre
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/610bf38894c1ec0013765a68.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61894447836015001bd07335/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Las Zapatillas Rojas
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61894447836015001bd07335.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/637227de1ac5b40013b77697/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Copacabana
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/637227de1ac5b40013b77697.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaaae74755c001a4c9b97/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Adiós a las Armas
@@ -1467,8 +1445,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61894434836015001bd07239.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61653f16a6e392001bc0a47d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63ce5edcb20b080013e41dd0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Así es mi Tierra
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63ce5edcb20b080013e41dd0.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61bb47f8b3ddda00136929ae/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Sin novedad en el frente
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61bb47f8b3ddda00136929ae.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6405a5f8aa6b7900130aba21/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", En Guerra con el Ejército
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6405a5f8aa6b7900130aba21.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4feeeb8a3001307b6ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Diez negritos
@@ -1479,8 +1455,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e1828fa72a5001a5fa564.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/636e431c576be6001373aeb3.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f562de7f7db51001a3c5ecf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Ayer, Hoy Y Mañana
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f562de7f7db51001a3c5ecf.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/618263cab5d0e9001a8caa1d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La Batalla del Rio de la Plata
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/618263cab5d0e9001a8caa1d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa28ac879094d001ae792ff/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", En Peligro de Muerte
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fa28ac879094d001ae792ff.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/636e448136d64a0014593ff7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Plein soleil ES
@@ -1537,8 +1511,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63ce5aa890b22500135f8fba.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/614d81e8aeae500014d8f73f.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/610bf37f94c1ec0013765937/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La Pequeña Tienda De Los Horrores
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/610bf37f94c1ec0013765937.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c97ff21e500131cb61c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Un cubo de sangre
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c97ff21e500131cb61c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61668aa1b8333a001ad6170d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", The Stranger NYX ES
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61668aa1b8333a001ad6170d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaac474755c001a4c9daf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", ¡El Gran McLintock!
@@ -1549,8 +1521,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61640f7cf3593c001aa34b25.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4d8eeb8a3001307b506.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa2881f184e2e001a7593a5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Dos Locos en Escena
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fa2881f184e2e001a7593a5.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4ddeeb8a3001307b534/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", El sureño
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4ddeeb8a3001307b534.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa28d256dcbef001bf50311/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Tin Tan y Las Modelos
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fa28d256dcbef001bf50311.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62a052e2cb032400134d6f37/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Aníbal
@@ -1563,8 +1533,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62a052e6cb032400134d7434.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62a052d5cb032400134d5f20.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61bb4804b3ddda00136929f1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La dinastía del petróleo
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61bb4804b3ddda00136929f1.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61bb4809b3ddda0013692ab4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La India en llamas
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61bb4809b3ddda0013692ab4.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c77ff21e500131cb250/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", El ladrón de cadáveres
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c77ff21e500131cb250.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa28c7188d408001aa90f9e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Los Desenfrenados
@@ -1583,8 +1551,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4e3eeb8a3001307b584.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaafd74755c001a4ca580.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c67ff21e500131cb06a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Sombras trágicas
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c67ff21e500131cb06a.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c74ff21e500131cb216/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Un gran reportaje
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c74ff21e500131cb216.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61640f8bf3593c001aa34d43/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La última vez que vi París
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61640f8bf3593c001aa34d43.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61640f7ef3593c001aa34b80/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Rain ES
@@ -1601,12 +1567,26 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c1dda942817b001a8bb0fb.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaa9f74755c001a4c999d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaaf674755c001a4ca41f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", El Extraño Amor de Martha Ivers
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaaf674755c001a4ca41f.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61aa2e3d6011980013254670/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La leyenda de un valiente
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61aa2e3d6011980013254670.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaaa274755c001a4c99f0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", El Desvío
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaaa274755c001a4c99f0.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a501eeb8a3001307b714/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La bestia de la cueva maldita
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a501eeb8a3001307b714.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61a4a4e9eeb8a3001307b5d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", El  fantasma invisible
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61a4a4e9eeb8a3001307b5d8.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaae874755c001a4ca294/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La tierra prometida
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaae874755c001a4ca294.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6114cd6bdf179f00131991cd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La Mansión de los Horrores
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6114cd6bdf179f00131991cd.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/617281df00d95f001a3bc546/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", The Proud Rebel ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/617281df00d95f001a3bc546.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaa9374755c001a4c9801/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", Ha Nacido una estrella
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaa9374755c001a4c9801.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/618263bdb5d0e9001a8ca971/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La Legión de los Hombres sin Alma
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/618263bdb5d0e9001a8ca971.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaaf874755c001a4ca47a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", El Terror
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaaf874755c001a4ca47a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/615eaaf374755c001a4ca3f8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Clásicos", La Casa Roja
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/615eaaf374755c001a4ca3f8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/636e448436d64a0014594072/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Western", A Través del Huracán
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/636e448436d64a0014594072.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/637226c41ac5b40013b7628f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Western", Billy Dos Sombreros
@@ -1745,8 +1725,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4948c261f1b1001afec84a.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fc527acce9667001a28ec11.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63b6a541501aab0013b8d69a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Romance", Un país en África
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/63b6a541501aab0013b8d69a.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c99ff21e500131cb673/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Romance", Cosecha amarga
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c99ff21e500131cb673.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6076b665235736001ac44321/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Romance", Más fuerte que su destino
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6076b665235736001ac44321.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/63566389f030950013a4d819/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Romance", El último vuelo
@@ -1785,8 +1763,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4f5ce8fa72a5001a5fd983.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60d18632d2de2a0013003599.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4e6f95db45a1001a793bae/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Romance", Sweet Home Carolina
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5f4e6f95db45a1001a793bae.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c91ff21e500131cb4f9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Romance", Con sangre y fuego
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c91ff21e500131cb4f9.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60cc7c62529bee00141df80f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Romance", El que caminaba solo
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60cc7c62529bee00141df80f.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f4ab3cdfa72a5001a5f7970/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Romance", Dance-Off
@@ -2297,8 +2273,6 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5fa3e1ffff9e43001a695e30.m3u
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0386479ba2f001a9ea96e.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61c0387e79ba2f001a9eac17/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Viajes", Georgia del Sur: Vida bajo los furiosos 50
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/61c0387e79ba2f001a9eac17.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62384c9cff21e500131cb6ce/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Viajes", Kika Superbruja: El viaje a Mandolán
-https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62384c9cff21e500131cb6ce.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60894a51aa1767001f294a26/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Motor", Road to Gymkhana Grid
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/60894a51aa1767001f294a26.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/608922dc3f06c5001a779a55/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Motor", Fast and Famous
