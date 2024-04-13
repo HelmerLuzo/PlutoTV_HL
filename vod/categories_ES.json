@@ -1,0 +1,626 @@
+[
+    {
+        "id": "6190405e35f3910007fc2bd3",
+        "name": "Nuevo en Pluto TV",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/6190405e35f3910007fc2bd3/pngImageUrl-1636843619230.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/6190405e35f3910007fc2bd3/svgImageUrl-1636843622893.svg"
+            }
+        ],
+        "channelIDs": [
+            "65ce480a78df2200131c597b",
+            "65cf6ab58145cb0008129ca8",
+            "65b91e530d9ab40008340d8d",
+            "65f96cd34e01740008ef1c97",
+            "65786abdb3801200084c593a"
+        ],
+        "channelSlugs": [
+            "pluto-tv-psycho-es",
+            "pluto-tv-series-criminales-es",
+            "al-salir-de-clase-es",
+            "realmadrid-tv-es",
+            "homeful-es"
+        ]
+    },
+    {
+        "id": "619041a006d23b0007375107",
+        "name": "Series",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/619041a006d23b0007375107/pngImageUrl-1674060403454.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/619041a006d23b0007375107/svgImageUrl-1674060464879.svg"
+            }
+        ],
+        "channelIDs": [
+            "657868a7a620e30008fdbfeb",
+            "619b7db4872c650008eb8b6a",
+            "60d3574e97f10800078455de",
+            "6245c2a5eec07b0007249fc8",
+            "6245c03922d9d4000760d205",
+            "60b4c06717da110007ee1af6",
+            "6475bfec536e0c0008858e9f",
+            "60dafb9a0df1ba000758d37b",
+            "5f1acc3e061597000768d4ea",
+            "5f1acc91cc9e1b000711ff21",
+            "5f9853138d19af0007104a8d",
+            "5f1abe3ffcd659000770d88d",
+            "5f1ac8f49205650007bc15f1",
+            "5f1acb4eebe0f0000767b40f"
+        ],
+        "channelSlugs": [
+            "embrujadas-es",
+            "pluto-tv-star-trek-es",
+            "doctor-who-es",
+            "sensacion-de-vivir-90210-es",
+            "melrose-place-es",
+            "pluto-tv-telenovelas-es",
+            "pluto-tv-k-drama-es",
+            "bbc-drama-es",
+            "andromeda-es",
+            "mutante-x-es",
+            "pluto-tv-series-comedia-es",
+            "la-chica-invisible-es",
+            "pluto-tv-series-es",
+            "las-reglas-del-juego-es"
+        ]
+    },
+    {
+        "id": "618c688c4b1ec000075bb27c",
+        "name": "Películas",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618c688c4b1ec000075bb27c/pngImageUrl-1637061091855.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618c688c4b1ec000075bb27c/svgImageUrl-1637061097845.svg"
+            }
+        ],
+        "channelIDs": [
+            "5f1ac1f1b66c76000790ef27",
+            "5f1ac2591dd8880007bb7d6d",
+            "6267d4d1fb694f0007a6af0e",
+            "65786888b228b7000843ad9a",
+            "5f6a38eaa5b68b0007a00e7a",
+            "5f1ac8099c49f600076579b2",
+            "655b5d865812e80008843bd1",
+            "6385e82900ab2e000768a058",
+            "5f1ac9a2d3611d0007a844bb",
+            "5f1ac8a87cd38d000745d7cf",
+            "5f1ac947dcd00d0007937c08",
+            "60cc807324d60a0007708dc8",
+            "61373bb45168fe000773eecd",
+            "6086d3f420fc8500075f8dbf",
+            "645a309c5a0cd5000873f609"
+        ],
+        "channelSlugs": [
+            "pluto-tv-cine-estelar-es",
+            "pluto-tv-cine-accion-es",
+            "pluto-tv-horror-es",
+            "pluto-tv-zombies-es",
+            "pluto-tv-sci-fi-es",
+            "pluto-tv-cine-comedia-es",
+            "pluto-tv-comedias-romanticas-es",
+            "pluto-tv-western-es",
+            "pluto-tv-cine-romantico-es",
+            "pluto-tv-thrillers-es",
+            "pluto-tv-cine-drama-es",
+            "pluto-tv-cine-de-autor-es",
+            "pluto-tv-cine-clasico-es",
+            "runtime-es",
+            "pluto-tv-catastrofes-es"
+        ]
+    },
+    {
+        "id": "619044a79541940007d1b7bf",
+        "name": "Crimen y Misterio",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/619044a79541940007d1b7bf/pngImageUrl-1637061163182.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/619044a79541940007d1b7bf/svgImageUrl-1637061157541.svg"
+            }
+        ],
+        "channelIDs": [
+            "5f984f4a09e92d0007d74647",
+            "5f1acba0d1f6340007db8843",
+            "5f1acbed25948a0007ffbe65",
+            "612ce5214bb5790007ad3016",
+            "654a35ce346f420008d5c36e",
+            "64a3f200f238ce0008d47247",
+            "60ed5fb9c4716d0007d180c5",
+            "6193963c5a960200074ce816",
+            "619b9f16b8fee4000832d447",
+            "5f1aca8310a30e00074fab92",
+            "6304f530440dc90007f514d3"
+        ],
+        "channelSlugs": [
+            "archivos-forenses-es",
+            "los-nuevos-detectives-es",
+            "los-archivos-del-fbi-es",
+            "pluto-tv-paranormal-es",
+            "pluto-tv-invasion-alien-es",
+            "pluto-tv-true-crime-es",
+            "cazador-de-homicidas-es",
+            "constance-meyer-jueza-en-practicas-es",
+            "el-detective-endeavour-es",
+            "los-asesinatos-de-midsomer-es",
+            "poirot-and-miss-marple-es"
+        ]
+    },
+    {
+        "id": "618dd0ed06d23b0007365e1a",
+        "name": "Entretenimiento",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618dd0ed06d23b0007365e1a/pngImageUrl-1637061236120.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618dd0ed06d23b0007365e1a/svgImageUrl-1637061230259.svg"
+            }
+        ],
+        "channelIDs": [
+            "6335a6b6e6f7a600076e589e",
+            "60218baa464ef900073168c1",
+            "65254e8d81f9420008342cee",
+            "6554bd45aa9ffb00088e5589",
+            "65a6884c07e03a00088e0d6e",
+            "65b3b6da4a10d800087d31ef",
+            "61b87bc867b03a0007864e0d",
+            "61b9edc4a4ca6100070bb407",
+            "60e4573c9f963e00077ecf25",
+            "60e45687313c5f0007bc8e94"
+        ],
+        "channelSlugs": [
+            "cazasubastas-es",
+            "empenos-a-lo-bestia-es",
+            "la-fiebre-del-jade-es",
+            "cops-es",
+            "pluto-tv-extremo-es",
+            "car-chase-es",
+            "pluto-tv-reality-es",
+            "ice-pilots-es",
+            "mi-extrana-obsesion-es",
+            "el-encantador-de-perros"
+        ]
+    },
+    {
+        "id": "62b42eccc0ecf10007d244fe",
+        "name": "Made in Spain",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/62b42eccc0ecf10007d244fe/pngImageUrl-1655975633216.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/62b42eccc0ecf10007d244fe/svgImageUrl-1655975635533.svg"
+            }
+        ],
+        "channelIDs": [
+            "60c343007bcabe0007242aa6",
+            "5f1abce155a03d0007718834",
+            "5f1acce7f17797000718f9be",
+            "5f1acd36779de70007a680d1",
+            "64c7b1582a7f220008a07a61",
+            "5f28009b150b2500077766b8",
+            "622f42b831233300078658cc",
+            "61922be835f3910007fc58f6"
+        ],
+        "channelSlugs": [
+            "el-comisario-es",
+            "comedia-made-in-spain-es",
+            "ana-y-los-7-es",
+            "curro-jimenez-es",
+            "atrapame-si-puedes-es",
+            "vaya-semanita-es",
+            "ciudadanos-por-el-mundo-es",
+            "en-el-punto-de-mira-es"
+        ]
+    },
+    {
+        "id": "63f8d911dff38e00082d8468",
+        "name": "Documental + Lifestyle",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/63f8d911dff38e00082d8468/pngImageUrl-1677252940707.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/63f8d911dff38e00082d8468/svgImageUrl-1677252937819.svg"
+            }
+        ],
+        "channelIDs": [
+            "5f1acdaa8ba90f0007d5e760",
+            "61cd7b49543066000713b620",
+            "64db2e0835425100080f2f5a",
+            "60c343ad476ec00007c2ec1a",
+            "61cd78920b90cb0007e28231",
+            "60dd6b1da79e4d0007309455",
+            "600ae6a78d801e0007117d21"
+        ],
+        "channelSlugs": [
+            "pluto-tv-cocina-es",
+            "pluto-tv-historia-es",
+            "pluto-tv-diseno-es",
+            "pluto-tv-viajes-es",
+            "pluto-tv-documentales-es",
+            "nature-time-es",
+            "pluto-tv-animales-es"
+        ]
+    },
+    {
+        "id": "63f8d964cb41a40008c915ad",
+        "name": "Motor + Deportes",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/63f8d964cb41a40008c915ad/pngImageUrl-1677252991306.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/63f8d964cb41a40008c915ad/svgImageUrl-1677252993468.svg"
+            }
+        ],
+        "channelIDs": [
+            "60d356a534f63f000850cdd7",
+            "6080345ebb49b90007ce0baf",
+            "6076c74daa05ac0007d0eb07",
+            "65c347ae3a116800078c93c5",
+            "5f1ac8588734f8000823b7de",
+            "648c2a27976ee900085a8524",
+            "654a5f7d4d6d8f00084ecaac",
+            "64c3af96e4391c0008e16d17",
+            "65251b51c52b3600083d2d9e",
+            "6080381ab7c9ea00074ec64c"
+        ],
+        "channelSlugs": [
+            "top-gear-es",
+            "pluto-tv-motor-es",
+            "tuning-es",
+            "monster-jam-es",
+            "pluto-tv-deportes-es",
+            "mypadel-tv-es",
+            "pfl-mma-es",
+            "unbeaten-sports-es",
+            "ultimate-classic-wrestling-es",
+            "world-poker-tour-es"
+        ]
+    },
+    {
+        "id": "619046504b1ec000075e2b5e",
+        "name": "MTV en Pluto TV",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/619046504b1ec000075e2b5e/pngImageUrl-1674059557697.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/619046504b1ec000075e2b5e/svgImageUrl-1674059559986.svg"
+            }
+        ],
+        "channelIDs": [
+            "63eb9495a8b227000841bf64",
+            "5f1aadf373bed3000794d1d7",
+            "5f1ab3c7778230000735cf41",
+            "62ac3d7dc23b400008ae5b5a",
+            "6130d8dc943001000708548d",
+            "627d3176d7dfa500077042f1",
+            "604f81a49ef73300070e554f",
+            "5f98537a5a4341000733aefe",
+            "611b87946b7f420007c22361"
+        ],
+        "channelSlugs": [
+            "mtv-verguenza-ajena-es",
+            "mtv-originals-es",
+            "mtv-catfish-tv-show-es",
+            "mtv-jerseys-es",
+            "mtv-realities-es",
+            "mtv-geordies-es",
+            "mtv-teen-mom-es",
+            "mtv-embarazada-a-los-16-es",
+            "mtv-tattoo-a-dos-es"
+        ]
+    },
+    {
+        "id": "618de65a4b1ec000075d3d6e",
+        "name": "Animación",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618de65a4b1ec000075d3d6e/pngImageUrl-1637061204622.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618de65a4b1ec000075d3d6e/svgImageUrl-1637061199067.svg"
+            }
+        ],
+        "channelIDs": [
+            "628751bb7154a40007168843",
+            "63d7a8e5a9957100086bfc23",
+            "65819cb3a620e300080f63bd",
+            "629a066860ef810008267b70",
+            "63eb96754e83e70008ab8941",
+            "632c6df43d2bc5000751f621",
+            "608035b8d8705f0007260287",
+            "61373f1a12dd9f00077dcd6f",
+            "61373c865ed5810007173fbc"
+        ],
+        "channelSlugs": [
+            "south-park-es",
+            "south-park-version-original-es",
+            "sakura-cazadora-de-cartas-es",
+            "detective-conan-es",
+            "yu-gi-oh-es",
+            "inazuma-eleven-es",
+            "pluto-tv-anime-es",
+            "las-tortugas-ninja-es",
+            "avatar-es"
+        ]
+    },
+    {
+        "id": "619064b16d03190008131dff",
+        "name": "Risa fácil",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/619064b16d03190008131dff/pngImageUrl-1637083539129.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/619064b16d03190008131dff/svgImageUrl-1636852978355.svg"
+            }
+        ],
+        "channelIDs": [
+            "5f1abf5fafb5ee0007d4d0ca",
+            "604f8125c6669b00077f7699",
+            "5f1abf097eb06300079b30f7",
+            "60a286daf888610007669801"
+        ],
+        "channelSlugs": [
+            "fail-army-es",
+            "wipeout-es",
+            "the-pet-collective-es",
+            "just-for-laughs-es"
+        ]
+    },
+    {
+        "id": "618dd25c4b1ec000075d3b76",
+        "name": "Noticias",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618dd25c4b1ec000075d3b76/pngImageUrl-1671096257423.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618dd25c4b1ec000075d3b76/svgImageUrl-1671096261313.svg"
+            }
+        ],
+        "channelIDs": [
+            "60d3583ef310610007fb02b1",
+            "6231ede1be5b460007f91bc1"
+        ],
+        "channelSlugs": [
+            "euronews-es",
+            "cbs-news-es"
+        ]
+    },
+    {
+        "id": "618c488f9541940007cec34c",
+        "name": "Música",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618c488f9541940007cec34c/pngImageUrl-1637061282789.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618c488f9541940007cec34c/svgImageUrl-1637061277745.svg"
+            }
+        ],
+        "channelIDs": [
+            "6076cd1df8576d0007c82193",
+            "60a26a056d55b30007918d5a",
+            "61ea759737679900078ff559",
+            "62444f34ea3ade0007ade6ac",
+            "64db35b44c5ed80008f6a3ed",
+            "656de9944261ca0008390942",
+            "60c8b3ddaaf9d4000780066f",
+            "60f16986acb81b0007c384ac"
+        ],
+        "channelSlugs": [
+            "vh1-classics-es",
+            "mtv-music-made-in-spain-es",
+            "mtv-party-music-es",
+            "mtv-urban-music-es",
+            "yo-mtv-raps-classic-es",
+            "mtv-movie-hits-es",
+            "pluto-tv-k-pop-es",
+            "qello-concerts-es"
+        ]
+    },
+    {
+        "id": "618dd5b05a960200074ac814",
+        "name": "Infantil",
+        "images": [
+            {
+                "type": "pngImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618dd5b05a960200074ac814/pngImageUrl-1637061298531.png"
+            },
+            {
+                "type": "svgImage",
+                "style": "square",
+                "ratio": 1,
+                "defaultWidth": 90,
+                "defaultHeight": 90,
+                "url": "https://images.pluto.tv/maincategory/618dd5b05a960200074ac814/svgImageUrl-1637061293608.svg"
+            }
+        ],
+        "channelIDs": [
+            "5f1aca0b4e448e00075e7c5e",
+            "6304f626d1a0ac00083a05c5",
+            "610c09219fc0430007a3fce6",
+            "63c69c87808b740007599fe1",
+            "5f1aab1d29b39600073e243f",
+            "624466b26ab25e0007dd7cfb",
+            "609e7e423e9173000706a681",
+            "645a30f6f3f5b1000864ac04",
+            "5f1aa9bcd8160700076d45d1",
+            "6523f672a6c38300088cb807",
+            "5f1aabee6f4a2c00076a322c",
+            "6228b6a38717420007375848",
+            "60016a60a8e3520008e0d331",
+            "63eb944dc111bc0008fe7021",
+            "5f1aa7aab66c76000790ee7e",
+            "6511a5d8d1f20c000864b951",
+            "6511a53f473a54000854e2ee",
+            "6181404ef48321000797bc41"
+        ],
+        "channelSlugs": [
+            "bob-esponja-es",
+            "los-padrinos-magicos-es",
+            "rugrats-es",
+            "erase-una-vez-es",
+            "pluto-tv-kids-es",
+            "dora-la-exploradora-es",
+            "pluto-tv-toons-clasico-es",
+            "las-tres-mellizas-es",
+            "pluto-tv-junior-es",
+            "el-reino-infantil-es",
+            "pluto-tv-animakids-es",
+            "pluto-tv-kids-ukraine-es",
+            "pluto-tv-teen-stars-es",
+            "pluto-tv-teen-es",
+            "big-time-rush-es",
+            "victorious-es",
+            "zoey-101-es",
+            "icarly-es"
+        ]
+    }
+]
