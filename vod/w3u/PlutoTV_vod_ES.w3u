@@ -1,56 +1,9 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 14/04/2024 19:22",
+    "author": "Actualizada 14/04/2024 19:29",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
-        {
-            "name": "Hero Carousel",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/6138d0a2c999db0007ba50ad.png",
-            "stations": [
-                {
-                    "name": "El Doctor de la Felicidad",
-                    "image": "https://images.pluto.tv/episodes/655ccb91d68a20001305ac4d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655ccb91d68a20001305ac4d.m3u8"
-                },
-                {
-                    "name": "Detective Dee y el misterio de la llama fantasma",
-                    "image": "https://images.pluto.tv/episodes/65c5ec6b5884b400132f39a4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5ec6b5884b400132f39a4.m3u8"
-                },
-                {
-                    "name": "Diarios de motocicleta",
-                    "image": "https://images.pluto.tv/episodes/65c5e55ad22ce50014380047/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5e55ad22ce50014380047.m3u8"
-                }
-            ]
-        },
-        {
-            "name": "Trending",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f524b7ad4403a00072b6ea5.png",
-            "stations": [
-                {
-                    "name": "La Novia De Mis Sueños",
-                    "image": "https://images.pluto.tv/episodes/5f4eac7cdb45a1001a794fd2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4eac7cdb45a1001a794fd2.m3u8"
-                },
-                {
-                    "name": "Detective Dee y el misterio de la llama fantasma",
-                    "image": "https://images.pluto.tv/episodes/65c5ec6b5884b400132f39a4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5ec6b5884b400132f39a4.m3u8"
-                },
-                {
-                    "name": "Hijos de Dune",
-                    "image": "https://images.pluto.tv/episodes/654a309a727df0001a281d6d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a309a727df0001a281d6d.m3u8"
-                },
-                {
-                    "name": "Dune",
-                    "image": "https://images.pluto.tv/episodes/61ea6ddb161b65001a9c2b72/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61ea6ddb161b65001a9c2b72.m3u8"
-                }
-            ]
-        },
         {
             "name": "En la mente del asesino",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/66140ef377e4db0013ffec57.png",
