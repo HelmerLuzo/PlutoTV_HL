@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 15/04/2024 10:30",
+    "author": "Actualizada 15/04/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -9,9 +9,9 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/66140ef377e4db0013ffec57.png",
             "stations": [
                 {
-                    "name": "Fear X",
-                    "image": "https://images.pluto.tv/episodes/655c77322f9f5b0013eca968/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c77322f9f5b0013eca968.m3u8"
+                    "name": "Juego asesino",
+                    "image": "https://images.pluto.tv/episodes/63d7b6fd5957f2001315ff13/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b6fd5957f2001315ff13.m3u8"
                 },
                 {
                     "name": "Palabras Encadenadas",
@@ -22,6 +22,16 @@
                     "name": "The Hitch-Hiker ES",
                     "image": "https://images.pluto.tv/episodes/6372336c9debef0013b5f098/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372336c9debef0013b5f098.m3u8"
+                },
+                {
+                    "name": "Fear X",
+                    "image": "https://images.pluto.tv/episodes/655c77322f9f5b0013eca968/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c77322f9f5b0013eca968.m3u8"
+                },
+                {
+                    "name": "Cube",
+                    "image": "https://images.pluto.tv/episodes/61dec514635aeb001ac7d706/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61dec514635aeb001ac7d706.m3u8"
                 },
                 {
                     "name": "Ausentes",
@@ -37,16 +47,6 @@
                     "name": "Un cubo de sangre",
                     "image": "https://images.pluto.tv/episodes/62384c97ff21e500131cb61c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c97ff21e500131cb61c.m3u8"
-                },
-                {
-                    "name": "Juego asesino",
-                    "image": "https://images.pluto.tv/episodes/63d7b6fd5957f2001315ff13/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b6fd5957f2001315ff13.m3u8"
-                },
-                {
-                    "name": "Cube",
-                    "image": "https://images.pluto.tv/episodes/61dec514635aeb001ac7d706/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61dec514635aeb001ac7d706.m3u8"
                 },
                 {
                     "name": "Cube 2 Hypercube",
