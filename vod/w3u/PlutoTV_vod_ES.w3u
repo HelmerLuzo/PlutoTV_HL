@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 17/04/2024 10:30",
+    "author": "Actualizada 17/04/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -104,6 +104,16 @@
             "name": "Made in Spain",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/624456b133a1e50007cb762a.png",
             "stations": [
+                {
+                    "name": "El cochecito",
+                    "image": "https://images.pluto.tv/episodes/661d220c0fb7c10013c9118d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8"
+                },
+                {
+                    "name": "Los golfos",
+                    "image": "https://images.pluto.tv/episodes/661be2cdb4334b00130f837f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8"
+                },
                 {
                     "name": "El Concursante",
                     "image": "https://images.pluto.tv/episodes/5f6207fcfb35bf001af7bef9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -215,6 +225,16 @@
             "name": "Nuevo en Pluto TV",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
+                {
+                    "name": "El cochecito",
+                    "image": "https://images.pluto.tv/episodes/661d220c0fb7c10013c9118d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8"
+                },
+                {
+                    "name": "Los golfos",
+                    "image": "https://images.pluto.tv/episodes/661be2cdb4334b00130f837f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8"
+                },
                 {
                     "name": "La Novia De Mis Sueños",
                     "image": "https://images.pluto.tv/episodes/5f4eac7cdb45a1001a794fd2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1538,6 +1558,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f61dfde1ad8fd000795cbd4.png",
             "stations": [
                 {
+                    "name": "El cochecito",
+                    "image": "https://images.pluto.tv/episodes/661d220c0fb7c10013c9118d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8"
+                },
+                {
                     "name": "La Novia De Mis Sueños",
                     "image": "https://images.pluto.tv/episodes/5f4eac7cdb45a1001a794fd2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4eac7cdb45a1001a794fd2.m3u8"
@@ -1928,6 +1953,11 @@
             "name": "Cine de Autor",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/610bf290ce15940007813e5c.png",
             "stations": [
+                {
+                    "name": "Los golfos",
+                    "image": "https://images.pluto.tv/episodes/661be2cdb4334b00130f837f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8"
+                },
                 {
                     "name": "Diarios de motocicleta",
                     "image": "https://images.pluto.tv/episodes/65c5e55ad22ce50014380047/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -2421,6 +2451,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62861eb7a6d56300130687b2.m3u8"
                 },
                 {
+                    "name": "Los golfos",
+                    "image": "https://images.pluto.tv/episodes/661be2cdb4334b00130f837f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8"
+                },
+                {
                     "name": "El Espía Honesto",
                     "image": "https://images.pluto.tv/episodes/641041695c57fb001388c544/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/641041695c57fb001388c544.m3u8"
@@ -2887,6 +2922,11 @@
             "name": "Clásicos",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/61640e0c17016d0007f78e86.png",
             "stations": [
+                {
+                    "name": "El cochecito",
+                    "image": "https://images.pluto.tv/episodes/661d220c0fb7c10013c9118d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8"
+                },
                 {
                     "name": "El ministerio del miedo",
                     "image": "https://images.pluto.tv/episodes/64fee257f64f180013aeacd6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -3381,11 +3421,6 @@
                     "name": "La mujer avispa",
                     "image": "https://images.pluto.tv/episodes/62384c6cff21e500131cb0f7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c6cff21e500131cb0f7.m3u8"
-                },
-                {
-                    "name": "El Día de los Forajidos",
-                    "image": "https://images.pluto.tv/episodes/636e37de36d64a0014593ed3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e37de36d64a0014593ed3.m3u8"
                 }
             ]
         },
@@ -4452,6 +4487,16 @@
             "name": "Películas Made in Spain",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/64709a6fa51cb80008bcbb1f.png",
             "stations": [
+                {
+                    "name": "El cochecito",
+                    "image": "https://images.pluto.tv/episodes/661d220c0fb7c10013c9118d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8"
+                },
+                {
+                    "name": "Los golfos",
+                    "image": "https://images.pluto.tv/episodes/661be2cdb4334b00130f837f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8"
+                },
                 {
                     "name": "Tapas",
                     "image": "https://images.pluto.tv/episodes/62876af6e26cc40014b2af56/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
