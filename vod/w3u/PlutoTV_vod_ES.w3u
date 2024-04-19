@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 19/04/2024 10:30",
+    "author": "Actualizada 19/04/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -8,16 +8,6 @@
             "name": "En la mente del asesino",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/66140ef377e4db0013ffec57.png",
             "stations": [
-                {
-                    "name": "Juego asesino",
-                    "image": "https://images.pluto.tv/episodes/63d7b6fd5957f2001315ff13/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b6fd5957f2001315ff13.m3u8"
-                },
-                {
-                    "name": "Palabras Encadenadas",
-                    "image": "https://images.pluto.tv/episodes/628748ade6e53d0013675d0b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748ade6e53d0013675d0b.m3u8"
-                },
                 {
                     "name": "The Hitch-Hiker ES",
                     "image": "https://images.pluto.tv/episodes/6372336c9debef0013b5f098/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -29,14 +19,24 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c77322f9f5b0013eca968.m3u8"
                 },
                 {
-                    "name": "Cube",
-                    "image": "https://images.pluto.tv/episodes/61dec514635aeb001ac7d706/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61dec514635aeb001ac7d706.m3u8"
+                    "name": "Juego asesino",
+                    "image": "https://images.pluto.tv/episodes/63d7b6fd5957f2001315ff13/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b6fd5957f2001315ff13.m3u8"
                 },
                 {
                     "name": "Ausentes",
                     "image": "https://images.pluto.tv/episodes/62b479e1cb0324001353e3ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479e1cb0324001353e3ea.m3u8"
+                },
+                {
+                    "name": "Palabras Encadenadas",
+                    "image": "https://images.pluto.tv/episodes/628748ade6e53d0013675d0b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748ade6e53d0013675d0b.m3u8"
+                },
+                {
+                    "name": "Cube",
+                    "image": "https://images.pluto.tv/episodes/61dec514635aeb001ac7d706/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61dec514635aeb001ac7d706.m3u8"
                 },
                 {
                     "name": "Las Apariencias",
@@ -4037,6 +4037,16 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/64abe5a7bc3ab400083902ab.png",
             "stations": [
                 {
+                    "name": "El joven Detective Dee. El poder del dragón marino",
+                    "image": "https://images.pluto.tv/episodes/65c5e563d22ce500143801f2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5e563d22ce500143801f2.m3u8"
+                },
+                {
+                    "name": "Detective Dee y el misterio de la llama fantasma",
+                    "image": "https://images.pluto.tv/episodes/65c5ec6b5884b400132f39a4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5ec6b5884b400132f39a4.m3u8"
+                },
+                {
                     "name": "Asesinato Justo",
                     "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
@@ -4063,39 +4073,9 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/659686a932c1b30008cba1e0.png",
             "stations": [
                 {
-                    "name": "Extraterrestres Ancestrales: El Origen de la Humanidad",
-                    "image": "https://images.pluto.tv/episodes/653f6c5e727df0001a9b7074/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6c5e727df0001a9b7074.m3u8"
-                },
-                {
-                    "name": "Proyecto Serpo",
-                    "image": "https://images.pluto.tv/episodes/653b7fc725fde2001a8f3a3b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b7fc725fde2001a8f3a3b.m3u8"
-                },
-                {
-                    "name": "Base De Dulce: Los Nuevos Illuminati",
-                    "image": "https://images.pluto.tv/episodes/653f698e4827fc001ab99583/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f698e4827fc001ab99583.m3u8"
-                },
-                {
-                    "name": "Hopkinsville: Los Duendes Extraterrestres",
-                    "image": "https://images.pluto.tv/episodes/653f71fc727df0001a9b744e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f71fc727df0001a9b744e.m3u8"
-                },
-                {
-                    "name": "Los Testigos: Encuentros con Antiguos Alienígenas ES",
-                    "image": "https://images.pluto.tv/episodes/6540c9333e6938001a81ae3a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6540c9333e6938001a81ae3a.m3u8"
-                },
-                {
-                    "name": "La Batalla OVNI de Los Ángeles",
-                    "image": "https://images.pluto.tv/episodes/653b921b3e6938001a521e93/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b921b3e6938001a521e93.m3u8"
-                },
-                {
-                    "name": "Encubrimientos y Conspiraciones: El Globo Espía Chino",
-                    "image": "https://images.pluto.tv/episodes/653b7ff005bcdf001abfd574/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b7ff005bcdf001abfd574.m3u8"
+                    "name": "Extraterrestres en la URSS",
+                    "image": "https://images.pluto.tv/episodes/653b92fa2a6001001a569079/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b92fa2a6001001a569079.m3u8"
                 },
                 {
                     "name": "Roswell: La Verdad No Revelada ES",
@@ -4103,14 +4083,44 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6540ca858026ff001af4e886.m3u8"
                 },
                 {
-                    "name": "Extraterrestres en la URSS",
-                    "image": "https://images.pluto.tv/episodes/653b92fa2a6001001a569079/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b92fa2a6001001a569079.m3u8"
+                    "name": "Proyecto Serpo",
+                    "image": "https://images.pluto.tv/episodes/653b7fc725fde2001a8f3a3b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b7fc725fde2001a8f3a3b.m3u8"
+                },
+                {
+                    "name": "Hopkinsville: Los Duendes Extraterrestres",
+                    "image": "https://images.pluto.tv/episodes/653f71fc727df0001a9b744e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f71fc727df0001a9b744e.m3u8"
+                },
+                {
+                    "name": "Encubrimientos y Conspiraciones: El Globo Espía Chino",
+                    "image": "https://images.pluto.tv/episodes/653b7ff005bcdf001abfd574/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b7ff005bcdf001abfd574.m3u8"
                 },
                 {
                     "name": "El Incidente del Lago Falcon",
                     "image": "https://images.pluto.tv/episodes/653f6af13e6938001a752343/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6af13e6938001a752343.m3u8"
+                },
+                {
+                    "name": "Base De Dulce: Los Nuevos Illuminati",
+                    "image": "https://images.pluto.tv/episodes/653f698e4827fc001ab99583/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f698e4827fc001ab99583.m3u8"
+                },
+                {
+                    "name": "Extraterrestres Ancestrales: El Origen de la Humanidad",
+                    "image": "https://images.pluto.tv/episodes/653f6c5e727df0001a9b7074/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6c5e727df0001a9b7074.m3u8"
+                },
+                {
+                    "name": "La Batalla OVNI de Los Ángeles",
+                    "image": "https://images.pluto.tv/episodes/653b921b3e6938001a521e93/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b921b3e6938001a521e93.m3u8"
+                },
+                {
+                    "name": "Los Testigos: Encuentros con Antiguos Alienígenas ES",
+                    "image": "https://images.pluto.tv/episodes/6540c9333e6938001a81ae3a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6540c9333e6938001a81ae3a.m3u8"
                 },
                 {
                     "name": "Extraterrestres entre Nosotros: La Teoría de Michael Wolf",
