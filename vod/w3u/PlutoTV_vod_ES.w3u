@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 22/04/2024 10:30",
+    "author": "Actualizada 22/04/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -307,6 +307,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/62d949808f6f0d00079962aa.png",
             "stations": [
                 {
+                    "name": "Antes del anochecer",
+                    "image": "https://images.pluto.tv/episodes/65c4a78d2e62fe00130057cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c4a78d2e62fe00130057cb.m3u8"
+                },
+                {
                     "name": "Diarios de motocicleta",
                     "image": "https://images.pluto.tv/episodes/65c5e55ad22ce50014380047/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5e55ad22ce50014380047.m3u8"
@@ -315,11 +320,6 @@
                     "name": "Dune",
                     "image": "https://images.pluto.tv/episodes/61ea6ddb161b65001a9c2b72/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61ea6ddb161b65001a9c2b72.m3u8"
-                },
-                {
-                    "name": "Antes del anochecer",
-                    "image": "https://images.pluto.tv/episodes/65c4a78d2e62fe00130057cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c4a78d2e62fe00130057cb.m3u8"
                 },
                 {
                     "name": "Caché (Escondido)",
@@ -805,11 +805,6 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/6220a6d701d4b70007acc4d2.png",
             "stations": [
                 {
-                    "name": "Diarios de motocicleta",
-                    "image": "https://images.pluto.tv/episodes/65c5e55ad22ce50014380047/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5e55ad22ce50014380047.m3u8"
-                },
-                {
                     "name": "Dune",
                     "image": "https://images.pluto.tv/episodes/61ea6ddb161b65001a9c2b72/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61ea6ddb161b65001a9c2b72.m3u8"
@@ -853,6 +848,11 @@
                     "name": "Rebelde Entre el Centeno",
                     "image": "https://images.pluto.tv/episodes/62876b1ce26cc40014b2ccec/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b1ce26cc40014b2ccec.m3u8"
+                },
+                {
+                    "name": "Diarios de motocicleta",
+                    "image": "https://images.pluto.tv/episodes/65c5e55ad22ce50014380047/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5e55ad22ce50014380047.m3u8"
                 },
                 {
                     "name": "The Road",
@@ -920,6 +920,11 @@
             "name": "Thriller",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f689fb9c653fb00077493f7.png",
             "stations": [
+                {
+                    "name": "El pozo: Hay cosas que preferirías no saber",
+                    "image": "https://images.pluto.tv/episodes/6356622b5332160013405d7d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6356622b5332160013405d7d.m3u8"
+                },
                 {
                     "name": "11:14 Destino fatal",
                     "image": "https://images.pluto.tv/episodes/65c7421a2e62fe001322faa4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1024,11 +1029,6 @@
                     "name": "Mobius",
                     "image": "https://images.pluto.tv/episodes/5f929ab4fe51e4001aac9cbb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ab4fe51e4001aac9cbb.m3u8"
-                },
-                {
-                    "name": "El pozo: Hay cosas que preferirías no saber",
-                    "image": "https://images.pluto.tv/episodes/6356622b5332160013405d7d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6356622b5332160013405d7d.m3u8"
                 },
                 {
                     "name": "Cube",
@@ -1954,6 +1954,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/610bf290ce15940007813e5c.png",
             "stations": [
                 {
+                    "name": "Antes del anochecer",
+                    "image": "https://images.pluto.tv/episodes/65c4a78d2e62fe00130057cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c4a78d2e62fe00130057cb.m3u8"
+                },
+                {
                     "name": "Los golfos",
                     "image": "https://mam-assets.clusters.pluto.tv/assets/dbbfe510-71db-44ab-9324-db2755d3b1cf.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8"
@@ -1967,11 +1972,6 @@
                     "name": "Caché (Escondido)",
                     "image": "https://images.pluto.tv/episodes/65c5eaff79059800130367a9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5eaff79059800130367a9.m3u8"
-                },
-                {
-                    "name": "Antes del anochecer",
-                    "image": "https://images.pluto.tv/episodes/65c4a78d2e62fe00130057cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c4a78d2e62fe00130057cb.m3u8"
                 },
                 {
                     "name": "La caza",
@@ -3721,6 +3721,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68851dcd9c0900072bffa2.png",
             "stations": [
                 {
+                    "name": "Antes del anochecer",
+                    "image": "https://images.pluto.tv/episodes/65c4a78d2e62fe00130057cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c4a78d2e62fe00130057cb.m3u8"
+                },
+                {
                     "name": "La Novia De Mis Sueños",
                     "image": "https://images.pluto.tv/episodes/5f4eac7cdb45a1001a794fd2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4eac7cdb45a1001a794fd2.m3u8"
@@ -3729,11 +3734,6 @@
                     "name": "El novio de mi madre",
                     "image": "https://images.pluto.tv/episodes/65c5f4db9fa830001303f841/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5f4db9fa830001303f841.m3u8"
-                },
-                {
-                    "name": "Antes del anochecer",
-                    "image": "https://images.pluto.tv/episodes/65c4a78d2e62fe00130057cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c4a78d2e62fe00130057cb.m3u8"
                 },
                 {
                     "name": "New York, I Love You",
