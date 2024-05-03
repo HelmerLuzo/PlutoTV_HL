@@ -1,9 +1,55 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 03/05/2024 10:30",
+    "author": "Actualizada 03/05/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
+        {
+            "name": "Dia de la Madre",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/6634aead2dd4f30013cb9605.png",
+            "stations": [
+                {
+                    "name": "Siempre Alice",
+                    "image": "https://images.pluto.tv/episodes/60d0438328f1d30013ed3ea1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d0438328f1d30013ed3ea1.m3u8"
+                },
+                {
+                    "name": "La decisión de Sophie",
+                    "image": "https://images.pluto.tv/episodes/62384c84ff21e500131cb334/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c84ff21e500131cb334.m3u8"
+                },
+                {
+                    "name": "El novio de mi madre",
+                    "image": "https://images.pluto.tv/episodes/65c5f4db9fa830001303f841/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5f4db9fa830001303f841.m3u8"
+                },
+                {
+                    "name": "Un Trabajo Embarazoso",
+                    "image": "https://images.pluto.tv/episodes/5f4f5ce9fa72a5001a5fd9a0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5ce9fa72a5001a5fd9a0.m3u8"
+                },
+                {
+                    "name": "Tres solteros y un biberón",
+                    "image": "https://images.pluto.tv/episodes/635667c1f92dc200149ce89c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/635667c1f92dc200149ce89c.m3u8"
+                },
+                {
+                    "name": "Foto de Familia",
+                    "image": "https://images.pluto.tv/episodes/6299d344ba369d001340e338/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d344ba369d001340e338.m3u8"
+                },
+                {
+                    "name": "Amazing Grace",
+                    "image": "https://images.pluto.tv/episodes/6543b3d8a78f0d001a80ff08/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6543b3d8a78f0d001a80ff08.m3u8"
+                },
+                {
+                    "name": "Kate, A Young Queen in Waiting",
+                    "image": "https://images.pluto.tv/episodes/631b397790490b00141aa866/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/631b397790490b00141aa866.m3u8"
+                }
+            ]
+        },
         {
             "name": "En la mente del asesino",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/66140ef377e4db0013ffec57.png",
@@ -70,7 +116,7 @@
                 },
                 {
                     "name": "Ministry of Fear",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/cb2c04db-cfa5-4598-baa2-c7416661c5cc.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee257f64f180013aeacd6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee257f64f180013aeacd6.m3u8"
                 },
                 {
@@ -881,7 +927,7 @@
                 },
                 {
                     "name": "The Hunchback of Notre Dame",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/3ead6174-46f9-4c03-adae-fec255b41a68.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee68cf64f180013aeb187/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee68cf64f180013aeb187.m3u8"
                 },
                 {
@@ -1388,7 +1434,7 @@
                 },
                 {
                     "name": "Attack of the Killer Tomatoes!",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/03fc2d74-a992-4723-b57b-df8221c31e32.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fedcc0f6f05d00135e975e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fedcc0f6f05d00135e975e.m3u8"
                 },
                 {
@@ -1443,7 +1489,7 @@
                 },
                 {
                     "name": "Return of the Killer Tomatoes!",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/d74f373a-971c-4821-a25d-bdaceef15366.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee52bd65d070014fb1c4f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee52bd65d070014fb1c4f.m3u8"
                 },
                 {
@@ -1629,7 +1675,7 @@
                 },
                 {
                     "name": "La fórmula de la felicidad",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/1f201968-acce-4ee9-bda3-c46fc66a8f38.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/65002729f439aa00132c2812/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65002729f439aa00132c2812.m3u8"
                 },
                 {
@@ -1659,7 +1705,7 @@
                 },
                 {
                     "name": "Una Chica Bonita Como Tú",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/a47539d4-afc2-4406-84ed-071ea7077e74.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64d1fe78445a8a0013dcb96c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64d1fe78445a8a0013dcb96c.m3u8"
                 },
                 {
@@ -1924,12 +1970,12 @@
                 },
                 {
                     "name": "Attack of the Killer Tomatoes!",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/03fc2d74-a992-4723-b57b-df8221c31e32.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fedcc0f6f05d00135e975e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fedcc0f6f05d00135e975e.m3u8"
                 },
                 {
                     "name": "Return of the Killer Tomatoes!",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/d74f373a-971c-4821-a25d-bdaceef15366.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee52bd65d070014fb1c4f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee52bd65d070014fb1c4f.m3u8"
                 }
             ]
@@ -2055,7 +2101,7 @@
                 },
                 {
                     "name": "The Pit and the Pendulum",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/fac2ccee-3bff-4877-bbcf-85315d3d6167.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee3c2cecd3f0013321b27/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee3c2cecd3f0013321b27.m3u8"
                 },
                 {
@@ -2914,7 +2960,7 @@
                 },
                 {
                     "name": "Ministry of Fear",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/cb2c04db-cfa5-4598-baa2-c7416661c5cc.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee257f64f180013aeacd6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee257f64f180013aeacd6.m3u8"
                 },
                 {
@@ -2959,7 +3005,7 @@
                 },
                 {
                     "name": "The Prize",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/23bbc332-9ef5-4cea-b7b1-2dc769af8f7d.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee528d65d070014fb1b4f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee528d65d070014fb1b4f.m3u8"
                 },
                 {
@@ -2989,7 +3035,7 @@
                 },
                 {
                     "name": "The Hunchback of Notre Dame",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/3ead6174-46f9-4c03-adae-fec255b41a68.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee68cf64f180013aeb187/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee68cf64f180013aeb187.m3u8"
                 },
                 {
@@ -3004,12 +3050,12 @@
                 },
                 {
                     "name": "The Thief of Bagdad",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/80e1d570-2dd1-4a04-abe7-7b06e528512f.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fede226b9e3e00137b59c8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fede226b9e3e00137b59c8.m3u8"
                 },
                 {
                     "name": "The Pit and the Pendulum",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/fac2ccee-3bff-4877-bbcf-85315d3d6167.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee3c2cecd3f0013321b27/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee3c2cecd3f0013321b27.m3u8"
                 },
                 {
@@ -3450,7 +3496,7 @@
                 },
                 {
                     "name": "The Shepherd of the Hills",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/dff1cda6-bcc9-4ff9-9da7-f61a1ae5b078.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee3b9cecd3f001332173d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee3b9cecd3f001332173d.m3u8"
                 },
                 {
@@ -3505,7 +3551,7 @@
                 },
                 {
                     "name": "The Americano",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/2e3608f1-04af-4c7d-bf9d-ad8a980ca69a.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64fee959020c540013074ced/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee959020c540013074ced.m3u8"
                 },
                 {
@@ -3747,7 +3793,7 @@
                 },
                 {
                     "name": "La fórmula de la felicidad",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/1f201968-acce-4ee9-bda3-c46fc66a8f38.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/65002729f439aa00132c2812/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65002729f439aa00132c2812.m3u8"
                 },
                 {
@@ -3782,7 +3828,7 @@
                 },
                 {
                     "name": "Una Chica Bonita Como Tú",
-                    "image": "https://mam-assets.clusters.pluto.tv/assets/a47539d4-afc2-4406-84ed-071ea7077e74.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "image": "https://images.pluto.tv/episodes/64d1fe78445a8a0013dcb96c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64d1fe78445a8a0013dcb96c.m3u8"
                 },
                 {
