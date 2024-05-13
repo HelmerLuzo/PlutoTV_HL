@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 13/05/2024 10:30",
+    "author": "Actualizada 13/05/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -729,14 +729,14 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f689fb9c653fb00077493f7.png",
             "stations": [
                 {
-                    "name": "El pozo: Hay cosas que preferirías no saber",
-                    "image": "https://images.pluto.tv/episodes/6356622b5332160013405d7d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6356622b5332160013405d7d.m3u8"
-                },
-                {
                     "name": "11:14 Destino fatal",
                     "image": "https://images.pluto.tv/episodes/65c7421a2e62fe001322faa4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c7421a2e62fe001322faa4.m3u8"
+                },
+                {
+                    "name": "El pozo: Hay cosas que preferirías no saber",
+                    "image": "https://images.pluto.tv/episodes/6356622b5332160013405d7d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6356622b5332160013405d7d.m3u8"
                 },
                 {
                     "name": "Mandíbulas letales",
