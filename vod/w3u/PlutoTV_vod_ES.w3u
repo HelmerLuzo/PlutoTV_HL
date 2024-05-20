@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 20/05/2024 10:30",
+    "author": "Actualizada 20/05/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -8,6 +8,21 @@
             "name": "Nuevo en Pluto TV",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
+                {
+                    "name": "Incidencias",
+                    "image": "https://images.pluto.tv/episodes/66462697a08618001349157a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462697a08618001349157a.m3u8"
+                },
+                {
+                    "name": "Mia Sarah",
+                    "image": "https://images.pluto.tv/episodes/6646267ca086180013490df9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6646267ca086180013490df9.m3u8"
+                },
+                {
+                    "name": "Navidad Compartida",
+                    "image": "https://images.pluto.tv/episodes/66462695a08618001349150e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462695a08618001349150e.m3u8"
+                },
                 {
                     "name": "Captain America",
                     "image": "https://images.pluto.tv/episodes/6638e2622833ae001393797d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1381,6 +1396,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f61dfde1ad8fd000795cbd4.png",
             "stations": [
                 {
+                    "name": "Incidencias",
+                    "image": "https://images.pluto.tv/episodes/66462697a08618001349157a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462697a08618001349157a.m3u8"
+                },
+                {
                     "name": "El cochecito",
                     "image": "https://images.pluto.tv/episodes/661d220c0fb7c10013c9118d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8"
@@ -1764,6 +1784,11 @@
                     "name": "Return of the Killer Tomatoes!",
                     "image": "https://images.pluto.tv/episodes/64fee52bd65d070014fb1c4f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee52bd65d070014fb1c4f.m3u8"
+                },
+                {
+                    "name": "Navidad Compartida",
+                    "image": "https://images.pluto.tv/episodes/66462695a08618001349150e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462695a08618001349150e.m3u8"
                 }
             ]
         },
@@ -3262,6 +3287,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/63c530374207be0007f56836.png",
             "stations": [
                 {
+                    "name": "El Forastero",
+                    "image": "https://images.pluto.tv/episodes/66462689a0861800134911c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462689a0861800134911c1.m3u8"
+                },
+                {
                     "name": "Camino de Oregón",
                     "image": "https://images.pluto.tv/episodes/6638f77a11239700148086e3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f77a11239700148086e3.m3u8"
@@ -3576,6 +3606,11 @@
                     "name": "Las horas del verano",
                     "image": "https://images.pluto.tv/episodes/5f929abdfe51e4001aac9cf1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929abdfe51e4001aac9cf1.m3u8"
+                },
+                {
+                    "name": "Navidad Compartida",
+                    "image": "https://images.pluto.tv/episodes/66462695a08618001349150e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462695a08618001349150e.m3u8"
                 }
             ]
         },
@@ -3583,6 +3618,11 @@
             "name": "Romance",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68851dcd9c0900072bffa2.png",
             "stations": [
+                {
+                    "name": "Mia Sarah",
+                    "image": "https://images.pluto.tv/episodes/6646267ca086180013490df9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6646267ca086180013490df9.m3u8"
+                },
                 {
                     "name": "Antes del anochecer",
                     "image": "https://images.pluto.tv/episodes/65c4a78d2e62fe00130057cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -4393,6 +4433,11 @@
                     "name": "Atrapada en las profundidades",
                     "image": "https://images.pluto.tv/episodes/6544b7f9d193e8001b3d536c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6544b7f9d193e8001b3d536c.m3u8"
+                },
+                {
+                    "name": "Incidencias",
+                    "image": "https://images.pluto.tv/episodes/66462697a08618001349157a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462697a08618001349157a.m3u8"
                 }
             ]
         },
@@ -4583,6 +4628,16 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/64709a6fa51cb80008bcbb1f.png",
             "stations": [
                 {
+                    "name": "Mia Sarah",
+                    "image": "https://images.pluto.tv/episodes/6646267ca086180013490df9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6646267ca086180013490df9.m3u8"
+                },
+                {
+                    "name": "Incidencias",
+                    "image": "https://images.pluto.tv/episodes/66462697a08618001349157a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462697a08618001349157a.m3u8"
+                },
+                {
                     "name": "El cochecito",
                     "image": "https://images.pluto.tv/episodes/661d220c0fb7c10013c9118d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8"
@@ -4718,6 +4773,11 @@
             "name": "Documental",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f71aae661e66d0007dc3eee.png",
             "stations": [
+                {
+                    "name": "The Night Watchman",
+                    "image": "https://images.pluto.tv/episodes/66472673a0861800135af269/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66472673a0861800135af269.m3u8"
+                },
                 {
                     "name": "In Bloom",
                     "image": "https://images.pluto.tv/episodes/65dd97ed4927ad0014b9e57e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
