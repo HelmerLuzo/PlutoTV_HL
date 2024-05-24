@@ -1,9 +1,200 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 24/05/2024 10:30",
+    "author": "Actualizada 24/05/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
+        {
+            "name": "Zona Sci-Fi",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/6650798d8ea5560008d36566.png",
+            "stations": [
+                {
+                    "name": "Megashark Vs. Kolossus",
+                    "image": "https://images.pluto.tv/episodes/603cf12c4d8d87001aaa9124/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/603cf12c4d8d87001aaa9124.m3u8"
+                },
+                {
+                    "name": "Dune",
+                    "image": "https://images.pluto.tv/episodes/61ea6ddb161b65001a9c2b72/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61ea6ddb161b65001a9c2b72.m3u8"
+                },
+                {
+                    "name": "La era del mañana",
+                    "image": "https://images.pluto.tv/episodes/608fa39b6a72b000130cca94/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fa39b6a72b000130cca94.m3u8"
+                },
+                {
+                    "name": "Última esperanza",
+                    "image": "https://images.pluto.tv/episodes/6630bfcfacbc68001316ad44/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6630bfcfacbc68001316ad44.m3u8"
+                },
+                {
+                    "name": "C.H.U.D.",
+                    "image": "https://images.pluto.tv/episodes/6393088c753d210014220953/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6393088c753d210014220953.m3u8"
+                },
+                {
+                    "name": "Force of Impact",
+                    "image": "https://images.pluto.tv/episodes/5f929ac4fe51e4001aac9d27/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ac4fe51e4001aac9d27.m3u8"
+                },
+                {
+                    "name": "Shark Shock",
+                    "image": "https://images.pluto.tv/episodes/636a6ef63cd246001343e17c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636a6ef63cd246001343e17c.m3u8"
+                },
+                {
+                    "name": "Lavalántula",
+                    "image": "https://images.pluto.tv/episodes/65c749221ffdb00013b054c0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c749221ffdb00013b054c0.m3u8"
+                },
+                {
+                    "name": "Captain America",
+                    "image": "https://images.pluto.tv/episodes/6638e2622833ae001393797d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638e2622833ae001393797d.m3u8"
+                },
+                {
+                    "name": "Eclipse Total",
+                    "image": "https://images.pluto.tv/episodes/610bf38d94c1ec0013765b3a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf38d94c1ec0013765b3a.m3u8"
+                },
+                {
+                    "name": "Hijos de Dune",
+                    "image": "https://images.pluto.tv/episodes/654a309a727df0001a281d6d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a309a727df0001a281d6d.m3u8"
+                },
+                {
+                    "name": "Crossworlds: entre dos mundos",
+                    "image": "https://images.pluto.tv/episodes/60057a1e813b2d001b6871ee/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60057a1e813b2d001b6871ee.m3u8"
+                },
+                {
+                    "name": "Portales",
+                    "image": "https://images.pluto.tv/episodes/653a45532a6001001a4d4bd4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653a45532a6001001a4d4bd4.m3u8"
+                },
+                {
+                    "name": "Catástrofe inminente",
+                    "image": "https://images.pluto.tv/episodes/65c75e3a9fa83000130ac5b9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c75e3a9fa83000130ac5b9.m3u8"
+                },
+                {
+                    "name": "El fin del mundo",
+                    "image": "https://images.pluto.tv/episodes/65c747b904045f001380c608/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c747b904045f001380c608.m3u8"
+                },
+                {
+                    "name": "Evolver",
+                    "image": "https://images.pluto.tv/episodes/62f0d4253568a9001bb9ff03/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62f0d4253568a9001bb9ff03.m3u8"
+                },
+                {
+                    "name": "Rescate en Marte",
+                    "image": "https://images.pluto.tv/episodes/653a43e425fde2001a7e909f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653a43e425fde2001a7e909f.m3u8"
+                },
+                {
+                    "name": "Freaked. La disparatada parada de los monstruos",
+                    "image": "https://images.pluto.tv/episodes/6393110af1ac720013bca579/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6393110af1ac720013bca579.m3u8"
+                },
+                {
+                    "name": "Grabbers",
+                    "image": "https://images.pluto.tv/episodes/63527f73f030950013a3db6a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63527f73f030950013a3db6a.m3u8"
+                },
+                {
+                    "name": "Hellboy: La Espada de las Tormentas",
+                    "image": "https://images.pluto.tv/episodes/6086b370c80199001ac637a8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6086b370c80199001ac637a8.m3u8"
+                },
+                {
+                    "name": "Apocalipsis en Los Ángeles",
+                    "image": "https://images.pluto.tv/episodes/65c7438244bc6e0013e63ad3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c7438244bc6e0013e63ad3.m3u8"
+                },
+                {
+                    "name": "La guerra de los drones",
+                    "image": "https://images.pluto.tv/episodes/63525bd9cfefb200132103ba/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63525bd9cfefb200132103ba.m3u8"
+                },
+                {
+                    "name": "Tormenta de Lava",
+                    "image": "https://images.pluto.tv/episodes/5f929aa5fe51e4001aac9c15/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929aa5fe51e4001aac9c15.m3u8"
+                },
+                {
+                    "name": "Megafault",
+                    "image": "https://images.pluto.tv/episodes/5ff4315b28abd1001a64062e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5ff4315b28abd1001a64062e.m3u8"
+                },
+                {
+                    "name": "Megalodón",
+                    "image": "https://images.pluto.tv/episodes/608fa3966a72b000130cc9f2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fa3966a72b000130cc9f2.m3u8"
+                },
+                {
+                    "name": "Moebius",
+                    "image": "https://images.pluto.tv/episodes/628748b9e6e53d00136768be/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748b9e6e53d00136768be.m3u8"
+                },
+                {
+                    "name": "Nuclear Hurricane",
+                    "image": "https://images.pluto.tv/episodes/5f929ab2fe51e4001aac9ca0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ab2fe51e4001aac9ca0.m3u8"
+                },
+                {
+                    "name": "Polar Opposites ES",
+                    "image": "https://images.pluto.tv/episodes/5f929ad2fe51e4001aac9dae/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ad2fe51e4001aac9dae.m3u8"
+                },
+                {
+                    "name": "Abducción",
+                    "image": "https://images.pluto.tv/episodes/653a27c88026ff001ac4998d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653a27c88026ff001ac4998d.m3u8"
+                },
+                {
+                    "name": "El Amo del Calabozo",
+                    "image": "https://images.pluto.tv/episodes/636ce7c4bc198f0013381ba8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636ce7c4bc198f0013381ba8.m3u8"
+                },
+                {
+                    "name": "Llamarada solar",
+                    "image": "https://images.pluto.tv/episodes/5f929abbfe51e4001aac9cd6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929abbfe51e4001aac9cd6.m3u8"
+                },
+                {
+                    "name": "El final de la cuenta atrás",
+                    "image": "https://images.pluto.tv/episodes/6638f4b3c306f10014a6a585/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f4b3c306f10014a6a585.m3u8"
+                },
+                {
+                    "name": "El increíble hombre menguante",
+                    "image": "https://images.pluto.tv/episodes/6638f4b8c306f10014a6a624/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f4b8c306f10014a6a624.m3u8"
+                },
+                {
+                    "name": "Jurassic Games",
+                    "image": "https://images.pluto.tv/episodes/5fe9b7734aa70a001a4fd419/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fe9b7734aa70a001a4fd419.m3u8"
+                },
+                {
+                    "name": "The Thing from Another World ES",
+                    "image": "https://images.pluto.tv/episodes/63723d391ac5b40013b79990/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63723d391ac5b40013b79990.m3u8"
+                },
+                {
+                    "name": "Vampyre Nation",
+                    "image": "https://images.pluto.tv/episodes/636a705e3cd246001343e2da/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636a705e3cd246001343e2da.m3u8"
+                },
+                {
+                    "name": "Yatterman",
+                    "image": "https://images.pluto.tv/episodes/63566c7157400d0013a9ae46/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63566c7157400d0013a9ae46.m3u8"
+                }
+            ]
+        },
         {
             "name": "Nuevo en Pluto TV",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
