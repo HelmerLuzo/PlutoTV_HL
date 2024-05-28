@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 28/05/2024 02:30",
+    "author": "Actualizada 28/05/2024 10:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -2967,6 +2967,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/61640e0c17016d0007f78e86.png",
             "stations": [
                 {
+                    "name": "Bluebeard",
+                    "image": "https://images.pluto.tv/episodes/6654637aaf79c70013a139fe/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6654637aaf79c70013a139fe.m3u8"
+                },
+                {
                     "name": "El increíble hombre menguante",
                     "image": "https://images.pluto.tv/episodes/6638f4b8c306f10014a6a624/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f4b8c306f10014a6a624.m3u8"
@@ -3460,11 +3465,6 @@
                     "name": "De Repente",
                     "image": "https://images.pluto.tv/episodes/615eaae074755c001a4ca1f7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaae074755c001a4ca1f7.m3u8"
-                },
-                {
-                    "name": "La cicatriz",
-                    "image": "https://images.pluto.tv/episodes/615eaaba74755c001a4c9c43/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaba74755c001a4c9c43.m3u8"
                 }
             ]
         },
@@ -3472,6 +3472,11 @@
             "name": "Western",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/63c530374207be0007f56836.png",
             "stations": [
+                {
+                    "name": "El Día de la Ira",
+                    "image": "https://images.pluto.tv/episodes/6372390ddf7dfa001350daaa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372390ddf7dfa001350daaa.m3u8"
+                },
                 {
                     "name": "El Forastero",
                     "image": "https://images.pluto.tv/episodes/66462689a0861800134911c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -3606,11 +3611,6 @@
                     "name": "La dinastía del petróleo",
                     "image": "https://images.pluto.tv/episodes/61bb4804b3ddda00136929f1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61bb4804b3ddda00136929f1.m3u8"
-                },
-                {
-                    "name": "El Día de la Ira",
-                    "image": "https://images.pluto.tv/episodes/6372390ddf7dfa001350daaa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372390ddf7dfa001350daaa.m3u8"
                 },
                 {
                     "name": "Santa Fe Trail ES",
@@ -4125,6 +4125,11 @@
             "name": "En la mente del asesino",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/66140ef377e4db0013ffec57.png",
             "stations": [
+                {
+                    "name": "Bluebeard",
+                    "image": "https://images.pluto.tv/episodes/6654637aaf79c70013a139fe/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6654637aaf79c70013a139fe.m3u8"
+                },
                 {
                     "name": "El doble asesinato en la calle Morgue",
                     "image": "https://images.pluto.tv/episodes/6638f1e441d4c70014ccfe4f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
