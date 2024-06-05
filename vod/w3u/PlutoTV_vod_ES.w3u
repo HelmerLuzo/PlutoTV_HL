@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 05/06/2024 10:30",
+    "author": "Actualizada 05/06/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -199,6 +199,31 @@
             "name": "Nuevo en Pluto TV",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
+                {
+                    "name": "La Historia Completa de Taylor Swift",
+                    "image": "https://images.pluto.tv/episodes/665ecbe9fe060c0013f6161f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ecbe9fe060c0013f6161f.m3u8"
+                },
+                {
+                    "name": "El Verdadero Oppenheimer",
+                    "image": "https://images.pluto.tv/episodes/665f2d5ea2d475001457c216/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2d5ea2d475001457c216.m3u8"
+                },
+                {
+                    "name": "El Caso de Madeleine McCann",
+                    "image": "https://images.pluto.tv/episodes/665ec9f8626cfe0013fc0990/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ec9f8626cfe0013fc0990.m3u8"
+                },
+                {
+                    "name": "El Accidente OVNI en Roswell",
+                    "image": "https://images.pluto.tv/episodes/665ecdc3fe060c0013f61a67/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ecdc3fe060c0013f61a67.m3u8"
+                },
+                {
+                    "name": "Archivos Gubernamentales de OVNIs Desclasificados",
+                    "image": "https://images.pluto.tv/episodes/665f2998f93268001393c322/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2998f93268001393c322.m3u8"
+                },
                 {
                     "name": "Amy Winehouse & Me: Dionne's Story",
                     "image": "https://images.pluto.tv/episodes/6602ecc946b9c600132c1c07/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -3689,6 +3714,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/620baf06c6352f0007001498.png",
             "stations": [
                 {
+                    "name": "La Historia Completa de Taylor Swift",
+                    "image": "https://images.pluto.tv/episodes/665ecbe9fe060c0013f6161f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ecbe9fe060c0013f6161f.m3u8"
+                },
+                {
                     "name": "Amazing Grace",
                     "image": "https://images.pluto.tv/episodes/6543b3d8a78f0d001a80ff08/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6543b3d8a78f0d001a80ff08.m3u8"
@@ -4342,6 +4372,16 @@
             "name": "Invasión Alien",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/659686a932c1b30008cba1e0.png",
             "stations": [
+                {
+                    "name": "Archivos Gubernamentales de OVNIs Desclasificados",
+                    "image": "https://images.pluto.tv/episodes/665f2998f93268001393c322/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2998f93268001393c322.m3u8"
+                },
+                {
+                    "name": "El Accidente OVNI en Roswell",
+                    "image": "https://images.pluto.tv/episodes/665ecdc3fe060c0013f61a67/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ecdc3fe060c0013f61a67.m3u8"
+                },
                 {
                     "name": "Extraterrestres en la URSS",
                     "image": "https://images.pluto.tv/episodes/653b92fa2a6001001a569079/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
