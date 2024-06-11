@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 11/06/2024 10:30",
+    "author": "Actualizada 11/06/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -194,6 +194,11 @@
             "name": "Nuevo en Pluto TV",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
+                {
+                    "name": "Hitler: La Creación de un Monstruo",
+                    "image": "https://images.pluto.tv/episodes/6662b5928ea0be0013212358/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6662b5928ea0be0013212358.m3u8"
+                },
                 {
                     "name": "La Historia Completa de Taylor Swift",
                     "image": "https://images.pluto.tv/episodes/665ecbe9fe060c0013f6161f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -5370,6 +5375,11 @@
             "name": "Historia",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/62c6a1021208550007937487.png",
             "stations": [
+                {
+                    "name": "Hitler: La Creación de un Monstruo",
+                    "image": "https://images.pluto.tv/episodes/6662b5928ea0be0013212358/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6662b5928ea0be0013212358.m3u8"
+                },
                 {
                     "name": "El Día Que Murió La Estrella del Rock: Amy Winehouse",
                     "image": "https://images.pluto.tv/episodes/664f1d812833ae00135ec075/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
