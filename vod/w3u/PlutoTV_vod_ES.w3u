@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 20/06/2024 10:30",
+    "author": "Actualizada 20/06/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -195,6 +195,26 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
                 {
+                    "name": "Bruce Willis: Héroe Todo Americano",
+                    "image": "https://images.pluto.tv/episodes/66617ece626cfe00130e75dd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617ece626cfe00130e75dd.m3u8"
+                },
+                {
+                    "name": "La Historia de Barbie",
+                    "image": "https://images.pluto.tv/episodes/6661792cfe060c0013154f3d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6661792cfe060c0013154f3d.m3u8"
+                },
+                {
+                    "name": "El Verdadero Oppenheimer",
+                    "image": "https://images.pluto.tv/episodes/665f2d5ea2d475001457c216/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2d5ea2d475001457c216.m3u8"
+                },
+                {
+                    "name": "9/11: Tal Como Sucedió",
+                    "image": "https://images.pluto.tv/episodes/6661792dfe060c0013154f90/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6661792dfe060c0013154f90.m3u8"
+                },
+                {
                     "name": "Hitler: La Creación de un Monstruo",
                     "image": "https://images.pluto.tv/episodes/6662b5928ea0be0013212358/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6662b5928ea0be0013212358.m3u8"
@@ -203,11 +223,6 @@
                     "name": "La Historia Completa de Taylor Swift",
                     "image": "https://images.pluto.tv/episodes/665ecbe9fe060c0013f6161f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ecbe9fe060c0013f6161f.m3u8"
-                },
-                {
-                    "name": "El Verdadero Oppenheimer",
-                    "image": "https://images.pluto.tv/episodes/665f2d5ea2d475001457c216/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2d5ea2d475001457c216.m3u8"
                 },
                 {
                     "name": "El Caso de Madeleine McCann",
@@ -238,6 +253,11 @@
                     "name": "Íconos de Nuestra Era: Marilyn Monroe",
                     "image": "https://images.pluto.tv/episodes/664f1ee1af79c700136f8c19/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1ee1af79c700136f8c19.m3u8"
+                },
+                {
+                    "name": "El Mundo Rosa de Barbie",
+                    "image": "https://images.pluto.tv/episodes/66617b11c0b6d50014e41e43/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617b11c0b6d50014e41e43.m3u8"
                 },
                 {
                     "name": "Jackie: Una Historia de Dos Hermanas",
@@ -4191,9 +4211,14 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/66140ef377e4db0013ffec57.png",
             "stations": [
                 {
-                    "name": "Bluebeard",
-                    "image": "https://images.pluto.tv/episodes/6654637aaf79c70013a139fe/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6654637aaf79c70013a139fe.m3u8"
+                    "name": "La Casa Roja",
+                    "image": "https://images.pluto.tv/episodes/615eaaf374755c001a4ca3f8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaf374755c001a4ca3f8.m3u8"
+                },
+                {
+                    "name": "Palabras Encadenadas",
+                    "image": "https://images.pluto.tv/episodes/628748ade6e53d0013675d0b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748ade6e53d0013675d0b.m3u8"
                 },
                 {
                     "name": "El doble asesinato en la calle Morgue",
@@ -4211,6 +4236,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c77322f9f5b0013eca968.m3u8"
                 },
                 {
+                    "name": "Bluebeard",
+                    "image": "https://images.pluto.tv/episodes/6654637aaf79c70013a139fe/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6654637aaf79c70013a139fe.m3u8"
+                },
+                {
                     "name": "Juego asesino",
                     "image": "https://images.pluto.tv/episodes/63d7b6fd5957f2001315ff13/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b6fd5957f2001315ff13.m3u8"
@@ -4219,11 +4249,6 @@
                     "name": "Ausentes",
                     "image": "https://images.pluto.tv/episodes/62b479e1cb0324001353e3ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479e1cb0324001353e3ea.m3u8"
-                },
-                {
-                    "name": "Palabras Encadenadas",
-                    "image": "https://images.pluto.tv/episodes/628748ade6e53d0013675d0b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748ade6e53d0013675d0b.m3u8"
                 },
                 {
                     "name": "Cube",
@@ -4256,6 +4281,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cf2fa72a5001a5fda3b.m3u8"
                 },
                 {
+                    "name": "El malvado Zaroff",
+                    "image": "https://images.pluto.tv/episodes/61c1dda942817b001a8bb0fb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c1dda942817b001a8bb0fb.m3u8"
+                },
+                {
                     "name": "La Senda",
                     "image": "https://images.pluto.tv/episodes/62a9e1e565c30400136ada9f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e565c30400136ada9f.m3u8"
@@ -4274,16 +4304,6 @@
                     "name": "Asesinato Justo",
                     "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
-                },
-                {
-                    "name": "El malvado Zaroff",
-                    "image": "https://images.pluto.tv/episodes/61c1dda942817b001a8bb0fb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c1dda942817b001a8bb0fb.m3u8"
-                },
-                {
-                    "name": "La Casa Roja",
-                    "image": "https://images.pluto.tv/episodes/615eaaf374755c001a4ca3f8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaf374755c001a4ca3f8.m3u8"
                 },
                 {
                     "name": "Woman on the Run ES",
@@ -4463,6 +4483,31 @@
             "name": "Crimen y misterio",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/610bf1a48a09390007874048.png",
             "stations": [
+                {
+                    "name": "El Caso de Madeleine McCann",
+                    "image": "https://images.pluto.tv/episodes/665ec9f8626cfe0013fc0990/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ec9f8626cfe0013fc0990.m3u8"
+                },
+                {
+                    "name": "Doctor Asesino: El Caso de Harold Shipman",
+                    "image": "https://images.pluto.tv/episodes/66617cf4fe060c0013156d44/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617cf4fe060c0013156d44.m3u8"
+                },
+                {
+                    "name": "Asesinado Mientras Caminaba a Casa",
+                    "image": "https://images.pluto.tv/episodes/66617ecf626cfe00130e764c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617ecf626cfe00130e764c.m3u8"
+                },
+                {
+                    "name": "Mentes Asesinas: Rose West",
+                    "image": "https://images.pluto.tv/episodes/665f38986ae03e0013955a5d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f38986ae03e0013955a5d.m3u8"
+                },
+                {
+                    "name": "Mentes Asesinas: Dennis Nilsen",
+                    "image": "https://images.pluto.tv/episodes/665f2d60a2d475001457c37a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2d60a2d475001457c37a.m3u8"
+                },
                 {
                     "name": "A Haunting in Georgia",
                     "image": "https://images.pluto.tv/episodes/65563672939c4b001ac06f1a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -5044,6 +5089,16 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f71aae661e66d0007dc3eee.png",
             "stations": [
                 {
+                    "name": "Bruce Willis: Héroe Todo Americano",
+                    "image": "https://images.pluto.tv/episodes/66617ece626cfe00130e75dd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617ece626cfe00130e75dd.m3u8"
+                },
+                {
+                    "name": "La Historia de Barbie",
+                    "image": "https://images.pluto.tv/episodes/6661792cfe060c0013154f3d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6661792cfe060c0013154f3d.m3u8"
+                },
+                {
                     "name": "Amy Winehouse & Me: Dionne's Story",
                     "image": "https://images.pluto.tv/episodes/6602ecc946b9c600132c1c07/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6602ecc946b9c600132c1c07.m3u8"
@@ -5347,6 +5402,11 @@
                     "name": "Sombras de luz",
                     "image": "https://images.pluto.tv/episodes/5f523c53db45a1001a79acc8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f523c53db45a1001a79acc8.m3u8"
+                },
+                {
+                    "name": "El Mundo Rosa de Barbie",
+                    "image": "https://images.pluto.tv/episodes/66617b11c0b6d50014e41e43/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617b11c0b6d50014e41e43.m3u8"
                 }
             ]
         },
@@ -5354,6 +5414,11 @@
             "name": "Historia",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/62c6a1021208550007937487.png",
             "stations": [
+                {
+                    "name": "El Verdadero Oppenheimer",
+                    "image": "https://images.pluto.tv/episodes/665f2d5ea2d475001457c216/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2d5ea2d475001457c216.m3u8"
+                },
                 {
                     "name": "Hitler: La Creación de un Monstruo",
                     "image": "https://images.pluto.tv/episodes/6662b5928ea0be0013212358/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
