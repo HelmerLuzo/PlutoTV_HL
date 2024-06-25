@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 25/06/2024 10:30",
+    "author": "Actualizada 25/06/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -2052,6 +2052,11 @@
             "name": "Cine de Autor",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/610bf290ce15940007813e5c.png",
             "stations": [
+                {
+                    "name": "El Taller de escritura",
+                    "image": "https://images.pluto.tv/episodes/60d0436028f1d30013ed36fa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d0436028f1d30013ed36fa.m3u8"
+                },
                 {
                     "name": "Alarma en el expreso",
                     "image": "https://images.pluto.tv/episodes/6638f615c2d6a90013d02a2f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
