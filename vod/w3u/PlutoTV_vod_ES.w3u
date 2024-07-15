@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 15/07/2024 10:30",
+    "author": "Actualizada 15/07/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -1662,6 +1662,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636a6d891ac5b40013b48c92.m3u8"
                 },
                 {
+                    "name": "Los Cuatro Guerreros",
+                    "image": "https://images.pluto.tv/episodes/6299d35dba369d001340e5df/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d35dba369d001340e5df.m3u8"
+                },
+                {
                     "name": "Megashark Vs. Kolossus",
                     "image": "https://images.pluto.tv/episodes/603cf12c4d8d87001aaa9124/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/603cf12c4d8d87001aaa9124.m3u8"
@@ -2433,6 +2438,11 @@
                     "name": "A Second Chance",
                     "image": "https://images.pluto.tv/episodes/5f4e6faedb45a1001a793bd2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e6faedb45a1001a793bd2.m3u8"
+                },
+                {
+                    "name": "Los Cuatro Guerreros",
+                    "image": "https://images.pluto.tv/episodes/6299d35dba369d001340e5df/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d35dba369d001340e5df.m3u8"
                 }
             ]
         },
