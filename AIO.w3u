@@ -6,7 +6,7 @@
     "groups": [
         {
             "name": "Televisión",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/ES/Maratones.png",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/tv.png",
             "groups": [
                 {
                     "name": "España",
@@ -67,12 +67,12 @@
         },
         {
             "name": "Películas 🇪🇸",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/ES/Peliculas.png",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/peliculas.png",
             "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u"
         },
         {
             "name": "Series 🇪🇸",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/ES/Series.png",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/series.png",
             "url": ""
         }
     ]
