@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 27/09/2024 10:30",
+    "author": "Actualizada 04/10/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -95,6 +95,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/62d949808f6f0d00079962aa.png",
             "stations": [
                 {
+                    "name": "Asesinato Justo",
+                    "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
+                },
+                {
                     "name": "Antes del anochecer",
                     "image": "https://images.pluto.tv/episodes/65c4a78d2e62fe00130057cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c4a78d2e62fe00130057cb.m3u8"
@@ -153,11 +158,6 @@
                     "name": "La decisión de Sophie",
                     "image": "https://images.pluto.tv/episodes/62384c84ff21e500131cb334/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c84ff21e500131cb334.m3u8"
-                },
-                {
-                    "name": "Asesinato Justo",
-                    "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
                 },
                 {
                     "name": "Nine",
@@ -709,6 +709,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f689fb9c653fb00077493f7.png",
             "stations": [
                 {
+                    "name": "Asesinato Justo",
+                    "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
+                },
+                {
                     "name": "The Guilty Ones",
                     "image": "https://images.pluto.tv/episodes/66a75e676134930013ba1c38/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a75e676134930013ba1c38.m3u8"
@@ -747,11 +752,6 @@
                     "name": "Juego asesino",
                     "image": "https://images.pluto.tv/episodes/63d7b6fd5957f2001315ff13/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b6fd5957f2001315ff13.m3u8"
-                },
-                {
-                    "name": "Asesinato Justo",
-                    "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
                 },
                 {
                     "name": "Desierto de fuego",
@@ -2004,6 +2004,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68a053edd63f00073def51.png",
             "stations": [
                 {
+                    "name": "Siempre a tu lado Hachiko",
+                    "image": "https://images.pluto.tv/episodes/5f4f5cccfa72a5001a5fd796/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cccfa72a5001a5fd796.m3u8"
+                },
+                {
                     "name": "Bolero",
                     "image": "https://images.pluto.tv/episodes/6638e0fde42c230013d48fc5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638e0fde42c230013d48fc5.m3u8"
@@ -2062,11 +2067,6 @@
                     "name": "1492: La Conquista del Paraíso",
                     "image": "https://images.pluto.tv/episodes/636e431f576be6001373af90/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e431f576be6001373af90.m3u8"
-                },
-                {
-                    "name": "Siempre a tu lado Hachiko",
-                    "image": "https://images.pluto.tv/episodes/5f4f5cccfa72a5001a5fd796/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cccfa72a5001a5fd796.m3u8"
                 },
                 {
                     "name": "Agua tibia bajo un puente rojo",
@@ -3334,11 +3334,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f7192786c03610013ac0146.m3u8"
                 },
                 {
-                    "name": "Fama",
-                    "image": "https://images.pluto.tv/episodes/5f562df6f7db51001a3c5fda/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f562df6f7db51001a3c5fda.m3u8"
-                },
-                {
                     "name": "Agua tibia bajo un puente rojo",
                     "image": "https://images.pluto.tv/episodes/655c94ba174b1400143a74c0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c94ba174b1400143a74c0.m3u8"
@@ -3580,6 +3575,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/66140ef377e4db0013ffec57.png",
             "stations": [
                 {
+                    "name": "Asesinato Justo",
+                    "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
+                },
+                {
                     "name": "La Casa Roja",
                     "image": "https://images.pluto.tv/episodes/615eaaf374755c001a4ca3f8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaf374755c001a4ca3f8.m3u8"
@@ -3660,11 +3660,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e448136d64a0014593ff7.m3u8"
                 },
                 {
-                    "name": "Asesinato Justo",
-                    "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
-                },
-                {
                     "name": "Woman on the Run ES",
                     "image": "https://images.pluto.tv/episodes/615eab0074755c001a4ca5bb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eab0074755c001a4ca5bb.m3u8"
@@ -3676,6 +3671,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/64abe5a7bc3ab400083902ab.png",
             "stations": [
                 {
+                    "name": "Asesinato Justo",
+                    "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
+                },
+                {
                     "name": "El joven Detective Dee. El poder del dragón marino",
                     "image": "https://images.pluto.tv/episodes/65c5e563d22ce500143801f2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5e563d22ce500143801f2.m3u8"
@@ -3684,11 +3684,6 @@
                     "name": "Detective Dee y el misterio de la llama fantasma",
                     "image": "https://images.pluto.tv/episodes/65c5ec6b5884b400132f39a4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c5ec6b5884b400132f39a4.m3u8"
-                },
-                {
-                    "name": "Asesinato Justo",
-                    "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
                 },
                 {
                     "name": "Alpha",
