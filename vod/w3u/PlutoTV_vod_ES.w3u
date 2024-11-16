@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 15/11/2024 02:30",
+    "author": "Actualizada 16/11/2024 02:31",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -8,6 +8,41 @@
             "name": "Nuevo en Pluto TV",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
+                {
+                    "name": "El escritor fantasma",
+                    "image": "https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d3ffb7ea5e0013a6a2e2.m3u8"
+                },
+                {
+                    "name": "Ojos grandes",
+                    "image": "https://images.pluto.tv/episodes/6735bee2091e240013604137/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735bee2091e240013604137.m3u8"
+                },
+                {
+                    "name": "Paranoia",
+                    "image": "https://images.pluto.tv/episodes/6735d564091e2400136061db/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d564091e2400136061db.m3u8"
+                },
+                {
+                    "name": "El velo pintado",
+                    "image": "https://images.pluto.tv/episodes/6735c484b7ea5e0013a68055/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c484b7ea5e0013a68055.m3u8"
+                },
+                {
+                    "name": "St. Vincent",
+                    "image": "https://images.pluto.tv/episodes/6735d835e103890013780488/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d835e103890013780488.m3u8"
+                },
+                {
+                    "name": "Diana",
+                    "image": "https://images.pluto.tv/episodes/6735c5edd40c0600141b572a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c5edd40c0600141b572a.m3u8"
+                },
+                {
+                    "name": "La reina Victoria",
+                    "image": "https://images.pluto.tv/episodes/6735d99aa7fde5001323b39e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d99aa7fde5001323b39e.m3u8"
+                },
                 {
                     "name": "Código fuente",
                     "image": "https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -75,9 +110,39 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/62d949808f6f0d00079962aa.png",
             "stations": [
                 {
+                    "name": "El escritor fantasma",
+                    "image": "https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d3ffb7ea5e0013a6a2e2.m3u8"
+                },
+                {
+                    "name": "Ojos grandes",
+                    "image": "https://images.pluto.tv/episodes/6735bee2091e240013604137/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735bee2091e240013604137.m3u8"
+                },
+                {
+                    "name": "St. Vincent",
+                    "image": "https://images.pluto.tv/episodes/6735d835e103890013780488/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d835e103890013780488.m3u8"
+                },
+                {
+                    "name": "Diana",
+                    "image": "https://images.pluto.tv/episodes/6735c5edd40c0600141b572a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c5edd40c0600141b572a.m3u8"
+                },
+                {
+                    "name": "El velo pintado",
+                    "image": "https://images.pluto.tv/episodes/6735c484b7ea5e0013a68055/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c484b7ea5e0013a68055.m3u8"
+                },
+                {
                     "name": "Código fuente",
                     "image": "https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcc142678a50014518e59.m3u8"
+                },
+                {
+                    "name": "La reina Victoria",
+                    "image": "https://images.pluto.tv/episodes/6735d99aa7fde5001323b39e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d99aa7fde5001323b39e.m3u8"
                 },
                 {
                     "name": "Comenzar de nuevo",
@@ -98,6 +163,11 @@
                     "name": "Asesinato Justo",
                     "image": "https://images.pluto.tv/episodes/5f620813fb35bf001af7c089/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620813fb35bf001af7c089.m3u8"
+                },
+                {
+                    "name": "Paranoia",
+                    "image": "https://images.pluto.tv/episodes/6735d564091e2400136061db/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d564091e2400136061db.m3u8"
                 },
                 {
                     "name": "Antes del anochecer",
@@ -462,6 +532,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6729e4372678a5001418ed47.m3u8"
                 },
                 {
+                    "name": "El velo pintado",
+                    "image": "https://images.pluto.tv/episodes/6735c484b7ea5e0013a68055/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c484b7ea5e0013a68055.m3u8"
+                },
+                {
                     "name": "El increíble hombre menguante",
                     "image": "https://images.pluto.tv/episodes/6638f4b8c306f10014a6a624/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f4b8c306f10014a6a624.m3u8"
@@ -572,11 +647,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaae74755c001a4c9b97.m3u8"
                 },
                 {
-                    "name": "El ultimo hombre sobre la Tierra",
-                    "image": "https://images.pluto.tv/episodes/61a4a4e3eeb8a3001307b584/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4e3eeb8a3001307b584.m3u8"
-                },
-                {
                     "name": "El fantasma de la ópera",
                     "image": "https://images.pluto.tv/episodes/615eaaf174755c001a4ca3d5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaf174755c001a4ca3d5.m3u8"
@@ -593,9 +663,19 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f689fb9c653fb00077493f7.png",
             "stations": [
                 {
+                    "name": "El escritor fantasma",
+                    "image": "https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d3ffb7ea5e0013a6a2e2.m3u8"
+                },
+                {
                     "name": "La mujer de negro: El ángel de la muerte",
                     "image": "https://images.pluto.tv/episodes/6729fc1d321c1900139e5092/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6729fc1d321c1900139e5092.m3u8"
+                },
+                {
+                    "name": "Paranoia",
+                    "image": "https://images.pluto.tv/episodes/6735d564091e2400136061db/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d564091e2400136061db.m3u8"
                 },
                 {
                     "name": "Asesinato Justo",
@@ -1109,11 +1189,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ac4fe51e4001aac9d27.m3u8"
                 },
                 {
-                    "name": "La mujer avispa",
-                    "image": "https://images.pluto.tv/episodes/62384c6cff21e500131cb0f7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c6cff21e500131cb0f7.m3u8"
-                },
-                {
                     "name": "El cerebro que no podía morir",
                     "image": "https://images.pluto.tv/episodes/62384c81ff21e500131cb2dd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c81ff21e500131cb2dd.m3u8"
@@ -1144,6 +1219,11 @@
             "name": "Comedia",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f61dfde1ad8fd000795cbd4.png",
             "stations": [
+                {
+                    "name": "St. Vincent",
+                    "image": "https://images.pluto.tv/episodes/6735d835e103890013780488/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d835e103890013780488.m3u8"
+                },
                 {
                     "name": "Dos colgados en Chicago (Los visitantes cruzan el charco)",
                     "image": "https://images.pluto.tv/episodes/616698ee178213001ad6c5fc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1320,11 +1400,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc527f02fd74a0014cd4a2b.m3u8"
                 },
                 {
-                    "name": "Un asesino muy ético",
-                    "image": "https://images.pluto.tv/episodes/63b411bd88bc2000134e3da7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b411bd88bc2000134e3da7.m3u8"
-                },
-                {
                     "name": "Mil Cosas Que Haría Por Ti",
                     "image": "https://images.pluto.tv/episodes/5fa3e1f9ff9e43001a695dfc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fa3e1f9ff9e43001a695dfc.m3u8"
@@ -1460,6 +1535,11 @@
             "name": "Cine de Autor",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/610bf290ce15940007813e5c.png",
             "stations": [
+                {
+                    "name": "Ojos grandes",
+                    "image": "https://images.pluto.tv/episodes/6735bee2091e240013604137/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735bee2091e240013604137.m3u8"
+                },
                 {
                     "name": "La buena mentira",
                     "image": "https://images.pluto.tv/episodes/672dcedf8d00c60014803570/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1651,11 +1731,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d1863dd2de2a0013003804.m3u8"
                 },
                 {
-                    "name": "Reina Cristina",
-                    "image": "https://images.pluto.tv/episodes/63ad7601a6bb3b001471c4eb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad7601a6bb3b001471c4eb.m3u8"
-                },
-                {
                     "name": "Tres solteros y un biberón",
                     "image": "https://images.pluto.tv/episodes/635667c1f92dc200149ce89c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/635667c1f92dc200149ce89c.m3u8"
@@ -1802,11 +1877,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948b061f1b1001afec7b3.m3u8"
                 },
                 {
-                    "name": "Teo, cazador intergaláctico",
-                    "image": "https://images.pluto.tv/episodes/62a9e1c365c30400136ad676/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1c365c30400136ad676.m3u8"
-                },
-                {
                     "name": "The Chaperone",
                     "image": "https://images.pluto.tv/episodes/5f4f5cddfa72a5001a5fd8b6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cddfa72a5001a5fd8b6.m3u8"
@@ -1833,6 +1903,21 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68a053edd63f00073def51.png",
             "stations": [
                 {
+                    "name": "Ojos grandes",
+                    "image": "https://images.pluto.tv/episodes/6735bee2091e240013604137/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735bee2091e240013604137.m3u8"
+                },
+                {
+                    "name": "St. Vincent",
+                    "image": "https://images.pluto.tv/episodes/6735d835e103890013780488/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d835e103890013780488.m3u8"
+                },
+                {
+                    "name": "Diana",
+                    "image": "https://images.pluto.tv/episodes/6735c5edd40c0600141b572a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c5edd40c0600141b572a.m3u8"
+                },
+                {
                     "name": "La casa de la esperanza",
                     "image": "https://images.pluto.tv/episodes/672dcaa24ad856001364e565/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcaa24ad856001364e565.m3u8"
@@ -1856,6 +1941,16 @@
                     "name": "La buena mentira",
                     "image": "https://images.pluto.tv/episodes/672dcedf8d00c60014803570/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcedf8d00c60014803570.m3u8"
+                },
+                {
+                    "name": "La reina Victoria",
+                    "image": "https://images.pluto.tv/episodes/6735d99aa7fde5001323b39e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d99aa7fde5001323b39e.m3u8"
+                },
+                {
+                    "name": "Paranoia",
+                    "image": "https://images.pluto.tv/episodes/6735d564091e2400136061db/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d564091e2400136061db.m3u8"
                 },
                 {
                     "name": "Siempre a tu lado Hachiko",
@@ -1931,11 +2026,6 @@
                     "name": "Señor y Señora Adelman",
                     "image": "https://images.pluto.tv/episodes/64d1fd0cb97a1e0013cb03e9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64d1fd0cb97a1e0013cb03e9.m3u8"
-                },
-                {
-                    "name": "Fresa y chocolate",
-                    "image": "https://images.pluto.tv/episodes/63b411b988bc2000134e3d29/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b411b988bc2000134e3d29.m3u8"
                 },
                 {
                     "name": "Conversaciones con otras mujeres",
@@ -2405,11 +2495,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63721ce4576be60013743650.m3u8"
                 },
                 {
-                    "name": "Serenata nostálgica",
-                    "image": "https://images.pluto.tv/episodes/61a4a4e6eeb8a3001307b5aa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4e6eeb8a3001307b5aa.m3u8"
-                },
-                {
                     "name": "A vida o muerte",
                     "image": "https://images.pluto.tv/episodes/61894434836015001bd07239/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61894434836015001bd07239.m3u8"
@@ -2555,11 +2640,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614d81e8aeae500014d8f73f.m3u8"
                 },
                 {
-                    "name": "Un cubo de sangre",
-                    "image": "https://images.pluto.tv/episodes/62384c97ff21e500131cb61c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c97ff21e500131cb61c.m3u8"
-                },
-                {
                     "name": "The Stranger NYX ES",
                     "image": "https://images.pluto.tv/episodes/61668aa1b8333a001ad6170d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61668aa1b8333a001ad6170d.m3u8"
@@ -2605,11 +2685,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f8bf3593c001aa34d43.m3u8"
                 },
                 {
-                    "name": "El ladrón de cadáveres",
-                    "image": "https://images.pluto.tv/episodes/62384c77ff21e500131cb250/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c77ff21e500131cb250.m3u8"
-                },
-                {
                     "name": "The Lost World ES",
                     "image": "https://images.pluto.tv/episodes/61640f8df3593c001aa34d86/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f8df3593c001aa34d86.m3u8"
@@ -2630,19 +2705,9 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaa574755c001a4c9a2b.m3u8"
                 },
                 {
-                    "name": "El ultimo hombre sobre la Tierra",
-                    "image": "https://images.pluto.tv/episodes/61a4a4e3eeb8a3001307b584/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4e3eeb8a3001307b584.m3u8"
-                },
-                {
                     "name": "Vengeance Valley ES",
                     "image": "https://images.pluto.tv/episodes/615eaafd74755c001a4ca580/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaafd74755c001a4ca580.m3u8"
-                },
-                {
-                    "name": "Sombras trágicas",
-                    "image": "https://images.pluto.tv/episodes/62384c67ff21e500131cb06a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c67ff21e500131cb06a.m3u8"
                 },
                 {
                     "name": "El beso de la muerte",
@@ -2660,11 +2725,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/617281e200d95f001a3bc609.m3u8"
                 },
                 {
-                    "name": "El carnaval de las almas",
-                    "image": "https://images.pluto.tv/episodes/61a4a4fbeeb8a3001307b6c4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4fbeeb8a3001307b6c4.m3u8"
-                },
-                {
                     "name": "The Great Flamarion ES",
                     "image": "https://images.pluto.tv/episodes/61640f85f3593c001aa34c2d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f85f3593c001aa34c2d.m3u8"
@@ -2678,11 +2738,6 @@
                     "name": "Sangre sobre el Sol",
                     "image": "https://images.pluto.tv/episodes/615eaa9974755c001a4c9903/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaa9974755c001a4c9903.m3u8"
-                },
-                {
-                    "name": "El malvado Zaroff",
-                    "image": "https://images.pluto.tv/episodes/61c1dda942817b001a8bb0fb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c1dda942817b001a8bb0fb.m3u8"
                 },
                 {
                     "name": "Con las horas contadas",
@@ -2700,16 +2755,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaa274755c001a4c99f0.m3u8"
                 },
                 {
-                    "name": "La bestia de la cueva maldita",
-                    "image": "https://images.pluto.tv/episodes/61a4a501eeb8a3001307b714/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a501eeb8a3001307b714.m3u8"
-                },
-                {
-                    "name": "El  fantasma invisible",
-                    "image": "https://images.pluto.tv/episodes/61a4a4e9eeb8a3001307b5d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4e9eeb8a3001307b5d8.m3u8"
-                },
-                {
                     "name": "Nosferatu",
                     "image": "https://images.pluto.tv/episodes/615eaac774755c001a4c9e7a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaac774755c001a4c9e7a.m3u8"
@@ -2718,6 +2763,51 @@
                     "name": "La tierra prometida",
                     "image": "https://images.pluto.tv/episodes/615eaae874755c001a4ca294/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaae874755c001a4ca294.m3u8"
+                },
+                {
+                    "name": "La Mansión de los Horrores",
+                    "image": "https://images.pluto.tv/episodes/6114cd6bdf179f00131991cd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6114cd6bdf179f00131991cd.m3u8"
+                },
+                {
+                    "name": "Sunrise ES",
+                    "image": "https://images.pluto.tv/episodes/6183acde866a40001a7d9acf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6183acde866a40001a7d9acf.m3u8"
+                },
+                {
+                    "name": "Sherlock Holmes",
+                    "image": "https://images.pluto.tv/episodes/6166d4364f409e001a473204/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6166d4364f409e001a473204.m3u8"
+                },
+                {
+                    "name": "The Proud Rebel ES",
+                    "image": "https://images.pluto.tv/episodes/617281df00d95f001a3bc546/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/617281df00d95f001a3bc546.m3u8"
+                },
+                {
+                    "name": "The Inspector General ES",
+                    "image": "https://images.pluto.tv/episodes/61640f88f3593c001aa34cec/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f88f3593c001aa34cec.m3u8"
+                },
+                {
+                    "name": "Smash-Up ES",
+                    "image": "https://images.pluto.tv/episodes/61640f83f3593c001aa34c06/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f83f3593c001aa34c06.m3u8"
+                },
+                {
+                    "name": "Ha Nacido una estrella",
+                    "image": "https://images.pluto.tv/episodes/615eaa9374755c001a4c9801/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaa9374755c001a4c9801.m3u8"
+                },
+                {
+                    "name": "Sherlock Holmes: El Caso de los Dedos Cortados",
+                    "image": "https://images.pluto.tv/episodes/615eaada74755c001a4ca0e1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaada74755c001a4ca0e1.m3u8"
+                },
+                {
+                    "name": "Los Viajes de Gulliver",
+                    "image": "https://images.pluto.tv/episodes/615eaab374755c001a4c9be0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaab374755c001a4c9be0.m3u8"
                 }
             ]
         },
@@ -3018,9 +3108,19 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672b24df4ad85600133c22b7.m3u8"
                 },
                 {
+                    "name": "Diana",
+                    "image": "https://images.pluto.tv/episodes/6735c5edd40c0600141b572a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c5edd40c0600141b572a.m3u8"
+                },
+                {
                     "name": "La señorita Potter",
                     "image": "https://images.pluto.tv/episodes/6729fc1a321c1900139e5027/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6729fc1a321c1900139e5027.m3u8"
+                },
+                {
+                    "name": "La reina Victoria",
+                    "image": "https://images.pluto.tv/episodes/6735d99aa7fde5001323b39e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d99aa7fde5001323b39e.m3u8"
                 },
                 {
                     "name": "Melancolía",
@@ -3189,14 +3289,39 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68851dcd9c0900072bffa2.png",
             "stations": [
                 {
+                    "name": "Comenzar de nuevo",
+                    "image": "https://images.pluto.tv/episodes/672dcc0d2678a50014518cd2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcc0d2678a50014518cd2.m3u8"
+                },
+                {
+                    "name": "Diana",
+                    "image": "https://images.pluto.tv/episodes/6735c5edd40c0600141b572a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c5edd40c0600141b572a.m3u8"
+                },
+                {
+                    "name": "El velo pintado",
+                    "image": "https://images.pluto.tv/episodes/6735c484b7ea5e0013a68055/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c484b7ea5e0013a68055.m3u8"
+                },
+                {
+                    "name": "Suite Francesa",
+                    "image": "https://images.pluto.tv/episodes/6735d6cdc814a90013ef4d70/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d6cdc814a90013ef4d70.m3u8"
+                },
+                {
+                    "name": "Los líos de Gray",
+                    "image": "https://images.pluto.tv/episodes/6735dc77b7ea5e0013a6b8e6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735dc77b7ea5e0013a6b8e6.m3u8"
+                },
+                {
                     "name": "Mi segunda vez",
                     "image": "https://images.pluto.tv/episodes/672dd0454ad856001364e8ec/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dd0454ad856001364e8ec.m3u8"
                 },
                 {
-                    "name": "Comenzar de nuevo",
-                    "image": "https://images.pluto.tv/episodes/672dcc0d2678a50014518cd2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcc0d2678a50014518cd2.m3u8"
+                    "name": "La reina Victoria",
+                    "image": "https://images.pluto.tv/episodes/6735d99aa7fde5001323b39e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d99aa7fde5001323b39e.m3u8"
                 },
                 {
                     "name": "El jorobado de Notre Dame",
@@ -3550,11 +3675,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64106a315d300f001323be52.m3u8"
                 },
                 {
-                    "name": "Un cubo de sangre",
-                    "image": "https://images.pluto.tv/episodes/62384c97ff21e500131cb61c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c97ff21e500131cb61c.m3u8"
-                },
-                {
                     "name": "Dark Intentions",
                     "image": "https://images.pluto.tv/episodes/5f4ab3d2fa72a5001a5f79cd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ab3d2fa72a5001a5f79cd.m3u8"
@@ -3563,11 +3683,6 @@
                     "name": "Voces en la noche",
                     "image": "https://images.pluto.tv/episodes/5f4f5cf2fa72a5001a5fda3b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cf2fa72a5001a5fda3b.m3u8"
-                },
-                {
-                    "name": "El malvado Zaroff",
-                    "image": "https://images.pluto.tv/episodes/61c1dda942817b001a8bb0fb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c1dda942817b001a8bb0fb.m3u8"
                 },
                 {
                     "name": "La Senda",
@@ -4069,11 +4184,6 @@
                     "name": "Extraterrestres en la URSS",
                     "image": "https://images.pluto.tv/episodes/653b92fa2a6001001a569079/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b92fa2a6001001a569079.m3u8"
-                },
-                {
-                    "name": "Dark Star: El universo de H.R. Giger",
-                    "image": "https://images.pluto.tv/episodes/61c1dd9242817b001a8baecb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c1dd9242817b001a8baecb.m3u8"
                 },
                 {
                     "name": "Vigilante",
