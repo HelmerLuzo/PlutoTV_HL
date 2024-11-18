@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 18/11/2024 10:30",
+    "author": "Actualizada 18/11/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -8,6 +8,16 @@
             "name": "Nuevo en Pluto TV",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
+                {
+                    "name": "La carrera",
+                    "image": "https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371a41321c190013a008c1.m3u8"
+                },
+                {
+                    "name": "Hombre Irracional",
+                    "image": "https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371fe7a7fde5001326babc.m3u8"
+                },
                 {
                     "name": "El escritor fantasma",
                     "image": "https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -109,6 +119,16 @@
             "name": "El mejor cine",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/62d949808f6f0d00079962aa.png",
             "stations": [
+                {
+                    "name": "La carrera",
+                    "image": "https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371a41321c190013a008c1.m3u8"
+                },
+                {
+                    "name": "Hombre Irracional",
+                    "image": "https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371fe7a7fde5001326babc.m3u8"
+                },
                 {
                     "name": "El escritor fantasma",
                     "image": "https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -306,6 +326,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68837015c9a300077f1b3d.png",
             "stations": [
                 {
+                    "name": "La carrera",
+                    "image": "https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371a41321c190013a008c1.m3u8"
+                },
+                {
                     "name": "Código fuente",
                     "image": "https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcc142678a50014518e59.m3u8"
@@ -316,7 +341,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672a3e32e103890013a77b60.m3u8"
                 },
                 {
-                    "name": "Captain America",
+                    "name": "Capitán América",
                     "image": "https://images.pluto.tv/episodes/6638e2622833ae001393797d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638e2622833ae001393797d.m3u8"
                 },
@@ -381,7 +406,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a299225fde2001af578d5.m3u8"
                 },
                 {
-                    "name": "El mono borracho en el ojo del tigre",
+                    "name": "Jui kuen - El Mono Borracho en el Ojo del Tigre",
                     "image": "https://images.pluto.tv/episodes/64fee25af64f180013aeae5d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee25af64f180013aeae5d.m3u8"
                 },
@@ -627,7 +652,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63723d3c1ac5b40013b799f0.m3u8"
                 },
                 {
-                    "name": "The Hunchback of Notre Dame",
+                    "name": "El Jorobado de Notre Dame",
                     "image": "https://images.pluto.tv/episodes/64fee68cf64f180013aeb187/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee68cf64f180013aeb187.m3u8"
                 },
@@ -969,7 +994,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672a3e32e103890013a77b60.m3u8"
                 },
                 {
-                    "name": "Captain America",
+                    "name": "Capitán América",
                     "image": "https://images.pluto.tv/episodes/6638e2622833ae001393797d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638e2622833ae001393797d.m3u8"
                 },
@@ -1074,7 +1099,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/604f890112d561001a4eef76.m3u8"
                 },
                 {
-                    "name": "Attack of the Killer Tomatoes!",
+                    "name": "El Ataque de los Tomates Asesinos",
                     "image": "https://images.pluto.tv/episodes/64fedcc0f6f05d00135e975e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fedcc0f6f05d00135e975e.m3u8"
                 },
@@ -1320,7 +1345,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/616698ea178213001ad6c595.m3u8"
                 },
                 {
-                    "name": "Creepshow 2 ES",
+                    "name": "Creepshow 2",
                     "image": "https://images.pluto.tv/episodes/6372298ccea64000135d61d1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372298ccea64000135d61d1.m3u8"
                 },
@@ -1350,7 +1375,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64d1fd0cb97a1e0013cb03e9.m3u8"
                 },
                 {
-                    "name": "El mono borracho en el ojo del tigre",
+                    "name": "Jui kuen - El Mono Borracho en el Ojo del Tigre",
                     "image": "https://images.pluto.tv/episodes/64fee25af64f180013aeae5d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee25af64f180013aeae5d.m3u8"
                 },
@@ -1515,7 +1540,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc526b90983410013db2b2f.m3u8"
                 },
                 {
-                    "name": "Attack of the Killer Tomatoes!",
+                    "name": "El Ataque de los Tomates Asesinos",
                     "image": "https://images.pluto.tv/episodes/64fedcc0f6f05d00135e975e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fedcc0f6f05d00135e975e.m3u8"
                 },
@@ -1535,6 +1560,11 @@
             "name": "Cine de Autor",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/610bf290ce15940007813e5c.png",
             "stations": [
+                {
+                    "name": "Hombre Irracional",
+                    "image": "https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371fe7a7fde5001326babc.m3u8"
+                },
                 {
                     "name": "Ojos grandes",
                     "image": "https://images.pluto.tv/episodes/6735bee2091e240013604137/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1902,6 +1932,11 @@
             "name": "Drama",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68a053edd63f00073def51.png",
             "stations": [
+                {
+                    "name": "Hombre Irracional",
+                    "image": "https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371fe7a7fde5001326babc.m3u8"
+                },
                 {
                     "name": "Ojos grandes",
                     "image": "https://images.pluto.tv/episodes/6735bee2091e240013604137/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -2415,7 +2450,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e37dc36d64a0014593df8.m3u8"
                 },
                 {
-                    "name": "The Hunchback of Notre Dame",
+                    "name": "El Jorobado de Notre Dame",
                     "image": "https://images.pluto.tv/episodes/64fee68cf64f180013aeb187/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee68cf64f180013aeb187.m3u8"
                 },
@@ -2540,7 +2575,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e448136d64a0014593ff7.m3u8"
                 },
                 {
-                    "name": "¡Agáchate Maldito!",
+                    "name": "¡Agáchate, maldito!",
                     "image": "https://images.pluto.tv/episodes/636e449936d64a00145940ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e449936d64a00145940ea.m3u8"
                 },
@@ -2580,7 +2615,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63723d391ac5b40013b79990.m3u8"
                 },
                 {
-                    "name": "Billy Two Hats",
+                    "name": "Billy Dos Sombreros",
                     "image": "https://images.pluto.tv/episodes/637226c41ac5b40013b7628f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637226c41ac5b40013b7628f.m3u8"
                 },
@@ -2977,7 +3012,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372309141c0980014a40d9e.m3u8"
                 },
                 {
-                    "name": "¡Agáchate Maldito!",
+                    "name": "¡Agáchate, maldito!",
                     "image": "https://images.pluto.tv/episodes/636e449936d64a00145940ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e449936d64a00145940ea.m3u8"
                 },
@@ -3032,7 +3067,7 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e448436d64a0014594072.m3u8"
                 },
                 {
-                    "name": "Billy Two Hats",
+                    "name": "Billy Dos Sombreros",
                     "image": "https://images.pluto.tv/episodes/637226c41ac5b40013b7628f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637226c41ac5b40013b7628f.m3u8"
                 },
