@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 19/11/2024 10:30",
+    "author": "Actualizada 19/11/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -8,6 +8,11 @@
             "name": "Nuevo en Pluto TV",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
+                {
+                    "name": "Acuérdate de mí",
+                    "image": "https://images.pluto.tv/episodes/673c5936b7ea5e001304f08a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c5936b7ea5e001304f08a.m3u8"
+                },
                 {
                     "name": "La carrera",
                     "image": "https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -119,6 +124,11 @@
             "name": "El mejor cine",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/62d949808f6f0d00079962aa.png",
             "stations": [
+                {
+                    "name": "Acuérdate de mí",
+                    "image": "https://images.pluto.tv/episodes/673c5936b7ea5e001304f08a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c5936b7ea5e001304f08a.m3u8"
+                },
                 {
                     "name": "La carrera",
                     "image": "https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1933,6 +1943,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68a053edd63f00073def51.png",
             "stations": [
                 {
+                    "name": "Acuérdate de mí",
+                    "image": "https://images.pluto.tv/episodes/673c5936b7ea5e001304f08a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c5936b7ea5e001304f08a.m3u8"
+                },
+                {
                     "name": "Hombre Irracional",
                     "image": "https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371fe7a7fde5001326babc.m3u8"
@@ -1941,6 +1956,11 @@
                     "name": "Ojos grandes",
                     "image": "https://images.pluto.tv/episodes/6735bee2091e240013604137/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735bee2091e240013604137.m3u8"
+                },
+                {
+                    "name": "Negación (2016)",
+                    "image": "https://images.pluto.tv/episodes/673c49ba882f6d0013a70e7c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c49ba882f6d0013a70e7c.m3u8"
                 },
                 {
                     "name": "St. Vincent",
@@ -3323,6 +3343,11 @@
             "name": "Romance",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68851dcd9c0900072bffa2.png",
             "stations": [
+                {
+                    "name": "Acuérdate de mí",
+                    "image": "https://images.pluto.tv/episodes/673c5936b7ea5e001304f08a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c5936b7ea5e001304f08a.m3u8"
+                },
                 {
                     "name": "Comenzar de nuevo",
                     "image": "https://images.pluto.tv/episodes/672dcc0d2678a50014518cd2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
