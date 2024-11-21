@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 21/11/2024 10:30",
+    "author": "Actualizada 21/11/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -2425,6 +2425,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf37f94c1ec0013765937.m3u8"
                 },
                 {
+                    "name": "The Prize",
+                    "image": "https://images.pluto.tv/episodes/64fee528d65d070014fb1b4f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee528d65d070014fb1b4f.m3u8"
+                },
+                {
                     "name": "El Gatopardo",
                     "image": "https://images.pluto.tv/episodes/63723d3c1ac5b40013b799f0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63723d3c1ac5b40013b799f0.m3u8"
@@ -2690,16 +2695,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaac974755c001a4c9eb9.m3u8"
                 },
                 {
-                    "name": "Aníbal",
-                    "image": "https://images.pluto.tv/episodes/62a052e2cb032400134d6f37/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a052e2cb032400134d6f37.m3u8"
-                },
-                {
-                    "name": "El Mayor Atraco Frustrado del Oeste",
-                    "image": "https://images.pluto.tv/episodes/62a052e6cb032400134d7434/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a052e6cb032400134d7434.m3u8"
-                },
-                {
                     "name": "La dinastía del petróleo",
                     "image": "https://images.pluto.tv/episodes/61bb4804b3ddda00136929f1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61bb4804b3ddda00136929f1.m3u8"
@@ -2848,6 +2843,11 @@
                     "name": "Dr. Jekyll And Mr. Hyde ES",
                     "image": "https://images.pluto.tv/episodes/616eb6986b2c51001aebb456/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/616eb6986b2c51001aebb456.m3u8"
+                },
+                {
+                    "name": "El Terror",
+                    "image": "https://images.pluto.tv/episodes/615eaaf874755c001a4ca47a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaf874755c001a4ca47a.m3u8"
                 }
             ]
         },
@@ -3110,11 +3110,6 @@
                     "name": "South of St. Louis ES",
                     "image": "https://images.pluto.tv/episodes/637223ecdf7dfa001350ae72/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637223ecdf7dfa001350ae72.m3u8"
-                },
-                {
-                    "name": "El Mayor Atraco Frustrado del Oeste",
-                    "image": "https://images.pluto.tv/episodes/62a052e6cb032400134d7434/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a052e6cb032400134d7434.m3u8"
                 },
                 {
                     "name": "Vengeance Valley ES",
