@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 28/11/2024 10:30",
+    "author": "Actualizada 28/11/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -380,6 +380,11 @@
             "name": "Acción",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68837015c9a300077f1b3d.png",
             "stations": [
+                {
+                    "name": "The Beastmaster",
+                    "image": "https://images.pluto.tv/episodes/6745dfa2882f6d00132252bc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6745dfa2882f6d00132252bc.m3u8"
+                },
                 {
                     "name": "La carrera",
                     "image": "https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1987,6 +1992,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/6093c3545475520007c8b0e8.png",
             "stations": [
                 {
+                    "name": "The Beastmaster",
+                    "image": "https://images.pluto.tv/episodes/6745dfa2882f6d00132252bc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6745dfa2882f6d00132252bc.m3u8"
+                },
+                {
                     "name": "Camino a la libertad",
                     "image": "https://images.pluto.tv/episodes/672b24e44ad85600133c2343/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672b24e44ad85600133c2343.m3u8"
@@ -2490,6 +2500,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673aff424ad856001349a59d.m3u8"
                 },
                 {
+                    "name": "The Best Years of Our Lives",
+                    "image": "https://images.pluto.tv/episodes/6745de3da7fde50013c6bacf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6745de3da7fde50013c6bacf.m3u8"
+                },
+                {
                     "name": "Suspicion",
                     "image": "https://images.pluto.tv/episodes/673f2c042678a500143eea35/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f2c042678a500143eea35.m3u8"
@@ -2503,6 +2518,11 @@
                     "name": "Stromboli (Terra di Dio)",
                     "image": "https://images.pluto.tv/episodes/674058f4e07f280013146425/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/674058f4e07f280013146425.m3u8"
+                },
+                {
+                    "name": "Matrimonio Original",
+                    "image": "https://images.pluto.tv/episodes/673b0d60882f6d0013934cfc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0d60882f6d0013934cfc.m3u8"
                 },
                 {
                     "name": "They Shoot Horses, Don't They?",
@@ -2973,16 +2993,6 @@
                     "name": "Sunrise ES",
                     "image": "https://images.pluto.tv/episodes/6183acde866a40001a7d9acf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6183acde866a40001a7d9acf.m3u8"
-                },
-                {
-                    "name": "Sherlock Holmes",
-                    "image": "https://images.pluto.tv/episodes/6166d4364f409e001a473204/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6166d4364f409e001a473204.m3u8"
-                },
-                {
-                    "name": "The Proud Rebel ES",
-                    "image": "https://images.pluto.tv/episodes/617281df00d95f001a3bc546/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/617281df00d95f001a3bc546.m3u8"
                 }
             ]
         },
