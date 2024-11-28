@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 28/11/2024 02:30",
+    "author": "Actualizada 28/11/2024 10:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -17,6 +17,11 @@
                     "name": "Acuérdate de mí",
                     "image": "https://images.pluto.tv/episodes/673c5936b7ea5e001304f08a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c5936b7ea5e001304f08a.m3u8"
+                },
+                {
+                    "name": "El hombre más buscado",
+                    "image": "https://images.pluto.tv/episodes/67371e72e07f28001398cea8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371e72e07f28001398cea8.m3u8"
                 },
                 {
                     "name": "Johnny Cogió su Fusil",
@@ -148,6 +153,11 @@
                     "name": "Acuérdate de mí",
                     "image": "https://images.pluto.tv/episodes/673c5936b7ea5e001304f08a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c5936b7ea5e001304f08a.m3u8"
+                },
+                {
+                    "name": "El hombre más buscado",
+                    "image": "https://images.pluto.tv/episodes/67371e72e07f28001398cea8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371e72e07f28001398cea8.m3u8"
                 },
                 {
                     "name": "La carrera",
@@ -592,6 +602,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/6220a6d701d4b70007acc4d2.png",
             "stations": [
                 {
+                    "name": "El hombre más buscado",
+                    "image": "https://images.pluto.tv/episodes/67371e72e07f28001398cea8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371e72e07f28001398cea8.m3u8"
+                },
+                {
                     "name": "Retorno Pasado",
                     "image": "https://images.pluto.tv/episodes/673b0bf0b7ea5e0013f37e2c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0bf0b7ea5e0013f37e2c.m3u8"
@@ -742,6 +757,11 @@
             "name": "Thriller",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f689fb9c653fb00077493f7.png",
             "stations": [
+                {
+                    "name": "El hombre más buscado",
+                    "image": "https://images.pluto.tv/episodes/67371e72e07f28001398cea8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371e72e07f28001398cea8.m3u8"
+                },
                 {
                     "name": "El escritor fantasma",
                     "image": "https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
