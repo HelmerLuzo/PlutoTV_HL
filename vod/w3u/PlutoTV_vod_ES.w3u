@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 29/11/2024 10:30",
+    "author": "Actualizada 29/11/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -851,6 +851,11 @@
                     "name": "Fear X",
                     "image": "https://images.pluto.tv/episodes/655c77322f9f5b0013eca968/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c77322f9f5b0013eca968.m3u8"
+                },
+                {
+                    "name": "La ira de la bestia",
+                    "image": "https://images.pluto.tv/episodes/653f800a4827fc001aba1419/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f800a4827fc001aba1419.m3u8"
                 },
                 {
                     "name": "El tercer asesinato",
@@ -2015,6 +2020,11 @@
                     "name": "Tres pequeños ninjas",
                     "image": "https://images.pluto.tv/episodes/655c91ea174b1400143a712e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c91ea174b1400143a712e.m3u8"
+                },
+                {
+                    "name": "El ladrón de Shanghai",
+                    "image": "https://images.pluto.tv/episodes/654a33704827fc001a120671/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a33704827fc001a120671.m3u8"
                 },
                 {
                     "name": "Manolito Gafotas",
@@ -4204,6 +4214,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6358f9e16089a7001371406a.m3u8"
                 },
                 {
+                    "name": "Reset ES",
+                    "image": "https://images.pluto.tv/episodes/636e3aa941c0980014a39107/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e3aa941c0980014a39107.m3u8"
+                },
+                {
                     "name": "Ficción",
                     "image": "https://images.pluto.tv/episodes/62861ebea6d5630013068e64/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62861ebea6d5630013068e64.m3u8"
@@ -4328,6 +4343,11 @@
                     "name": "Marcelino, el mejor payaso del mundo ES",
                     "image": "https://images.pluto.tv/episodes/6358f9e16089a7001371406a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6358f9e16089a7001371406a.m3u8"
+                },
+                {
+                    "name": "Reset ES",
+                    "image": "https://images.pluto.tv/episodes/636e3aa941c0980014a39107/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e3aa941c0980014a39107.m3u8"
                 },
                 {
                     "name": "La Romasanta",
@@ -4654,6 +4674,16 @@
                     "name": "El Mundo Rosa de Barbie",
                     "image": "https://images.pluto.tv/episodes/66617b11c0b6d50014e41e43/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617b11c0b6d50014e41e43.m3u8"
+                },
+                {
+                    "name": "Aute Retrato",
+                    "image": "https://images.pluto.tv/episodes/633d354d5332160013379489/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d354d5332160013379489.m3u8"
+                },
+                {
+                    "name": "El último guion",
+                    "image": "https://images.pluto.tv/episodes/633d35535332160013379573/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d35535332160013379573.m3u8"
                 }
             ]
         },
@@ -4840,6 +4870,16 @@
                     "name": "Alas para la historia, el rescate de un mito",
                     "image": "https://images.pluto.tv/episodes/61c0386e79ba2f001a9eaa83/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0386e79ba2f001a9eaa83.m3u8"
+                },
+                {
+                    "name": "Aute Retrato",
+                    "image": "https://images.pluto.tv/episodes/633d354d5332160013379489/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d354d5332160013379489.m3u8"
+                },
+                {
+                    "name": "El último guion",
+                    "image": "https://images.pluto.tv/episodes/633d35535332160013379573/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d35535332160013379573.m3u8"
                 }
             ]
         },
