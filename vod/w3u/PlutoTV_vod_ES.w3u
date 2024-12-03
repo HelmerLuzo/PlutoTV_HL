@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 03/12/2024 10:30",
+    "author": "Actualizada 03/12/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -1864,6 +1864,16 @@
                     "name": "Navidad Compartida",
                     "image": "https://images.pluto.tv/episodes/66462695a08618001349150e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462695a08618001349150e.m3u8"
+                },
+                {
+                    "name": "El roast de Justin Bieber",
+                    "image": "https://images.pluto.tv/episodes/66fa84b2af99a50013dad299/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa84b2af99a50013dad299.m3u8"
+                },
+                {
+                    "name": "El roast de Bruce Willis",
+                    "image": "https://images.pluto.tv/episodes/66fa915d1a51490013414b00/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa915d1a51490013414b00.m3u8"
                 }
             ]
         },
@@ -2102,6 +2112,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d1863dd2de2a0013003804.m3u8"
                 },
                 {
+                    "name": "Reina Cristina",
+                    "image": "https://images.pluto.tv/episodes/63ad7601a6bb3b001471c4eb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad7601a6bb3b001471c4eb.m3u8"
+                },
+                {
                     "name": "Tres solteros y un biberón",
                     "image": "https://images.pluto.tv/episodes/635667c1f92dc200149ce89c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/635667c1f92dc200149ce89c.m3u8"
@@ -2251,6 +2266,11 @@
                     "name": "Radio Rebel",
                     "image": "https://images.pluto.tv/episodes/5f4948b061f1b1001afec7b3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948b061f1b1001afec7b3.m3u8"
+                },
+                {
+                    "name": "Mafalda, la película",
+                    "image": "https://images.pluto.tv/episodes/62384c94ff21e500131cb5c5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c94ff21e500131cb5c5.m3u8"
                 },
                 {
                     "name": "The Chaperone",
@@ -4458,6 +4478,22 @@
                     "name": "Dagon, La Secta Del Mar",
                     "image": "https://images.pluto.tv/episodes/5f4e182dfa72a5001a5fa5bb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e182dfa72a5001a5fa5bb.m3u8"
+                },
+                {
+                    "name": "El Roast de Santiago Segura: &quot;Amiguetes los justos&quot;",
+                    "image": "https://images.pluto.tv/episodes/66fa8bd51a51490013413da2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa8bd51a51490013413da2.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "Comedia Made in Spain",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/647099564cfc2c0008847e9d.png",
+            "stations": [
+                {
+                    "name": "El Roast de Santiago Segura: &quot;Amiguetes los justos&quot;",
+                    "image": "https://images.pluto.tv/episodes/66fa8bd51a51490013413da2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa8bd51a51490013413da2.m3u8"
                 }
             ]
         },
@@ -5234,6 +5270,22 @@
                     "name": "Burn",
                     "image": "https://images.pluto.tv/episodes/5f8479a0652fb5001add58b5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8479a0652fb5001add58b5.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "Series comedia",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/672cce6edaad7f00088d9612.png",
+            "stations": [
+                {
+                    "name": "El roast de Bruce Willis",
+                    "image": "https://images.pluto.tv/episodes/66fa915d1a51490013414b00/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa915d1a51490013414b00.m3u8"
+                },
+                {
+                    "name": "El roast de Justin Bieber",
+                    "image": "https://images.pluto.tv/episodes/66fa84b2af99a50013dad299/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa84b2af99a50013dad299.m3u8"
                 }
             ]
         }
