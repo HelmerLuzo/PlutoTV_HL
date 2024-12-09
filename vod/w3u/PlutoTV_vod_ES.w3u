@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 09/12/2024 10:30",
+    "author": "Actualizada 09/12/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -215,6 +215,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
                 {
+                    "name": "Trascendencia",
+                    "image": "https://images.pluto.tv/episodes/6756ad6071cc440013bb261b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756ad6071cc440013bb261b.m3u8"
+                },
+                {
                     "name": "El juego de Ender",
                     "image": "https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6751648aa7fde50013705bae.m3u8"
@@ -223,6 +228,11 @@
                     "name": "Un buen partido",
                     "image": "https://images.pluto.tv/episodes/674ef9cf3b8ac60013ac06e3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/674ef9cf3b8ac60013ac06e3.m3u8"
+                },
+                {
+                    "name": "El maestro del agua",
+                    "image": "https://images.pluto.tv/episodes/6756aec2091e24001325b979/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756aec2091e24001325b979.m3u8"
                 },
                 {
                     "name": "Life of Brian",
@@ -338,21 +348,6 @@
                     "name": "La línea del horizonte",
                     "image": "https://images.pluto.tv/episodes/672a3e32e103890013a77b60/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672a3e32e103890013a77b60.m3u8"
-                },
-                {
-                    "name": "Saban's Power Rangers",
-                    "image": "https://images.pluto.tv/episodes/66b3379517101c00130533be/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66b3379517101c00130533be.m3u8"
-                },
-                {
-                    "name": "Ghosts Of The Abyss",
-                    "image": "https://images.pluto.tv/episodes/66b33a61b20e790013a49c2d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66b33a61b20e790013a49c2d.m3u8"
-                },
-                {
-                    "name": "They Came Together",
-                    "image": "https://images.pluto.tv/episodes/66b33a67b20e790013a49d68/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66b33a67b20e790013a49d68.m3u8"
                 }
             ]
         },
@@ -364,6 +359,11 @@
                     "name": "Life of Brian",
                     "image": "https://images.pluto.tv/episodes/67405a5ae07f280013146825/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67405a5ae07f280013146825.m3u8"
+                },
+                {
+                    "name": "Trascendencia",
+                    "image": "https://images.pluto.tv/episodes/6756ad6071cc440013bb261b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756ad6071cc440013bb261b.m3u8"
                 },
                 {
                     "name": "El juego de Ender",
@@ -601,6 +601,11 @@
             "name": "Acción",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68837015c9a300077f1b3d.png",
             "stations": [
+                {
+                    "name": "Trascendencia",
+                    "image": "https://images.pluto.tv/episodes/6756ad6071cc440013bb261b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756ad6071cc440013bb261b.m3u8"
+                },
                 {
                     "name": "El juego de Ender",
                     "image": "https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -989,6 +994,11 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f689fb9c653fb00077493f7.png",
             "stations": [
                 {
+                    "name": "Trascendencia",
+                    "image": "https://images.pluto.tv/episodes/6756ad6071cc440013bb261b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756ad6071cc440013bb261b.m3u8"
+                },
+                {
                     "name": "El hombre más buscado",
                     "image": "https://images.pluto.tv/episodes/67371e72e07f28001398cea8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371e72e07f28001398cea8.m3u8"
@@ -1299,6 +1309,11 @@
             "name": "Sci-Fi",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/6093c605f0350600075a2d3b.png",
             "stations": [
+                {
+                    "name": "Trascendencia",
+                    "image": "https://images.pluto.tv/episodes/6756ad6071cc440013bb261b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756ad6071cc440013bb261b.m3u8"
+                },
                 {
                     "name": "El juego de Ender",
                     "image": "https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -2328,6 +2343,16 @@
             "name": "Drama",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68a053edd63f00073def51.png",
             "stations": [
+                {
+                    "name": "Trascendencia",
+                    "image": "https://images.pluto.tv/episodes/6756ad6071cc440013bb261b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756ad6071cc440013bb261b.m3u8"
+                },
+                {
+                    "name": "El maestro del agua",
+                    "image": "https://images.pluto.tv/episodes/6756aec2091e24001325b979/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756aec2091e24001325b979.m3u8"
+                },
                 {
                     "name": "Acuérdate de mí",
                     "image": "https://images.pluto.tv/episodes/673c5936b7ea5e001304f08a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
