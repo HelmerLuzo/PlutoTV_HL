@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 10/12/2024 02:30",
+    "author": "Actualizada 10/12/2024 10:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -901,11 +901,6 @@
                     "name": "Diez negritos",
                     "image": "https://images.pluto.tv/episodes/61a4a4feeeb8a3001307b6ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4feeeb8a3001307b6ea.m3u8"
-                },
-                {
-                    "name": "El señor de las moscas",
-                    "image": "https://images.pluto.tv/episodes/63930e29a8f5a40013c8a2d9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63930e29a8f5a40013c8a2d9.m3u8"
                 },
                 {
                     "name": "El hombre de la mancha",
@@ -3101,11 +3096,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372336c9debef0013b5f098.m3u8"
                 },
                 {
-                    "name": "El señor de las moscas",
-                    "image": "https://images.pluto.tv/episodes/63930e29a8f5a40013c8a2d9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63930e29a8f5a40013c8a2d9.m3u8"
-                },
-                {
                     "name": "The Naked Kiss ES",
                     "image": "https://images.pluto.tv/episodes/61640f90f3593c001aa34dc5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f90f3593c001aa34dc5.m3u8"
@@ -3284,6 +3274,11 @@
                     "name": "Sunrise ES",
                     "image": "https://images.pluto.tv/episodes/6183acde866a40001a7d9acf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6183acde866a40001a7d9acf.m3u8"
+                },
+                {
+                    "name": "Sherlock Holmes",
+                    "image": "https://images.pluto.tv/episodes/6166d4364f409e001a473204/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6166d4364f409e001a473204.m3u8"
                 }
             ]
         },
