@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 20/12/2024 10:30",
+    "author": "Actualizada 20/12/2024 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -9,54 +9,24 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/6189405e58be1a0007650a12.png",
             "stations": [
                 {
-                    "name": "Corazón de Navidad",
-                    "image": "https://images.pluto.tv/episodes/66a75a2e57d82b001302a11c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a75a2e57d82b001302a11c.m3u8"
-                },
-                {
-                    "name": "Santa Who?",
-                    "image": "https://images.pluto.tv/episodes/5f902267fdb601001aef866f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f902267fdb601001aef866f.m3u8"
-                },
-                {
-                    "name": "Un cuento de Navidad",
-                    "image": "https://images.pluto.tv/episodes/670e1f9d7dcabd0013bc14eb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/670e1f9d7dcabd0013bc14eb.m3u8"
-                },
-                {
-                    "name": "Noche de Paz",
-                    "image": "https://images.pluto.tv/episodes/65c0d364d22ce500141296f0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c0d364d22ce500141296f0.m3u8"
-                },
-                {
-                    "name": "La Grandeza de Vivir",
-                    "image": "https://images.pluto.tv/episodes/5f929ac0fe51e4001aac9d0c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ac0fe51e4001aac9d0c.m3u8"
-                },
-                {
                     "name": "Navidad Compartida",
                     "image": "https://images.pluto.tv/episodes/66462695a08618001349150e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462695a08618001349150e.m3u8"
                 },
                 {
-                    "name": "El escaparate del amor",
-                    "image": "https://images.pluto.tv/episodes/67209924a2922a00138bd511/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67209924a2922a00138bd511.m3u8"
-                },
-                {
-                    "name": "The Bishop's Wife",
-                    "image": "https://images.pluto.tv/episodes/67449912882f6d0013033945/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67449912882f6d0013033945.m3u8"
-                },
-                {
-                    "name": "Navidad a la carta",
-                    "image": "https://images.pluto.tv/episodes/657c0e96a95cb10014a61009/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c0e96a95cb10014a61009.m3u8"
+                    "name": "Arreglando la Navidad",
+                    "image": "https://images.pluto.tv/episodes/657c0e91a95cb10014a60fac/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c0e91a95cb10014a60fac.m3u8"
                 },
                 {
                     "name": "Los nueve gatos de Navidad",
                     "image": "https://images.pluto.tv/episodes/657c11637295a600140d4cd9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c11637295a600140d4cd9.m3u8"
+                },
+                {
+                    "name": "Navidad a la carta",
+                    "image": "https://images.pluto.tv/episodes/657c0e96a95cb10014a61009/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c0e96a95cb10014a61009.m3u8"
                 },
                 {
                     "name": "Destino Navidad",
@@ -69,14 +39,9 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c115a7295a600140d4b12.m3u8"
                 },
                 {
-                    "name": "El sabor de la Navidad",
-                    "image": "https://images.pluto.tv/episodes/657c1002b2cbaf0013862b1d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c1002b2cbaf0013862b1d.m3u8"
-                },
-                {
-                    "name": "La imagen de la Navidad",
-                    "image": "https://images.pluto.tv/episodes/657c0e9ba95cb10014a61177/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c0e9ba95cb10014a61177.m3u8"
+                    "name": "Navidad en el Majestic",
+                    "image": "https://images.pluto.tv/episodes/660d6abde2cbc4001348acee/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/660d6abde2cbc4001348acee.m3u8"
                 },
                 {
                     "name": "Baile de máscaras en Navidad",
@@ -84,9 +49,24 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c115f7295a600140d4c7c.m3u8"
                 },
                 {
-                    "name": "Arreglando la Navidad",
-                    "image": "https://images.pluto.tv/episodes/657c0e91a95cb10014a60fac/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c0e91a95cb10014a60fac.m3u8"
+                    "name": "Un cuento de Navidad",
+                    "image": "https://images.pluto.tv/episodes/670e1f9d7dcabd0013bc14eb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/670e1f9d7dcabd0013bc14eb.m3u8"
+                },
+                {
+                    "name": "Noche de Paz",
+                    "image": "https://images.pluto.tv/episodes/65c0d364d22ce500141296f0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c0d364d22ce500141296f0.m3u8"
+                },
+                {
+                    "name": "La imagen de la Navidad",
+                    "image": "https://images.pluto.tv/episodes/657c0e9ba95cb10014a61177/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c0e9ba95cb10014a61177.m3u8"
+                },
+                {
+                    "name": "La vida secreta de la señora Claus",
+                    "image": "https://images.pluto.tv/episodes/66a751a117101c00138d7c1a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a751a117101c00138d7c1a.m3u8"
                 },
                 {
                     "name": "Aviones, trenes y árboles de Navidad",
@@ -94,19 +74,59 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c0e8da95cb10014a60e42.m3u8"
                 },
                 {
-                    "name": "New York, I Love You",
-                    "image": "https://images.pluto.tv/episodes/5f4ead37db45a1001a795479/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ead37db45a1001a795479.m3u8"
+                    "name": "La Grandeza de Vivir",
+                    "image": "https://images.pluto.tv/episodes/5f929ac0fe51e4001aac9d0c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ac0fe51e4001aac9d0c.m3u8"
                 },
                 {
-                    "name": "La Casa de Navidad de Thomas Kinkade",
-                    "image": "https://images.pluto.tv/episodes/6372698c36d64a00145a466a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372698c36d64a00145a466a.m3u8"
+                    "name": "Santa Who?",
+                    "image": "https://images.pluto.tv/episodes/5f902267fdb601001aef866f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f902267fdb601001aef866f.m3u8"
+                },
+                {
+                    "name": "El sabor de la Navidad",
+                    "image": "https://images.pluto.tv/episodes/657c1002b2cbaf0013862b1d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/657c1002b2cbaf0013862b1d.m3u8"
+                },
+                {
+                    "name": "Corazón de Navidad",
+                    "image": "https://images.pluto.tv/episodes/66a75a2e57d82b001302a11c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a75a2e57d82b001302a11c.m3u8"
+                },
+                {
+                    "name": "Un Príncipe De Navidad",
+                    "image": "https://images.pluto.tv/episodes/64e461298f763a001336659e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64e461298f763a001336659e.m3u8"
+                },
+                {
+                    "name": "El escaparate del amor",
+                    "image": "https://images.pluto.tv/episodes/67209924a2922a00138bd511/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67209924a2922a00138bd511.m3u8"
+                },
+                {
+                    "name": "The Bishop's Wife",
+                    "image": "https://images.pluto.tv/episodes/67449912882f6d0013033945/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67449912882f6d0013033945.m3u8"
                 },
                 {
                     "name": "Christmas Mail",
                     "image": "https://images.pluto.tv/episodes/5f4ab3c5fa72a5001a5f7919/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ab3c5fa72a5001a5f7919.m3u8"
+                },
+                {
+                    "name": "New York, I Love You",
+                    "image": "https://images.pluto.tv/episodes/5f4ead37db45a1001a795479/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ead37db45a1001a795479.m3u8"
+                },
+                {
+                    "name": "Las dos vidas de Hannah",
+                    "image": "https://images.pluto.tv/episodes/66a751af17101c00138d7e4e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a751af17101c00138d7e4e.m3u8"
+                },
+                {
+                    "name": "La Casa de Navidad de Thomas Kinkade",
+                    "image": "https://images.pluto.tv/episodes/6372698c36d64a00145a466a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372698c36d64a00145a466a.m3u8"
                 },
                 {
                     "name": "Golden Christmas",
@@ -124,11 +144,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64e45fc1c6c2a600131fcd25.m3u8"
                 },
                 {
-                    "name": "Un Príncipe De Navidad",
-                    "image": "https://images.pluto.tv/episodes/64e461298f763a001336659e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64e461298f763a001336659e.m3u8"
-                },
-                {
                     "name": "4 Wedding Planners",
                     "image": "https://images.pluto.tv/episodes/5f4948c261f1b1001afec84a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948c261f1b1001afec84a.m3u8"
@@ -139,9 +154,9 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66d8586dd99fc70013aa1482.m3u8"
                 },
                 {
-                    "name": "Navidad en el Majestic",
-                    "image": "https://images.pluto.tv/episodes/660d6abde2cbc4001348acee/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/660d6abde2cbc4001348acee.m3u8"
+                    "name": "Navidad Vuelve A Casa",
+                    "image": "https://images.pluto.tv/episodes/63d7b84c1fdb9b0013416f40/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b84c1fdb9b0013416f40.m3u8"
                 },
                 {
                     "name": "Navidad A La Vuelta De La Esquina",
@@ -154,11 +169,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/660d6954a79dde0014200720.m3u8"
                 },
                 {
-                    "name": "Navidad Vuelve A Casa",
-                    "image": "https://images.pluto.tv/episodes/63d7b84c1fdb9b0013416f40/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b84c1fdb9b0013416f40.m3u8"
-                },
-                {
                     "name": "Navidad en Secreto",
                     "image": "https://images.pluto.tv/episodes/6374cb70485e3600076ecba1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6374cb70485e3600076ecba1.m3u8"
@@ -169,9 +179,19 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c0d4c944bc6e0013ba881a.m3u8"
                 },
                 {
+                    "name": "Recuerdos De Navidad",
+                    "image": "https://images.pluto.tv/episodes/660d695aa79dde00142008e5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/660d695aa79dde00142008e5.m3u8"
+                },
+                {
                     "name": "Vuelta a casa por Navidad",
                     "image": "https://images.pluto.tv/episodes/65c0cf2cb65b870013cb8a3b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c0cf2cb65b870013cb8a3b.m3u8"
+                },
+                {
+                    "name": "Navidad de corazón",
+                    "image": "https://images.pluto.tv/episodes/66a7503c9322c00013eb2556/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a7503c9322c00013eb2556.m3u8"
                 },
                 {
                     "name": "La Senda",
@@ -179,29 +199,9 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e565c30400136ada9f.m3u8"
                 },
                 {
-                    "name": "La vida secreta de la señora Claus",
-                    "image": "https://images.pluto.tv/episodes/66a751a117101c00138d7c1a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a751a117101c00138d7c1a.m3u8"
-                },
-                {
-                    "name": "Las dos vidas de Hannah",
-                    "image": "https://images.pluto.tv/episodes/66a751af17101c00138d7e4e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a751af17101c00138d7e4e.m3u8"
-                },
-                {
                     "name": "Las vacaciones de Santa Claus",
                     "image": "https://images.pluto.tv/episodes/66a7532c5b669a0013967df2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a7532c5b669a0013967df2.m3u8"
-                },
-                {
-                    "name": "Recuerdos De Navidad",
-                    "image": "https://images.pluto.tv/episodes/660d695aa79dde00142008e5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/660d695aa79dde00142008e5.m3u8"
-                },
-                {
-                    "name": "Navidad de corazón",
-                    "image": "https://images.pluto.tv/episodes/66a7503c9322c00013eb2556/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a7503c9322c00013eb2556.m3u8"
                 },
                 {
                     "name": "12 catástrofes",
@@ -356,16 +356,6 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/62d949808f6f0d00079962aa.png",
             "stations": [
                 {
-                    "name": "Life of Brian",
-                    "image": "https://images.pluto.tv/episodes/67405a5ae07f280013146825/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67405a5ae07f280013146825.m3u8"
-                },
-                {
-                    "name": "Trascendencia",
-                    "image": "https://images.pluto.tv/episodes/6756ad6071cc440013bb261b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756ad6071cc440013bb261b.m3u8"
-                },
-                {
                     "name": "El juego de Ender",
                     "image": "https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6751648aa7fde50013705bae.m3u8"
@@ -374,6 +364,16 @@
                     "name": "Acuérdate de mí",
                     "image": "https://images.pluto.tv/episodes/673c5936b7ea5e001304f08a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c5936b7ea5e001304f08a.m3u8"
+                },
+                {
+                    "name": "Life of Brian",
+                    "image": "https://images.pluto.tv/episodes/67405a5ae07f280013146825/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67405a5ae07f280013146825.m3u8"
+                },
+                {
+                    "name": "Trascendencia",
+                    "image": "https://images.pluto.tv/episodes/6756ad6071cc440013bb261b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6756ad6071cc440013bb261b.m3u8"
                 },
                 {
                     "name": "El hombre más buscado",
