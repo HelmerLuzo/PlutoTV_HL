@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 15/01/2025 10:30",
+    "author": "Actualizada 15/01/2025 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -781,6 +781,11 @@
                     "name": "Donkey Xote",
                     "image": "https://images.pluto.tv/episodes/65c0d362d22ce50014129626/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c0d362d22ce50014129626.m3u8"
+                },
+                {
+                    "name": "El señor de las moscas",
+                    "image": "https://images.pluto.tv/episodes/63930e29a8f5a40013c8a2d9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63930e29a8f5a40013c8a2d9.m3u8"
                 },
                 {
                     "name": "El hombre de la mancha",
@@ -1604,6 +1609,11 @@
                     "name": "Conversaciones con otras mujeres",
                     "image": "https://images.pluto.tv/episodes/63d2481af97d0100131e0fbc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d2481af97d0100131e0fbc.m3u8"
+                },
+                {
+                    "name": "La Pequeña Tienda De Los Horrores",
+                    "image": "https://images.pluto.tv/episodes/610bf37f94c1ec0013765937/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf37f94c1ec0013765937.m3u8"
                 },
                 {
                     "name": "Freaked. La disparatada parada de los monstruos",
@@ -2685,6 +2695,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf37c94c1ec0013765860.m3u8"
                 },
                 {
+                    "name": "La Pequeña Tienda De Los Horrores",
+                    "image": "https://images.pluto.tv/episodes/610bf37f94c1ec0013765937/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf37f94c1ec0013765937.m3u8"
+                },
+                {
                     "name": "The Prize",
                     "image": "https://images.pluto.tv/episodes/64fee528d65d070014fb1b4f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee528d65d070014fb1b4f.m3u8"
@@ -2818,6 +2833,11 @@
                     "name": "The Hitch-Hiker ES",
                     "image": "https://images.pluto.tv/episodes/6372336c9debef0013b5f098/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372336c9debef0013b5f098.m3u8"
+                },
+                {
+                    "name": "El señor de las moscas",
+                    "image": "https://images.pluto.tv/episodes/63930e29a8f5a40013c8a2d9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63930e29a8f5a40013c8a2d9.m3u8"
                 },
                 {
                     "name": "The Naked Kiss ES",
@@ -3038,16 +3058,6 @@
                     "name": "Sherlock Holmes: El Arma Secreta",
                     "image": "https://images.pluto.tv/episodes/615eaad274755c001a4ca08e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaad274755c001a4ca08e.m3u8"
-                },
-                {
-                    "name": "El fantasma de la ópera",
-                    "image": "https://images.pluto.tv/episodes/615eaaf174755c001a4ca3d5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaf174755c001a4ca3d5.m3u8"
-                },
-                {
-                    "name": "Ayudando a la salud",
-                    "image": "https://images.pluto.tv/episodes/614d81deaeae500014d8f5d0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614d81deaeae500014d8f5d0.m3u8"
                 }
             ]
         },
