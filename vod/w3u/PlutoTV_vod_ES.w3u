@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 21/02/2025 10:30",
+    "author": "Actualizada 21/02/2025 18:31",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -762,6 +762,21 @@
             "name": "Acción",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68837015c9a300077f1b3d.png",
             "stations": [
+                {
+                    "name": "El Baron Rojo",
+                    "image": "https://images.pluto.tv/episodes/679b4804acbab10014b6de8a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4804acbab10014b6de8a.m3u8"
+                },
+                {
+                    "name": "Juntos En Combate",
+                    "image": "https://images.pluto.tv/episodes/679b496dff93e00013efc9c4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496dff93e00013efc9c4.m3u8"
+                },
+                {
+                    "name": "Point Man",
+                    "image": "https://images.pluto.tv/episodes/679b4ada7641390014cb4e1d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ada7641390014cb4e1d.m3u8"
+                },
                 {
                     "name": "Sunchaser",
                     "image": "https://images.pluto.tv/episodes/60780caef96a44001a1d81b2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1728,6 +1743,16 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f61dfde1ad8fd000795cbd4.png",
             "stations": [
                 {
+                    "name": "Cambio De Ruta",
+                    "image": "https://images.pluto.tv/episodes/679b4801acbab10014b6dcc6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4801acbab10014b6dcc6.m3u8"
+                },
+                {
+                    "name": "No Se Si Cortarme Las Venas O Dejarmelas Largas",
+                    "image": "https://images.pluto.tv/episodes/679b4ad47641390014cb4a9b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ad47641390014cb4a9b.m3u8"
+                },
+                {
                     "name": "Híncame el diente",
                     "image": "https://images.pluto.tv/episodes/6076b6a8235736001ac44991/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b6a8235736001ac44991.m3u8"
@@ -2384,6 +2409,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62861ebea6d5630013068e64.m3u8"
                 },
                 {
+                    "name": "Una vida sencilla",
+                    "image": "https://images.pluto.tv/episodes/61a4a4d3eeb8a3001307b4d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4d3eeb8a3001307b4d8.m3u8"
+                },
+                {
                     "name": "El amor es más fuerte que las bombas",
                     "image": "https://images.pluto.tv/episodes/60d0436228f1d30013ed3755/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d0436228f1d30013ed3755.m3u8"
@@ -2540,6 +2570,56 @@
             "name": "Drama",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f68a053edd63f00073def51.png",
             "stations": [
+                {
+                    "name": "El Alamein - La linea del fuoco",
+                    "image": "https://images.pluto.tv/episodes/679b35b9ff93e00013ec3cbd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b35b9ff93e00013ec3cbd.m3u8"
+                },
+                {
+                    "name": "Los Heroes De Las Ardenas",
+                    "image": "https://images.pluto.tv/episodes/679b3b5d8d09180014437db1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b3b5d8d09180014437db1.m3u8"
+                },
+                {
+                    "name": "9 De Abril",
+                    "image": "https://images.pluto.tv/episodes/679b4699b20f820013534bbf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4699b20f820013534bbf.m3u8"
+                },
+                {
+                    "name": "El Baron Rojo",
+                    "image": "https://images.pluto.tv/episodes/679b4804acbab10014b6de8a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4804acbab10014b6de8a.m3u8"
+                },
+                {
+                    "name": "El Campo Del Honor",
+                    "image": "https://images.pluto.tv/episodes/679b496aff93e00013efc953/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496aff93e00013efc953.m3u8"
+                },
+                {
+                    "name": "Juntos En Combate",
+                    "image": "https://images.pluto.tv/episodes/679b496dff93e00013efc9c4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496dff93e00013efc9c4.m3u8"
+                },
+                {
+                    "name": "La Estrella Del Norte",
+                    "image": "https://images.pluto.tv/episodes/679b4ad27641390014cb4a29/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ad27641390014cb4a29.m3u8"
+                },
+                {
+                    "name": "Tu Y Yo",
+                    "image": "https://images.pluto.tv/episodes/679b4ad77641390014cb4c5e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ad77641390014cb4c5e.m3u8"
+                },
+                {
+                    "name": "Point Man",
+                    "image": "https://images.pluto.tv/episodes/679b4ada7641390014cb4e1d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ada7641390014cb4e1d.m3u8"
+                },
+                {
+                    "name": "El duodécimo hombre",
+                    "image": "https://images.pluto.tv/episodes/67b5b84a5d2668ecc5083e62/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b5b84a5d2668ecc5083e62.m3u8"
+                },
                 {
                     "name": "La ola",
                     "image": "https://images.pluto.tv/episodes/679b88b578a22200133892f5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -2874,6 +2954,11 @@
                     "name": "Historia de una pasión",
                     "image": "https://images.pluto.tv/episodes/60d0435128f1d30013ed3406/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d0435128f1d30013ed3406.m3u8"
+                },
+                {
+                    "name": "Una vida sencilla",
+                    "image": "https://images.pluto.tv/episodes/61a4a4d3eeb8a3001307b4d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4d3eeb8a3001307b4d8.m3u8"
                 },
                 {
                     "name": "Siempre Alice",
