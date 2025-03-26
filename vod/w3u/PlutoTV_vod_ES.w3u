@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 23/03/2025 02:30",
+    "author": "Actualizada 26/03/2025 10:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -8,6 +8,11 @@
             "name": "Nuevo en Pluto TV",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
+                {
+                    "name": "50/50",
+                    "image": "https://images.pluto.tv/episodes/67e113d1f456458f6cf34e75/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67e113d1f456458f6cf34e75.m3u8"
+                },
                 {
                     "name": "Trece días",
                     "image": "https://images.pluto.tv/episodes/677e3bd8170fdf0013908d37/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
@@ -1592,6 +1597,11 @@
             "name": "Comedia",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5f61dfde1ad8fd000795cbd4.png",
             "stations": [
+                {
+                    "name": "50/50",
+                    "image": "https://images.pluto.tv/episodes/67e113d1f456458f6cf34e75/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67e113d1f456458f6cf34e75.m3u8"
+                },
                 {
                     "name": "Asterix en los Juegos Olímpicos",
                     "image": "https://images.pluto.tv/episodes/6720cb7baf99a50013ad5be6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
