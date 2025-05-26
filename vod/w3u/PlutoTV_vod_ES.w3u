@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 26/05/2025 10:30",
+    "author": "Actualizada 26/05/2025 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -4597,6 +4597,22 @@
                     "name": "Burn",
                     "image": "https://images.pluto.tv/episodes/5f8479a0652fb5001add58b5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8479a0652fb5001add58b5.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "Si te gusta South Park, no te pierdas estos títulos",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/68304c86a2ad2616603aab7e.png",
+            "stations": [
+                {
+                    "name": "El Roast de Santiago Segura: &quot;Amiguetes los justos&quot;",
+                    "image": "https://images.pluto.tv/episodes/66fa8bd51a51490013413da2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa8bd51a51490013413da2.m3u8"
+                },
+                {
+                    "name": "Life of Brian",
+                    "image": "https://images.pluto.tv/episodes/67405a5ae07f280013146825/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67405a5ae07f280013146825.m3u8"
                 }
             ]
         }
