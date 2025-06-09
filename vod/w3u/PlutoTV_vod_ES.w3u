@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 09/06/2025 10:30",
+    "author": "Actualizada 09/06/2025 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -121,6 +121,11 @@
             "name": "El mejor cine",
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/62d949808f6f0d00079962aa.png",
             "stations": [
+                {
+                    "name": "Mi segunda vez",
+                    "image": "https://images.pluto.tv/episodes/672dd0454ad856001364e8ec/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dd0454ad856001364e8ec.m3u8"
+                },
                 {
                     "name": "El último cazador",
                     "image": "https://images.pluto.tv/episodes/67e6ae3267a072c8ad1d4ca3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
