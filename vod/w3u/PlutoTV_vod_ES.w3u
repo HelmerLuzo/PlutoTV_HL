@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 11/06/2025 02:30",
+    "author": "Actualizada 11/06/2025 10:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -2064,6 +2064,11 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948b061f1b1001afec7b3.m3u8"
                 },
                 {
+                    "name": "La Historia de Wim de la A a la Z",
+                    "image": "https://images.pluto.tv/episodes/60cb5693adcfc00013d4f35f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60cb5693adcfc00013d4f35f.m3u8"
+                },
+                {
                     "name": "The Chaperone",
                     "image": "https://images.pluto.tv/episodes/5f4f5cddfa72a5001a5fd8b6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cddfa72a5001a5fd8b6.m3u8"
@@ -2082,6 +2087,21 @@
                     "name": "Los Cuatro Guerreros",
                     "image": "https://images.pluto.tv/episodes/6299d35dba369d001340e5df/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d35dba369d001340e5df.m3u8"
+                },
+                {
+                    "name": "Papa Moll & The Chocolate Factory",
+                    "image": "https://images.pluto.tv/episodes/5fe9b7654aa70a001a4fd339/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fe9b7654aa70a001a4fd339.m3u8"
+                },
+                {
+                    "name": "Una Momia Divertida: El Escarabajo Dorado",
+                    "image": "https://images.pluto.tv/episodes/5fe9af39636004001a794d45/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fe9af39636004001a794d45.m3u8"
+                },
+                {
+                    "name": "Pettson & Findus",
+                    "image": "https://images.pluto.tv/episodes/5fe9b7624aa70a001a4fd303/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fe9b7624aa70a001a4fd303.m3u8"
                 }
             ]
         },
