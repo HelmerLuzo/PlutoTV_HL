@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 11/06/2025 10:30",
+    "author": "Actualizada 11/06/2025 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -2064,9 +2064,24 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948b061f1b1001afec7b3.m3u8"
                 },
                 {
+                    "name": "Mi Amigo Raffi",
+                    "image": "https://images.pluto.tv/episodes/5fe9b76b4aa70a001a4fd38a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fe9b76b4aa70a001a4fd38a.m3u8"
+                },
+                {
+                    "name": "Storm Y La Carta Prohibida De Lutero",
+                    "image": "https://images.pluto.tv/episodes/5fe9b75c4aa70a001a4fd2ac/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fe9b75c4aa70a001a4fd2ac.m3u8"
+                },
+                {
                     "name": "La Historia de Wim de la A a la Z",
                     "image": "https://images.pluto.tv/episodes/60cb5693adcfc00013d4f35f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60cb5693adcfc00013d4f35f.m3u8"
+                },
+                {
+                    "name": "Tito y los Pájaros",
+                    "image": "https://images.pluto.tv/episodes/608fb417565bff0013122eb2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fb417565bff0013122eb2.m3u8"
                 },
                 {
                     "name": "The Chaperone",
@@ -2102,6 +2117,11 @@
                     "name": "Pettson & Findus",
                     "image": "https://images.pluto.tv/episodes/5fe9b7624aa70a001a4fd303/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fe9b7624aa70a001a4fd303.m3u8"
+                },
+                {
+                    "name": "Una Familia Genial",
+                    "image": "https://images.pluto.tv/episodes/5fe9b7304aa70a001a4fce36/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fe9b7304aa70a001a4fce36.m3u8"
                 }
             ]
         },
