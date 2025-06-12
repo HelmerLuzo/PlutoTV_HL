@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 12/06/2025 10:30",
+    "author": "Actualizada 12/06/2025 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -3912,21 +3912,6 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/610bf1a48a09390007874048.png",
             "stations": [
                 {
-                    "name": "Doctor Asesino: El Caso de Harold Shipman",
-                    "image": "https://images.pluto.tv/episodes/66617cf4fe060c0013156d44/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617cf4fe060c0013156d44.m3u8"
-                },
-                {
-                    "name": "Asesinado Mientras Caminaba a Casa",
-                    "image": "https://images.pluto.tv/episodes/66617ecf626cfe00130e764c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617ecf626cfe00130e764c.m3u8"
-                },
-                {
-                    "name": "El Caso de Madeleine McCann",
-                    "image": "https://images.pluto.tv/episodes/665ec9f8626cfe0013fc0990/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ec9f8626cfe0013fc0990.m3u8"
-                },
-                {
                     "name": "A Haunting in Georgia",
                     "image": "https://images.pluto.tv/episodes/65563672939c4b001ac06f1a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65563672939c4b001ac06f1a.m3u8"
@@ -3935,6 +3920,21 @@
                     "name": "A Haunting in Connecticut",
                     "image": "https://images.pluto.tv/episodes/65563689d193e8001bccc26c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65563689d193e8001bccc26c.m3u8"
+                },
+                {
+                    "name": "Asesinado Mientras Caminaba a Casa",
+                    "image": "https://images.pluto.tv/episodes/66617ecf626cfe00130e764c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617ecf626cfe00130e764c.m3u8"
+                },
+                {
+                    "name": "Doctor Asesino: El Caso de Harold Shipman",
+                    "image": "https://images.pluto.tv/episodes/66617cf4fe060c0013156d44/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617cf4fe060c0013156d44.m3u8"
+                },
+                {
+                    "name": "El Caso de Madeleine McCann",
+                    "image": "https://images.pluto.tv/episodes/665ec9f8626cfe0013fc0990/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ec9f8626cfe0013fc0990.m3u8"
                 },
                 {
                     "name": "Finding Oscar",
