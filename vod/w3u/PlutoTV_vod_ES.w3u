@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 17/06/2025 10:30",
+    "author": "Actualizada 17/06/2025 18:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -9,9 +9,14 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
                 {
-                    "name": "Larry Crowne, nunca es tarde",
-                    "image": "https://images.pluto.tv/episodes/67b313e46d9b28853d680239/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b313e46d9b28853d680239.m3u8"
+                    "name": "La boda de Rosa",
+                    "image": "https://images.pluto.tv/episodes/67ef891189ba442cd92561d2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67ef891189ba442cd92561d2.m3u8"
+                },
+                {
+                    "name": "El último cazador",
+                    "image": "https://images.pluto.tv/episodes/67e6ae3267a072c8ad1d4ca3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67e6ae3267a072c8ad1d4ca3.m3u8"
                 },
                 {
                     "name": "50/50",
@@ -19,14 +24,39 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67e113d1f456458f6cf34e75.m3u8"
                 },
                 {
+                    "name": "Más extraño que la ficción",
+                    "image": "https://images.pluto.tv/episodes/67ea4314e8cf626542d281a7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67ea4314e8cf626542d281a7.m3u8"
+                },
+                {
+                    "name": "El duodécimo hombre",
+                    "image": "https://images.pluto.tv/episodes/67b5b84a5d2668ecc5083e62/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b5b84a5d2668ecc5083e62.m3u8"
+                },
+                {
+                    "name": "El Partido",
+                    "image": "https://images.pluto.tv/episodes/679b38898d09180014437c98/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b38898d09180014437c98.m3u8"
+                },
+                {
+                    "name": "El Campo Del Honor",
+                    "image": "https://images.pluto.tv/episodes/679b496aff93e00013efc953/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496aff93e00013efc953.m3u8"
+                },
+                {
+                    "name": "El Alamein - La linea del fuoco",
+                    "image": "https://images.pluto.tv/episodes/679b35b9ff93e00013ec3cbd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b35b9ff93e00013ec3cbd.m3u8"
+                },
+                {
                     "name": "Planes de boda",
                     "image": "https://images.pluto.tv/episodes/67cadb9275fa8457009140c5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67cadb9275fa8457009140c5.m3u8"
                 },
                 {
-                    "name": "Más extraño que la ficción",
-                    "image": "https://images.pluto.tv/episodes/67ea4314e8cf626542d281a7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67ea4314e8cf626542d281a7.m3u8"
+                    "name": "Larry Crowne, nunca es tarde",
+                    "image": "https://images.pluto.tv/episodes/67b313e46d9b28853d680239/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b313e46d9b28853d680239.m3u8"
                 },
                 {
                     "name": "The Code",
@@ -39,16 +69,6 @@
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496dff93e00013efc9c4.m3u8"
                 },
                 {
-                    "name": "El último cazador",
-                    "image": "https://images.pluto.tv/episodes/67e6ae3267a072c8ad1d4ca3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67e6ae3267a072c8ad1d4ca3.m3u8"
-                },
-                {
-                    "name": "El duodécimo hombre",
-                    "image": "https://images.pluto.tv/episodes/67b5b84a5d2668ecc5083e62/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b5b84a5d2668ecc5083e62.m3u8"
-                },
-                {
                     "name": "9 De Abril",
                     "image": "https://images.pluto.tv/episodes/679b4699b20f820013534bbf/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4699b20f820013534bbf.m3u8"
@@ -57,21 +77,6 @@
                     "name": "Trece días",
                     "image": "https://images.pluto.tv/episodes/677e3bd8170fdf0013908d37/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/677e3bd8170fdf0013908d37.m3u8"
-                },
-                {
-                    "name": "El Partido",
-                    "image": "https://images.pluto.tv/episodes/679b38898d09180014437c98/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b38898d09180014437c98.m3u8"
-                },
-                {
-                    "name": "El Alamein - La linea del fuoco",
-                    "image": "https://images.pluto.tv/episodes/679b35b9ff93e00013ec3cbd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b35b9ff93e00013ec3cbd.m3u8"
-                },
-                {
-                    "name": "El Campo Del Honor",
-                    "image": "https://images.pluto.tv/episodes/679b496aff93e00013efc953/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496aff93e00013efc953.m3u8"
                 },
                 {
                     "name": "El maestro del agua",
