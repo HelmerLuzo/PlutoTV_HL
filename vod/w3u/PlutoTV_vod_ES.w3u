@@ -1,6 +1,6 @@
 {
     "name": "PlutoTV - VOD 🇪🇸",
-    "author": "Actualizada 30/06/2025 10:30",
+    "author": "Actualizada 01/07/2025 02:30",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u",
     "groups": [
@@ -9,19 +9,9 @@
             "image": "https://helmerluzo.github.io/PlutoTV_HL/vod/logos/5fad552010cca20007d45173.png",
             "stations": [
                 {
-                    "name": "Serenity",
-                    "image": "https://images.pluto.tv/episodes/685296960d69b4d35430db1b/poster_1750242968687.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685296960d69b4d35430db1b.m3u8"
-                },
-                {
                     "name": "La boda de Rosa",
                     "image": "https://images.pluto.tv/episodes/67ef891189ba442cd92561d2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67ef891189ba442cd92561d2.m3u8"
-                },
-                {
-                    "name": "El último cazador",
-                    "image": "https://images.pluto.tv/episodes/67e6ae3267a072c8ad1d4ca3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67e6ae3267a072c8ad1d4ca3.m3u8"
                 },
                 {
                     "name": "50/50",
@@ -170,11 +160,6 @@
                     "name": "La carrera",
                     "image": "https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371a41321c190013a008c1.m3u8"
-                },
-                {
-                    "name": "Serenity",
-                    "image": "https://images.pluto.tv/episodes/685296960d69b4d35430db1b/poster_1750242968687.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685296960d69b4d35430db1b.m3u8"
                 },
                 {
                     "name": "Una historia real",
@@ -345,11 +330,6 @@
                     "name": "El hombre más buscado",
                     "image": "https://images.pluto.tv/episodes/67371e72e07f28001398cea8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371e72e07f28001398cea8.m3u8"
-                },
-                {
-                    "name": "El último cazador",
-                    "image": "https://images.pluto.tv/episodes/67e6ae3267a072c8ad1d4ca3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
-                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67e6ae3267a072c8ad1d4ca3.m3u8"
                 },
                 {
                     "name": "Diana",
@@ -3250,6 +3230,16 @@
                     "name": "Descanse en paz (Requiescant)",
                     "image": "https://images.pluto.tv/episodes/6638f348af79c700138e6ad5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
                     "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f348af79c700138e6ad5.m3u8"
+                },
+                {
+                    "name": "Serenity",
+                    "image": "https://images.pluto.tv/episodes/685296960d69b4d35430db1b/poster_1750242968687.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685296960d69b4d35430db1b.m3u8"
+                },
+                {
+                    "name": "End Of A Gun",
+                    "image": "https://images.pluto.tv/episodes/685293c7f50b9615cccd9090/poster_1750242250095.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694",
+                    "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685293c7f50b9615cccd9090.m3u8"
                 },
                 {
                     "name": "Camino de la venganza",
