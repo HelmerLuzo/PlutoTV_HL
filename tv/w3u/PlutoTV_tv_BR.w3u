@@ -1,901 +1,1135 @@
 {
     "name": "PlutoTV - TV 🇧🇷",
-    "author": "Actualizada 26/01/2026 09:08",
+    "author": "Actualizada 26/01/2026 09:18",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/plutotv.png",
     "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_BR.w3u",
     "groups": [
         {
-            "name": "Nouveau sur Pluto TV",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/619065d19541940007d1b9f0.png",
+            "name": "Filmes",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618f050f4a270700077be26e.png",
             "stations": [
                 {
-                    "name": "Mayday: Catastrophe Aérienne",
-                    "image": "https://images.pluto.tv/channels/686e74c777ed3360cb6908bf/colorLogoPNG_1763054802465.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/686e74c777ed3360cb6908bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "686e74c777ed3360cb6908bf"
+                    "name": "Pluto TV Cine Sucessos",
+                    "image": "https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f120e94a5714d00074576a1"
                 },
                 {
-                    "name": "Barbie & Friends",
-                    "image": "https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/colorLogoPNG_1765805978819.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/686e7499e0ecf0e0cc25dbe3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "686e7499e0ecf0e0cc25dbe3"
+                    "name": "Pluto TV Filmes Ação",
+                    "image": "https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f120f41b7d403000783a6d6"
+                },
+                {
+                    "name": "Pluto TV Cine Terror",
+                    "image": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f12111c9e6c2c00078ef3bb"
+                },
+                {
+                    "name": "Filmes Suspense",
+                    "image": "https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f171d3442a0500007362f22"
+                },
+                {
+                    "name": "Pluto TV Ficção Científica",
+                    "image": "https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5fa15ad6367e170007cdd098"
+                },
+                {
+                    "name": "Pluto TV Cine Crime",
+                    "image": "https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6479ff764f5ba5000878dfe2"
+                },
+                {
+                    "name": "Pluto TV Filmes de Luta",
+                    "image": "https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6806d62369aec5b19cd628c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6806d62369aec5b19cd628c0"
+                },
+                {
+                    "name": "Pluto TV Cine Comédia",
+                    "image": "https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f12101f0b12f00007844c7c"
+                },
+                {
+                    "name": "Pluto TV Cine Comédia Romântica",
+                    "image": "https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "62545ed3dab4380007582f7c"
+                },
+                {
+                    "name": "Pluto TV Cine Romance",
+                    "image": "https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1760457359793.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f171f988ab9780007fa95ea"
+                },
+                {
+                    "name": "Pluto TV Cine Drama",
+                    "image": "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f1210d14ae1f80007bafb1d"
+                },
+                {
+                    "name": "Pluto TV Bang Bang",
+                    "image": "https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/663b9dc7cb3ea10008f1a0ce/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "663b9dc7cb3ea10008f1a0ce"
+                },
+                {
+                    "name": "Pluto TV Cine Clássicos",
+                    "image": "https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG_1733440556804.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5fa1612a669ba0000702017b"
+                },
+                {
+                    "name": "Pluto TV Terror Trash",
+                    "image": "https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66aa67493a4ad2000806d91b"
+                },
+                {
+                    "name": "Adrenalina Pura TV",
+                    "image": "https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "61b790b985706b00072cb797"
+                },
+                {
+                    "name": "Pluto TV Filmes Aventura",
+                    "image": "https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66c79a4262e5510008ff68a5"
+                },
+                {
+                    "name": "Pluto TV Cine Família",
+                    "image": "https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f171f032cd22e0007f17f3d"
+                },
+                {
+                    "name": "Pluto TV Cine Inspiração",
+                    "image": "https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5fa991b1f09e020007e78626"
+                },
+                {
+                    "name": "Pluto TV Filmes Nacionais",
+                    "image": "https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG_1732044719987.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f5a545d0dbf7f0007c09408"
+                },
+                {
+                    "name": "Pluto TV Netmovies",
+                    "image": "https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "663b9de4f999220008230fa8"
+                },
+                {
+                    "name": "Runtime",
+                    "image": "https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "62c5d32e2c48f9000715b6e9"
+                },
+                {
+                    "name": "Filmelier TV",
+                    "image": "https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "633dcebd80386500074a2461"
                 }
             ]
         },
         {
-            "name": "Séries Policières",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/681db275374f803179b4642e.png",
+            "name": "Séries",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/643f07f72858cb0008a64c37.png",
             "stations": [
                 {
-                    "name": "Pluto TV Polar",
-                    "image": "https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ed4dbf6bb0800071ffbcb"
+                    "name": "Pluto TV Séries Criminais",
+                    "image": "https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6474ab5cdc7a760008745008"
                 },
                 {
-                    "name": "Pluto TV Brigade Criminelle",
-                    "image": "https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/684bf01df7d8b74b625b7dd1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "684bf01df7d8b74b625b7dd1"
+                    "name": "CSI: Miami",
+                    "image": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63eb9c5351f5d000085e8d7e"
                 },
                 {
-                    "name": "Flashpoint",
-                    "image": "https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d71ff86b63480008cf15c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66d71ff86b63480008cf15c5"
+                    "name": "NCIS",
+                    "image": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63eb9fdda995710008991c54"
                 },
                 {
-                    "name": "Blue Bloods",
-                    "image": "https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66f55a9a747bfa0008521859/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66f55a9a747bfa0008521859"
+                    "name": "Numbers",
+                    "image": "https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67f960c5441853fe50e7afc1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "67f960c5441853fe50e7afc1"
                 },
                 {
-                    "name": "Walker Texas Ranger",
-                    "image": "https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60afa749ac7f3200078adb40"
+                    "name": "Pluto TV Séries Ação",
+                    "image": "https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6474ab1da51cb80008bfb5f4"
                 },
                 {
-                    "name": "Alerte Cobra",
-                    "image": "https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62f3e4bc08f5ec000744f552/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "62f3e4bc08f5ec000744f552"
+                    "name": "Rookie Blue",
+                    "image": "https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "64ff2d8c6625510008c5a512"
                 },
                 {
-                    "name": "Diane, femme flic",
-                    "image": "https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6671b26836a2f90008d9333c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6671b26836a2f90008d9333c"
+                    "name": "The Walking Dead by AMC",
+                    "image": "https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/678aa104680721c77c506746/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "678aa104680721c77c506746"
                 },
                 {
-                    "name": "JAG",
-                    "image": "https://images.pluto.tv/channels/65ccd26060eb870008db95fc/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65ccd26060eb870008db95fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "65ccd26060eb870008db95fc"
-                }
-            ]
-        },
-        {
-            "name": "À Binge-Watch",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/688c7aabca35d59d3cf49e8a.png",
-            "stations": [
-                {
-                    "name": "Mission Impossible",
-                    "image": "https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6671b21ffc3a46000857fe75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6671b21ffc3a46000857fe75"
-                },
-                {
-                    "name": "MacGyver",
-                    "image": "https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6245ccd0c6cdb800074632e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6245ccd0c6cdb800074632e4"
-                },
-                {
-                    "name": "Pacific Blue",
-                    "image": "https://images.pluto.tv/channels/68d279fc840d8021ee1f1e50/colorLogoPNG_1758630123468.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/68d279fc840d8021ee1f1e50/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "68d279fc840d8021ee1f1e50"
-                },
-                {
-                    "name": "Alerte à Malibu",
-                    "image": "https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60afaa535580be0007ac9ee4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60afaa535580be0007ac9ee4"
-                },
-                {
-                    "name": "Star Trek: The Original Series",
-                    "image": "https://images.pluto.tv/channels/67b4b3c51a5ca760802cc1c7/colorLogoPNG_1752571349761.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67b4b3c51a5ca760802cc1c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "67b4b3c51a5ca760802cc1c7"
-                },
-                {
-                    "name": "Les Routes du Paradis",
-                    "image": "https://images.pluto.tv/channels/65cce23bdc10a400080645ad/colorLogoPNG_1759145235227.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cce23bdc10a400080645ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "65cce23bdc10a400080645ad"
-                },
-                {
-                    "name": "Flynn Carson et The Outpost",
-                    "image": "https://images.pluto.tv/channels/68d292d554c61bfff220a635/colorLogoPNG_1761761926608.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/68d292d554c61bfff220a635/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "68d292d554c61bfff220a635"
+                    "name": "Pluto TV Séries Sci-Fi",
+                    "image": "https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63d2ba2f60bc8f0008981a0e"
                 },
                 {
                     "name": "Z Nation",
-                    "image": "https://images.pluto.tv/channels/66b227b446762a000846c208/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66b227b446762a000846c208/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66b227b446762a000846c208"
+                    "image": "https://images.pluto.tv/channels/66b3af48d2d50d00083d6936/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66b3af48d2d50d00083d6936/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66b3af48d2d50d00083d6936"
                 },
                 {
-                    "name": "Pluto TV Séries Fantastiques",
-                    "image": "https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1747044084798.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "625ec7a1c853fd00073b38fd"
+                    "name": "A Caçadora de Relíquias",
+                    "image": "https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/colorLogoPNG_1745618050777.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67e59a6557487a8b7fe73e23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "67e59a6557487a8b7fe73e23"
                 },
                 {
-                    "name": "Pluto TV 2010's Classics",
-                    "image": "https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66b498bc14a2bb00086965bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66b498bc14a2bb00086965bc"
+                    "name": "Pluto TV Séries Drama",
+                    "image": "https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65f060d84e01740008d7421f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "65f060d84e01740008d7421f"
                 },
                 {
-                    "name": "Pluto TV 90's Classics",
-                    "image": "https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66b4990746762a00084c2f78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66b4990746762a00084c2f78"
+                    "name": "Pluto TV Séries Novelescas",
+                    "image": "https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/691627e4a29a6123e400b3e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "691627e4a29a6123e400b3e0"
                 },
                 {
-                    "name": "Tout le monde déteste Chris",
-                    "image": "https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67b4b4a21a5ca760802d25fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "67b4b4a21a5ca760802d25fd"
+                    "name": "Charmed: Jovens Bruxas",
+                    "image": "https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG_1747333127716.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67f9602ee173fa5664fafae8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "67f9602ee173fa5664fafae8"
                 },
                 {
-                    "name": "Cheers",
-                    "image": "https://images.pluto.tv/channels/65cce14060eb870008dbd003/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cce14060eb870008dbd003/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "65cce14060eb870008dbd003"
+                    "name": "Pluto TV Séries Comédia",
+                    "image": "https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "655e5bc94261ca000810cb17"
                 },
                 {
-                    "name": "Degrassi",
-                    "image": "https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/611e71322f5f180007001dde/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "611e71322f5f180007001dde"
+                    "name": "BET Pluto TV",
+                    "image": "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5ff768b6a4c8b80008498610"
                 },
                 {
-                    "name": "BBC Drama",
-                    "image": "https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60d35a74c63c3c0008df6a90"
-                },
-                {
-                    "name": "Series by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ed2d1c34c2300073bf02c"
+                    "name": "Clube do Terror",
+                    "image": "https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "64e501eec630a900088ed0f8"
                 }
             ]
         },
         {
-            "name": "100% Français",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/619144964527a9000786e0b6.png",
+            "name": "Jornada nas Estrelas",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/68e5196990c35c1e4fc40046.png",
             "stations": [
                 {
-                    "name": "Plus Belle la Vie 2",
-                    "image": "https://images.pluto.tv/channels/662a6309307fa30008196b4e/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/662a6309307fa30008196b4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "662a6309307fa30008196b4e"
+                    "name": "Pluto TV Star Trek",
+                    "image": "https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG_1753988616763.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f99ac4fded33000078f29ab"
                 },
                 {
-                    "name": "Un Si Grand Soleil",
-                    "image": "https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/colorLogoPNG_1749650858325.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6683cd0f63a5f20008fb84a3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6683cd0f63a5f20008fb84a3"
+                    "name": "Jornada nas Estrelas - A Nova Geração",
+                    "image": "https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/69162ad79505d0f3b1ebf07d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "69162ad79505d0f3b1ebf07d"
                 },
                 {
-                    "name": "Un Village Français",
-                    "image": "https://images.pluto.tv/channels/6304f2e2eb10450007298023/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6304f2e2eb10450007298023/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6304f2e2eb10450007298023"
+                    "name": "Jornada nas Estrelas - Deep Space Nine",
+                    "image": "https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/69162af591700f4c4c135c95/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "69162af591700f4c4c135c95"
                 },
                 {
-                    "name": "Louis La Brocante",
-                    "image": "https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed6d569d2d4000864a976/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ed6d569d2d4000864a976"
-                },
-                {
-                    "name": "Coeur Océan",
-                    "image": "https://images.pluto.tv/channels/62f3dd1c2f29ce0007e18596/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62f3dd1c2f29ce0007e18596/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "62f3dd1c2f29ce0007e18596"
-                },
-                {
-                    "name": "Un gars, une fille",
-                    "image": "https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62f3ece7b09fd6000783bfb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "62f3ece7b09fd6000783bfb9"
-                },
-                {
-                    "name": "Les filles d'à côté",
-                    "image": "https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60549d97cd7b090007c73314/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60549d97cd7b090007c73314"
-                },
-                {
-                    "name": "Hélène et les garçons",
-                    "image": "https://images.pluto.tv/channels/604f8de01b479400078fb1e7/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/604f8de01b479400078fb1e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "604f8de01b479400078fb1e7"
-                },
-                {
-                    "name": "Le miracle de l'amour",
-                    "image": "https://images.pluto.tv/channels/60549c238c3f21000753d3e0/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60549c238c3f21000753d3e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60549c238c3f21000753d3e0"
-                },
-                {
-                    "name": "Les Années fac",
-                    "image": "https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60afae68a7fc50000737186d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60afae68a7fc50000737186d"
-                },
-                {
-                    "name": "Instant Saga",
-                    "image": "https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60549e98061b5f000776866a"
-                },
-                {
-                    "name": "Génération Sitcoms",
-                    "image": "https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60afb203ec391c00070ea1bf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60afb203ec391c00070ea1bf"
-                },
-                {
-                    "name": "Pluto TV French Collection",
-                    "image": "https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62f3e0522443200008c567d7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "62f3e0522443200008c567d7"
+                    "name": "Jornada nas Estrelas - Voyager",
+                    "image": "https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/69162b1ef189e235142b17ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "69162b1ef189e235142b17ab"
                 }
             ]
         },
         {
-            "name": "Cinéma",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/619142234b1ec000075e31ca.png",
+            "name": "Retrô",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/643f0a3d939a59000826ffa7.png",
             "stations": [
                 {
-                    "name": "Ciné Action by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ed1ff5c39700007e2204a"
+                    "name": "Pluto TV Retrô",
+                    "image": "https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f1212ad1728050007a523b8"
                 },
                 {
-                    "name": "Téléfilms de Noël by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/65251c3a9c7aeb00083741c9/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65251c3a9c7aeb00083741c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "65251c3a9c7aeb00083741c9"
+                    "name": "A Feiticeira",
+                    "image": "https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "631fa8dd7f25240007099a40"
                 },
                 {
-                    "name": "Ciné Sci-Fi by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60c34592c911890007f29a73"
+                    "name": "Diff’rent Strokes Arnold",
+                    "image": "https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "61f1d27a189ed10007b7393e"
                 },
                 {
-                    "name": "Ciné d'Asie by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62f3e2d000418d00070f7dbc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "62f3e2d000418d00070f7dbc"
+                    "name": "MacGyver",
+                    "image": "https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63eb9dc84e83e70008abea92"
                 },
                 {
-                    "name": "Ciné Thrillers by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60c3472a51a2050008dad272"
+                    "name": "O Homem que veio do Céu",
+                    "image": "https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG_1732044609381.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "62052d3b4eeb740007fbe125"
                 },
                 {
-                    "name": "Ciné Horreur by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66e1978babec540008ce41ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66e1978babec540008ce41ac"
+                    "name": "Tokusato",
+                    "image": "https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5ff609de50ab210008025c1b"
                 },
                 {
-                    "name": "Ciné 666 by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6823648580b2665220d9e69a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6823648580b2665220d9e69a"
+                    "name": "Pluto TV Desenhos Clássicos",
+                    "image": "https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "655e5c4d2c46f3000877a54b"
                 },
                 {
-                    "name": "Ciné Catastrophe by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "65a69ef53af63d000825e0ee"
+                    "name": "Os Smurfs",
+                    "image": "https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/colorLogoPNG_1762273919644.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/68b88ae1943f6fb1fb2ad749/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "68b88ae1943f6fb1fb2ad749"
                 },
                 {
-                    "name": "The Asylum",
-                    "image": "https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ece1a89d79800072510e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ece1a89d79800072510e6"
+                    "name": "Inspetor Bugiganga",
+                    "image": "https://images.pluto.tv/channels/69162648d03565d6c8c8df97/colorLogoPNG_1764342457062.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/69162648d03565d6c8c8df97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "69162648d03565d6c8c8df97"
                 },
                 {
-                    "name": "Pluto TV Comédies Cultes",
-                    "image": "https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67b4b2d976a934282e92d71c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "67b4b2d976a934282e92d71c"
-                },
-                {
-                    "name": "Ciné Romance by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60812fc8539963000707d1e1"
-                },
-                {
-                    "name": "Family Club",
-                    "image": "https://images.pluto.tv/channels/64c9260ac0222700089ee62b/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64c9260ac0222700089ee62b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "64c9260ac0222700089ee62b"
-                },
-                {
-                    "name": "Ciné by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1751272790027.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ed0f17564a300082b676a"
-                },
-                {
-                    "name": "Ciné Western by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "65cca3e2ec452d0008af3a65"
-                },
-                {
-                    "name": "Ciné Rétro by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ed168f72fcd0007e56269"
-                },
-                {
-                    "name": "Wild Side TV",
-                    "image": "https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60b4d6c806ad2a00073b3108"
+                    "name": "Popeye",
+                    "image": "https://images.pluto.tv/channels/677d93f37bffa600080795e7/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "677d93f37bffa600080795e7"
                 }
             ]
         },
         {
-            "name": "Crime & Mystère",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618c9f644a2707000779e531.png",
+            "name": "Novelas",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/643f0a535a0cd5000836336f.png",
             "stations": [
                 {
-                    "name": "Faites entrer l'accusé",
-                    "image": "https://images.pluto.tv/channels/662a622b5e2370000800f392/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/662a622b5e2370000800f392/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "662a622b5e2370000800f392"
-                },
-                {
-                    "name": "Enquêtes Criminelles",
-                    "image": "https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66f55d0b5e4a6e0008c2b920/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66f55d0b5e4a6e0008c2b920"
-                },
-                {
-                    "name": "True Crime by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f914f4b36d67d0007a91a04"
-                },
-                {
-                    "name": "Investigation by Pluto TV",
-                    "image": "https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6683cd2fca74680008772545/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6683cd2fca74680008772545"
-                },
-                {
-                    "name": "Pluto TV Paranormal",
-                    "image": "https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ed9461b35690007a0bc3a"
-                },
-                {
-                    "name": "Most Haunted",
-                    "image": "https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66d722d31878f200081c2c64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66d722d31878f200081c2c64"
-                },
-                {
-                    "name": "Dossiers FBI",
-                    "image": "https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG-1608307486966.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8edad922b10b000753bc37"
-                },
-                {
-                    "name": "Les Nouveaux Detectives",
-                    "image": "https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8edb6df1ebb800072edf10"
-                },
-                {
-                    "name": "Homicide",
-                    "image": "https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63921a3d00c96100082a3cb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "63921a3d00c96100082a3cb4"
-                },
-                {
-                    "name": "Enquêtes de Choc",
-                    "image": "https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63921a1bf76e7d0007c998a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "63921a1bf76e7d0007c998a6"
-                },
-                {
-                    "name": "Forensic Files",
-                    "image": "https://images.pluto.tv/channels/67b4b44a8344dd93339d3757/colorLogoPNG_1756550807332.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67b4b44a8344dd93339d3757/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "67b4b44a8344dd93339d3757"
+                    "name": "Pluto TV Novelas",
+                    "image": "https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f512365abe1f50007d3ff56"
                 }
             ]
         },
         {
-            "name": "Animation",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/619147a69541940007d1bf18.png",
+            "name": "Reality",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/643f0ab3d3fdde0008ddcc6a.png",
             "stations": [
                 {
-                    "name": "Daria",
-                    "image": "https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6683b680efa2a10008e8a393/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6683b680efa2a10008e8a393"
+                    "name": "MasterChef",
+                    "image": "https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6077045b6031bd00078de127"
                 },
                 {
-                    "name": "Detective Conan",
-                    "image": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG-1745586573083.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62f3e8ad2a8e8000077b013d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "62f3e8ad2a8e8000077b013d"
+                    "name": "MasterChef Brasil Profissionais",
+                    "image": "https://images.pluto.tv/channels/681110afc188aa63faa147e0/colorLogoPNG_1749226372857.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/681110afc188aa63faa147e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "681110afc188aa63faa147e0"
                 },
                 {
-                    "name": "One Piece",
-                    "image": "https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG_1765795729899.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6380c94947c72b0007ee9a13"
+                    "name": "Mais MasterChef Brasil",
+                    "image": "https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG_1749582970597.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/681111be5e0764e297fb200e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "681111be5e0764e297fb200e"
                 },
                 {
-                    "name": "Yu-Gi-Oh!",
-                    "image": "https://images.pluto.tv/channels/6130d9c712c2b000070abb50/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6130d9c712c2b000070abb50/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6130d9c712c2b000070abb50"
-                },
-                {
-                    "name": "Digimon Adventure",
-                    "image": "https://images.pluto.tv/channels/617bae1d69bca3000729561e/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/617bae1d69bca3000729561e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "617bae1d69bca3000729561e"
-                },
-                {
-                    "name": "Beyblade",
-                    "image": "https://images.pluto.tv/channels/664c8ba33d173b00080ef0c8/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/664c8ba33d173b00080ef0c8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "664c8ba33d173b00080ef0c8"
-                },
-                {
-                    "name": "Inazuma Eleven",
-                    "image": "https://images.pluto.tv/channels/611e75226b7f420007c3f319/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/611e75226b7f420007c3f319/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "611e75226b7f420007c3f319"
-                },
-                {
-                    "name": "Olive & Tom",
-                    "image": "https://images.pluto.tv/channels/662a63275a402e00086bc8a5/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/662a63275a402e00086bc8a5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "662a63275a402e00086bc8a5"
-                },
-                {
-                    "name": "Doraemon",
-                    "image": "https://images.pluto.tv/channels/68b17414c23bb80b3c1d5bb5/colorLogoPNG_1760606450398.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/68b17414c23bb80b3c1d5bb5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "68b17414c23bb80b3c1d5bb5"
-                },
-                {
-                    "name": "Pluto TV Retro Toons",
-                    "image": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "611e6a9b4bb5790007a6f0f8"
+                    "name": "Sony One Shark Tank Brasil",
+                    "image": "https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6647c0b91050b60008390de4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6647c0b91050b60008390de4"
                 }
             ]
         },
         {
-            "name": "Emissions cultes",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/66b1d4413a4ad20008170e11.png",
+            "name": "MTV",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/6925fb69fa1237fbb042f62f.png",
             "stations": [
                 {
-                    "name": "Top Gear",
-                    "image": "https://images.pluto.tv/channels/64c1093824ade50008bd117f/colorLogoPNG_1760622787145.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64c1093824ade50008bd117f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "64c1093824ade50008bd117f"
+                    "name": "MTV Pluto TV",
+                    "image": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f1212fb81e85c00077ae9ef"
                 },
                 {
-                    "name": "Turbo",
-                    "image": "https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66f55c3955567d0008ef9b68/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66f55c3955567d0008ef9b68"
+                    "name": "MTV Reality",
+                    "image": "https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1750699186447.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6851bdfc9ac48fde5e07f5ae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6851bdfc9ac48fde5e07f5ae"
                 },
                 {
-                    "name": "Les Reines du Shopping",
-                    "image": "https://images.pluto.tv/channels/66f55c55940963000810bb14/colorLogoPNG_1730321455732.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66f55c55940963000810bb14/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66f55c55940963000810bb14"
+                    "name": "MTV Dating",
+                    "image": "https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6851bb3426beced4f2f67ee6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6851bb3426beced4f2f67ee6"
                 },
                 {
-                    "name": "C'est pas sorcier",
-                    "image": "https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "63b579961bdba100071214cb"
+                    "name": "MTV Drag",
+                    "image": "https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "645111f1d8436e00081bb2bd"
                 },
                 {
-                    "name": "Les Z'amours",
-                    "image": "https://images.pluto.tv/channels/652d0b756208700008d758ad/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/652d0b756208700008d758ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "652d0b756208700008d758ad"
+                    "name": "MTV Shore",
+                    "image": "https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "625463563b8ddc0007134aeb"
                 },
                 {
-                    "name": "Qui veut gagner des millions?",
-                    "image": "https://images.pluto.tv/channels/652d0b9ceb72580008a4ea5b/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/652d0b9ceb72580008a4ea5b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "652d0b9ceb72580008a4ea5b"
+                    "name": "MTV Com o Ex",
+                    "image": "https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "61a528267e1b8b0007357920"
                 },
                 {
-                    "name": "Y'a que la vérité qui compte",
-                    "image": "https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/612e044c970e6f00083bcf3b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "612e044c970e6f00083bcf3b"
+                    "name": "MTV Jovens e Mães",
+                    "image": "https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "620fdc7d8a36fc000710e3ba"
+                },
+                {
+                    "name": "MTV Catfish",
+                    "image": "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "626c2a3502d84a0007cec817"
+                },
+                {
+                    "name": "MTV Are you the One?",
+                    "image": "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f6108d8cc331900075e98e4"
+                },
+                {
+                    "name": "MTV Just Tattoo of Us",
+                    "image": "https://images.pluto.tv/channels/63988b61c8d285000798a22a/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63988b61c8d285000798a22a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63988b61c8d285000798a22a"
+                },
+                {
+                    "name": "MTV Ridiculousness",
+                    "image": "https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/68641eb4852dfe78698c3390/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "68641eb4852dfe78698c3390"
+                },
+                {
+                    "name": "MTV Rocks",
+                    "image": "https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66a01e07d2d50d0008100d6a"
+                },
+                {
+                    "name": "MTV Classic",
+                    "image": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66a01dcb8561260008b0a41d"
+                },
+                {
+                    "name": "MTV Biggest Pop",
+                    "image": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6047fbdbbb776a0007e7f2ff"
                 }
             ]
         },
         {
-            "name": "TV Réalité",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/64c910052bc493000815c51d.png",
+            "name": "Música",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618c487e06d23b0007349292.png",
             "stations": [
                 {
-                    "name": "Les Marseillais",
-                    "image": "https://images.pluto.tv/channels/66f55d565e4a6e0008c2b9d2/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66f55d565e4a6e0008c2b9d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66f55d565e4a6e0008c2b9d2"
+                    "name": "TikTok Radio Brasil",
+                    "image": "https://images.pluto.tv/channels/63dac32bda711800088a2ba3/colorLogoPNG_1758347017431.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63dac32bda711800088a2ba3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63dac32bda711800088a2ba3"
                 },
                 {
-                    "name": "Les Anges",
-                    "image": "https://images.pluto.tv/channels/66b228d4cd0d3100085d27b7/colorLogoPNG_1731835601654.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66b228d4cd0d3100085d27b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66b228d4cd0d3100085d27b7"
+                    "name": "Pluto TV Shows por Stingray",
+                    "image": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "604b91e0692f770007d9f33f"
                 },
                 {
-                    "name": "Pluto TV Reality",
-                    "image": "https://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG_1752768298567.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6092544e7639460007d4835e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6092544e7639460007d4835e"
-                },
-                {
-                    "name": "CATFISH TV",
-                    "image": "https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8eb66537867f0007146953"
-                },
-                {
-                    "name": "Teen Mom",
-                    "image": "https://images.pluto.tv/channels/62f3f05505e621000783df2f/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62f3f05505e621000783df2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "62f3f05505e621000783df2f"
-                },
-                {
-                    "name": "Just Tattoo of Us",
-                    "image": "https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6304f20c941c5d00089634e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6304f20c941c5d00089634e7"
-                },
-                {
-                    "name": "Pluto TV Dating",
-                    "image": "https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1750772750435.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/682318568e6c0f2f6c6e0038/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "682318568e6c0f2f6c6e0038"
-                },
-                {
-                    "name": "MTV CLASSICS",
-                    "image": "https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f92b56a367e170007cd43f4"
+                    "name": "Pluto TV Karaokê por Stingray",
+                    "image": "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "604b99d633a72b00078e05ad"
                 }
             ]
         },
         {
-            "name": "Divertissement",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/6191467e1add6600071ec460.png",
+            "name": "Natureza",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/692db5d9a57bc9beaf57c7bc.png",
             "stations": [
                 {
-                    "name": "Zone Interdite",
-                    "image": "https://images.pluto.tv/channels/66f55cf2483d460008f68746/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66f55cf2483d460008f68746/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66f55cf2483d460008f68746"
+                    "name": "Pluto TV Natureza",
+                    "image": "https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f1213ba0ecebc00070e170f"
                 },
                 {
-                    "name": "Toute une histoire",
-                    "image": "https://images.pluto.tv/channels/62f3e6aebcdda4000754fa47/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62f3e6aebcdda4000754fa47/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "62f3e6aebcdda4000754fa47"
+                    "name": "NatureTime",
+                    "image": "https://images.pluto.tv/channels/681ba2ad93d3d19bcab47433/colorLogoPNG_1746817092360.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/681ba2ad93d3d19bcab47433/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "681ba2ad93d3d19bcab47433"
                 },
                 {
-                    "name": "La maison France 5",
-                    "image": "https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/colorLogoPNG_1751876562614.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/685a999bd33909bdd7d2fb1e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "685a999bd33909bdd7d2fb1e"
+                    "name": "Pluto TV Paisagens por Stingray",
+                    "image": "https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "604a8dedbca75b0007b1c753"
                 },
                 {
-                    "name": "Adjugé, vendu !",
-                    "image": "https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64bab8ba5dc1660008969b5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "64bab8ba5dc1660008969b5a"
+                    "name": "Pluto TV Animais",
+                    "image": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6474aa984cfc2c0008883a92"
                 },
                 {
-                    "name": "Pêche à haut risque",
-                    "image": "https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/678f894ef5c74bff95c20a7f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "678f894ef5c74bff95c20a7f"
-                },
-                {
-                    "name": "Incroyables Transformations",
-                    "image": "https://images.pluto.tv/channels/66f55d205e4a6e0008c2b92b/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66f55d205e4a6e0008c2b92b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66f55d205e4a6e0008c2b92b"
-                },
-                {
-                    "name": "Pluto TV Inside",
-                    "image": "https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ed3892ed7bb000741a1d2"
-                },
-                {
-                    "name": "Pluto TV Cuisine",
-                    "image": "https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ed48146ba9e00078424b6"
-                },
-                {
-                    "name": "Allociné",
-                    "image": "https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6618e3037bcd8600089b62a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6618e3037bcd8600089b62a8"
+                    "name": "O Encantador de Cães",
+                    "image": "https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "61099df8cee03b00074b2ecf"
                 }
             ]
         },
         {
-            "name": "Documentaire",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/619148aa6d031900081320d4.png",
+            "name": "Curiosidades",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618ffcbb4527a9000786c89a.png",
             "stations": [
                 {
-                    "name": "Pluto TV Histoire",
-                    "image": "https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "611e771e2f5f180007002224"
+                    "name": "Pluto TV Curiosidade",
+                    "image": "https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG_1732044385150.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6474aadc8e3c0a0008b98493"
                 },
                 {
-                    "name": "INA 70",
-                    "image": "https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/639b54404cfdf7000729b3c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "639b54404cfdf7000729b3c1"
+                    "name": "Pluto TV Vida Real",
+                    "image": "https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f32d4d9ec194100070c7449"
                 },
                 {
-                    "name": "Pluto TV Animaux",
-                    "image": "https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60925a44f0350600075a1fdc"
+                    "name": "Pluto TV Minha Obsessão Favorita",
+                    "image": "https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "61843f5e491af10007f7eefa"
                 },
                 {
-                    "name": "Echappées Belles & Co",
-                    "image": "https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63b578b524f0cf00072f2a52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "63b578b524f0cf00072f2a52"
+                    "name": "Acumuladores Obsessivos",
+                    "image": "https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "656e2a4b4261ca00083aa99e"
                 },
                 {
-                    "name": "Nature Time",
-                    "image": "https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "61fc0df14159c40007250432"
+                    "name": "Pronto-socorro: Histórias De Emergência",
+                    "image": "https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "61bb72a7bf8c520007a8fd27"
                 },
                 {
-                    "name": "Pluto TV Aventure",
-                    "image": "https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "611e7811eb9daf000764cbfd"
+                    "name": "Pluto TV Negócio Fechado",
+                    "image": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "64ad7394798def00087b2bfe"
                 },
                 {
-                    "name": "Voyages & Saveurs",
-                    "image": "https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/680291e38e1ff89c2427aefd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "680291e38e1ff89c2427aefd"
+                    "name": "Pluto TV Turbo",
+                    "image": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6014761dfb91870008ea6463"
+                },
+                {
+                    "name": "Smithsonian Channel Pluto TV",
+                    "image": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6298bd10d88ef000073f16b7"
+                },
+                {
+                    "name": "Pluto TV História",
+                    "image": "https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f1ef1a8cec6be00072a7ac9"
                 }
             ]
         },
         {
-            "name": "Kids",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618d993535f3910007fabe3a.png",
+            "name": "Mistérios e Sobrenatural",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/6925fbd79c828fb4843bc0ba.png",
             "stations": [
                 {
-                    "name": "Pluto TV Super Kids",
-                    "image": "https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/652557d93fd33c000802f995/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "652557d93fd33c000802f995"
+                    "name": "Pluto TV Mistérios",
+                    "image": "https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5fac52f142044f00078e2a51"
                 },
                 {
-                    "name": "Pluto TV Kids Club",
-                    "image": "https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "611e6ddc7fcd580007d1eb5f"
+                    "name": "Pluto TV Aliens",
+                    "image": "https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6806d65e84f24b70109485fa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6806d65e84f24b70109485fa"
                 },
                 {
-                    "name": "Les Schtroumpfs",
-                    "image": "https://images.pluto.tv/channels/68b16d2282862c1f067dc763/colorLogoPNG_1760383270761.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/68b16d2282862c1f067dc763/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "68b16d2282862c1f067dc763"
+                    "name": "Assombrações",
+                    "image": "https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "620d1512c7986a0007220213"
                 },
                 {
-                    "name": "Mattel Junior",
-                    "image": "https://images.pluto.tv/channels/686e74b0e48af72bc266e798/colorLogoPNG_1765806081318.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/686e74b0e48af72bc266e798/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "686e74b0e48af72bc266e798"
+                    "name": "Estado Paranormal",
+                    "image": "https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG_1732041604478.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "656e2a81954b020008ed17a4"
                 },
                 {
-                    "name": "Charlotte aux Fraises",
-                    "image": "https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60dc6937b450ad0007377e48/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60dc6937b450ad0007377e48"
-                },
-                {
-                    "name": "Bob l'éponge",
-                    "image": "https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5ffc8c345822750007e167de"
-                },
-                {
-                    "name": "Avatar",
-                    "image": "https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60b4c17a81e29300071d3a39"
-                },
-                {
-                    "name": "Tortues Ninja TV",
-                    "image": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ecc1b37867f00071469e9"
-                },
-                {
-                    "name": "iCarly TV",
-                    "image": "https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ecc7aa44d9c00081fca29"
-                },
-                {
-                    "name": "Pluto TV  Teen",
-                    "image": "https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG_1750752089382.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8eb99ff17815000784a3b0"
-                },
-                {
-                    "name": "Pluto TV Kids Classics",
-                    "image": "https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/colorLogoPNG_1750151456889.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/654a58dbf9cc82000868f0fb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "654a58dbf9cc82000868f0fb"
-                },
-                {
-                    "name": "Pluto TV Toons",
-                    "image": "https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG_1749628479570.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8eba14a4ffb8000764e950"
-                },
-                {
-                    "name": "Pluto TV Junior",
-                    "image": "https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG_1748328452590.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ecb336537e8000764a17f"
+                    "name": "Caçadores de Óvnis",
+                    "image": "https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG_1732041732595.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/656e2a10954b020008ed167c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "656e2a10954b020008ed167c"
                 }
             ]
         },
         {
-            "name": "Comédie",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/619149395a960200074bdab8.png",
+            "name": "Investigação",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618ee29c4527a90007866bf6.png",
             "stations": [
                 {
-                    "name": "Juste pour Rire GAGS",
-                    "image": "https://images.pluto.tv/channels/60afa1508284e60007163c08/colorLogoPNG_1746816067794.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60afa1508284e60007163c08"
+                    "name": "Pluto TV Investigação",
+                    "image": "https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f32cf37c9ff2b00082adbc8"
                 },
                 {
-                    "name": "FailArmy",
-                    "image": "https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ecd9169d2d4000864a974"
+                    "name": "Pluto TV Policial",
+                    "image": "https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/678fdf9e3de7c8cf948e8824/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "678fdf9e3de7c8cf948e8824"
                 },
                 {
-                    "name": "Ridiculousness",
-                    "image": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8eb8a8b2619a000710605c"
+                    "name": "Os Arquivos do FBI",
+                    "image": "https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "620d12a82e8ac50007c269c3"
                 },
                 {
-                    "name": "Pluto TV Comédie",
-                    "image": "https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8eb91bb9b9e7000817e67f"
+                    "name": "Detetives Médicos",
+                    "image": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/638df93ae2f2a3000737c168/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "638df93ae2f2a3000737c168"
+                },
+                {
+                    "name": "Mistérios sem Solução",
+                    "image": "https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "62b5c5a064163d0007b2efe6"
                 }
             ]
         },
         {
-            "name": "Sports & Auto",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618c446f5a960200074921d6.png",
+            "name": "Notícias",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618dd241ba73880008f48d27.png",
             "stations": [
                 {
-                    "name": "DAZN Combat",
-                    "image": "https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64d626ac9b414d000820e2fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "64d626ac9b414d000820e2fc"
+                    "name": "Times Brasil | CNBC",
+                    "image": "https://images.pluto.tv/channels/679a973a97782f0008ff4bb6/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/679a973a97782f0008ff4bb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "679a973a97782f0008ff4bb6"
                 },
                 {
-                    "name": "UFC",
-                    "image": "https://images.pluto.tv/channels/67921b78b83355184c667770/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67921b78b83355184c667770/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "67921b78b83355184c667770"
+                    "name": "CBS News",
+                    "image": "https://images.pluto.tv/channels/62310f66d5888f0007534342/colorLogoPNG_1732045752575.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62310f66d5888f0007534342/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "62310f66d5888f0007534342"
+                },
+                {
+                    "name": "BM&C News",
+                    "image": "https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "666c9c60a7efd40008f552f0"
+                },
+                {
+                    "name": "Euronews Português",
+                    "image": "https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "619e6614c9d9650007a2b171"
+                },
+                {
+                    "name": "Pluto TV Record News",
+                    "image": "https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6102e04e9ab1db0007a980a1"
+                },
+                {
+                    "name": "Jovem Pan NEWS",
+                    "image": "https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6317ba014d4d040007227f72/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6317ba014d4d040007227f72"
+                }
+            ]
+        },
+        {
+            "name": "TV Brasileira",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/67a0a51715d6eb000822fc32.png",
+            "stations": [
+                {
+                    "name": "TV Cultura",
+                    "image": "https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "62e010e6cd663f0007e57dc8"
+                },
+                {
+                    "name": "Pluto TV Canal UOL",
+                    "image": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "64b9370b409629000802d32b"
+                }
+            ]
+        },
+        {
+            "name": "Esportes",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618ee4ef4527a90007866d01.png",
+            "stations": [
+                {
+                    "name": "Pluto TV Esportes",
+                    "image": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1762439215914.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f32d2db0af67400077f29c4"
                 },
                 {
                     "name": "FIFA+",
-                    "image": "https://images.pluto.tv/channels/660c2a2d2433010008df7e92/colorLogoPNG_1750065042129.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/660c2a2d2433010008df7e92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "660c2a2d2433010008df7e92"
+                    "image": "https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG_1749841306387.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66997e8d3a4ad20008e50be9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66997e8d3a4ad20008e50be9"
                 },
                 {
-                    "name": "Pluto TV Snooker 900",
-                    "image": "https://images.pluto.tv/channels/66fd35e44ca31f0008060b77/colorLogoPNG_1762954633607.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66fd35e44ca31f0008060b77/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66fd35e44ca31f0008060b77"
+                    "name": "Realmadrid TV",
+                    "image": "https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63dac28760bc8f0008a7654b"
                 },
                 {
-                    "name": "MODUS Super Series Darts",
-                    "image": "https://images.pluto.tv/channels/671643fc5534bb00089187ad/colorLogoPNG_1732094996069.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/671643fc5534bb00089187ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "671643fc5534bb00089187ad"
+                    "name": "RACER Brasil",
+                    "image": "https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG_1746817068891.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65a6818c7bdc8d0008457b21/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "65a6818c7bdc8d0008457b21"
                 },
                 {
-                    "name": "WPT",
-                    "image": "https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "5f8ecfb9db6c180007a6d1b0"
+                    "name": "SFT Combat",
+                    "image": "https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6660b636cb3ea10008429c6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6660b636cb3ea10008429c6a"
+                },
+                {
+                    "name": "DAZN Combat",
+                    "image": "https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "64df7ab4dfa32400083c517b"
+                },
+                {
+                    "name": "PFL MMA",
+                    "image": "https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64f6180130ab3300083d896b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "64f6180130ab3300083d896b"
+                },
+                {
+                    "name": "World Poker Tour",
+                    "image": "https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63eba66da8b2270008436b10"
                 }
             ]
         },
         {
-            "name": "News",
-            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/6191451b35f3910007fc301b.png",
+            "name": "South Park",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/65e8e1caf7f0af0008d9619e.png",
             "stations": [
                 {
-                    "name": "Le Figaro TV",
-                    "image": "https://images.pluto.tv/channels/650aff3398020f00086380cd/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/650aff3398020f00086380cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "650aff3398020f00086380cd"
+                    "name": "South Park: Coleção Cartman",
+                    "image": "https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "65df71008b24c80008f04281"
                 },
                 {
-                    "name": "CNN Headlines",
-                    "image": "https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/colorLogoPNG-1745400336448.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c45b36a72e7b0008a2b291/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "66c45b36a72e7b0008a2b291"
+                    "name": "South Park: Coleção Kenny",
+                    "image": "https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65df704366eec8000898e32f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "65df704366eec8000898e32f"
                 },
                 {
-                    "name": "CBS News 24/7",
-                    "image": "https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6231ec93779a9d00079ba8e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "6231ec93779a9d00079ba8e2"
+                    "name": "South Park: Coleção Kyle",
+                    "image": "https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "65df713dec9fda0008b7a81d"
                 },
                 {
-                    "name": "Euronews",
-                    "image": "https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png",
-                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=42bfca64-fa8e-11f0-a8fb-824588601a53",
-                    "epgId": "60d35bcaf1ff4a00078af0a6"
+                    "name": "South Park: Coleção Stan",
+                    "image": "https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "65df70b0f7f0af0008c3b316"
+                },
+                {
+                    "name": "Comedy Central South Park",
+                    "image": "https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "609ae66b359b270007869ff1"
+                }
+            ]
+        },
+        {
+            "name": "Comédia",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618db0aa06d23b00073635fe.png",
+            "stations": [
+                {
+                    "name": "Comedy Central Pluto TV",
+                    "image": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f357e91b18f0b00073583d2"
+                },
+                {
+                    "name": "Pegadinhas - Just for Laughs",
+                    "image": "https://images.pluto.tv/channels/67802a22a5d8215f99dcee30/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67802a22a5d8215f99dcee30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "67802a22a5d8215f99dcee30"
+                },
+                {
+                    "name": "FailArmy",
+                    "image": "https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f5141c1605ddf000748eb1b"
+                },
+                {
+                    "name": "The Pet Collective",
+                    "image": "https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f515ebac01c0f00080e8439"
+                }
+            ]
+        },
+        {
+            "name": "Estilo de Vida",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618db179a11f4c00077073bb.png",
+            "stations": [
+                {
+                    "name": "Salon Line",
+                    "image": "https://images.pluto.tv/channels/66a7d0e0cd0d310008448610/colorLogoPNG_1748628256459.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66a7d0e0cd0d310008448610/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66a7d0e0cd0d310008448610"
+                },
+                {
+                    "name": "Pluto TV Viagens",
+                    "image": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f32d432d612e50007e56133"
+                },
+                {
+                    "name": "Homeful",
+                    "image": "https://images.pluto.tv/channels/67603668f433320008760af1/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/67603668f433320008760af1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "67603668f433320008760af1"
+                },
+                {
+                    "name": "Pluto TV Cozinha",
+                    "image": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f1ef23020a5ac0007e5e8ea"
+                },
+                {
+                    "name": "Pluto TV KFOOD",
+                    "image": "https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "633ee9ba83c08f00076b60a6"
+                },
+                {
+                    "name": "Tastemade",
+                    "image": "https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5fd1419a3b4f4b000773ba85"
+                },
+                {
+                    "name": "Tastemade Casa",
+                    "image": "https://images.pluto.tv/channels/68b88821e542386ab0bf5bef/colorLogoPNG_1759795743690.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/68b88821e542386ab0bf5bef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "68b88821e542386ab0bf5bef"
+                },
+                {
+                    "name": "Tastemade Viagem",
+                    "image": "https://images.pluto.tv/channels/68b8875777201ec428d9eaa5/colorLogoPNG_1759784936254.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/68b8875777201ec428d9eaa5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "68b8875777201ec428d9eaa5"
+                }
+            ]
+        },
+        {
+            "name": "Anime & Geek",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618ee3284a270700077bbe79.png",
+            "stations": [
+                {
+                    "name": "Pluto TV Anime",
+                    "image": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f12136385bccc00070142ed"
+                },
+                {
+                    "name": "Pluto TV Anime Ação",
+                    "image": "https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "604b79c558393100078faeef"
+                },
+                {
+                    "name": "Pokémon",
+                    "image": "https://images.pluto.tv/channels/687007a8ee4155e89a8f6d67/colorLogoPNG_1752174174089.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/687007a8ee4155e89a8f6d67/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "687007a8ee4155e89a8f6d67"
+                },
+                {
+                    "name": "Naruto",
+                    "image": "https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f6df5a173d7340007c559f7"
+                },
+                {
+                    "name": "Naruto Shippuden",
+                    "image": "https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "64c92f965580090008084968"
+                },
+                {
+                    "name": "Boruto: Naruto Next Generations",
+                    "image": "https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "656f389c3944b60008e5bdab"
+                },
+                {
+                    "name": "Hunter x Hunter",
+                    "image": "https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "65d9167818036500080e8780"
+                },
+                {
+                    "name": "Death Note",
+                    "image": "https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "625464a945b6a200079257d1"
+                },
+                {
+                    "name": "JoJo’s Bizarre Adventure",
+                    "image": "https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66c7982f6838ee00085f0d24"
+                },
+                {
+                    "name": "Super Onze",
+                    "image": "https://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63988c2750108d00072e2686"
+                },
+                {
+                    "name": "Yu-Gi-Oh",
+                    "image": "https://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63988a50be012600070f5db3"
+                },
+                {
+                    "name": "Beyblade",
+                    "image": "https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "633dc392e0282400071b0d39"
+                },
+                {
+                    "name": "Inuyasha",
+                    "image": "https://images.pluto.tv/channels/66b26681d2d50d00083abe8b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66b26681d2d50d00083abe8b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66b26681d2d50d00083abe8b"
+                },
+                {
+                    "name": "One Piece",
+                    "image": "https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "624b1c8d4321e200073ee421"
+                },
+                {
+                    "name": "Pluto TV Gaming por Ubisoft",
+                    "image": "https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64c815e8a1c6130008fef928/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "64c815e8a1c6130008fef928"
+                }
+            ]
+        },
+        {
+            "name": "Infantil",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/618dd59d06d23b0007365f9b.png",
+            "stations": [
+                {
+                    "name": "Pluto TV Junior",
+                    "image": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f12141b146d760007934ea7"
+                },
+                {
+                    "name": "Pluto TV Kids",
+                    "image": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f1214a637c6fd00079c652f"
+                },
+                {
+                    "name": "Pluto TV Kids Club",
+                    "image": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66c8cae7fed35b0008580ec0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "66c8cae7fed35b0008580ec0"
+                },
+                {
+                    "name": "Turma da Mônica",
+                    "image": "https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f997e44949bc70007a6941e"
+                },
+                {
+                    "name": "O Reino Infantil",
+                    "image": "https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f5c216df68f920007888315"
+                },
+                {
+                    "name": "Oggy e as Baratas Tontas",
+                    "image": "https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63221bafdc6e110007b50270"
+                },
+                {
+                    "name": "Moranguinho",
+                    "image": "https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63eba189c111bc0008ff59c5"
+                },
+                {
+                    "name": "Cocoricó",
+                    "image": "https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "62d969fd8451a30007f0fd94"
+                },
+                {
+                    "name": "Baby Shark TV",
+                    "image": "https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63da6bcd60bc8f0008a5d364"
+                },
+                {
+                    "name": "Babyfirst",
+                    "image": "https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5f4fb4cf605ddf000748e16f"
+                },
+                {
+                    "name": "Teletubbies",
+                    "image": "https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "64e50055286f6b000838c067"
+                }
+            ]
+        },
+        {
+            "name": "Nickelodeon",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/6925fc16b70210580b312f1f.png",
+            "stations": [
+                {
+                    "name": "Nickelodeon Toons",
+                    "image": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "645951c0e94c38000802d2cb"
+                },
+                {
+                    "name": "Nickelodeon Clássico",
+                    "image": "https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1750111537223.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6824ce10c5d53e1351ceb8d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6824ce10c5d53e1351ceb8d1"
+                },
+                {
+                    "name": "Bob Esponja Calça Quadrada",
+                    "image": "https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "62545c0b002f4b0007688b61"
+                },
+                {
+                    "name": "Os Padrinhos Mágicos",
+                    "image": "https://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63221e41af69b500076f84e7"
+                },
+                {
+                    "name": "As Tartarugas Ninja",
+                    "image": "https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG_1768926936698.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "63dd5c904e83e700088fb68a"
+                },
+                {
+                    "name": "Avatar: A lenda de Aang",
+                    "image": "https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6759eeb1bd523200083b4f29/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6759eeb1bd523200083b4f29"
+                },
+                {
+                    "name": "Nick Jr. Club",
+                    "image": "https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/colorLogoPNG_1747935179470.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6824ce95f09106f4b18f4114/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "6824ce95f09106f4b18f4114"
+                },
+                {
+                    "name": "Nickelodeon Teen",
+                    "image": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "60f5fabf0721880007cd50e3"
+                },
+                {
+                    "name": "Nickelodeon iCarly",
+                    "image": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "620ff46e0a576e0007dc2f89"
+                },
+                {
+                    "name": "Kenan & Kel",
+                    "image": "https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91114185-fa8f-11f0-a8a5-82d85d339a14",
+                    "epgId": "5ffcc5130fd98c0007f2e216"
                 }
             ]
         }
